@@ -1,4 +1,4 @@
-baseURL: 'https://example.org/'
+baseURL: 'https://londonevents.joat.me/'
 languageCode: 'en-ca'
 title: 'London ON Events'
 theme: 'hugo-flex'
