@@ -1,74 +1,49 @@
 ---
 title: "Events"
-date: 2023-12-06T23:32:42-05:00
+date: 2023-12-07T21:22:51-05:00
 draft: false
 ---
 
 | When  |  | Event (Venue) |
 |------:|-:|:--------------|
-| Wednesday | 12:30 | [Western Performs!](http://www.events.westernu.ca/events/sasah/2023-11/western-performs.html) ([FMus](/about#FMus)) |
-|  | 12:30 | [Holiday Concert and Sing-along with the Oboes](http://www.events.westernu.ca/events/music/2023-12/studio-recital-shelley-heron.html) ([FMus](/about#FMus)) |
-|  | 19:30 | [Les Choristes & Western University Singers: December Musings](http://www.events.westernu.ca/events/music/2023-12/les-choristes-wus-december-musings.html) ([FMus](/about#FMus)) |
 | Thursday | 17:30 | [Studio Recital: Patricia Green (voice)](http://www.events.westernu.ca/events/music/2023-12/studio-recital-patricia-green.html) ([FMus](/about#FMus)) |
 |  | 19:00 | [TRIBE AND DIRECT](http://londonmusichall.com/events/tribe-and-direct/) ([LMH](/about#LMH)) |
-|  | 20:00 | [Steven Taetz’s Christmas Celebration](https://aeolianhall.ca/events/steven-taetzs-christmas-celebration/) ([Aeol](/about#Aeol)) |
-| Friday | 10:00 | [Holly Jolly Holiday Market – Weekend Three](https://coventmarket.com/event/holly-jolly-holiday-market-weekend-two-2/) ([Cov](/about#Cov)) |
-|  | 12:00 | [LONDON KNIGHTS VS. SAGINAW SPIRIT](https://www.budweisergardens.com/events/detail/london-knights-dec8) ([Bud](/about#Bud)) |
+| Friday | 12:00 | [LONDON KNIGHTS VS. SAGINAW SPIRIT](https://www.budweisergardens.com/events/detail/london-knights-dec8) ([Bud](/about#Bud)) |
 |  | 12:30 | [Studio Recital: Angela Park (piano)](http://www.events.westernu.ca/events/music/2023-12/studio-recital-angela-park-1.html) ([FMus](/about#FMus)) |
-|  | 15:00 | [London Community Christmas Tuba Performance](https://coventmarket.com/event/london-community-christmas-tuba-performance/) ([Cov](/about#Cov)) |
 |  | 15:00 | [London Community Tuba Christmas](http://www.events.westernu.ca/events/music/2023-12/london-community-tuba.html) ([FMus](/about#FMus)) |
 |  | 18:00 | [Studio Recital: Tina Yanchus and James Hibbard (piano)](http://www.events.westernu.ca/events/music/2023-12/studio-recital-yanchus-hibbard-1.html) ([FMus](/about#FMus)) |
 |  | 18:30 | [En Avant Dance presents Winter Wonder](https://www.lpl.ca/events/en-avant-dance-presents-winter-wonder) ([Wolf](/about#Wolf)) |
 |  | 19:30 | [Legends II – An Evening of Music with Matt Martin](https://aeolianhall.ca/events/legends-ii-an-evening-of-music-with-matt-martin/) ([Aeol](/about#Aeol)) |
 |  | 19:30 | [Symphony Orchestra Concert ](http://www.events.westernu.ca/events/music/2023-12/symphony-orchestra-concert.html) ([FMus](/about#FMus)) |
 |  | 21:00 | [Emo Night: London](http://londonmusichall.com/events/emo-night-london-ft-strike-tyson/) ([LMH](/about#LMH)) |
-| Saturday | 10:00 | [Bracelet Making Workshop](https://coventmarket.com/event/bracelet-making-workshop-3/) ([Cov](/about#Cov)) |
-|  | 13:00 | [Bath Bomb Workshop](https://coventmarket.com/event/bath-bomb-workshop-3/) ([Cov](/about#Cov)) |
-|  | 13:00 | [New Horizons Band - Season Finale at A. B. Lucas](http://www.events.westernu.ca/events/music/2023-12/new-horizons-band-season-finale.html) ([FMus](/about#FMus)) |
-|  | 17:00 | [Horse & Carriage Rides](https://coventmarket.com/event/horse-carriage-rides-3/) ([Cov](/about#Cov)) |
-|  | 19:00 | [Wing Night (the band)](https://coventmarket.com/event/wing-night-the-band/) ([Cov](/about#Cov)) |
+| Saturday | 13:00 | [New Horizons Band - Season Finale at A. B. Lucas](http://www.events.westernu.ca/events/music/2023-12/new-horizons-band-season-finale.html) ([FMus](/about#FMus)) |
 |  | 20:00 | [The Legend of Johnny Cash](https://aeolianhall.ca/events/the-legend-of-johnny-cash/) ([Aeol](/about#Aeol)) |
 |  | 20:00 | [Master's Recital: Evan Williams (voice) - NEW TIME](http://www.events.westernu.ca/events/music/2023-04/student-recital-Evan-Douglas-Williams.html) ([FMus](/about#FMus)) |
 | Sunday | 10:00 | [North London Dance Centre](https://www.lpl.ca/events/north-london-dance-centre) ([Wolf](/about#Wolf)) |
 |  | 12:00 | [Open House Skate & Toy Drive](https://www.budweisergardens.com/events/detail/open-house-skate-toy-drive) ([Bud](/about#Bud)) |
-|  | 13:00 | [Bath Salt Workshop](https://coventmarket.com/event/bath-salts-workshop-3/) ([Cov](/about#Cov)) |
-|  | 13:00 | [Horse & Carriage Rides](https://coventmarket.com/event/horse-carriage-rides-4/) ([Cov](/about#Cov)) |
 |  | 13:00 | [Imagination Station: Gelli Plate Printing](https://museumlondon.ca/programs-events/event/10754/2023/12/10) ([Mus](/about#Mus)) |
-|  | 13:30 | [Miss T The Bubble Queen](https://coventmarket.com/event/miss-t-the-bubble-queen-2/) ([Cov](/about#Cov)) |
 |  | 14:00 | [Sunday Exhibition Tours](https://museumlondon.ca/programs-events/event/9394/2023/12/10) ([Mus](/about#Mus)) |
 |  | 15:00 | [A Christmas Carol Featuring John D. Huston](https://aeolianhall.ca/events/a-christmas-carol-featuring-john-d-huston-2/) ([Aeol](/about#Aeol)) |
-|  | 16:00 | [Justin Maki](https://coventmarket.com/event/justin-maki-fiker/) ([Cov](/about#Cov)) |
 | Monday | 19:00 | [Sounds of Swing - a New Horizons Band.](https://www.lpl.ca/events/sounds-swing-new-horizons-band) ([Wolf](/about#Wolf)) |
 |  | 19:00 | [Sounds of Swing Jazz Band](http://www.events.westernu.ca/events/music/2023-12/sounds-of-swing-jazz-band.html) ([FMus](/about#FMus)) |
-| Tuesday | 12:00 | [Stevie’s Sliders Trombone Ensemble](https://coventmarket.com/event/stevies-sliders-trombone-ensemble/) ([Cov](/about#Cov)) |
-|  | 19:00 | [Left to Suffer](http://londonmusichall.com/events/left-to-suffer/) ([LMH](/about#LMH)) |
+| Tuesday | 19:00 | [Left to Suffer](http://londonmusichall.com/events/left-to-suffer/) ([LMH](/about#LMH)) |
 |  | 19:00 | [Baddest Big Band plays Ellington's Nutcracker Suite](https://www.lpl.ca/events/baddest-big-band-plays-ellingtons-nutcracker-suite) ([Wolf](/about#Wolf)) |
 |  | 20:00 | [Luke McMaster – A Christmas Serenade](https://aeolianhall.ca/events/luke-mcmaster-a-christmas-serenade/) ([Aeol](/about#Aeol)) |
-| Wednesday December 13 | 19:00 | [Jazz for the People](https://www.lpl.ca/events/jazz-people-10) ([Wolf](/about#Wolf)) |
-| Thursday December 14 | 11:00 | [Holiday Trombone Performance](https://coventmarket.com/event/holiday-trombone-performance-2/) ([Cov](/about#Cov)) |
-|  | 11:30 | [Doctoral Public Lecture \| Mark McCockle](http://www.events.westernu.ca/events/grad-postdoc-studies/2023-12/doctoral-public-lecture-mark-mcCockle.html) ([FMus](/about#FMus)) |
-|  | 12:00 | [Holiday Trombone Performance](https://coventmarket.com/event/holiday-trombone-performance/) ([Cov](/about#Cov)) |
+| Wednesday | 19:00 | [Jazz for the People](https://www.lpl.ca/events/jazz-people-10) ([Wolf](/about#Wolf)) |
+| Thursday December 14 | 11:30 | [Doctoral Public Lecture \| Mark McCockle](http://www.events.westernu.ca/events/grad-postdoc-studies/2023-12/doctoral-public-lecture-mark-mcCockle.html) ([FMus](/about#FMus)) |
 |  | 18:30 | [El Sistema Aeolian Holiday Concert](https://aeolianhall.ca/events/el-sistema-aeolian-holiday-concert-3/) ([Aeol](/about#Aeol)) |
 |  | 19:00 | [LAGWAGON](http://londonmusichall.com/events/lagwagon/) ([LMH](/about#LMH)) |
-| Friday December 15 | 10:00 | [Holly Jolly Holiday Market – Weekend Four](https://coventmarket.com/event/holly-jolly-holiday-market-weekend-two-3/) ([Cov](/about#Cov)) |
-|  | 12:00 | [LONDON KNIGHTS VS. OWEN SOUND ATTACK](https://www.budweisergardens.com/events/detail/london-knights-dec15) ([Bud](/about#Bud)) |
+| Friday December 15 | 12:00 | [LONDON KNIGHTS VS. OWEN SOUND ATTACK](https://www.budweisergardens.com/events/detail/london-knights-dec15) ([Bud](/about#Bud)) |
 |  | 19:30 | [Shantero Productions Presents: A Lunch At Allen’s Christmas](https://aeolianhall.ca/events/shantero-productions-presents-a-lunch-at-allens-christmas/) ([Aeol](/about#Aeol)) |
-| Saturday December 16 | 10:00 | [Bracelet Making Workshop](https://coventmarket.com/event/bracelet-making-workshop-4/) ([Cov](/about#Cov)) |
-|  | 10:00 | [Karin Hobby Dance Academy Recital](https://www.lpl.ca/events/karin-hobby-dance-academy-recital) ([Wolf](/about#Wolf)) |
-|  | 13:00 | [Bath Bomb Workshop](https://coventmarket.com/event/bath-bomb-workshop-4/) ([Cov](/about#Cov)) |
-|  | 17:00 | [Horse & Carriage Rides](https://coventmarket.com/event/horse-carriage-rides-5/) ([Cov](/about#Cov)) |
-|  | 19:00 | [Justin Maki](https://coventmarket.com/event/justin-maki/) ([Cov](/about#Cov)) |
+| Saturday December 16 | 10:00 | [Karin Hobby Dance Academy Recital](https://www.lpl.ca/events/karin-hobby-dance-academy-recital) ([Wolf](/about#Wolf)) |
 |  | 19:30 | [The Memphis Jam](https://aeolianhall.ca/events/the-memphis-jam-2/) ([Aeol](/about#Aeol)) |
 |  | 22:00 | [All Black Everything presents: The Black Christmas Party](http://londonmusichall.com/events/all-black-everything-presents-the-black-christmas-party/) ([LMH](/about#LMH)) |
 |  | 22:00 | [GorillaT @ System Saturdays](http://londonmusichall.com/events/gorillat-system-saturdays/) ([LMH](/about#LMH)) |
 | Sunday December 17 | 12:00 | [LONDON KNIGHTS VS. SUDBURY WOLVES](https://www.budweisergardens.com/events/detail/london-knights-dec17) ([Bud](/about#Bud)) |
-|  | 13:00 | [Bath Salt Workshop](https://coventmarket.com/event/bath-salts-workshop-4/) ([Cov](/about#Cov)) |
-|  | 13:00 | [Horse & Carriage Rides](https://coventmarket.com/event/horse-carriage-rides-6/) ([Cov](/about#Cov)) |
 |  | 13:00 | [Imagination Station: Gelli Plate Printing](https://museumlondon.ca/programs-events/event/10754/2023/12/17) ([Mus](/about#Mus)) |
 |  | 14:00 | [Maggie’s Wake](https://aeolianhall.ca/events/maggies-wake-2/) ([Aeol](/about#Aeol)) |
 |  | 14:00 | [Sunday Exhibition Tours](https://museumlondon.ca/programs-events/event/9394/2023/12/17) ([Mus](/about#Mus)) |
 |  | 14:00 | [Julianne Hobby's Country Christmas Classic](https://www.lpl.ca/events/julianne-hobbys-country-christmas-classic) ([Wolf](/about#Wolf)) |
-|  | 15:00 | [Ricky Magic](https://coventmarket.com/event/ricky-magic-2/) ([Cov](/about#Cov)) |
 | Wednesday December 20 | 12:00 | [A Christmas RockStory: A Holiday Circus Spectacular!](https://www.budweisergardens.com/events/detail/a-christmas-rockstory-a-holiday-circus-spectacular) ([Bud](/about#Bud)) |
 | Friday December 22 | 19:00 | [The Legendary Patsy Cline Christmas Show](https://aeolianhall.ca/events/the-legendary-patsy-cline-christmas-show/) ([Aeol](/about#Aeol)) |
 |  | 19:00 | [Doghouse Rose](http://londonmusichall.com/events/doghouse-rose-3/) ([LMH](/about#LMH)) |
@@ -128,4 +103,4 @@ draft: false
 | Saturday May 11 2024 | 19:00 | [Whiskey Jack – Stories & Songs of Stompin’ Tom](https://aeolianhall.ca/events/whiskey-jack-stories-songs-of-stompin-tom/) ([Aeol](/about#Aeol)) |
 | Thursday May 16 2024 | 18:00 | [Better Lovers](http://londonmusichall.com/events/better-lovers/) ([LMH](/about#LMH)) |
 
-_Last updated 2023-12-06 23:32:42 -0500_
+_Last updated 2023-12-07 21:22:51 -0500_
