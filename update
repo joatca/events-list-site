@@ -1,0 +1,10 @@
+#!/bin/bash
+
+cd $(dirname $0)
+
+pushd ../events-list
+
+bundle exec ./event-list.rb && {
+    popd
+    ./deploy "automatic update at $(date)"
+}
