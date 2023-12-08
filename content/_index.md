@@ -1,6 +1,7 @@
 ---
 title: "Events"
 date: 2023-12-07T23:08:48-05:00
+type: "static"
 draft: false
 ---
 
