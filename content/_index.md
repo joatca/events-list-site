@@ -1,13 +1,11 @@
 ---
 title: "Events"
-date: 2023-12-07T23:08:48-05:00
+date: 2023-12-08T13:51:11-05:00
 draft: false
 ---
 
 | When  |  | Event (Venue) |
 |------:|-:|:--------------|
-| Thursday | 17:30 | [Studio Recital: Patricia Green (voice)](http://www.events.westernu.ca/events/music/2023-12/studio-recital-patricia-green.html) ([FMus](/about#FMus)) |
-|  | 19:00 | [TRIBE AND DIRECT](http://londonmusichall.com/events/tribe-and-direct/) ([LMH](/about#LMH)) |
 | Friday | 10:00 | [Holly Jolly Holiday Market – Weekend Three](https://coventmarket.com/event/holly-jolly-holiday-market-weekend-two-2/) ([Cov](/about#Cov)) |
 |  | 12:00 | [LONDON KNIGHTS VS. SAGINAW SPIRIT](https://www.budweisergardens.com/events/detail/london-knights-dec8) ([Bud](/about#Bud)) |
 |  | 12:30 | [Studio Recital: Angela Park (piano)](http://www.events.westernu.ca/events/music/2023-12/studio-recital-angela-park-1.html) ([FMus](/about#FMus)) |
@@ -41,7 +39,7 @@ draft: false
 |  | 19:00 | [Baddest Big Band plays Ellington's Nutcracker Suite](https://www.lpl.ca/events/baddest-big-band-plays-ellingtons-nutcracker-suite) ([Wolf](/about#Wolf)) |
 |  | 20:00 | [Luke McMaster – A Christmas Serenade](https://aeolianhall.ca/events/luke-mcmaster-a-christmas-serenade/) ([Aeol](/about#Aeol)) |
 | Wednesday | 19:00 | [Jazz for the People](https://www.lpl.ca/events/jazz-people-10) ([Wolf](/about#Wolf)) |
-| Thursday December 14 | 11:00 | [Holiday Trombone Performance](https://coventmarket.com/event/holiday-trombone-performance-2/) ([Cov](/about#Cov)) |
+| Thursday | 11:00 | [Holiday Trombone Performance](https://coventmarket.com/event/holiday-trombone-performance-2/) ([Cov](/about#Cov)) |
 |  | 11:30 | [Doctoral Public Lecture \| Mark McCockle](http://www.events.westernu.ca/events/grad-postdoc-studies/2023-12/doctoral-public-lecture-mark-mcCockle.html) ([FMus](/about#FMus)) |
 |  | 12:00 | [Holiday Trombone Performance](https://coventmarket.com/event/holiday-trombone-performance/) ([Cov](/about#Cov)) |
 |  | 18:30 | [El Sistema Aeolian Holiday Concert](https://aeolianhall.ca/events/el-sistema-aeolian-holiday-concert-3/) ([Aeol](/about#Aeol)) |
@@ -71,6 +69,7 @@ draft: false
 | Friday December 29 | 12:00 | [LONDON KNIGHTS VS. SARNIA STING](https://www.budweisergardens.com/events/detail/london-knights-dec29) ([Bud](/about#Bud)) |
 |  | 19:00 | [Texas King – Hometown Holiday](http://londonmusichall.com/events/texas-king-hometown-holiday-2/) ([LMH](/about#LMH)) |
 | Sunday December 31 | 12:00 | [LONDON KNIGHTS VS. FLINT FIREBIRDS](https://www.budweisergardens.com/events/detail/london-knights-dec31) ([Bud](/about#Bud)) |
+|  | 21:00 | [NYE 2024](http://londonmusichall.com/events/nye-2024/) ([LMH](/about#LMH)) |
 | Wednesday January 03 2024 | 12:00 | [LONDON KNIGHTS VS. ERIE OTTERS](https://www.budweisergardens.com/events/detail/london-knights-jan3) ([Bud](/about#Bud)) |
 | Friday January 05 2024 | 20:00 | [Peter Karle Combo – Everything In Its Right Place (A Jazz Tribute to Radiohead)](https://aeolianhall.ca/events/peter-karle-combo-everything-in-its-right-place/) ([Aeol](/about#Aeol)) |
 | Sunday January 07 2024 | 13:00 | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/07) ([Mus](/about#Mus)) |
@@ -102,6 +101,7 @@ draft: false
 | Sunday March 03 2024 | 13:00 | [Imagination Station: Wonderful Weaving](https://museumlondon.ca/programs-events/event/10763/2024/03/03) ([Mus](/about#Mus)) |
 | Monday March 04 2024 | 19:00 | [MAD CADDIES](http://londonmusichall.com/events/mad-caddies/) ([LMH](/about#LMH)) |
 | Wednesday March 06 2024 | 20:00 | [James Kennedy](http://londonmusichall.com/events/james-kennedy/) ([LMH](/about#LMH)) |
+| Friday March 08 2024 | 18:30 | [Zachary Stevenson’s Tribute to Buddy Holly](https://aeolianhall.ca/events/zachary-stevensons-tribute-to-buddy-holly/) ([Aeol](/about#Aeol)) |
 | Sunday March 10 2024 | 13:00 | [Imagination Station: Wonderful Weaving](https://museumlondon.ca/programs-events/event/10763/2024/03/10) ([Mus](/about#Mus)) |
 |  | 19:00 | [Allison Russell – The Returner Tour](http://londonmusichall.com/events/allison-russell-the-returner-tour/) ([LMH](/about#LMH)) |
 | Tuesday March 12 2024 | 18:00 | [Gwar](http://londonmusichall.com/events/gwar/) ([LMH](/about#LMH)) |
@@ -123,5 +123,3 @@ draft: false
 | Friday May 10 2024 | 20:00 | [Daniel Champagne](https://aeolianhall.ca/events/daniel-champagne-3/) ([Aeol](/about#Aeol)) |
 | Saturday May 11 2024 | 19:00 | [Whiskey Jack – Stories & Songs of Stompin’ Tom](https://aeolianhall.ca/events/whiskey-jack-stories-songs-of-stompin-tom/) ([Aeol](/about#Aeol)) |
 | Thursday May 16 2024 | 18:00 | [Better Lovers](http://londonmusichall.com/events/better-lovers/) ([LMH](/about#LMH)) |
-
-_Last updated 2023-12-07 23:08:48 -0500_
