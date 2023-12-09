@@ -1,19 +1,22 @@
 ---
 title: "Abbreviations"
-date: 2023-12-08T15:39:14-05:00
+date: 2023-12-08T20:39:09-05:00
 draft: false
 ---
 
 This page currently supports events found on these sites.
 
-|   |       |
-|:--------------|:------|
-| **Aeol** | [Aeolian Hall](https://aeolianhall.ca/) |
-| **BudG** | [Budweiser Gardens](https://www.budweisergardens.com/) |
-| **CGM** | [Covent Garden Market](https://coventmarket.com/) |
-| **FMus** | [Don Wright Faculty of Music](http://www.events.westernu.ca/events/music/) |
-| **LMH** | [London Music Hall](http://londonmusichall.com/) |
-| **Museum** | [Museum London](https://museumlondon.ca/) |
-| **Wolf** | [Wolf Performance Hall](https://www.lpl.ca/services-spaces/featured-spaces/wolf-performance-hall) |
+|   |       | |
+|:--------------|:------|:--|
+| **100K** | [100 Kellogg Lane](https://100kellogglane.com/) | *Not supported: no events listing*
+| **Aeol** | [Aeolian Hall](https://aeolianhall.ca/) | 
+| **BudG** | [Budweiser Gardens](https://www.budweisergardens.com/) | 
+| **CGM** | [Covent Garden Market](https://coventmarket.com/) | 
+| **Cent** | [Centennial Hall](https://centennialhall.london.ca/london-event-listings.html) | *Not supported: too difficult to scan website automatically*
+| **FMus** | [Don Wright Faculty of Music](http://www.events.westernu.ca/events/music/) | 
+| **Grand** | [Grand Theatre](https://www.grandtheatre.com/) | 
+| **LMH** | [London Music Hall](http://londonmusichall.com/) | 
+| **Museum** | [Museum London](https://museumlondon.ca/) | 
+| **Wolf** | [Wolf Performance Hall](https://www.lpl.ca/services-spaces/featured-spaces/wolf-performance-hall) | 
 
-_Last updated 2023-12-08 15:39:14 -0500_
+_Last updated 2023-12-08 20:39:09 -0500_
