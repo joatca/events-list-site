@@ -1,22 +1,20 @@
 ---
 title: "Events"
-date: 2023-12-08T20:39:09-05:00
+date: 2023-12-09T00:00:39-05:00
 draft: false
 ---
 
 | When  |  | Event (Venue) |
 |------:|-:|:--------------|
-| Friday |  | [LONDON KNIGHTS VS. SAGINAW SPIRIT](https://www.budweisergardens.com/events/detail/london-knights-dec8) ([BudG](/about#BudG)) |
-|  |  | [Charlie and the Chocolate Factory](https://www.grandtheatre.com/event/charlie-and-the-chocolate-factory) ([Grand](/about#Grand)) |
-|  |  | [Little Dickens](https://www.grandtheatre.com/event/little-dickens) ([Grand](/about#Grand)) |
-|  | 10:00 | [Holly Jolly Holiday Market – Weekend Three](https://coventmarket.com/event/holly-jolly-holiday-market-weekend-two-2/) ([CGM](/about#CGM)) |
+| Friday | 10:00 | [Holly Jolly Holiday Market – Weekend Three](https://coventmarket.com/event/holly-jolly-holiday-market-weekend-two-2/) ([CGM](/about#CGM)) |
 |  | 12:30 | [Studio Recital: Angela Park (piano)](http://www.events.westernu.ca/events/music/2023-12/studio-recital-angela-park-1.html) ([FMus](/about#FMus)) |
 |  | 15:00 | [London Community Tuba Christmas](http://www.events.westernu.ca/events/music/2023-12/london-community-tuba.html) ([FMus](/about#FMus)) |
 |  | 18:00 | [Studio Recital: Tina Yanchus and James Hibbard (piano)](http://www.events.westernu.ca/events/music/2023-12/studio-recital-yanchus-hibbard-1.html) ([FMus](/about#FMus)) |
 |  | 18:30 | [En Avant Dance presents Winter Wonder](https://www.lpl.ca/events/en-avant-dance-presents-winter-wonder) ([Wolf](/about#Wolf)) |
 |  | 19:30 | [Symphony Orchestra Concert ](http://www.events.westernu.ca/events/music/2023-12/symphony-orchestra-concert.html) ([FMus](/about#FMus)) |
-|  | 21:00 | [Emo Night: London](http://londonmusichall.com/events/emo-night-london-ft-strike-tyson/) ([LMH](/about#LMH)) |
-| Saturday | 10:00 | [Bracelet Making Workshop](https://coventmarket.com/event/bracelet-making-workshop-3/) ([CGM](/about#CGM)) |
+| Saturday |  | [Charlie and the Chocolate Factory](https://www.grandtheatre.com/event/charlie-and-the-chocolate-factory) ([Grand](/about#Grand)) |
+|  |  | [Little Dickens](https://www.grandtheatre.com/event/little-dickens) ([Grand](/about#Grand)) |
+|  | 10:00 | [Bracelet Making Workshop](https://coventmarket.com/event/bracelet-making-workshop-3/) ([CGM](/about#CGM)) |
 |  | 13:00 | [Bath Bomb Workshop](https://coventmarket.com/event/bath-bomb-workshop-3/) ([CGM](/about#CGM)) |
 |  | 13:00 | [New Horizons Band - Season Finale at A. B. Lucas](http://www.events.westernu.ca/events/music/2023-12/new-horizons-band-season-finale.html) ([FMus](/about#FMus)) |
 |  | 17:00 | [Horse & Carriage Rides](https://coventmarket.com/event/horse-carriage-rides-3/) ([CGM](/about#CGM)) |
@@ -44,7 +42,7 @@ draft: false
 |  | 12:00 | [Holiday Trombone Performance](https://coventmarket.com/event/holiday-trombone-performance/) ([CGM](/about#CGM)) |
 |  | 18:30 | [El Sistema Aeolian Holiday Concert](https://aeolianhall.ca/events/el-sistema-aeolian-holiday-concert-3/) ([Aeol](/about#Aeol)) |
 |  | 19:00 | [LAGWAGON](http://londonmusichall.com/events/lagwagon/) ([LMH](/about#LMH)) |
-| Friday December 15 |  | [LONDON KNIGHTS VS. OWEN SOUND ATTACK](https://www.budweisergardens.com/events/detail/london-knights-dec15) ([BudG](/about#BudG)) |
+| Friday |  | [LONDON KNIGHTS VS. OWEN SOUND ATTACK](https://www.budweisergardens.com/events/detail/london-knights-dec15) ([BudG](/about#BudG)) |
 |  | 10:00 | [Holly Jolly Holiday Market – Weekend Four](https://coventmarket.com/event/holly-jolly-holiday-market-weekend-two-3/) ([CGM](/about#CGM)) |
 |  | 19:30 | [Shantero Productions Presents: A Lunch At Allen’s Christmas](https://aeolianhall.ca/events/shantero-productions-presents-a-lunch-at-allens-christmas/) ([Aeol](/about#Aeol)) |
 | Saturday December 16 | 10:00 | [Bracelet Making Workshop](https://coventmarket.com/event/bracelet-making-workshop-4/) ([CGM](/about#CGM)) |
@@ -73,7 +71,8 @@ draft: false
 | Sunday December 31 |  | [LONDON KNIGHTS VS. FLINT FIREBIRDS](https://www.budweisergardens.com/events/detail/london-knights-dec31) ([BudG](/about#BudG)) |
 |  | 21:00 | [NYE 2024](http://londonmusichall.com/events/nye-2024/) ([LMH](/about#LMH)) |
 | Wednesday January 03 2024 |  | [LONDON KNIGHTS VS. ERIE OTTERS](https://www.budweisergardens.com/events/detail/london-knights-jan3) ([BudG](/about#BudG)) |
-| Friday January 05 2024 | 20:00 | [Peter Karle Combo – Everything In Its Right Place (A Jazz Tribute to Radiohead)](https://aeolianhall.ca/events/peter-karle-combo-everything-in-its-right-place/) ([Aeol](/about#Aeol)) |
+| Friday January 05 2024 |  | [LONDON KNIGHTS VS. BARRIE COLTS](https://www.budweisergardens.com/events/detail/london-knights-jan5) ([BudG](/about#BudG)) |
+|  | 20:00 | [Peter Karle Combo – Everything In Its Right Place (A Jazz Tribute to Radiohead)](https://aeolianhall.ca/events/peter-karle-combo-everything-in-its-right-place/) ([Aeol](/about#Aeol)) |
 | Sunday January 07 2024 | 13:00 | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/07) ([Museum](/about#Museum)) |
 | Wednesday January 10 2024 | 19:00 | [Jazz for the People](https://www.lpl.ca/events/jazz-people-4) ([Wolf](/about#Wolf)) |
 | Thursday January 11 2024 | 19:00 | [PARABOLUS: The Complete Tool Experience](http://londonmusichall.com/events/parabolus-the-complete-tool-experience/) ([LMH](/about#LMH)) |
