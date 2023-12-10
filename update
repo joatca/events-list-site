@@ -4,7 +4,7 @@ cd $(dirname $0)
 
 pushd ../events-list
 
-bundle exec ./event-list.rb && {
+bundle exec ./event-list.rb -o ../events-list-site/content/_index.md -a ../events-list-site/content/about/_index.md -j ../events-list-site/static/data.json && {
     popd
     ./deploy "automatic update at $(date)"
 }

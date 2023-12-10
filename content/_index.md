@@ -1,22 +1,19 @@
 ---
 title: "Events"
-date: 2023-12-10T00:00:42-05:00
+date: 2023-12-10T14:14:46-05:00
 draft: false
 ---
 
 | When  |  | Event (Venue) |
 |------:|-:|:--------------|
-| Saturday | 13:00 | [New Horizons Band - Season Finale at A. B. Lucas](http://www.events.westernu.ca/events/music/2023-12/new-horizons-band-season-finale.html) ([FMus](/about#FMus)) |
-|  | 20:00 | [Master's Recital: Evan Williams (voice) - NEW TIME](http://www.events.westernu.ca/events/music/2023-04/student-recital-Evan-Douglas-Williams.html) ([FMus](/about#FMus)) |
+| Saturday | 20:00 | [Master's Recital: Evan Williams (voice) - NEW TIME](http://www.events.westernu.ca/events/music/2023-04/student-recital-Evan-Douglas-Williams.html) ([FMus](/about#FMus)) |
 | Sunday |  | [Open House Skate & Toy Drive](https://www.budweisergardens.com/events/detail/open-house-skate-toy-drive) ([BudG](/about#BudG)) |
 |  |  | [Charlie and the Chocolate Factory](https://www.grandtheatre.com/event/charlie-and-the-chocolate-factory) ([Grand](/about#Grand)) |
 |  |  | [Little Dickens](https://www.grandtheatre.com/event/little-dickens) ([Grand](/about#Grand)) |
 |  | 10:00 | [North London Dance Centre](https://www.lpl.ca/events/north-london-dance-centre) ([Wolf](/about#Wolf)) |
 |  | 13:00 | [Horse & Carriage Rides](https://coventmarket.com/event/horse-carriage-rides-4/) ([CGM](/about#CGM)) |
 |  | 13:00 | [Bath Salt Workshop](https://coventmarket.com/event/bath-salts-workshop-3/) ([CGM](/about#CGM)) |
-|  | 13:00 | [Imagination Station: Gelli Plate Printing](https://museumlondon.ca/programs-events/event/10754/2023/12/10) ([Museum](/about#Museum)) |
 |  | 13:30 | [Miss T The Bubble Queen](https://coventmarket.com/event/miss-t-the-bubble-queen-2/) ([CGM](/about#CGM)) |
-|  | 14:00 | [Sunday Exhibition Tours](https://museumlondon.ca/programs-events/event/9394/2023/12/10) ([Museum](/about#Museum)) |
 |  | 15:00 | [A Christmas Carol Featuring John D. Huston](https://aeolianhall.ca/events/a-christmas-carol-featuring-john-d-huston-2/) ([Aeol](/about#Aeol)) |
 |  | 16:00 | [Justin Maki](https://coventmarket.com/event/justin-maki-fiker/) ([CGM](/about#CGM)) |
 | Monday | 19:00 | [Sounds of Swing - a New Horizons Band.](https://www.lpl.ca/events/sounds-swing-new-horizons-band) ([Wolf](/about#Wolf)) |
@@ -98,7 +95,7 @@ draft: false
 | Monday March 04 2024 | 19:00 | [MAD CADDIES](http://londonmusichall.com/events/mad-caddies/) ([LMH](/about#LMH)) |
 | Tuesday March 05 2024 |  | [Jeans 'n Classics 2023/24 Series](https://www.grandtheatre.com/event/jeans-n-classics-2324) ([Grand](/about#Grand)) |
 | Wednesday March 06 2024 | 20:00 | [James Kennedy](http://londonmusichall.com/events/james-kennedy/) ([LMH](/about#LMH)) |
-| Friday March 08 2024 | 18:30 | [Zachary Stevenson’s Tribute to Buddy Holly](https://aeolianhall.ca/events/zachary-stevensons-tribute-to-buddy-holly/) ([Aeol](/about#Aeol)) |
+| Friday March 08 2024 | 19:00 | [Zachary Stevenson’s Tribute to Buddy Holly](https://aeolianhall.ca/events/zachary-stevensons-tribute-to-buddy-holly/) ([Aeol](/about#Aeol)) |
 | Saturday March 09 2024 |  | [Isidore String Quartet and Arthur Rowe, piano](https://www.grandtheatre.com/event/isidore-string-quartet-and-arthur-rowe-piano) ([Grand](/about#Grand)) |
 | Sunday March 10 2024 | 13:00 | [Imagination Station: Wonderful Weaving](https://museumlondon.ca/programs-events/event/10763/2024/03/10) ([Museum](/about#Museum)) |
 |  | 19:00 | [Allison Russell – The Returner Tour](http://londonmusichall.com/events/allison-russell-the-returner-tour/) ([LMH](/about#LMH)) |
