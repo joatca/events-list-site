@@ -1,30 +1,19 @@
 ---
 title: "Events"
-date: 2023-12-09T00:00:39-05:00
+date: 2023-12-10T00:00:42-05:00
 draft: false
 ---
 
 | When  |  | Event (Venue) |
 |------:|-:|:--------------|
-| Friday | 10:00 | [Holly Jolly Holiday Market – Weekend Three](https://coventmarket.com/event/holly-jolly-holiday-market-weekend-two-2/) ([CGM](/about#CGM)) |
-|  | 12:30 | [Studio Recital: Angela Park (piano)](http://www.events.westernu.ca/events/music/2023-12/studio-recital-angela-park-1.html) ([FMus](/about#FMus)) |
-|  | 15:00 | [London Community Tuba Christmas](http://www.events.westernu.ca/events/music/2023-12/london-community-tuba.html) ([FMus](/about#FMus)) |
-|  | 18:00 | [Studio Recital: Tina Yanchus and James Hibbard (piano)](http://www.events.westernu.ca/events/music/2023-12/studio-recital-yanchus-hibbard-1.html) ([FMus](/about#FMus)) |
-|  | 18:30 | [En Avant Dance presents Winter Wonder](https://www.lpl.ca/events/en-avant-dance-presents-winter-wonder) ([Wolf](/about#Wolf)) |
-|  | 19:30 | [Symphony Orchestra Concert ](http://www.events.westernu.ca/events/music/2023-12/symphony-orchestra-concert.html) ([FMus](/about#FMus)) |
-| Saturday |  | [Charlie and the Chocolate Factory](https://www.grandtheatre.com/event/charlie-and-the-chocolate-factory) ([Grand](/about#Grand)) |
-|  |  | [Little Dickens](https://www.grandtheatre.com/event/little-dickens) ([Grand](/about#Grand)) |
-|  | 10:00 | [Bracelet Making Workshop](https://coventmarket.com/event/bracelet-making-workshop-3/) ([CGM](/about#CGM)) |
-|  | 13:00 | [Bath Bomb Workshop](https://coventmarket.com/event/bath-bomb-workshop-3/) ([CGM](/about#CGM)) |
-|  | 13:00 | [New Horizons Band - Season Finale at A. B. Lucas](http://www.events.westernu.ca/events/music/2023-12/new-horizons-band-season-finale.html) ([FMus](/about#FMus)) |
-|  | 17:00 | [Horse & Carriage Rides](https://coventmarket.com/event/horse-carriage-rides-3/) ([CGM](/about#CGM)) |
-|  | 19:00 | [Wing Night (the band)](https://coventmarket.com/event/wing-night-the-band/) ([CGM](/about#CGM)) |
-|  | 20:00 | [The Legend of Johnny Cash](https://aeolianhall.ca/events/the-legend-of-johnny-cash/) ([Aeol](/about#Aeol)) |
+| Saturday | 13:00 | [New Horizons Band - Season Finale at A. B. Lucas](http://www.events.westernu.ca/events/music/2023-12/new-horizons-band-season-finale.html) ([FMus](/about#FMus)) |
 |  | 20:00 | [Master's Recital: Evan Williams (voice) - NEW TIME](http://www.events.westernu.ca/events/music/2023-04/student-recital-Evan-Douglas-Williams.html) ([FMus](/about#FMus)) |
 | Sunday |  | [Open House Skate & Toy Drive](https://www.budweisergardens.com/events/detail/open-house-skate-toy-drive) ([BudG](/about#BudG)) |
+|  |  | [Charlie and the Chocolate Factory](https://www.grandtheatre.com/event/charlie-and-the-chocolate-factory) ([Grand](/about#Grand)) |
+|  |  | [Little Dickens](https://www.grandtheatre.com/event/little-dickens) ([Grand](/about#Grand)) |
 |  | 10:00 | [North London Dance Centre](https://www.lpl.ca/events/north-london-dance-centre) ([Wolf](/about#Wolf)) |
-|  | 13:00 | [Bath Salt Workshop](https://coventmarket.com/event/bath-salts-workshop-3/) ([CGM](/about#CGM)) |
 |  | 13:00 | [Horse & Carriage Rides](https://coventmarket.com/event/horse-carriage-rides-4/) ([CGM](/about#CGM)) |
+|  | 13:00 | [Bath Salt Workshop](https://coventmarket.com/event/bath-salts-workshop-3/) ([CGM](/about#CGM)) |
 |  | 13:00 | [Imagination Station: Gelli Plate Printing](https://museumlondon.ca/programs-events/event/10754/2023/12/10) ([Museum](/about#Museum)) |
 |  | 13:30 | [Miss T The Bubble Queen](https://coventmarket.com/event/miss-t-the-bubble-queen-2/) ([CGM](/about#CGM)) |
 |  | 14:00 | [Sunday Exhibition Tours](https://museumlondon.ca/programs-events/event/9394/2023/12/10) ([Museum](/about#Museum)) |
@@ -45,7 +34,7 @@ draft: false
 | Friday |  | [LONDON KNIGHTS VS. OWEN SOUND ATTACK](https://www.budweisergardens.com/events/detail/london-knights-dec15) ([BudG](/about#BudG)) |
 |  | 10:00 | [Holly Jolly Holiday Market – Weekend Four](https://coventmarket.com/event/holly-jolly-holiday-market-weekend-two-3/) ([CGM](/about#CGM)) |
 |  | 19:30 | [Shantero Productions Presents: A Lunch At Allen’s Christmas](https://aeolianhall.ca/events/shantero-productions-presents-a-lunch-at-allens-christmas/) ([Aeol](/about#Aeol)) |
-| Saturday December 16 | 10:00 | [Bracelet Making Workshop](https://coventmarket.com/event/bracelet-making-workshop-4/) ([CGM](/about#CGM)) |
+| Saturday | 10:00 | [Bracelet Making Workshop](https://coventmarket.com/event/bracelet-making-workshop-4/) ([CGM](/about#CGM)) |
 |  | 10:00 | [Karin Hobby Dance Academy Recital](https://www.lpl.ca/events/karin-hobby-dance-academy-recital) ([Wolf](/about#Wolf)) |
 |  | 13:00 | [Bath Bomb Workshop](https://coventmarket.com/event/bath-bomb-workshop-4/) ([CGM](/about#CGM)) |
 |  | 17:00 | [Horse & Carriage Rides](https://coventmarket.com/event/horse-carriage-rides-5/) ([CGM](/about#CGM)) |
