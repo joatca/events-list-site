@@ -1,6 +1,6 @@
 ---
 title: "Events"
-date: 2023-12-10T14:14:46-05:00
+date: 2023-12-10T14:46:40-05:00
 draft: false
 ---
 
@@ -124,3 +124,5 @@ draft: false
 | Saturday May 11 2024 | 19:00 | [Whiskey Jack – Stories & Songs of Stompin’ Tom](https://aeolianhall.ca/events/whiskey-jack-stories-songs-of-stompin-tom/) ([Aeol](/about#Aeol)) |
 | Thursday May 16 2024 | 18:00 | [Better Lovers](http://londonmusichall.com/events/better-lovers/) ([LMH](/about#LMH)) |
 | Tuesday May 28 2024 |  | [Bruce Cockburn](https://www.grandtheatre.com/event/bruce-cockburn) ([Grand](/about#Grand)) |
+
+A machine-readable version of this page is available [here](/data.json)

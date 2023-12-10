@@ -1,6 +1,6 @@
 ---
 title: "Abbreviations"
-date: 2023-12-10T14:14:46-05:00
+date: 2023-12-10T14:46:40-05:00
 draft: false
 ---
 
@@ -19,4 +19,4 @@ This page currently supports events found on these sites.
 | **Museum** | [Museum London](https://museumlondon.ca/) | 
 | **Wolf** | [Wolf Performance Hall](https://www.lpl.ca/services-spaces/featured-spaces/wolf-performance-hall) | 
 
-_Last updated 2023-12-10 14:14:46 -0500_
+_Last updated 2023-12-10 14:46:40 -0500_
