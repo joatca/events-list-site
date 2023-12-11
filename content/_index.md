@@ -1,12 +1,11 @@
 ---
 title: "Events"
-date: 2023-12-11T00:00:26-05:00
+date: 2023-12-11T12:29:05-05:00
 draft: false
 ---
 
 | When  |  | Event (Venue) |
 |------:|-:|:--------------|
-| Sunday | 10:00 | [North London Dance Centre](https://www.lpl.ca/events/north-london-dance-centre) ([Wolf](/about#Wolf)) |
 | Monday |  | [Charlie and the Chocolate Factory](https://www.grandtheatre.com/event/charlie-and-the-chocolate-factory) ([Grand](/about#Grand)) |
 |  |  | [Little Dickens](https://www.grandtheatre.com/event/little-dickens) ([Grand](/about#Grand)) |
 |  | 19:00 | [Sounds of Swing - a New Horizons Band.](https://www.lpl.ca/events/sounds-swing-new-horizons-band) ([Wolf](/about#Wolf)) |
@@ -71,6 +70,7 @@ draft: false
 | Tuesday February 06 2024 |  | [Huff](https://www.grandtheatre.com/event/huff) ([Grand](/about#Grand)) |
 | Thursday February 08 2024 | 19:00 | [Hotel Mira](http://londonmusichall.com/events/hotel-mira/) ([LMH](/about#LMH)) |
 | Friday February 09 2024 |  | [Kelly Zimba Lukic, flute and Heidi Bearcroft, harp](https://www.grandtheatre.com/event/kelly-zimba-lukic-flute-and-heidi-bearcroft-harp) ([Grand](/about#Grand)) |
+|  | 18:00 | [Max Powers’ Anti-Bullying Ventriloquism Show](https://aeolianhall.ca/events/max-powers-anti-bullying-ventriloquism-show/) ([Aeol](/about#Aeol)) |
 | Saturday February 10 2024 | 19:00 | [Sam Roberts Band – The Adventures Of Ben Blank Tour](http://londonmusichall.com/events/sam-roberts-band/) ([LMH](/about#LMH)) |
 |  | 22:00 | [*Sold Out* RIOT TEN “HYPE OR DIE” TOUR](http://londonmusichall.com/events/riot-ten-hype-or-die-tour/) ([LMH](/about#LMH)) |
 | Sunday February 11 2024 | 13:00 | [Imagination Station: Paper Puppetry](https://museumlondon.ca/programs-events/event/10760/2024/02/11) ([Museum](/about#Museum)) |
