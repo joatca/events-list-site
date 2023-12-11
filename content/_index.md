@@ -1,22 +1,15 @@
 ---
 title: "Events"
-date: 2023-12-10T14:46:40-05:00
+date: 2023-12-11T00:00:26-05:00
 draft: false
 ---
 
 | When  |  | Event (Venue) |
 |------:|-:|:--------------|
-| Saturday | 20:00 | [Master's Recital: Evan Williams (voice) - NEW TIME](http://www.events.westernu.ca/events/music/2023-04/student-recital-Evan-Douglas-Williams.html) ([FMus](/about#FMus)) |
-| Sunday |  | [Open House Skate & Toy Drive](https://www.budweisergardens.com/events/detail/open-house-skate-toy-drive) ([BudG](/about#BudG)) |
-|  |  | [Charlie and the Chocolate Factory](https://www.grandtheatre.com/event/charlie-and-the-chocolate-factory) ([Grand](/about#Grand)) |
+| Sunday | 10:00 | [North London Dance Centre](https://www.lpl.ca/events/north-london-dance-centre) ([Wolf](/about#Wolf)) |
+| Monday |  | [Charlie and the Chocolate Factory](https://www.grandtheatre.com/event/charlie-and-the-chocolate-factory) ([Grand](/about#Grand)) |
 |  |  | [Little Dickens](https://www.grandtheatre.com/event/little-dickens) ([Grand](/about#Grand)) |
-|  | 10:00 | [North London Dance Centre](https://www.lpl.ca/events/north-london-dance-centre) ([Wolf](/about#Wolf)) |
-|  | 13:00 | [Horse & Carriage Rides](https://coventmarket.com/event/horse-carriage-rides-4/) ([CGM](/about#CGM)) |
-|  | 13:00 | [Bath Salt Workshop](https://coventmarket.com/event/bath-salts-workshop-3/) ([CGM](/about#CGM)) |
-|  | 13:30 | [Miss T The Bubble Queen](https://coventmarket.com/event/miss-t-the-bubble-queen-2/) ([CGM](/about#CGM)) |
-|  | 15:00 | [A Christmas Carol Featuring John D. Huston](https://aeolianhall.ca/events/a-christmas-carol-featuring-john-d-huston-2/) ([Aeol](/about#Aeol)) |
-|  | 16:00 | [Justin Maki](https://coventmarket.com/event/justin-maki-fiker/) ([CGM](/about#CGM)) |
-| Monday | 19:00 | [Sounds of Swing - a New Horizons Band.](https://www.lpl.ca/events/sounds-swing-new-horizons-band) ([Wolf](/about#Wolf)) |
+|  | 19:00 | [Sounds of Swing - a New Horizons Band.](https://www.lpl.ca/events/sounds-swing-new-horizons-band) ([Wolf](/about#Wolf)) |
 |  | 19:00 | [Sounds of Swing Jazz Band](http://www.events.westernu.ca/events/music/2023-12/sounds-of-swing-jazz-band.html) ([FMus](/about#FMus)) |
 | Tuesday | 12:00 | [Stevie’s Sliders Trombone Ensemble](https://coventmarket.com/event/stevies-sliders-trombone-ensemble/) ([CGM](/about#CGM)) |
 |  | 19:00 | [Left to Suffer](http://londonmusichall.com/events/left-to-suffer/) ([LMH](/about#LMH)) |
@@ -39,7 +32,7 @@ draft: false
 |  | 19:30 | [The Memphis Jam](https://aeolianhall.ca/events/the-memphis-jam-2/) ([Aeol](/about#Aeol)) |
 |  | 22:00 | [All Black Everything presents: The Black Christmas Party](http://londonmusichall.com/events/all-black-everything-presents-the-black-christmas-party/) ([LMH](/about#LMH)) |
 |  | 22:00 | [GorillaT @ System Saturdays](http://londonmusichall.com/events/gorillat-system-saturdays/) ([LMH](/about#LMH)) |
-| Sunday December 17 |  | [LONDON KNIGHTS VS. SUDBURY WOLVES](https://www.budweisergardens.com/events/detail/london-knights-dec17) ([BudG](/about#BudG)) |
+| Sunday |  | [LONDON KNIGHTS VS. SUDBURY WOLVES](https://www.budweisergardens.com/events/detail/london-knights-dec17) ([BudG](/about#BudG)) |
 |  |  | [London Gospel Collective 2023/24 Series](https://www.grandtheatre.com/event/london-gospel-collective-2324) ([Grand](/about#Grand)) |
 |  | 13:00 | [Bath Salt Workshop](https://coventmarket.com/event/bath-salts-workshop-4/) ([CGM](/about#CGM)) |
 |  | 13:00 | [Horse & Carriage Rides](https://coventmarket.com/event/horse-carriage-rides-6/) ([CGM](/about#CGM)) |
@@ -59,6 +52,7 @@ draft: false
 | Wednesday January 03 2024 |  | [LONDON KNIGHTS VS. ERIE OTTERS](https://www.budweisergardens.com/events/detail/london-knights-jan3) ([BudG](/about#BudG)) |
 | Friday January 05 2024 |  | [LONDON KNIGHTS VS. BARRIE COLTS](https://www.budweisergardens.com/events/detail/london-knights-jan5) ([BudG](/about#BudG)) |
 |  | 20:00 | [Peter Karle Combo – Everything In Its Right Place (A Jazz Tribute to Radiohead)](https://aeolianhall.ca/events/peter-karle-combo-everything-in-its-right-place/) ([Aeol](/about#Aeol)) |
+| Saturday January 06 2024 |  | [London Lightning vs. KW Titans](https://www.budweisergardens.com/events/detail/london-lightning-vs-kw-titans-18) ([BudG](/about#BudG)) |
 | Sunday January 07 2024 | 13:00 | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/07) ([Museum](/about#Museum)) |
 | Wednesday January 10 2024 | 19:00 | [Jazz for the People](https://www.lpl.ca/events/jazz-people-4) ([Wolf](/about#Wolf)) |
 | Thursday January 11 2024 | 19:00 | [PARABOLUS: The Complete Tool Experience](http://londonmusichall.com/events/parabolus-the-complete-tool-experience/) ([LMH](/about#LMH)) |
