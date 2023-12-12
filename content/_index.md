@@ -1,16 +1,14 @@
 ---
 title: "Events"
-date: 2023-12-11T12:29:05-05:00
+date: 2023-12-12T00:00:27-05:00
 draft: false
 ---
 
 | When  |  | Event (Venue) |
 |------:|-:|:--------------|
-| Monday |  | [Charlie and the Chocolate Factory](https://www.grandtheatre.com/event/charlie-and-the-chocolate-factory) ([Grand](/about#Grand)) |
+| Tuesday |  | [Charlie and the Chocolate Factory](https://www.grandtheatre.com/event/charlie-and-the-chocolate-factory) ([Grand](/about#Grand)) |
 |  |  | [Little Dickens](https://www.grandtheatre.com/event/little-dickens) ([Grand](/about#Grand)) |
-|  | 19:00 | [Sounds of Swing - a New Horizons Band.](https://www.lpl.ca/events/sounds-swing-new-horizons-band) ([Wolf](/about#Wolf)) |
-|  | 19:00 | [Sounds of Swing Jazz Band](http://www.events.westernu.ca/events/music/2023-12/sounds-of-swing-jazz-band.html) ([FMus](/about#FMus)) |
-| Tuesday | 12:00 | [Stevie’s Sliders Trombone Ensemble](https://coventmarket.com/event/stevies-sliders-trombone-ensemble/) ([CGM](/about#CGM)) |
+|  | 12:00 | [Stevie’s Sliders Trombone Ensemble](https://coventmarket.com/event/stevies-sliders-trombone-ensemble/) ([CGM](/about#CGM)) |
 |  | 19:00 | [Left to Suffer](http://londonmusichall.com/events/left-to-suffer/) ([LMH](/about#LMH)) |
 |  | 19:00 | [Baddest Big Band plays Ellington's Nutcracker Suite](https://www.lpl.ca/events/baddest-big-band-plays-ellingtons-nutcracker-suite) ([Wolf](/about#Wolf)) |
 |  | 20:00 | [Luke McMaster – A Christmas Serenade](https://aeolianhall.ca/events/luke-mcmaster-a-christmas-serenade/) ([Aeol](/about#Aeol)) |
