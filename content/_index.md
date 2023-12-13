@@ -1,13 +1,12 @@
 ---
 title: "Events"
-date: 2023-12-13T00:00:26-05:00
+date: 2023-12-13T13:28:36-05:00
 draft: false
 ---
 
 | When  |  | Event (Venue) |
 |------:|-:|:--------------|
 | Wednesday |  | [Charlie and the Chocolate Factory](https://www.grandtheatre.com/event/charlie-and-the-chocolate-factory) ([Grand](/about#Grand)) |
-|  | 19:00 | [Jazz for the People](https://www.lpl.ca/events/jazz-people-10) ([Wolf](/about#Wolf)) |
 | Thursday | 11:00 | [Holiday Trombone Performance](https://coventmarket.com/event/holiday-trombone-performance-2/) ([CGM](/about#CGM)) |
 |  | 11:30 | [Doctoral Public Lecture \| Mark McCockle](http://www.events.westernu.ca/events/grad-postdoc-studies/2023-12/doctoral-public-lecture-mark-mcCockle.html) ([FMus](/about#FMus)) |
 |  | 18:30 | [El Sistema Aeolian Holiday Concert](https://aeolianhall.ca/events/el-sistema-aeolian-holiday-concert-3/) ([Aeol](/about#Aeol)) |
@@ -16,7 +15,6 @@ draft: false
 |  | 10:00 | [Holly Jolly Holiday Market – Weekend Four](https://coventmarket.com/event/holly-jolly-holiday-market-weekend-two-3/) ([CGM](/about#CGM)) |
 |  | 19:30 | [Shantero Productions Presents: A Lunch At Allen’s Christmas](https://aeolianhall.ca/events/shantero-productions-presents-a-lunch-at-allens-christmas/) ([Aeol](/about#Aeol)) |
 | Saturday | 10:00 | [Bracelet Making Workshop](https://coventmarket.com/event/bracelet-making-workshop-4/) ([CGM](/about#CGM)) |
-|  | 10:00 | [Karin Hobby Dance Academy Recital](https://www.lpl.ca/events/karin-hobby-dance-academy-recital) ([Wolf](/about#Wolf)) |
 |  | 13:00 | [Bath Bomb Workshop](https://coventmarket.com/event/bath-bomb-workshop-4/) ([CGM](/about#CGM)) |
 |  | 17:00 | [Horse & Carriage Rides](https://coventmarket.com/event/horse-carriage-rides-5/) ([CGM](/about#CGM)) |
 |  | 19:00 | [Justin Maki](https://coventmarket.com/event/justin-maki/) ([CGM](/about#CGM)) |
@@ -30,7 +28,6 @@ draft: false
 |  | 13:00 | [Imagination Station: Gelli Plate Printing](https://museumlondon.ca/programs-events/event/10754/2023/12/17) ([Museum](/about#Museum)) |
 |  | 14:00 | [Maggie’s Wake](https://aeolianhall.ca/events/maggies-wake-2/) ([Aeol](/about#Aeol)) |
 |  | 14:00 | [Sunday Exhibition Tours](https://museumlondon.ca/programs-events/event/9394/2023/12/17) ([Museum](/about#Museum)) |
-|  | 14:00 | [Julianne Hobby's Country Christmas Classic](https://www.lpl.ca/events/julianne-hobbys-country-christmas-classic) ([Wolf](/about#Wolf)) |
 |  | 15:00 | [Ricky Magic](https://coventmarket.com/event/ricky-magic-2/) ([CGM](/about#CGM)) |
 | Tuesday | 12:00 | [Holiday Trombone Performance](https://coventmarket.com/event/holiday-trombone-performance/) ([CGM](/about#CGM)) |
 | Wednesday December 20 |  | [A Christmas RockStory: A Holiday Circus Spectacular!](https://www.budweisergardens.com/events/detail/a-christmas-rockstory-a-holiday-circus-spectacular) ([BudG](/about#BudG)) |
@@ -47,8 +44,8 @@ draft: false
 | Saturday January 06 2024 |  | [London Lightning vs. KW Titans](https://www.budweisergardens.com/events/detail/london-lightning-vs-kw-titans-18) ([BudG](/about#BudG)) |
 |  | 11:00 | [Saturday Cooking Demo](https://coventmarket.com/event/saturday-cooking-classes-2/) ([CGM](/about#CGM)) |
 | Sunday January 07 2024 | 13:00 | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/07) ([Museum](/about#Museum)) |
-| Wednesday January 10 2024 | 19:00 | [Jazz for the People](https://www.lpl.ca/events/jazz-people-4) ([Wolf](/about#Wolf)) |
 | Thursday January 11 2024 | 19:00 | [PARABOLUS: The Complete Tool Experience](http://londonmusichall.com/events/parabolus-the-complete-tool-experience/) ([LMH](/about#LMH)) |
+| Friday January 12 2024 | 12:30 | [Fridays at 12:30 Concert Series: Ein Liederkonzert](http://www.events.westernu.ca/events/music/2024-01/fridays-at-1230-ein-liederkonzert.html) ([FMus](/about#FMus)) |
 | Saturday January 13 2024 | 22:00 | [Markus Shulz](http://londonmusichall.com/events/markus-shulz/) ([LMH](/about#LMH)) |
 | Sunday January 14 2024 | 13:00 | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/14) ([Museum](/about#Museum)) |
 | Tuesday January 16 2024 |  | [The Invisible - Agents of Ungentlemanly Warfare](https://www.grandtheatre.com/event/the-invisible) ([Grand](/about#Grand)) |
@@ -101,6 +98,8 @@ draft: false
 | Thursday March 28 2024 | 19:00 | [Warren Zeiders](http://londonmusichall.com/events/warren-zeiders/) ([LMH](/about#LMH)) |
 | Saturday March 30 2024 | 08:00 | [Outdoor Easter Market](https://coventmarket.com/event/4032/) ([CGM](/about#CGM)) |
 |  | 22:00 | [Le Youth @ System Saturdays](http://londonmusichall.com/events/le-youth-system-saturdays/) ([LMH](/about#LMH)) |
+| Friday April 05 2024 | 20:00 | [It’s Too Late To Stop Now: The Music of Van Morrison](https://aeolianhall.ca/events/its-too-late-to-stop-now-the-music-of-van-morrison-3/) ([Aeol](/about#Aeol)) |
+| Saturday April 06 2024 | 20:00 | [A’Court, Spiegel & Vinnick](https://aeolianhall.ca/events/acourt-spiegel-vinnick/) ([Aeol](/about#Aeol)) |
 | Sunday April 07 2024 |  | [Calidore String Quartet](https://www.grandtheatre.com/event/calidore-string-quartet) ([Grand](/about#Grand)) |
 |  | 19:00 | [LADYSMITH BLACK MAMBOZA](http://londonmusichall.com/events/ladysmith-black-mamboza/) ([LMH](/about#LMH)) |
 | Tuesday April 09 2024 |  | [One Step at a Time](https://www.grandtheatre.com/event/one-step-at-a-time) ([Grand](/about#Grand)) |
