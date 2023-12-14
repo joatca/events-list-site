@@ -1,21 +1,31 @@
 ---
 title: "Events"
-date: 2023-12-14T00:00:31-05:00
+date: 2023-12-14T13:20:06-05:00
 draft: false
 ---
 
 | When  |  | Event (Venue) |
 |------:|-:|:--------------|
 | Thursday |  | [Charlie and the Chocolate Factory](https://www.grandtheatre.com/event/charlie-and-the-chocolate-factory) ([Grand](/about#Grand)) |
+|  |  | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) ([CMus](/about#CMus)) |
+|  |  | [OUTREACH: Family Centre Carling-Thames](https://www.londonchildrensmuseum.ca/event/outreach-family-centre-carling-thames) ([CMus](/about#CMus)) |
+|  | 09:30 | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) ([CMus](/about#CMus)) |
 |  | 11:00 | [Holiday Trombone Performance](https://coventmarket.com/event/holiday-trombone-performance-2/) ([CGM](/about#CGM)) |
 |  | 11:30 | [Doctoral Public Lecture \| Mark McCockle](http://www.events.westernu.ca/events/grad-postdoc-studies/2023-12/doctoral-public-lecture-mark-mcCockle.html) ([FMus](/about#FMus)) |
+|  | 17:00 | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) ([CMus](/about#CMus)) |
+|  | 18:00 | [STEAM: Racing Reindeer](https://www.londonchildrensmuseum.ca/event/steam-racing-reindeer) ([CMus](/about#CMus)) |
 |  | 18:30 | [El Sistema Aeolian Holiday Concert](https://aeolianhall.ca/events/el-sistema-aeolian-holiday-concert-3/) ([Aeol](/about#Aeol)) |
 |  | 19:00 | [LAGWAGON](http://londonmusichall.com/events/lagwagon/) ([LMH](/about#LMH)) |
 | Friday |  | [LONDON KNIGHTS VS. OWEN SOUND ATTACK](https://www.budweisergardens.com/events/detail/london-knights-dec15) ([BudG](/about#BudG)) |
 |  | 10:00 | [Holly Jolly Holiday Market – Weekend Four](https://coventmarket.com/event/holly-jolly-holiday-market-weekend-two-3/) ([CGM](/about#CGM)) |
+|  | 10:00 | [Early Years Santa Visit](https://www.londonchildrensmuseum.ca/event/early-years-santa-visit) ([CMus](/about#CMus)) |
 |  | 19:30 | [Shantero Productions Presents: A Lunch At Allen’s Christmas](https://aeolianhall.ca/events/shantero-productions-presents-a-lunch-at-allens-christmas/) ([Aeol](/about#Aeol)) |
-| Saturday | 10:00 | [Bracelet Making Workshop](https://coventmarket.com/event/bracelet-making-workshop-4/) ([CGM](/about#CGM)) |
+| Saturday | 09:30 | [Morning with Santa](https://www.londonchildrensmuseum.ca/event/morning-santa) ([CMus](/about#CMus)) |
+|  | 10:00 | [Bracelet Making Workshop](https://coventmarket.com/event/bracelet-making-workshop-4/) ([CGM](/about#CGM)) |
+|  | 11:00 | [London Kids Community Gospel Choir](https://www.londonchildrensmuseum.ca/event/london-kids-community-gospel-choir) ([CMus](/about#CMus)) |
 |  | 13:00 | [Bath Bomb Workshop](https://coventmarket.com/event/bath-bomb-workshop-4/) ([CGM](/about#CGM)) |
+|  | 13:00 | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) ([CMus](/about#CMus)) |
+|  | 14:30 | [STEAM: Racing Reindeer](https://www.londonchildrensmuseum.ca/event/steam-racing-reindeer) ([CMus](/about#CMus)) |
 |  | 17:00 | [Horse & Carriage Rides](https://coventmarket.com/event/horse-carriage-rides-5/) ([CGM](/about#CGM)) |
 |  | 19:00 | [Justin Maki](https://coventmarket.com/event/justin-maki/) ([CGM](/about#CGM)) |
 |  | 19:30 | [The Memphis Jam](https://aeolianhall.ca/events/the-memphis-jam-2/) ([Aeol](/about#Aeol)) |
@@ -23,13 +33,18 @@ draft: false
 |  | 22:00 | [GorillaT @ System Saturdays](http://londonmusichall.com/events/gorillat-system-saturdays/) ([LMH](/about#LMH)) |
 | Sunday |  | [LONDON KNIGHTS VS. SUDBURY WOLVES](https://www.budweisergardens.com/events/detail/london-knights-dec17) ([BudG](/about#BudG)) |
 |  |  | [London Gospel Collective 2023/24 Series](https://www.grandtheatre.com/event/london-gospel-collective-2324) ([Grand](/about#Grand)) |
+|  | 11:00 | [STEAM: Racing Reindeer](https://www.londonchildrensmuseum.ca/event/steam-racing-reindeer) ([CMus](/about#CMus)) |
 |  | 13:00 | [Bath Salt Workshop](https://coventmarket.com/event/bath-salts-workshop-4/) ([CGM](/about#CGM)) |
 |  | 13:00 | [Horse & Carriage Rides](https://coventmarket.com/event/horse-carriage-rides-6/) ([CGM](/about#CGM)) |
 |  | 13:00 | [Imagination Station: Gelli Plate Printing](https://museumlondon.ca/programs-events/event/10754/2023/12/17) ([Museum](/about#Museum)) |
 |  | 14:00 | [Maggie’s Wake](https://aeolianhall.ca/events/maggies-wake-2/) ([Aeol](/about#Aeol)) |
 |  | 14:00 | [Sunday Exhibition Tours](https://museumlondon.ca/programs-events/event/9394/2023/12/17) ([Museum](/about#Museum)) |
+|  | 14:30 | [STEAM: Racing Reindeer](https://www.londonchildrensmuseum.ca/event/steam-racing-reindeer) ([CMus](/about#CMus)) |
 |  | 15:00 | [Ricky Magic](https://coventmarket.com/event/ricky-magic-2/) ([CGM](/about#CGM)) |
-| Tuesday | 12:00 | [Holiday Trombone Performance](https://coventmarket.com/event/holiday-trombone-performance/) ([CGM](/about#CGM)) |
+| Monday |  | [CLOSED](https://www.londonchildrensmuseum.ca/event/closed) ([CMus](/about#CMus)) |
+| Tuesday | 09:30 | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) ([CMus](/about#CMus)) |
+|  | 12:00 | [Holiday Trombone Performance](https://coventmarket.com/event/holiday-trombone-performance/) ([CGM](/about#CGM)) |
+|  | 17:00 | [Sensory Friendly Evening](https://www.londonchildrensmuseum.ca/event/sensory-friendly-evening) ([CMus](/about#CMus)) |
 | Wednesday |  | [A Christmas RockStory: A Holiday Circus Spectacular!](https://www.budweisergardens.com/events/detail/a-christmas-rockstory-a-holiday-circus-spectacular) ([BudG](/about#BudG)) |
 | Thursday December 21 |  | [My Son Pinocchio JR.](https://www.grandtheatre.com/event/my-son-pinocchio-jr) ([Grand](/about#Grand)) |
 | Friday December 22 | 19:00 | [The Legendary Patsy Cline Christmas Show](https://aeolianhall.ca/events/the-legendary-patsy-cline-christmas-show/) ([Aeol](/about#Aeol)) |
@@ -46,7 +61,8 @@ draft: false
 | Sunday January 07 2024 | 13:00 | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/07) ([Museum](/about#Museum)) |
 | Thursday January 11 2024 | 19:00 | [PARABOLUS: The Complete Tool Experience](http://londonmusichall.com/events/parabolus-the-complete-tool-experience/) ([LMH](/about#LMH)) |
 | Friday January 12 2024 | 12:30 | [Fridays at 12:30 Concert Series: Ein Liederkonzert](http://www.events.westernu.ca/events/music/2024-01/fridays-at-1230-ein-liederkonzert.html) ([FMus](/about#FMus)) |
-| Saturday January 13 2024 | 22:00 | [Markus Shulz](http://londonmusichall.com/events/markus-shulz/) ([LMH](/about#LMH)) |
+| Saturday January 13 2024 | 12:00 | [Maritsa Brookes Concerto Competition - Final Round](http://www.events.westernu.ca/events/music/2024-01/maritsa-brookes-final-round.html) ([FMus](/about#FMus)) |
+|  | 22:00 | [Markus Shulz](http://londonmusichall.com/events/markus-shulz/) ([LMH](/about#LMH)) |
 | Sunday January 14 2024 | 13:00 | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/14) ([Museum](/about#Museum)) |
 | Tuesday January 16 2024 |  | [The Invisible - Agents of Ungentlemanly Warfare](https://www.grandtheatre.com/event/the-invisible) ([Grand](/about#Grand)) |
 | Friday January 19 2024 | 08:30 | [PA Day Camp: Mini Model Makers](https://museumlondon.ca/programs-events/event/10556/) ([Museum](/about#Museum)) |
@@ -77,6 +93,7 @@ draft: false
 | Sunday February 18 2024 | 13:00 | [Imagination Station: Paper Puppetry](https://museumlondon.ca/programs-events/event/10760/2024/02/18) ([Museum](/about#Museum)) |
 | Wednesday February 21 2024 | 18:00 | [Municipal Waste – Brainsqueeze Tour 2024](http://londonmusichall.com/events/municipal-waste-brainsqueeze-tour-2024/) ([LMH](/about#LMH)) |
 | Thursday February 22 2024 |  | [A Chorus Line - Teen Edition](https://www.grandtheatre.com/event/chorus-line-teen-edition) ([Grand](/about#Grand)) |
+| Friday February 23 2024 | 20:00 | [Guy Davis](https://aeolianhall.ca/events/guy-davis-2/) ([Aeol](/about#Aeol)) |
 | Saturday February 24 2024 | 18:30 | [Chase Rice – Get Western Tour](http://londonmusichall.com/events/chase-rice-get-western-tour/) ([LMH](/about#LMH)) |
 | Sunday February 25 2024 | 13:00 | [Imagination Station: Paper Puppetry](https://museumlondon.ca/programs-events/event/10760/2024/02/25) ([Museum](/about#Museum)) |
 | Wednesday February 28 2024 | 18:30 | [Aaron Pritchett: The Liquored Up Tour](http://londonmusichall.com/events/aaron-pritchett-the-liquored-up-tour/) ([LMH](/about#LMH)) |
