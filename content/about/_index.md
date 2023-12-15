@@ -1,6 +1,6 @@
 ---
 title: "Abbreviations"
-date: 2023-12-14T13:20:06-05:00
+date: 2023-12-14T20:24:37-05:00
 draft: false
 ---
 
@@ -11,7 +11,7 @@ This page currently supports events found on these sites.
 | **100K** | [100 Kellogg Lane](https://100kellogglane.com/) | *Not supported: no events listing*
 | **Aeol** | [Aeolian Hall](https://aeolianhall.ca/) | *20 events found*
 | **BudG** | [Budweiser Gardens](https://www.budweisergardens.com/) | *8 events found*
-| **CGM** | [Covent Garden Market](https://coventmarket.com/) | *23 events found*
+| **CGM** | [Covent Garden Market](https://coventmarket.com/) | *22 events found*
 | **CMus** | [London Children's Museum](https://www.londonchildrensmuseum.ca/) | *15 events found*
 | **Cent** | [Centennial Hall](https://centennialhall.london.ca/london-event-listings.html) | *Not supported: too difficult to scan website automatically*
 | **FMus** | [Don Wright Faculty of Music](http://www.events.westernu.ca/events/music/) | *3 events found*
@@ -20,4 +20,4 @@ This page currently supports events found on these sites.
 | **Museum** | [Museum London](https://museumlondon.ca/) | *15 events found*
 | **Wolf** | [Wolf Performance Hall](https://www.lpl.ca/services-spaces/featured-spaces/wolf-performance-hall) | *Error: unable to fetch any events*
 
-_Last updated 2023-12-14 13:20:06 -0500_
+_Last updated 2023-12-14 20:24:37 -0500_

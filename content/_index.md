@@ -1,6 +1,6 @@
 ---
 title: "Events"
-date: 2023-12-14T13:20:06-05:00
+date: 2023-12-14T20:24:37-05:00
 draft: false
 ---
 
@@ -10,11 +10,9 @@ draft: false
 |  |  | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) ([CMus](/about#CMus)) |
 |  |  | [OUTREACH: Family Centre Carling-Thames](https://www.londonchildrensmuseum.ca/event/outreach-family-centre-carling-thames) ([CMus](/about#CMus)) |
 |  | 09:30 | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) ([CMus](/about#CMus)) |
-|  | 11:00 | [Holiday Trombone Performance](https://coventmarket.com/event/holiday-trombone-performance-2/) ([CGM](/about#CGM)) |
 |  | 11:30 | [Doctoral Public Lecture \| Mark McCockle](http://www.events.westernu.ca/events/grad-postdoc-studies/2023-12/doctoral-public-lecture-mark-mcCockle.html) ([FMus](/about#FMus)) |
 |  | 17:00 | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) ([CMus](/about#CMus)) |
 |  | 18:00 | [STEAM: Racing Reindeer](https://www.londonchildrensmuseum.ca/event/steam-racing-reindeer) ([CMus](/about#CMus)) |
-|  | 18:30 | [El Sistema Aeolian Holiday Concert](https://aeolianhall.ca/events/el-sistema-aeolian-holiday-concert-3/) ([Aeol](/about#Aeol)) |
 |  | 19:00 | [LAGWAGON](http://londonmusichall.com/events/lagwagon/) ([LMH](/about#LMH)) |
 | Friday |  | [LONDON KNIGHTS VS. OWEN SOUND ATTACK](https://www.budweisergardens.com/events/detail/london-knights-dec15) ([BudG](/about#BudG)) |
 |  | 10:00 | [Holly Jolly Holiday Market – Weekend Four](https://coventmarket.com/event/holly-jolly-holiday-market-weekend-two-3/) ([CGM](/about#CGM)) |
@@ -80,6 +78,7 @@ draft: false
 | Friday February 09 2024 |  | [Kelly Zimba Lukic, flute and Heidi Bearcroft, harp](https://www.grandtheatre.com/event/kelly-zimba-lukic-flute-and-heidi-bearcroft-harp) ([Grand](/about#Grand)) |
 |  | 18:00 | [Max Powers’ Anti-Bullying Ventriloquism Show](https://aeolianhall.ca/events/max-powers-anti-bullying-ventriloquism-show/) ([Aeol](/about#Aeol)) |
 | Saturday February 10 2024 | 09:00 | [Valentine’s Day Farmers & Artisan Market](https://coventmarket.com/event/valentines-day-farmers-artisans-market/) ([CGM](/about#CGM)) |
+|  | 14:00 | [Big Bandemic Featuring Rick Kish & Denise Pelley](https://aeolianhall.ca/events/big-bandemic-featuring-rick-kish-denise-pelley/) ([Aeol](/about#Aeol)) |
 |  | 19:00 | [Sam Roberts Band – The Adventures Of Ben Blank Tour](http://londonmusichall.com/events/sam-roberts-band/) ([LMH](/about#LMH)) |
 |  | 22:00 | [*Sold Out* RIOT TEN “HYPE OR DIE” TOUR](http://londonmusichall.com/events/riot-ten-hype-or-die-tour/) ([LMH](/about#LMH)) |
 | Sunday February 11 2024 | 13:00 | [Imagination Station: Paper Puppetry](https://museumlondon.ca/programs-events/event/10760/2024/02/11) ([Museum](/about#Museum)) |
