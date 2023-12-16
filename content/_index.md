@@ -1,17 +1,13 @@
 ---
 title: "Events"
-date: 2023-12-15T17:41:27-05:00
+date: 2023-12-16T00:00:23-05:00
 draft: false
 ---
 
 | When  |  | Event (Venue) |
 |------:|-:|:--------------|
-| Friday |  | [LONDON KNIGHTS VS. OWEN SOUND ATTACK](https://www.budweisergardens.com/events/detail/london-knights-dec15) ([BudG](/about#BudG)) |
-|  |  | [Charlie and the Chocolate Factory](https://www.grandtheatre.com/event/charlie-and-the-chocolate-factory) ([Grand](/about#Grand)) |
-|  | 10:00 | [Holly Jolly Holiday Market – Weekend Four](https://coventmarket.com/event/holly-jolly-holiday-market-weekend-two-3/) ([CGM](/about#CGM)) |
-|  | 10:00 | [Early Years Santa Visit](https://www.londonchildrensmuseum.ca/event/early-years-santa-visit) ([CMus](/about#CMus)) |
-|  | 19:30 | [Shantero Productions Presents: A Lunch At Allen’s Christmas](https://aeolianhall.ca/events/shantero-productions-presents-a-lunch-at-allens-christmas/) ([Aeol](/about#Aeol)) |
-| Saturday | 09:30 | [Morning with Santa](https://www.londonchildrensmuseum.ca/event/morning-santa) ([CMus](/about#CMus)) |
+| Saturday |  | [Charlie and the Chocolate Factory](https://www.grandtheatre.com/event/charlie-and-the-chocolate-factory) ([Grand](/about#Grand)) |
+|  | 09:30 | [Morning with Santa](https://www.londonchildrensmuseum.ca/event/morning-santa) ([CMus](/about#CMus)) |
 |  | 10:00 | [Bracelet Making Workshop](https://coventmarket.com/event/bracelet-making-workshop-4/) ([CGM](/about#CGM)) |
 |  | 11:00 | [London Kids Community Gospel Choir](https://www.londonchildrensmuseum.ca/event/london-kids-community-gospel-choir) ([CMus](/about#CMus)) |
 |  | 13:00 | [Bath Bomb Workshop](https://coventmarket.com/event/bath-bomb-workshop-4/) ([CGM](/about#CGM)) |
@@ -40,7 +36,7 @@ draft: false
 |  | 16:00 | [OUTREACH: Family Centre Carling-Thames](https://www.londonchildrensmuseum.ca/event/outreach-family-centre-carling-thames) ([CMus](/about#CMus)) |
 | Thursday |  | [My Son Pinocchio JR.](https://www.grandtheatre.com/event/my-son-pinocchio-jr) ([Grand](/about#Grand)) |
 |  | 09:30 | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) ([CMus](/about#CMus)) |
-| Fri Dec 22 | 19:00 | [The Legendary Patsy Cline Christmas Show](https://aeolianhall.ca/events/the-legendary-patsy-cline-christmas-show/) ([Aeol](/about#Aeol)) |
+| Friday | 19:00 | [The Legendary Patsy Cline Christmas Show](https://aeolianhall.ca/events/the-legendary-patsy-cline-christmas-show/) ([Aeol](/about#Aeol)) |
 |  | 19:00 | [Doghouse Rose](http://londonmusichall.com/events/doghouse-rose-3/) ([LMH](/about#LMH)) |
 | Fri Dec 29 |  | [LONDON KNIGHTS VS. SARNIA STING](https://www.budweisergardens.com/events/detail/london-knights-dec29) ([BudG](/about#BudG)) |
 |  | 19:00 | [Texas King – Hometown Holiday](http://londonmusichall.com/events/texas-king-hometown-holiday-2/) ([LMH](/about#LMH)) |
@@ -52,7 +48,8 @@ draft: false
 | Sat Jan 06 2024 |  | [London Lightning vs. KW Titans](https://www.budweisergardens.com/events/detail/london-lightning-vs-kw-titans-18) ([BudG](/about#BudG)) |
 |  | 11:00 | [Saturday Cooking Demo](https://coventmarket.com/event/saturday-cooking-classes-2/) ([CGM](/about#CGM)) |
 | Sun Jan 07 2024 | 13:00 | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/07) ([Museum](/about#Museum)) |
-| Thu Jan 11 2024 | 19:00 | [PARABOLUS: The Complete Tool Experience](http://londonmusichall.com/events/parabolus-the-complete-tool-experience/) ([LMH](/about#LMH)) |
+| Thu Jan 11 2024 |  | [London Lightning vs. Montreal Tundra](https://www.budweisergardens.com/events/detail/london-lightning-vs-montreal-toundra) ([BudG](/about#BudG)) |
+|  | 19:00 | [PARABOLUS: The Complete Tool Experience](http://londonmusichall.com/events/parabolus-the-complete-tool-experience/) ([LMH](/about#LMH)) |
 | Fri Jan 12 2024 | 12:30 | [Fridays at 12:30 Concert Series: Ein Liederkonzert](http://www.events.westernu.ca/events/music/2024-01/fridays-at-1230-ein-liederkonzert.html) ([FMus](/about#FMus)) |
 | Sat Jan 13 2024 | 12:00 | [Maritsa Brookes Concerto Competition - Final Round](http://www.events.westernu.ca/events/music/2024-01/maritsa-brookes-final-round.html) ([FMus](/about#FMus)) |
 |  | 19:30 | [mattlayn – One Last Time (Southen Lounge)](https://aeolianhall.ca/events/mattlayn-one-last-time-2/) ([Aeol](/about#Aeol)) |
