@@ -1,28 +1,17 @@
 ---
 title: "Events"
-date: 2023-12-16T00:00:23-05:00
+date: 2023-12-17T00:00:38-05:00
 draft: false
 ---
 
 | When  |  | Event (Venue) |
 |------:|-:|:--------------|
-| Saturday |  | [Charlie and the Chocolate Factory](https://www.grandtheatre.com/event/charlie-and-the-chocolate-factory) ([Grand](/about#Grand)) |
-|  | 09:30 | [Morning with Santa](https://www.londonchildrensmuseum.ca/event/morning-santa) ([CMus](/about#CMus)) |
-|  | 10:00 | [Bracelet Making Workshop](https://coventmarket.com/event/bracelet-making-workshop-4/) ([CGM](/about#CGM)) |
-|  | 11:00 | [London Kids Community Gospel Choir](https://www.londonchildrensmuseum.ca/event/london-kids-community-gospel-choir) ([CMus](/about#CMus)) |
-|  | 13:00 | [Bath Bomb Workshop](https://coventmarket.com/event/bath-bomb-workshop-4/) ([CGM](/about#CGM)) |
-|  | 13:00 | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) ([CMus](/about#CMus)) |
-|  | 14:30 | [STEAM: Racing Reindeer](https://www.londonchildrensmuseum.ca/event/steam-racing-reindeer) ([CMus](/about#CMus)) |
-|  | 17:00 | [Horse & Carriage Rides](https://coventmarket.com/event/horse-carriage-rides-5/) ([CGM](/about#CGM)) |
-|  | 19:00 | [Justin Maki](https://coventmarket.com/event/justin-maki/) ([CGM](/about#CGM)) |
-|  | 19:30 | [The Memphis Jam](https://aeolianhall.ca/events/the-memphis-jam-2/) ([Aeol](/about#Aeol)) |
-|  | 22:00 | [All Black Everything presents: The Black Christmas Party](http://londonmusichall.com/events/all-black-everything-presents-the-black-christmas-party/) ([LMH](/about#LMH)) |
-|  | 22:00 | [GorillaT @ System Saturdays](http://londonmusichall.com/events/gorillat-system-saturdays/) ([LMH](/about#LMH)) |
 | Sunday |  | [LONDON KNIGHTS VS. SUDBURY WOLVES](https://www.budweisergardens.com/events/detail/london-knights-dec17) ([BudG](/about#BudG)) |
+|  |  | [Charlie and the Chocolate Factory](https://www.grandtheatre.com/event/charlie-and-the-chocolate-factory) ([Grand](/about#Grand)) |
 |  |  | [London Gospel Collective 2023/24 Series](https://www.grandtheatre.com/event/london-gospel-collective-2324) ([Grand](/about#Grand)) |
 |  | 11:00 | [STEAM: Racing Reindeer](https://www.londonchildrensmuseum.ca/event/steam-racing-reindeer) ([CMus](/about#CMus)) |
-|  | 13:00 | [Bath Salt Workshop](https://coventmarket.com/event/bath-salts-workshop-4/) ([CGM](/about#CGM)) |
 |  | 13:00 | [Horse & Carriage Rides](https://coventmarket.com/event/horse-carriage-rides-6/) ([CGM](/about#CGM)) |
+|  | 13:00 | [Bath Salt Workshop](https://coventmarket.com/event/bath-salts-workshop-4/) ([CGM](/about#CGM)) |
 |  | 13:00 | [Imagination Station: Gelli Plate Printing](https://museumlondon.ca/programs-events/event/10754/2023/12/17) ([Museum](/about#Museum)) |
 |  | 14:00 | [Maggie’s Wake](https://aeolianhall.ca/events/maggies-wake-2/) ([Aeol](/about#Aeol)) |
 |  | 14:00 | [Sunday Exhibition Tours](https://museumlondon.ca/programs-events/event/9394/2023/12/17) ([Museum](/about#Museum)) |
@@ -36,7 +25,10 @@ draft: false
 |  | 16:00 | [OUTREACH: Family Centre Carling-Thames](https://www.londonchildrensmuseum.ca/event/outreach-family-centre-carling-thames) ([CMus](/about#CMus)) |
 | Thursday |  | [My Son Pinocchio JR.](https://www.grandtheatre.com/event/my-son-pinocchio-jr) ([Grand](/about#Grand)) |
 |  | 09:30 | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) ([CMus](/about#CMus)) |
-| Friday | 19:00 | [The Legendary Patsy Cline Christmas Show](https://aeolianhall.ca/events/the-legendary-patsy-cline-christmas-show/) ([Aeol](/about#Aeol)) |
+|  | 17:00 | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) ([CMus](/about#CMus)) |
+|  | 18:00 | [STEAM: DIY Wrapping Paper](https://www.londonchildrensmuseum.ca/event/steam-diy-wrapping-paper) ([CMus](/about#CMus)) |
+| Friday | 10:00 | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) ([CMus](/about#CMus)) |
+|  | 19:00 | [The Legendary Patsy Cline Christmas Show](https://aeolianhall.ca/events/the-legendary-patsy-cline-christmas-show/) ([Aeol](/about#Aeol)) |
 |  | 19:00 | [Doghouse Rose](http://londonmusichall.com/events/doghouse-rose-3/) ([LMH](/about#LMH)) |
 | Fri Dec 29 |  | [LONDON KNIGHTS VS. SARNIA STING](https://www.budweisergardens.com/events/detail/london-knights-dec29) ([BudG](/about#BudG)) |
 |  | 19:00 | [Texas King – Hometown Holiday](http://londonmusichall.com/events/texas-king-hometown-holiday-2/) ([LMH](/about#LMH)) |
