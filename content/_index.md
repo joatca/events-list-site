@@ -1,23 +1,14 @@
 ---
 title: "Events"
-date: 2023-12-17T00:00:38-05:00
+date: 2023-12-18T00:00:21-05:00
 draft: false
 ---
 
 | When  |  | Event (Venue) |
 |------:|-:|:--------------|
-| Sunday |  | [LONDON KNIGHTS VS. SUDBURY WOLVES](https://www.budweisergardens.com/events/detail/london-knights-dec17) ([BudG](/about#BudG)) |
-|  |  | [Charlie and the Chocolate Factory](https://www.grandtheatre.com/event/charlie-and-the-chocolate-factory) ([Grand](/about#Grand)) |
+| Monday |  | [Charlie and the Chocolate Factory](https://www.grandtheatre.com/event/charlie-and-the-chocolate-factory) ([Grand](/about#Grand)) |
 |  |  | [London Gospel Collective 2023/24 Series](https://www.grandtheatre.com/event/london-gospel-collective-2324) ([Grand](/about#Grand)) |
-|  | 11:00 | [STEAM: Racing Reindeer](https://www.londonchildrensmuseum.ca/event/steam-racing-reindeer) ([CMus](/about#CMus)) |
-|  | 13:00 | [Horse & Carriage Rides](https://coventmarket.com/event/horse-carriage-rides-6/) ([CGM](/about#CGM)) |
-|  | 13:00 | [Bath Salt Workshop](https://coventmarket.com/event/bath-salts-workshop-4/) ([CGM](/about#CGM)) |
-|  | 13:00 | [Imagination Station: Gelli Plate Printing](https://museumlondon.ca/programs-events/event/10754/2023/12/17) ([Museum](/about#Museum)) |
-|  | 14:00 | [Maggie’s Wake](https://aeolianhall.ca/events/maggies-wake-2/) ([Aeol](/about#Aeol)) |
-|  | 14:00 | [Sunday Exhibition Tours](https://museumlondon.ca/programs-events/event/9394/2023/12/17) ([Museum](/about#Museum)) |
-|  | 14:30 | [STEAM: Racing Reindeer](https://www.londonchildrensmuseum.ca/event/steam-racing-reindeer) ([CMus](/about#CMus)) |
-|  | 15:00 | [Ricky Magic](https://coventmarket.com/event/ricky-magic-2/) ([CGM](/about#CGM)) |
-| Monday |  | [CLOSED](https://www.londonchildrensmuseum.ca/event/closed) ([CMus](/about#CMus)) |
+|  |  | [CLOSED](https://www.londonchildrensmuseum.ca/event/closed) ([CMus](/about#CMus)) |
 | Tuesday | 09:30 | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) ([CMus](/about#CMus)) |
 |  | 12:00 | [Holiday Trombone Performance](https://coventmarket.com/event/holiday-trombone-performance/) ([CGM](/about#CGM)) |
 |  | 17:00 | [Sensory Friendly Evening](https://www.londonchildrensmuseum.ca/event/sensory-friendly-evening) ([CMus](/about#CMus)) |
@@ -42,7 +33,8 @@ draft: false
 | Sun Jan 07 2024 | 13:00 | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/07) ([Museum](/about#Museum)) |
 | Thu Jan 11 2024 |  | [London Lightning vs. Montreal Tundra](https://www.budweisergardens.com/events/detail/london-lightning-vs-montreal-toundra) ([BudG](/about#BudG)) |
 |  | 19:00 | [PARABOLUS: The Complete Tool Experience](http://londonmusichall.com/events/parabolus-the-complete-tool-experience/) ([LMH](/about#LMH)) |
-| Fri Jan 12 2024 | 12:30 | [Fridays at 12:30 Concert Series: Ein Liederkonzert](http://www.events.westernu.ca/events/music/2024-01/fridays-at-1230-ein-liederkonzert.html) ([FMus](/about#FMus)) |
+| Fri Jan 12 2024 |  | [LONDON KNIGHTS VS. SAGINAW SPIRIT](https://www.budweisergardens.com/events/detail/london-knights-jan12) ([BudG](/about#BudG)) |
+|  | 12:30 | [Fridays at 12:30 Concert Series: Ein Liederkonzert](http://www.events.westernu.ca/events/music/2024-01/fridays-at-1230-ein-liederkonzert.html) ([FMus](/about#FMus)) |
 | Sat Jan 13 2024 | 12:00 | [Maritsa Brookes Concerto Competition - Final Round](http://www.events.westernu.ca/events/music/2024-01/maritsa-brookes-final-round.html) ([FMus](/about#FMus)) |
 |  | 19:30 | [mattlayn – One Last Time (Southen Lounge)](https://aeolianhall.ca/events/mattlayn-one-last-time-2/) ([Aeol](/about#Aeol)) |
 |  | 22:00 | [Markus Shulz](http://londonmusichall.com/events/markus-shulz/) ([LMH](/about#LMH)) |
