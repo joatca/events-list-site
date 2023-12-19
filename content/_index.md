@@ -1,16 +1,15 @@
 ---
 title: "Events"
-date: 2023-12-18T00:00:21-05:00
+date: 2023-12-19T00:00:39-05:00
 draft: false
 ---
 
 | When  |  | Event (Venue) |
 |------:|-:|:--------------|
-| Monday |  | [Charlie and the Chocolate Factory](https://www.grandtheatre.com/event/charlie-and-the-chocolate-factory) ([Grand](/about#Grand)) |
+| Tuesday |  | [Charlie and the Chocolate Factory](https://www.grandtheatre.com/event/charlie-and-the-chocolate-factory) ([Grand](/about#Grand)) |
 |  |  | [London Gospel Collective 2023/24 Series](https://www.grandtheatre.com/event/london-gospel-collective-2324) ([Grand](/about#Grand)) |
-|  |  | [CLOSED](https://www.londonchildrensmuseum.ca/event/closed) ([CMus](/about#CMus)) |
-| Tuesday | 09:30 | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) ([CMus](/about#CMus)) |
-|  | 12:00 | [Holiday Trombone Performance](https://coventmarket.com/event/holiday-trombone-performance/) ([CGM](/about#CGM)) |
+|  | 09:30 | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) ([CMus](/about#CMus)) |
+|  | 11:00 | [Holiday Trombone Performance](https://coventmarket.com/event/holiday-trombone-performance/) ([CGM](/about#CGM)) |
 |  | 17:00 | [Sensory Friendly Evening](https://www.londonchildrensmuseum.ca/event/sensory-friendly-evening) ([CMus](/about#CMus)) |
 | Wednesday |  | [A Christmas RockStory: A Holiday Circus Spectacular!](https://www.budweisergardens.com/events/detail/a-christmas-rockstory-a-holiday-circus-spectacular) ([BudG](/about#BudG)) |
 |  | 16:00 | [OUTREACH: Family Centre Carling-Thames](https://www.londonchildrensmuseum.ca/event/outreach-family-centre-carling-thames) ([CMus](/about#CMus)) |
@@ -34,13 +33,14 @@ draft: false
 | Thu Jan 11 2024 |  | [London Lightning vs. Montreal Tundra](https://www.budweisergardens.com/events/detail/london-lightning-vs-montreal-toundra) ([BudG](/about#BudG)) |
 |  | 19:00 | [PARABOLUS: The Complete Tool Experience](http://londonmusichall.com/events/parabolus-the-complete-tool-experience/) ([LMH](/about#LMH)) |
 | Fri Jan 12 2024 |  | [LONDON KNIGHTS VS. SAGINAW SPIRIT](https://www.budweisergardens.com/events/detail/london-knights-jan12) ([BudG](/about#BudG)) |
-|  | 12:30 | [Fridays at 12:30 Concert Series: Ein Liederkonzert](http://www.events.westernu.ca/events/music/2024-01/fridays-at-1230-ein-liederkonzert.html) ([FMus](/about#FMus)) |
+|  | 12:30 | [Fridays at 12:30 Concert Series: Ein Liederkonzert CANCELLED](http://www.events.westernu.ca/events/music/2024-01/fridays-at-1230-ein-liederkonzert.html) ([FMus](/about#FMus)) |
 | Sat Jan 13 2024 | 12:00 | [Maritsa Brookes Concerto Competition - Final Round](http://www.events.westernu.ca/events/music/2024-01/maritsa-brookes-final-round.html) ([FMus](/about#FMus)) |
 |  | 19:30 | [mattlayn – One Last Time (Southen Lounge)](https://aeolianhall.ca/events/mattlayn-one-last-time-2/) ([Aeol](/about#Aeol)) |
 |  | 22:00 | [Markus Shulz](http://londonmusichall.com/events/markus-shulz/) ([LMH](/about#LMH)) |
 | Sun Jan 14 2024 | 13:00 | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/14) ([Museum](/about#Museum)) |
 | Tue Jan 16 2024 |  | [The Invisible - Agents of Ungentlemanly Warfare](https://www.grandtheatre.com/event/the-invisible) ([Grand](/about#Grand)) |
 | Fri Jan 19 2024 | 08:30 | [PA Day Camp: Mini Model Makers](https://museumlondon.ca/programs-events/event/10556/) ([Museum](/about#Museum)) |
+| Sat Jan 20 2024 | 22:00 | [Flowidus at System Saturdays](http://londonmusichall.com/events/flowidus-at-system-saturdays/) ([LMH](/about#LMH)) |
 | Sun Jan 21 2024 |  | [Ensemble Caprice](https://www.grandtheatre.com/event/ensemble-caprice) ([Grand](/about#Grand)) |
 |  | 13:00 | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/21) ([Museum](/about#Museum)) |
 |  | 20:00 | [MJ The Illusion](https://aeolianhall.ca/events/mj-the-illusion/) ([Aeol](/about#Aeol)) |
@@ -93,11 +93,14 @@ draft: false
 |  | 12:00 | [Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10904/) ([Museum](/about#Museum)) |
 | Sun Mar 17 2024 | 13:00 | [Imagination Station: Wonderful Weaving](https://museumlondon.ca/programs-events/event/10763/2024/03/17) ([Museum](/about#Museum)) |
 |  | 19:00 | [CORB LUND: THE EL VIEJO RELEASE TOUR](http://londonmusichall.com/events/corb-lund-the-el-viejo-release-tour/) ([LMH](/about#LMH)) |
+| Sun Mar 24 2024 | 13:00 | [Imagination Station: Wonderful Weaving](https://museumlondon.ca/programs-events/event/10763/2024/03/24) ([Museum](/about#Museum)) |
 | Thu Mar 28 2024 | 19:00 | [Warren Zeiders](http://londonmusichall.com/events/warren-zeiders/) ([LMH](/about#LMH)) |
+|  | 20:00 | [Ariel Posen](https://aeolianhall.ca/events/ariel-posen/) ([Aeol](/about#Aeol)) |
 | Sat Mar 30 2024 | 08:00 | [Outdoor Easter Market](https://coventmarket.com/event/4032/) ([CGM](/about#CGM)) |
 |  | 22:00 | [Le Youth @ System Saturdays](http://londonmusichall.com/events/le-youth-system-saturdays/) ([LMH](/about#LMH)) |
 | Fri Apr 05 2024 | 20:00 | [It’s Too Late To Stop Now: The Music of Van Morrison](https://aeolianhall.ca/events/its-too-late-to-stop-now-the-music-of-van-morrison-3/) ([Aeol](/about#Aeol)) |
-| Sat Apr 06 2024 | 20:00 | [A’Court, Spiegel & Vinnick](https://aeolianhall.ca/events/acourt-spiegel-vinnick/) ([Aeol](/about#Aeol)) |
+| Sat Apr 06 2024 | 12:00 | [Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10906/) ([Museum](/about#Museum)) |
+|  | 20:00 | [A’Court, Spiegel & Vinnick](https://aeolianhall.ca/events/acourt-spiegel-vinnick/) ([Aeol](/about#Aeol)) |
 | Sun Apr 07 2024 |  | [Calidore String Quartet](https://www.grandtheatre.com/event/calidore-string-quartet) ([Grand](/about#Grand)) |
 |  | 19:00 | [LADYSMITH BLACK MAMBOZA](http://londonmusichall.com/events/ladysmith-black-mamboza/) ([LMH](/about#LMH)) |
 | Tue Apr 09 2024 |  | [One Step at a Time](https://www.grandtheatre.com/event/one-step-at-a-time) ([Grand](/about#Grand)) |
