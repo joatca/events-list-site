@@ -1,22 +1,28 @@
 ---
 title: "Events"
-date: 2023-12-20T00:00:41-05:00
+date: 2023-12-21T00:00:43-05:00
 draft: false
 ---
 
 | When  |  | Event (Venue) |
 |------:|-:|:--------------|
-| Wednesday |  | [A Christmas RockStory: A Holiday Circus Spectacular!](https://www.budweisergardens.com/events/detail/a-christmas-rockstory-a-holiday-circus-spectacular) ([BudG](/about#BudG)) |
-|  |  | [Charlie and the Chocolate Factory](https://www.grandtheatre.com/event/charlie-and-the-chocolate-factory) ([Grand](/about#Grand)) |
+| Thursday |  | [Charlie and the Chocolate Factory](https://www.grandtheatre.com/event/charlie-and-the-chocolate-factory) ([Grand](/about#Grand)) |
 |  |  | [London Gospel Collective 2023/24 Series](https://www.grandtheatre.com/event/london-gospel-collective-2324) ([Grand](/about#Grand)) |
-|  | 16:00 | [OUTREACH: Family Centre Carling-Thames](https://www.londonchildrensmuseum.ca/event/outreach-family-centre-carling-thames) ([CMus](/about#CMus)) |
-| Thursday |  | [My Son Pinocchio JR.](https://www.grandtheatre.com/event/my-son-pinocchio-jr) ([Grand](/about#Grand)) |
+|  |  | [My Son Pinocchio JR.](https://www.grandtheatre.com/event/my-son-pinocchio-jr) ([Grand](/about#Grand)) |
 |  | 09:30 | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) ([CMus](/about#CMus)) |
 |  | 17:00 | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) ([CMus](/about#CMus)) |
 |  | 18:00 | [STEAM: DIY Wrapping Paper](https://www.londonchildrensmuseum.ca/event/steam-diy-wrapping-paper) ([CMus](/about#CMus)) |
 | Friday | 10:00 | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) ([CMus](/about#CMus)) |
+|  | 17:00 | [Pyjama Party](https://www.londonchildrensmuseum.ca/event/pyjama-party) ([CMus](/about#CMus)) |
 |  | 19:00 | [The Legendary Patsy Cline Christmas Show](https://aeolianhall.ca/events/the-legendary-patsy-cline-christmas-show/) ([Aeol](/about#Aeol)) |
 |  | 19:00 | [Doghouse Rose](http://londonmusichall.com/events/doghouse-rose-3/) ([LMH](/about#LMH)) |
+| Saturday | 11:00 | [STEAM: DIY Wrapping Paper](https://www.londonchildrensmuseum.ca/event/steam-diy-wrapping-paper) ([CMus](/about#CMus)) |
+|  | 13:00 | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) ([CMus](/about#CMus)) |
+|  | 14:30 | [STEAM: DIY Wrapping Paper](https://www.londonchildrensmuseum.ca/event/steam-diy-wrapping-paper) ([CMus](/about#CMus)) |
+| Sunday | 11:00 | [STEAM: DIY Wrapping Paper](https://www.londonchildrensmuseum.ca/event/steam-diy-wrapping-paper) ([CMus](/about#CMus)) |
+|  | 14:00 | [Early Closure](https://www.londonchildrensmuseum.ca/event/early-closure-0) ([CMus](/about#CMus)) |
+| Monday |  | [CLOSED](https://www.londonchildrensmuseum.ca/event/closed-0) ([CMus](/about#CMus)) |
+| Tuesday | 09:30 | [OPEN](https://www.londonchildrensmuseum.ca/event/open) ([CMus](/about#CMus)) |
 | Fri Dec 29 |  | [LONDON KNIGHTS VS. SARNIA STING](https://www.budweisergardens.com/events/detail/london-knights-dec29) ([BudG](/about#BudG)) |
 |  | 19:00 | [Texas King – Hometown Holiday](http://londonmusichall.com/events/texas-king-hometown-holiday-2/) ([LMH](/about#LMH)) |
 | Sun Dec 31 |  | [LONDON KNIGHTS VS. FLINT FIREBIRDS](https://www.budweisergardens.com/events/detail/london-knights-dec31) ([BudG](/about#BudG)) |
@@ -34,11 +40,14 @@ draft: false
 | Sat Jan 13 2024 | 12:00 | [Maritsa Brookes Concerto Competition - Final Round](http://www.events.westernu.ca/events/music/2024-01/maritsa-brookes-final-round.html) ([FMus](/about#FMus)) |
 |  | 19:30 | [mattlayn – One Last Time (Southen Lounge)](https://aeolianhall.ca/events/mattlayn-one-last-time-2/) ([Aeol](/about#Aeol)) |
 |  | 22:00 | [Markus Shulz](http://londonmusichall.com/events/markus-shulz/) ([LMH](/about#LMH)) |
-| Sun Jan 14 2024 | 13:00 | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/14) ([Museum](/about#Museum)) |
+| Sun Jan 14 2024 |  | [LONDON KNIGHTS VS. OWEN SOUND ATTACK](https://www.budweisergardens.com/events/detail/london-knights-jan14) ([BudG](/about#BudG)) |
+|  | 13:00 | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/14) ([Museum](/about#Museum)) |
 | Tue Jan 16 2024 |  | [The Invisible - Agents of Ungentlemanly Warfare](https://www.grandtheatre.com/event/the-invisible) ([Grand](/about#Grand)) |
 | Wed Jan 17 2024 | 19:00 | [Young Dubliners](http://londonmusichall.com/events/young-dubliners/) ([LMH](/about#LMH)) |
 | Thu Jan 18 2024 | 20:00 | [2023 Fred Pattison Piano Award Winner's Recital ](http://www.events.westernu.ca/events/music/2024-01/2023-fred-pattison-recital.html) ([FMus](/about#FMus)) |
 | Fri Jan 19 2024 | 08:30 | [PA Day Camp: Mini Model Makers](https://museumlondon.ca/programs-events/event/10556/) ([Museum](/about#Museum)) |
+|  | 12:30 | [Fridays at 12:30 Concert Series: The Sylvestre-Park Duo](http://www.events.westernu.ca/events/music/2024-01/fridays-at-1230-sylvestre-park.html) ([FMus](/about#FMus)) |
+|  | 20:00 | [2024 Fred Pattison Piano Competition - Final Round](http://www.events.westernu.ca/events/music/2024-01/2024-fred-pattison-final-round.html) ([FMus](/about#FMus)) |
 | Sat Jan 20 2024 | 22:00 | [Flowidus at System Saturdays](http://londonmusichall.com/events/flowidus-at-system-saturdays/) ([LMH](/about#LMH)) |
 | Sun Jan 21 2024 |  | [Ensemble Caprice](https://www.grandtheatre.com/event/ensemble-caprice) ([Grand](/about#Grand)) |
 |  | 13:00 | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/21) ([Museum](/about#Museum)) |
@@ -84,6 +93,7 @@ draft: false
 | Tue Mar 05 2024 |  | [Jeans 'n Classics 2023/24 Series](https://www.grandtheatre.com/event/jeans-n-classics-2324) ([Grand](/about#Grand)) |
 | Wed Mar 06 2024 | 20:00 | [James Kennedy](http://londonmusichall.com/events/james-kennedy/) ([LMH](/about#LMH)) |
 | Fri Mar 08 2024 | 19:00 | [Zachary Stevenson’s Tribute to Buddy Holly](https://aeolianhall.ca/events/zachary-stevensons-tribute-to-buddy-holly/) ([Aeol](/about#Aeol)) |
+|  | 19:00 | [Spencer Burton](http://londonmusichall.com/events/spencer-burton/) ([LMH](/about#LMH)) |
 | Sat Mar 09 2024 |  | [Isidore String Quartet and Arthur Rowe, piano](https://www.grandtheatre.com/event/isidore-string-quartet-and-arthur-rowe-piano) ([Grand](/about#Grand)) |
 |  | 18:30 | [The Portuguese Kids – iMPROVISITAS! Tour](http://londonmusichall.com/events/the-portuguese-kids-improvisitas-tour/) ([LMH](/about#LMH)) |
 | Sun Mar 10 2024 | 13:00 | [Imagination Station: Wonderful Weaving](https://museumlondon.ca/programs-events/event/10763/2024/03/10) ([Museum](/about#Museum)) |
