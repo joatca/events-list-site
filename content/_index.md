@@ -1,18 +1,15 @@
 ---
 title: "Events"
-date: 2023-12-21T00:00:43-05:00
+date: 2023-12-22T00:00:43-05:00
 draft: false
 ---
 
 | When  |  | Event (Venue) |
 |------:|-:|:--------------|
-| Thursday |  | [Charlie and the Chocolate Factory](https://www.grandtheatre.com/event/charlie-and-the-chocolate-factory) ([Grand](/about#Grand)) |
+| Friday |  | [Charlie and the Chocolate Factory](https://www.grandtheatre.com/event/charlie-and-the-chocolate-factory) ([Grand](/about#Grand)) |
 |  |  | [London Gospel Collective 2023/24 Series](https://www.grandtheatre.com/event/london-gospel-collective-2324) ([Grand](/about#Grand)) |
 |  |  | [My Son Pinocchio JR.](https://www.grandtheatre.com/event/my-son-pinocchio-jr) ([Grand](/about#Grand)) |
-|  | 09:30 | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) ([CMus](/about#CMus)) |
-|  | 17:00 | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) ([CMus](/about#CMus)) |
-|  | 18:00 | [STEAM: DIY Wrapping Paper](https://www.londonchildrensmuseum.ca/event/steam-diy-wrapping-paper) ([CMus](/about#CMus)) |
-| Friday | 10:00 | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) ([CMus](/about#CMus)) |
+|  | 10:00 | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) ([CMus](/about#CMus)) |
 |  | 17:00 | [Pyjama Party](https://www.londonchildrensmuseum.ca/event/pyjama-party) ([CMus](/about#CMus)) |
 |  | 19:00 | [The Legendary Patsy Cline Christmas Show](https://aeolianhall.ca/events/the-legendary-patsy-cline-christmas-show/) ([Aeol](/about#Aeol)) |
 |  | 19:00 | [Doghouse Rose](http://londonmusichall.com/events/doghouse-rose-3/) ([LMH](/about#LMH)) |
@@ -23,6 +20,8 @@ draft: false
 |  | 14:00 | [Early Closure](https://www.londonchildrensmuseum.ca/event/early-closure-0) ([CMus](/about#CMus)) |
 | Monday |  | [CLOSED](https://www.londonchildrensmuseum.ca/event/closed-0) ([CMus](/about#CMus)) |
 | Tuesday | 09:30 | [OPEN](https://www.londonchildrensmuseum.ca/event/open) ([CMus](/about#CMus)) |
+|  | 11:00 | [STEAM: Making Snowflakes](https://www.londonchildrensmuseum.ca/event/steam-making-snowflakes) ([CMus](/about#CMus)) |
+|  | 14:30 | [STEAM: Melting Snowman](https://www.londonchildrensmuseum.ca/event/steam-melting-snowman) ([CMus](/about#CMus)) |
 | Fri Dec 29 |  | [LONDON KNIGHTS VS. SARNIA STING](https://www.budweisergardens.com/events/detail/london-knights-dec29) ([BudG](/about#BudG)) |
 |  | 19:00 | [Texas King – Hometown Holiday](http://londonmusichall.com/events/texas-king-hometown-holiday-2/) ([LMH](/about#LMH)) |
 | Sun Dec 31 |  | [LONDON KNIGHTS VS. FLINT FIREBIRDS](https://www.budweisergardens.com/events/detail/london-knights-dec31) ([BudG](/about#BudG)) |
@@ -34,6 +33,7 @@ draft: false
 |  | 11:00 | [Saturday Cooking Demo](https://coventmarket.com/event/saturday-cooking-classes-2/) ([CGM](/about#CGM)) |
 | Sun Jan 07 2024 | 13:00 | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/07) ([Museum](/about#Museum)) |
 | Thu Jan 11 2024 |  | [London Lightning vs. Montreal Tundra](https://www.budweisergardens.com/events/detail/london-lightning-vs-montreal-toundra) ([BudG](/about#BudG)) |
+|  | 17:00 | [Crokicurl on the Rotary Square](https://coventmarket.com/event/crokicurl-on-the-rotary-square/) ([CGM](/about#CGM)) |
 |  | 19:00 | [PARABOLUS: The Complete Tool Experience](http://londonmusichall.com/events/parabolus-the-complete-tool-experience/) ([LMH](/about#LMH)) |
 | Fri Jan 12 2024 |  | [LONDON KNIGHTS VS. SAGINAW SPIRIT](https://www.budweisergardens.com/events/detail/london-knights-jan12) ([BudG](/about#BudG)) |
 |  | 12:30 | [Fridays at 12:30 Concert Series: Ein Liederkonzert CANCELLED](http://www.events.westernu.ca/events/music/2024-01/fridays-at-1230-ein-liederkonzert.html) ([FMus](/about#FMus)) |
@@ -48,7 +48,8 @@ draft: false
 | Fri Jan 19 2024 | 08:30 | [PA Day Camp: Mini Model Makers](https://museumlondon.ca/programs-events/event/10556/) ([Museum](/about#Museum)) |
 |  | 12:30 | [Fridays at 12:30 Concert Series: The Sylvestre-Park Duo](http://www.events.westernu.ca/events/music/2024-01/fridays-at-1230-sylvestre-park.html) ([FMus](/about#FMus)) |
 |  | 20:00 | [2024 Fred Pattison Piano Competition - Final Round](http://www.events.westernu.ca/events/music/2024-01/2024-fred-pattison-final-round.html) ([FMus](/about#FMus)) |
-| Sat Jan 20 2024 | 22:00 | [Flowidus at System Saturdays](http://londonmusichall.com/events/flowidus-at-system-saturdays/) ([LMH](/about#LMH)) |
+| Sat Jan 20 2024 | 11:00 | [2024 Fred Pattison Piano Competition - Masterclass](http://www.events.westernu.ca/events/music/2024-01/2024-fred-pattison-masterclass.html) ([FMus](/about#FMus)) |
+|  | 22:00 | [Flowidus at System Saturdays](http://londonmusichall.com/events/flowidus-at-system-saturdays/) ([LMH](/about#LMH)) |
 | Sun Jan 21 2024 |  | [Ensemble Caprice](https://www.grandtheatre.com/event/ensemble-caprice) ([Grand](/about#Grand)) |
 |  | 13:00 | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/21) ([Museum](/about#Museum)) |
 |  | 20:00 | [MJ The Illusion](https://aeolianhall.ca/events/mj-the-illusion/) ([Aeol](/about#Aeol)) |
@@ -112,7 +113,7 @@ draft: false
 |  | 20:00 | [Ariel Posen](https://aeolianhall.ca/events/ariel-posen/) ([Aeol](/about#Aeol)) |
 | Sat Mar 30 2024 | 08:00 | [Outdoor Easter Market](https://coventmarket.com/event/4032/) ([CGM](/about#CGM)) |
 |  | 22:00 | [Le Youth @ System Saturdays](http://londonmusichall.com/events/le-youth-system-saturdays/) ([LMH](/about#LMH)) |
-| Thu Apr 04 2024 | 19:00 | [Dave Hause, The Drew Thomson Foundation](http://londonmusichall.com/events/dave-hause-the-drew-thomson-foundation/) ([LMH](/about#LMH)) |
+| Thu Apr 04 2024 | 19:00 | [Dave Hause](http://londonmusichall.com/events/dave-hause-the-drew-thomson-foundation/) ([LMH](/about#LMH)) |
 | Fri Apr 05 2024 | 20:00 | [It’s Too Late To Stop Now: The Music of Van Morrison](https://aeolianhall.ca/events/its-too-late-to-stop-now-the-music-of-van-morrison-3/) ([Aeol](/about#Aeol)) |
 | Sat Apr 06 2024 | 12:00 | [Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10906/) ([Museum](/about#Museum)) |
 |  | 20:00 | [A’Court, Spiegel & Vinnick](https://aeolianhall.ca/events/acourt-spiegel-vinnick/) ([Aeol](/about#Aeol)) |

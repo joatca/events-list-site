@@ -1,6 +1,6 @@
 ---
 title: "Abbreviations"
-date: 2023-12-21T00:00:43-05:00
+date: 2023-12-22T00:00:43-05:00
 draft: false
 ---
 
@@ -11,13 +11,13 @@ This page currently supports events found on these sites.
 | **100K** | [100 Kellogg Lane](https://100kellogglane.com/) | *Not supported: no events listing*
 | **Aeol** | [Aeolian Hall](https://aeolianhall.ca/) | *20 events found*
 | **BudG** | [Budweiser Gardens](https://www.budweisergardens.com/) | *8 events found*
-| **CGM** | [Covent Garden Market](https://coventmarket.com/) | *9 events found*
+| **CGM** | [Covent Garden Market](https://coventmarket.com/) | *10 events found*
 | **CMus** | [London Children's Museum](https://www.londonchildrensmuseum.ca/) | *15 events found*
 | **Cent** | [Centennial Hall](https://centennialhall.london.ca/london-event-listings.html) | *Not supported: too difficult to scan website automatically*
-| **FMus** | [Don Wright Faculty of Music](http://www.events.westernu.ca/events/music/) | *5 events found*
+| **FMus** | [Don Wright Faculty of Music](http://www.events.westernu.ca/events/music/) | *6 events found*
 | **Grand** | [Grand Theatre](https://www.grandtheatre.com/) | *18 events found*
 | **LMH** | [London Music Hall](http://londonmusichall.com/) | *43 events found*
 | **Museum** | [Museum London](https://museumlondon.ca/) | *18 events found*
 | **Wolf** | [Wolf Performance Hall](https://www.lpl.ca/services-spaces/featured-spaces/wolf-performance-hall) | *Error: unable to fetch any events*
 
-_Last updated 2023-12-21 00:00:43 -0500_
+_Last updated 2023-12-22 00:00:43 -0500_
