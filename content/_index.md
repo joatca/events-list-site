@@ -1,19 +1,15 @@
 ---
 title: "Events"
-date: 2023-12-22T00:00:43-05:00
+date: 2023-12-23T00:00:28-05:00
 draft: false
 ---
 
 | When  |  | Event (Venue) |
 |------:|-:|:--------------|
-| Friday |  | [Charlie and the Chocolate Factory](https://www.grandtheatre.com/event/charlie-and-the-chocolate-factory) ([Grand](/about#Grand)) |
+| Saturday |  | [Charlie and the Chocolate Factory](https://www.grandtheatre.com/event/charlie-and-the-chocolate-factory) ([Grand](/about#Grand)) |
 |  |  | [London Gospel Collective 2023/24 Series](https://www.grandtheatre.com/event/london-gospel-collective-2324) ([Grand](/about#Grand)) |
 |  |  | [My Son Pinocchio JR.](https://www.grandtheatre.com/event/my-son-pinocchio-jr) ([Grand](/about#Grand)) |
-|  | 10:00 | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) ([CMus](/about#CMus)) |
-|  | 17:00 | [Pyjama Party](https://www.londonchildrensmuseum.ca/event/pyjama-party) ([CMus](/about#CMus)) |
-|  | 19:00 | [The Legendary Patsy Cline Christmas Show](https://aeolianhall.ca/events/the-legendary-patsy-cline-christmas-show/) ([Aeol](/about#Aeol)) |
-|  | 19:00 | [Doghouse Rose](http://londonmusichall.com/events/doghouse-rose-3/) ([LMH](/about#LMH)) |
-| Saturday | 11:00 | [STEAM: DIY Wrapping Paper](https://www.londonchildrensmuseum.ca/event/steam-diy-wrapping-paper) ([CMus](/about#CMus)) |
+|  | 11:00 | [STEAM: DIY Wrapping Paper](https://www.londonchildrensmuseum.ca/event/steam-diy-wrapping-paper) ([CMus](/about#CMus)) |
 |  | 13:00 | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) ([CMus](/about#CMus)) |
 |  | 14:30 | [STEAM: DIY Wrapping Paper](https://www.londonchildrensmuseum.ca/event/steam-diy-wrapping-paper) ([CMus](/about#CMus)) |
 | Sunday | 11:00 | [STEAM: DIY Wrapping Paper](https://www.londonchildrensmuseum.ca/event/steam-diy-wrapping-paper) ([CMus](/about#CMus)) |
@@ -22,7 +18,7 @@ draft: false
 | Tuesday | 09:30 | [OPEN](https://www.londonchildrensmuseum.ca/event/open) ([CMus](/about#CMus)) |
 |  | 11:00 | [STEAM: Making Snowflakes](https://www.londonchildrensmuseum.ca/event/steam-making-snowflakes) ([CMus](/about#CMus)) |
 |  | 14:30 | [STEAM: Melting Snowman](https://www.londonchildrensmuseum.ca/event/steam-melting-snowman) ([CMus](/about#CMus)) |
-| Fri Dec 29 |  | [LONDON KNIGHTS VS. SARNIA STING](https://www.budweisergardens.com/events/detail/london-knights-dec29) ([BudG](/about#BudG)) |
+| Friday |  | [LONDON KNIGHTS VS. SARNIA STING](https://www.budweisergardens.com/events/detail/london-knights-dec29) ([BudG](/about#BudG)) |
 |  | 19:00 | [Texas King – Hometown Holiday](http://londonmusichall.com/events/texas-king-hometown-holiday-2/) ([LMH](/about#LMH)) |
 | Sun Dec 31 |  | [LONDON KNIGHTS VS. FLINT FIREBIRDS](https://www.budweisergardens.com/events/detail/london-knights-dec31) ([BudG](/about#BudG)) |
 |  | 21:00 | [NYE 2024](http://londonmusichall.com/events/nye-2024/) ([LMH](/about#LMH)) |
@@ -59,6 +55,7 @@ draft: false
 | Sun Jan 28 2024 | 13:00 | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/28) ([Museum](/about#Museum)) |
 | Fri Feb 02 2024 | 21:00 | [Wing Night: The Band](http://londonmusichall.com/events/wing-night-the-band-5/) ([LMH](/about#LMH)) |
 | Sat Feb 03 2024 | 09:00 | [Indoor Farmers Market](https://coventmarket.com/event/first-indoor-winter-farmers-market/) ([CGM](/about#CGM)) |
+|  | 17:00 | [Market Block DJ Skates](https://coventmarket.com/event/crokicurl/) ([CGM](/about#CGM)) |
 | Sun Feb 04 2024 | 13:00 | [Imagination Station: Paper Puppetry](https://museumlondon.ca/programs-events/event/10760/2024/02/04) ([Museum](/about#Museum)) |
 | Tue Feb 06 2024 |  | [Huff](https://www.grandtheatre.com/event/huff) ([Grand](/about#Grand)) |
 | Wed Feb 07 2024 | 19:00 | [Brother Elsey](http://londonmusichall.com/events/brother-elsey-4/) ([LMH](/about#LMH)) |
@@ -73,13 +70,15 @@ draft: false
 | Sun Feb 11 2024 | 13:00 | [Imagination Station: Paper Puppetry](https://museumlondon.ca/programs-events/event/10760/2024/02/11) ([Museum](/about#Museum)) |
 |  | 19:00 | [ANOMALIE](http://londonmusichall.com/events/anomalie/) ([LMH](/about#LMH)) |
 | Tue Feb 13 2024 |  | [In Seven Days](https://www.grandtheatre.com/event/in-seven-days) ([Grand](/about#Grand)) |
-| Wed Feb 14 2024 | 19:00 | [Elliott Brood](http://londonmusichall.com/events/elliott-brood/) ([LMH](/about#LMH)) |
+| Wed Feb 14 2024 | 17:00 | [Valentine’s Date Night at the Market](https://coventmarket.com/event/valentines-date-night-at-the-market/) ([CGM](/about#CGM)) |
+|  | 19:00 | [Elliott Brood](http://londonmusichall.com/events/elliott-brood/) ([LMH](/about#LMH)) |
 | Thu Feb 15 2024 | 19:00 | [Brett Kissel – The Compass Tour](http://londonmusichall.com/events/brett-kissel-the-compass-tour/) ([LMH](/about#LMH)) |
 |  | 20:00 | [Jordan Hart](https://aeolianhall.ca/events/jordan-hart/) ([Aeol](/about#Aeol)) |
 | Fri Feb 16 2024 | 21:00 | [GIMME GIMME DISCO](http://londonmusichall.com/events/gimme-gimme-disco/) ([LMH](/about#LMH)) |
 | Sat Feb 17 2024 | 19:00 | [Charlotte Cardin – 99 Nights Tour](http://londonmusichall.com/events/charlotte-cardin-99-nights-tour/) ([LMH](/about#LMH)) |
 |  | 20:00 | [Listen To The Music – A Tribute to The Doobie Brothers](https://aeolianhall.ca/events/listen-to-the-music-a-tribute-to-the-doobie-brothers/) ([Aeol](/about#Aeol)) |
 | Sun Feb 18 2024 | 13:00 | [Imagination Station: Paper Puppetry](https://museumlondon.ca/programs-events/event/10760/2024/02/18) ([Museum](/about#Museum)) |
+| Mon Feb 19 2024 | 12:00 | [Family Day at the Market](https://coventmarket.com/event/family-day-at-the-market/) ([CGM](/about#CGM)) |
 | Wed Feb 21 2024 | 18:00 | [Municipal Waste – Brainsqueeze Tour 2024](http://londonmusichall.com/events/municipal-waste-brainsqueeze-tour-2024/) ([LMH](/about#LMH)) |
 | Thu Feb 22 2024 |  | [A Chorus Line - Teen Edition](https://www.grandtheatre.com/event/chorus-line-teen-edition) ([Grand](/about#Grand)) |
 | Fri Feb 23 2024 | 20:00 | [Guy Davis](https://aeolianhall.ca/events/guy-davis-2/) ([Aeol](/about#Aeol)) |
@@ -127,6 +126,7 @@ draft: false
 | Sun Apr 21 2024 | 19:30 | [Shantero Productions Presents: The Stampeders – One More Time!](https://aeolianhall.ca/events/shantero-productions-presents-the-stampeders-one-more-time-2/) ([Aeol](/about#Aeol)) |
 | Thu Apr 25 2024 | 18:30 | [Green Jelly](http://londonmusichall.com/events/green-jelly/) ([LMH](/about#LMH)) |
 | Fri Apr 26 2024 | 19:00 | [TALK – LORD OF THE FLIES & BIRDS & BEES TOUR](http://londonmusichall.com/events/talk-lord-of-the-flies-birds-bees-tour/) ([LMH](/about#LMH)) |
+|  | 20:00 | [The Woodstock Experience](https://aeolianhall.ca/events/the-woodstock-experience-2/) ([Aeol](/about#Aeol)) |
 | Sat Apr 27 2024 |  | [Jaeden Izik-Dzurko, piano](https://www.grandtheatre.com/event/jaeden-izik-dzurko-piano) ([Grand](/about#Grand)) |
 |  | 11:00 | [New Horizons Band Performance](https://coventmarket.com/event/new-horizons-band-performance/) ([CGM](/about#CGM)) |
 |  | 22:00 | [Vampa “Bad Bodies” tour @ System Saturdays](http://londonmusichall.com/events/vampa-bad-bodies-tour-system-saturdays-2/) ([LMH](/about#LMH)) |
