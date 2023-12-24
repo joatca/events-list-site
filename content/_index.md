@@ -1,18 +1,14 @@
 ---
 title: "Events"
-date: 2023-12-23T00:00:28-05:00
+date: 2023-12-24T00:00:30-05:00
 draft: false
 ---
 
 | When  |  | Event (Venue) |
 |------:|-:|:--------------|
-| Saturday |  | [Charlie and the Chocolate Factory](https://www.grandtheatre.com/event/charlie-and-the-chocolate-factory) ([Grand](/about#Grand)) |
+| Sunday |  | [Charlie and the Chocolate Factory](https://www.grandtheatre.com/event/charlie-and-the-chocolate-factory) ([Grand](/about#Grand)) |
 |  |  | [London Gospel Collective 2023/24 Series](https://www.grandtheatre.com/event/london-gospel-collective-2324) ([Grand](/about#Grand)) |
-|  |  | [My Son Pinocchio JR.](https://www.grandtheatre.com/event/my-son-pinocchio-jr) ([Grand](/about#Grand)) |
 |  | 11:00 | [STEAM: DIY Wrapping Paper](https://www.londonchildrensmuseum.ca/event/steam-diy-wrapping-paper) ([CMus](/about#CMus)) |
-|  | 13:00 | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) ([CMus](/about#CMus)) |
-|  | 14:30 | [STEAM: DIY Wrapping Paper](https://www.londonchildrensmuseum.ca/event/steam-diy-wrapping-paper) ([CMus](/about#CMus)) |
-| Sunday | 11:00 | [STEAM: DIY Wrapping Paper](https://www.londonchildrensmuseum.ca/event/steam-diy-wrapping-paper) ([CMus](/about#CMus)) |
 |  | 14:00 | [Early Closure](https://www.londonchildrensmuseum.ca/event/early-closure-0) ([CMus](/about#CMus)) |
 | Monday |  | [CLOSED](https://www.londonchildrensmuseum.ca/event/closed-0) ([CMus](/about#CMus)) |
 | Tuesday | 09:30 | [OPEN](https://www.londonchildrensmuseum.ca/event/open) ([CMus](/about#CMus)) |
