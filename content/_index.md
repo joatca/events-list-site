@@ -1,22 +1,19 @@
 ---
 title: "Events"
-date: 2023-12-24T00:00:30-05:00
+date: 2023-12-25T00:00:23-05:00
 draft: false
 ---
 
 | When  |  | Event (Venue) |
 |------:|-:|:--------------|
-| Sunday |  | [Charlie and the Chocolate Factory](https://www.grandtheatre.com/event/charlie-and-the-chocolate-factory) ([Grand](/about#Grand)) |
-|  |  | [London Gospel Collective 2023/24 Series](https://www.grandtheatre.com/event/london-gospel-collective-2324) ([Grand](/about#Grand)) |
-|  | 11:00 | [STEAM: DIY Wrapping Paper](https://www.londonchildrensmuseum.ca/event/steam-diy-wrapping-paper) ([CMus](/about#CMus)) |
-|  | 14:00 | [Early Closure](https://www.londonchildrensmuseum.ca/event/early-closure-0) ([CMus](/about#CMus)) |
-| Monday |  | [CLOSED](https://www.londonchildrensmuseum.ca/event/closed-0) ([CMus](/about#CMus)) |
+| Monday |  | [London Gospel Collective 2023/24 Series](https://www.grandtheatre.com/event/london-gospel-collective-2324) ([Grand](/about#Grand)) |
+|  |  | [CLOSED](https://www.londonchildrensmuseum.ca/event/closed-0) ([CMus](/about#CMus)) |
 | Tuesday | 09:30 | [OPEN](https://www.londonchildrensmuseum.ca/event/open) ([CMus](/about#CMus)) |
 |  | 11:00 | [STEAM: Making Snowflakes](https://www.londonchildrensmuseum.ca/event/steam-making-snowflakes) ([CMus](/about#CMus)) |
 |  | 14:30 | [STEAM: Melting Snowman](https://www.londonchildrensmuseum.ca/event/steam-melting-snowman) ([CMus](/about#CMus)) |
 | Friday |  | [LONDON KNIGHTS VS. SARNIA STING](https://www.budweisergardens.com/events/detail/london-knights-dec29) ([BudG](/about#BudG)) |
 |  | 19:00 | [Texas King – Hometown Holiday](http://londonmusichall.com/events/texas-king-hometown-holiday-2/) ([LMH](/about#LMH)) |
-| Sun Dec 31 |  | [LONDON KNIGHTS VS. FLINT FIREBIRDS](https://www.budweisergardens.com/events/detail/london-knights-dec31) ([BudG](/about#BudG)) |
+| Sunday |  | [LONDON KNIGHTS VS. FLINT FIREBIRDS](https://www.budweisergardens.com/events/detail/london-knights-dec31) ([BudG](/about#BudG)) |
 |  | 21:00 | [NYE 2024](http://londonmusichall.com/events/nye-2024/) ([LMH](/about#LMH)) |
 | Wed Jan 03 2024 |  | [LONDON KNIGHTS VS. ERIE OTTERS](https://www.budweisergardens.com/events/detail/london-knights-jan3) ([BudG](/about#BudG)) |
 | Fri Jan 05 2024 |  | [LONDON KNIGHTS VS. BARRIE COLTS](https://www.budweisergardens.com/events/detail/london-knights-jan5) ([BudG](/about#BudG)) |
