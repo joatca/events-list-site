@@ -1,13 +1,27 @@
 ---
 title: "Events"
-date: 2023-12-27T00:00:23-05:00
+date: 2023-12-27T14:05:30-05:00
 draft: false
 ---
 
 | When  |  | Event (Venue) |
 |------:|-:|:--------------|
 | Wednesday |  | [London Gospel Collective 2023/24 Series](https://www.grandtheatre.com/event/london-gospel-collective-2324) [(Grand)](/about#Grand) |
+|  |  | [Repeat Offenders - Holidaze Show](https://www.londontourism.ca/events/repeat-offenders-holidaze-show) [(Tour)](/about#Tour) |
+|  |  | [Winter Break Day Camp @ Forest City CrossFit, December 27-29](https://www.londontourism.ca/events/winter-break-day-camp-forest-city-crossfit-december-27-29) [(Tour)](/about#Tour) |
+|  | 09:00 | [PA Day Camp](https://www.londonchildrensmuseum.ca/event/pa-day-camp) [(CMus)](/about#CMus) |
+|  | 11:00 | [STEAM: Making Snowflakes](https://www.londonchildrensmuseum.ca/event/steam-making-snowflakes) [(CMus)](/about#CMus) |
+|  | 14:30 | [STEAM: Melting Snowman](https://www.londonchildrensmuseum.ca/event/steam-melting-snowman) [(CMus)](/about#CMus) |
+| Thursday | 09:00 | [PA Day Camp](https://www.londonchildrensmuseum.ca/event/pa-day-camp) [(CMus)](/about#CMus) |
+|  | 11:00 | [STEAM: Making Snowflakes](https://www.londonchildrensmuseum.ca/event/steam-making-snowflakes) [(CMus)](/about#CMus) |
+|  | 14:30 | [STEAM: Melting Snowman](https://www.londonchildrensmuseum.ca/event/steam-melting-snowman) [(CMus)](/about#CMus) |
+|  | 17:00 | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) [(CMus)](/about#CMus) |
+|  | 18:00 | [STEAM: Melting Snowman](https://www.londonchildrensmuseum.ca/event/steam-melting-snowman) [(CMus)](/about#CMus) |
 | Friday |  | [LONDON KNIGHTS VS. SARNIA STING](https://www.budweisergardens.com/events/detail/london-knights-dec29) [(BudG)](/about#BudG) |
+|  | 09:00 | [PA Day Camp](https://www.londonchildrensmuseum.ca/event/pa-day-camp) [(CMus)](/about#CMus) |
+|  | 10:00 | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) [(CMus)](/about#CMus) |
+|  | 11:00 | [STEAM: Making Snowflakes](https://www.londonchildrensmuseum.ca/event/steam-making-snowflakes) [(CMus)](/about#CMus) |
+|  | 14:30 | [STEAM: Melting Snowman](https://www.londonchildrensmuseum.ca/event/steam-melting-snowman) [(CMus)](/about#CMus) |
 |  | 19:00 | [Texas King – Hometown Holiday](http://londonmusichall.com/events/texas-king-hometown-holiday-2/) [(LMH)](/about#LMH) |
 | Sunday |  | [LONDON KNIGHTS VS. FLINT FIREBIRDS](https://www.budweisergardens.com/events/detail/london-knights-dec31) [(BudG)](/about#BudG) |
 |  | 21:00 | [NYE 2024](http://londonmusichall.com/events/nye-2024/) [(LMH)](/about#LMH) |
