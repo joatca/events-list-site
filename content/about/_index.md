@@ -1,6 +1,6 @@
 ---
 title: "Abbreviations"
-date: 2023-12-26T00:00:28-05:00
+date: 2023-12-26T21:44:14-05:00
 draft: false
 ---
 
@@ -16,8 +16,9 @@ This page currently supports events found on these sites.
 | **Cent** | [Centennial Hall](https://centennialhall.london.ca/london-event-listings.html) | *Not supported: too difficult to scan website automatically*
 | **FMus** | [Don Wright Faculty of Music](http://www.events.westernu.ca/events/music/) | *6 events found*
 | **Grand** | [Grand Theatre](https://www.grandtheatre.com/) | *17 events found*
+| **Info** | [Information London](https://www.informationlondon.ca/) | *4 events found*
 | **LMH** | [London Music Hall](http://londonmusichall.com/) | *42 events found*
 | **Museum** | [Museum London](https://museumlondon.ca/) | *18 events found*
 | **Wolf** | [Wolf Performance Hall](https://www.lpl.ca/services-spaces/featured-spaces/wolf-performance-hall) | *Error: unable to fetch any events*
 
-_Last updated 2023-12-26 00:00:28 -0500_
+_Last updated 2023-12-26 21:44:14 -0500_
