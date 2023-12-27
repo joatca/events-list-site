@@ -1,15 +1,12 @@
 ---
 title: "Events"
-date: 2023-12-26T21:44:14-05:00
+date: 2023-12-27T00:00:23-05:00
 draft: false
 ---
 
 | When  |  | Event (Venue) |
 |------:|-:|:--------------|
-| Tuesday |  | [London Gospel Collective 2023/24 Series](https://www.grandtheatre.com/event/london-gospel-collective-2324) [(Grand)](/about#Grand) |
-|  | 09:30 | [OPEN](https://www.londonchildrensmuseum.ca/event/open) [(CMus)](/about#CMus) |
-|  | 11:00 | [STEAM: Making Snowflakes](https://www.londonchildrensmuseum.ca/event/steam-making-snowflakes) [(CMus)](/about#CMus) |
-|  | 14:30 | [STEAM: Melting Snowman](https://www.londonchildrensmuseum.ca/event/steam-melting-snowman) [(CMus)](/about#CMus) |
+| Wednesday |  | [London Gospel Collective 2023/24 Series](https://www.grandtheatre.com/event/london-gospel-collective-2324) [(Grand)](/about#Grand) |
 | Friday |  | [LONDON KNIGHTS VS. SARNIA STING](https://www.budweisergardens.com/events/detail/london-knights-dec29) [(BudG)](/about#BudG) |
 |  | 19:00 | [Texas King – Hometown Holiday](http://londonmusichall.com/events/texas-king-hometown-holiday-2/) [(LMH)](/about#LMH) |
 | Sunday |  | [LONDON KNIGHTS VS. FLINT FIREBIRDS](https://www.budweisergardens.com/events/detail/london-knights-dec31) [(BudG)](/about#BudG) |
