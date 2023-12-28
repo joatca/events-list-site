@@ -1,12 +1,13 @@
 ---
 title: "Events"
-date: 2023-12-28T00:00:19-05:00
+date: 2023-12-28T14:40:24-05:00
 draft: false
 ---
 
 | When  |  | Event (Venue) |
 |------:|-:|:--------------|
 | Thursday |  | [London Gospel Collective 2023/24 Series](https://www.grandtheatre.com/event/london-gospel-collective-2324) [(Grand)](/about#Grand) |
+|  |  | [Winter Break Day Camp @ Forest City CrossFit, December 27-29](https://www.londontourism.ca/events/winter-break-day-camp-forest-city-crossfit-december-27-29) [(Tour)](/about#Tour) |
 |  |  | [Selfies with the Father Christmas Standee](https://eldonhouse.ca/product/selfies-with-the-father-christmas-standee-3/) [(Eldon)](/about#Eldon) |
 |  |  | [Eldon House’s Victorian Christmas](https://eldonhouse.ca/product/victorian-christmas-3/) [(Eldon)](/about#Eldon) |
 |  | 09:00 | [PA Day Camp](https://www.londonchildrensmuseum.ca/event/pa-day-camp) [(CMus)](/about#CMus) |
