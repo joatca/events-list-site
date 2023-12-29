@@ -1,6 +1,6 @@
 ---
 title: "Abbreviations"
-date: 2023-12-28T14:40:24-05:00
+date: 2023-12-29T00:00:19-05:00
 draft: false
 ---
 
@@ -11,7 +11,7 @@ This page knowsn about events on these sites.
 | **100K** | [100 Kellogg Lane](https://100kellogglane.com/) | *Not supported: no events listing*
 | **Aeol** | [Aeolian Hall](https://aeolianhall.ca/events/) | *20 events found*
 | **BudG** | [Budweiser Gardens](https://www.budweisergardens.com/events) | *8 events found*
-| **CGM** | [Covent Garden Market](https://coventmarket.com/events/) | *12 events found*
+| **CGM** | [Covent Garden Market](https://coventmarket.com/events/) | *11 events found*
 | **CMus** | [London Children's Museum](https://www.londonchildrensmuseum.ca/events) | *15 events found*
 | **Cent** | [Centennial Hall](https://centennialhall.london.ca/london-event-listings.html) | *Not supported: too difficult to scan website automatically*
 | **Eldon** | [Eldon House](https://eldonhouse.ca/events/) | *7 events found*
@@ -20,7 +20,7 @@ This page knowsn about events on these sites.
 | **Info** | [Information London](https://www.informationlondon.ca/Event/List) | *4 events found*
 | **LMH** | [London Music Hall](http://londonmusichall.com/upcoming-events/) | *42 events found*
 | **Museum** | [Museum London](https://museumlondon.ca/programs-events) | *18 events found*
-| **Tour** | [Tourism London](https://www.londontourism.ca/events/all-events) | *2 events found*
+| **Tour** | [Tourism London](https://www.londontourism.ca/events/all-events) | *3 events found*
 | **Wolf** | [Wolf Performance Hall](https://www.lpl.ca/services-spaces/featured-spaces/wolf-performance-hall) | *Error: unable to fetch any events*
 
-_Last updated 2023-12-28 14:40:24 -0500_
+_Last updated 2023-12-29 00:00:19 -0500_

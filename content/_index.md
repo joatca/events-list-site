@@ -1,28 +1,24 @@
 ---
 title: "Events"
-date: 2023-12-28T14:40:24-05:00
+date: 2023-12-29T00:00:19-05:00
 draft: false
 ---
 
 | When  |  | Event (Venue) |
 |------:|-:|:--------------|
-| Thursday |  | [London Gospel Collective 2023/24 Series](https://www.grandtheatre.com/event/london-gospel-collective-2324) [(Grand)](/about#Grand) |
-|  |  | [Winter Break Day Camp @ Forest City CrossFit, December 27-29](https://www.londontourism.ca/events/winter-break-day-camp-forest-city-crossfit-december-27-29) [(Tour)](/about#Tour) |
+| Friday |  | [LONDON KNIGHTS VS. SARNIA STING](https://www.budweisergardens.com/events/detail/london-knights-dec29) [(BudG)](/about#BudG) |
+|  |  | [London Gospel Collective 2023/24 Series](https://www.grandtheatre.com/event/london-gospel-collective-2324) [(Grand)](/about#Grand) |
+|  |  | [Two Dollar Bill & His Bad Pennies Reunion At The Richmond](https://www.londontourism.ca/events/two-dollar-bill-and-his-bad-pennies-reunion-at-the-richmond) [(Tour)](/about#Tour) |
 |  |  | [Selfies with the Father Christmas Standee](https://eldonhouse.ca/product/selfies-with-the-father-christmas-standee-3/) [(Eldon)](/about#Eldon) |
 |  |  | [Eldon House’s Victorian Christmas](https://eldonhouse.ca/product/victorian-christmas-3/) [(Eldon)](/about#Eldon) |
-|  | 09:00 | [PA Day Camp](https://www.londonchildrensmuseum.ca/event/pa-day-camp) [(CMus)](/about#CMus) |
-|  | 11:00 | [STEAM: Making Snowflakes](https://www.londonchildrensmuseum.ca/event/steam-making-snowflakes) [(CMus)](/about#CMus) |
-|  | 14:30 | [STEAM: Melting Snowman](https://www.londonchildrensmuseum.ca/event/steam-melting-snowman) [(CMus)](/about#CMus) |
-|  | 17:00 | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) [(CMus)](/about#CMus) |
-|  | 18:00 | [STEAM: Melting Snowman](https://www.londonchildrensmuseum.ca/event/steam-melting-snowman) [(CMus)](/about#CMus) |
-| Friday |  | [LONDON KNIGHTS VS. SARNIA STING](https://www.budweisergardens.com/events/detail/london-knights-dec29) [(BudG)](/about#BudG) |
-|  |  | [Two Dollar Bill & His Bad Pennies Reunion At The Richmond](https://www.londontourism.ca/events/two-dollar-bill-and-his-bad-pennies-reunion-at-the-richmond) [(Tour)](/about#Tour) |
 |  | 09:00 | [PA Day Camp](https://www.londonchildrensmuseum.ca/event/pa-day-camp) [(CMus)](/about#CMus) |
 |  | 10:00 | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) [(CMus)](/about#CMus) |
 |  | 11:00 | [STEAM: Making Snowflakes](https://www.londonchildrensmuseum.ca/event/steam-making-snowflakes) [(CMus)](/about#CMus) |
 |  | 14:30 | [STEAM: Melting Snowman](https://www.londonchildrensmuseum.ca/event/steam-melting-snowman) [(CMus)](/about#CMus) |
 |  | 19:00 | [Texas King – Hometown Holiday](http://londonmusichall.com/events/texas-king-hometown-holiday-2/) [(LMH)](/about#LMH) |
 | Sunday |  | [LONDON KNIGHTS VS. FLINT FIREBIRDS](https://www.budweisergardens.com/events/detail/london-knights-dec31) [(BudG)](/about#BudG) |
+|  |  | [MIDNIGHT The New Years Eve Party](https://www.londontourism.ca/events/midnight-the-new-years-eve-party) [(Tour)](/about#Tour) |
+|  |  | [New Year's Eve Bollywood Social](https://www.londontourism.ca/events/new-years-eve-bollywood-social) [(Tour)](/about#Tour) |
 |  | 21:00 | [NYE 2024](http://londonmusichall.com/events/nye-2024/) [(LMH)](/about#LMH) |
 | Monday |  | [New Year’s Levee](https://eldonhouse.ca/product/new-years-levee-3/) [(Eldon)](/about#Eldon) |
 | Wednesday |  | [LONDON KNIGHTS VS. ERIE OTTERS](https://www.budweisergardens.com/events/detail/london-knights-jan3) [(BudG)](/about#BudG) |
