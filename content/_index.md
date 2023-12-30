@@ -1,28 +1,32 @@
 ---
 title: "Events"
-date: 2023-12-29T00:00:19-05:00
+date: 2023-12-30T00:00:21-05:00
 draft: false
 ---
 
 | When  |  | Event (Venue) |
 |------:|-:|:--------------|
-| Friday |  | [LONDON KNIGHTS VS. SARNIA STING](https://www.budweisergardens.com/events/detail/london-knights-dec29) [(BudG)](/about#BudG) |
-|  |  | [London Gospel Collective 2023/24 Series](https://www.grandtheatre.com/event/london-gospel-collective-2324) [(Grand)](/about#Grand) |
-|  |  | [Two Dollar Bill & His Bad Pennies Reunion At The Richmond](https://www.londontourism.ca/events/two-dollar-bill-and-his-bad-pennies-reunion-at-the-richmond) [(Tour)](/about#Tour) |
+| Saturday |  | [London Gospel Collective 2023/24 Series](https://www.grandtheatre.com/event/london-gospel-collective-2324) [(Grand)](/about#Grand) |
 |  |  | [Selfies with the Father Christmas Standee](https://eldonhouse.ca/product/selfies-with-the-father-christmas-standee-3/) [(Eldon)](/about#Eldon) |
 |  |  | [Eldon House’s Victorian Christmas](https://eldonhouse.ca/product/victorian-christmas-3/) [(Eldon)](/about#Eldon) |
-|  | 09:00 | [PA Day Camp](https://www.londonchildrensmuseum.ca/event/pa-day-camp) [(CMus)](/about#CMus) |
-|  | 10:00 | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) [(CMus)](/about#CMus) |
-|  | 11:00 | [STEAM: Making Snowflakes](https://www.londonchildrensmuseum.ca/event/steam-making-snowflakes) [(CMus)](/about#CMus) |
+|  | 11:00 | [STEAM: Melting Snowman](https://www.londonchildrensmuseum.ca/event/steam-melting-snowman) [(CMus)](/about#CMus) |
+|  | 13:00 | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) [(CMus)](/about#CMus) |
 |  | 14:30 | [STEAM: Melting Snowman](https://www.londonchildrensmuseum.ca/event/steam-melting-snowman) [(CMus)](/about#CMus) |
-|  | 19:00 | [Texas King – Hometown Holiday](http://londonmusichall.com/events/texas-king-hometown-holiday-2/) [(LMH)](/about#LMH) |
 | Sunday |  | [LONDON KNIGHTS VS. FLINT FIREBIRDS](https://www.budweisergardens.com/events/detail/london-knights-dec31) [(BudG)](/about#BudG) |
+|  |  | [CLOSED for a Ticketed Event](https://www.londonchildrensmuseum.ca/event/closed-ticketed-event) [(CMus)](/about#CMus) |
+|  |  | [New Year's Eve in the Park](https://www.londontourism.ca/events/new-years-eve-in-the-park) [(Tour)](/about#Tour) |
+|  |  | [Toboggan NYE Dinner and Jazz](https://www.londontourism.ca/events/toboggan-nye-dinner-and-jazz) [(Tour)](/about#Tour) |
+|  |  | [The Rec Room New Year's Eve Bash](https://www.londontourism.ca/events/the-rec-room-new-years-eve-bash) [(Tour)](/about#Tour) |
+|  |  | [NYE Dinner at Danu Cellars](https://www.londontourism.ca/events/nye-dinner-at-danu-cellars) [(Tour)](/about#Tour) |
+|  |  | [NYE at the Dawghouse with The Joel Dupuis Band](https://www.londontourism.ca/events/nye-at-the-dawghouse-with-the-joel-dupuis-band) [(Tour)](/about#Tour) |
 |  |  | [MIDNIGHT The New Years Eve Party](https://www.londontourism.ca/events/midnight-the-new-years-eve-party) [(Tour)](/about#Tour) |
 |  |  | [New Year's Eve Bollywood Social](https://www.londontourism.ca/events/new-years-eve-bollywood-social) [(Tour)](/about#Tour) |
+|  | 09:30 | [New Year's Family Celebration](https://www.londonchildrensmuseum.ca/event/new-years-family-celebration) [(CMus)](/about#CMus) |
+|  | 13:30 | [New Year's Family Celebration](https://www.londonchildrensmuseum.ca/event/new-years-family-celebration) [(CMus)](/about#CMus) |
 |  | 21:00 | [NYE 2024](http://londonmusichall.com/events/nye-2024/) [(LMH)](/about#LMH) |
 | Monday |  | [New Year’s Levee](https://eldonhouse.ca/product/new-years-levee-3/) [(Eldon)](/about#Eldon) |
 | Wednesday |  | [LONDON KNIGHTS VS. ERIE OTTERS](https://www.budweisergardens.com/events/detail/london-knights-jan3) [(BudG)](/about#BudG) |
-| Fri Jan 05 2024 |  | [LONDON KNIGHTS VS. BARRIE COLTS](https://www.budweisergardens.com/events/detail/london-knights-jan5) [(BudG)](/about#BudG) |
+| Friday |  | [LONDON KNIGHTS VS. BARRIE COLTS](https://www.budweisergardens.com/events/detail/london-knights-jan5) [(BudG)](/about#BudG) |
 |  | 20:00 | [Peter Karle Combo – Everything In Its Right Place (A Jazz Tribute to Radiohead)](https://aeolianhall.ca/events/peter-karle-combo-everything-in-its-right-place/) [(Aeol)](/about#Aeol) |
 | Sat Jan 06 2024 |  | [London Lightning vs. KW Titans](https://www.budweisergardens.com/events/detail/london-lightning-vs-kw-titans-18) [(BudG)](/about#BudG) |
 |  | 11:00 | [Saturday Cooking Demo](https://coventmarket.com/event/saturday-cooking-classes-2/) [(CGM)](/about#CGM) |
@@ -41,7 +45,8 @@ draft: false
 | Tue Jan 16 2024 |  | [The Invisible - Agents of Ungentlemanly Warfare](https://www.grandtheatre.com/event/the-invisible) [(Grand)](/about#Grand) |
 | Wed Jan 17 2024 | 19:00 | [Young Dubliners](http://londonmusichall.com/events/young-dubliners/) [(LMH)](/about#LMH) |
 | Thu Jan 18 2024 | 20:00 | [2023 Fred Pattison Piano Award Winner's Recital ](http://www.events.westernu.ca/events/music/2024-01/2023-fred-pattison-recital.html) [(FMus)](/about#FMus) |
-| Fri Jan 19 2024 | 08:30 | [PA Day Camp: Mini Model Makers](https://museumlondon.ca/programs-events/event/10556/) [(Museum)](/about#Museum) |
+| Fri Jan 19 2024 |  | [London Lightning vs. Rhode Island Kraken](https://www.budweisergardens.com/events/detail/london-lightning-vs-rhode-island-kraken) [(BudG)](/about#BudG) |
+|  | 08:30 | [PA Day Camp: Mini Model Makers](https://museumlondon.ca/programs-events/event/10556/) [(Museum)](/about#Museum) |
 |  | 12:30 | [Fridays at 12:30 Concert Series: The Sylvestre-Park Duo](http://www.events.westernu.ca/events/music/2024-01/fridays-at-1230-sylvestre-park.html) [(FMus)](/about#FMus) |
 |  | 20:00 | [2024 Fred Pattison Piano Competition - Final Round](http://www.events.westernu.ca/events/music/2024-01/2024-fred-pattison-final-round.html) [(FMus)](/about#FMus) |
 | Sat Jan 20 2024 |  | [Behind the Ropes](https://eldonhouse.ca/product/behind-the-ropes-6/) [(Eldon)](/about#Eldon) |

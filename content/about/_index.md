@@ -1,6 +1,6 @@
 ---
 title: "Abbreviations"
-date: 2023-12-29T00:00:19-05:00
+date: 2023-12-30T00:00:21-05:00
 draft: false
 ---
 
@@ -18,9 +18,9 @@ This page knowsn about events on these sites.
 | **FMus** | [Don Wright Faculty of Music](http://www.events.westernu.ca/events/music/) | *6 events found*
 | **Grand** | [Grand Theatre](https://www.grandtheatre.com/events) | *17 events found*
 | **Info** | [Information London](https://www.informationlondon.ca/Event/List) | *4 events found*
-| **LMH** | [London Music Hall](http://londonmusichall.com/upcoming-events/) | *42 events found*
+| **LMH** | [London Music Hall](http://londonmusichall.com/upcoming-events/) | *41 events found*
 | **Museum** | [Museum London](https://museumlondon.ca/programs-events) | *18 events found*
-| **Tour** | [Tourism London](https://www.londontourism.ca/events/all-events) | *3 events found*
+| **Tour** | [Tourism London](https://www.londontourism.ca/events/all-events) | *7 events found*
 | **Wolf** | [Wolf Performance Hall](https://www.lpl.ca/services-spaces/featured-spaces/wolf-performance-hall) | *Error: unable to fetch any events*
 
-_Last updated 2023-12-29 00:00:19 -0500_
+_Last updated 2023-12-30 00:00:21 -0500_
