@@ -1,6 +1,6 @@
 ---
 title: "Abbreviations"
-date: 2023-12-31T00:00:19-05:00
+date: 2023-12-31T13:57:08-05:00
 draft: false
 ---
 
@@ -21,6 +21,5 @@ This page knows about events on these sites.
 | **LMH** | [London Music Hall](http://londonmusichall.com/upcoming-events/) | *41 events found*
 | **Museum** | [Museum London](https://museumlondon.ca/programs-events) | *21 events found*
 | **Tour** | [Tourism London](https://www.londontourism.ca/events/all-events) | *126 events found*
-| **Wolf** | [Wolf Performance Hall](https://www.lpl.ca/services-spaces/featured-spaces/wolf-performance-hall) | *Error: unable to fetch any events*
 
-_Last updated 2023-12-31 00:00:19 -0500_
+_Last updated 2023-12-31 13:57:08 -0500_
