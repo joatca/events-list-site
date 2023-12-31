@@ -1,6 +1,6 @@
 ---
 title: "Abbreviations"
-date: 2023-12-30T19:40:03-05:00
+date: 2023-12-30T22:22:06-05:00
 draft: false
 ---
 
@@ -23,4 +23,4 @@ This page knows about events on these sites.
 | **Tour** | [Tourism London](https://www.londontourism.ca/events/all-events) | *126 events found*
 | **Wolf** | [Wolf Performance Hall](https://www.lpl.ca/services-spaces/featured-spaces/wolf-performance-hall) | *Error: unable to fetch any events*
 
-_Last updated 2023-12-30 19:40:03 -0500_
+_Last updated 2023-12-30 22:22:06 -0500_
