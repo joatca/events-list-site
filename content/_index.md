@@ -1,11 +1,11 @@
 ---
 title: "Events"
-date: 2024-01-01T14:07:16-05:00
+date: 2024-01-01T14:08:26-05:00
 draft: false
 ---
 
-| When  |  | Source | Event (Venue) |
-|------:|-:|:-------|:--------------|
+| When  |  | Source | Event |
+|------:|-:|:-------|:------|
 | Today (Mon) |  | [Grand](/about#Grand) | [London Gospel Collective 2023/24 Series](https://www.grandtheatre.com/event/london-gospel-collective-2324) |
 |  |  | [Tour](/about#Tour) | [Swagger Live New Year's Eve](https://www.londontourism.ca/events/swagger-live-new-years-eve) |
 |  |  | [Tour](/about#Tour) | [Downtown for the Holidays](https://www.londontourism.ca/events/downtown-for-the-holidays) |

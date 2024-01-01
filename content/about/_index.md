@@ -1,6 +1,6 @@
 ---
 title: "Abbreviations"
-date: 2024-01-01T14:07:16-05:00
+date: 2024-01-01T14:08:26-05:00
 draft: false
 ---
 
@@ -24,4 +24,4 @@ This page knows about events on these sites.
 | **TVDSB** | [Thames Valley District School Board](https://calendar.tvdsb.ca/) | *25 events found*
 | **Tour** | [Tourism London](https://www.londontourism.ca/events/all-events) | *122 events found*
 
-_Last updated 2024-01-01 14:07:16 -0500_
+_Last updated 2024-01-01 14:08:26 -0500_
