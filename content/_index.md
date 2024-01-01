@@ -1,19 +1,18 @@
 ---
 title: "Events"
-date: 2024-01-01T13:32:45-05:00
+date: 2024-01-01T13:50:18-05:00
 draft: false
 ---
 
 | When  |  | Event (Venue) |
 |------:|-:|:--------------|
-| Monday |  | [London Gospel Collective 2023/24 Series](https://www.grandtheatre.com/event/london-gospel-collective-2324) [(Grand)](/about#Grand) |
-|  |  | [CLOSED](https://www.londonchildrensmuseum.ca/event/closed-0) [(CMus)](/about#CMus) |
+| Today (Mon) |  | [London Gospel Collective 2023/24 Series](https://www.grandtheatre.com/event/london-gospel-collective-2324) [(Grand)](/about#Grand) |
 |  |  | [Swagger Live New Year's Eve](https://www.londontourism.ca/events/swagger-live-new-years-eve) [(Tour)](/about#Tour) |
 |  |  | [Downtown for the Holidays](https://www.londontourism.ca/events/downtown-for-the-holidays) [(Tour)](/about#Tour) |
 |  |  | [Magic of Lights](https://www.londontourism.ca/events/magic-of-lights) [(Tour)](/about#Tour) |
 |  | 08:00 | [New Year's Day](https://calendar.tvdsb.ca/default/Detail/2024-01-01-0800-New-Years-Day) [(TVDSB)](/about#TVDSB) |
 |  | 12:00 | [Free New Year’s Day recreation activities - January 01, 2024](https://london.ca/government/calendar/free-new-years-day-recreation-activities-january-01-2024) [(City)](/about#City) |
-| Tuesday |  | [3-in-1 Winter Skin Workshop - January 2](https://www.londontourism.ca/events/3-in-1-winter-skin-workshop-january-2) [(Tour)](/about#Tour) |
+| Tomorrow (Tue) |  | [3-in-1 Winter Skin Workshop - January 2](https://www.londontourism.ca/events/3-in-1-winter-skin-workshop-january-2) [(Tour)](/about#Tour) |
 |  |  | [STEAM: Snowstorm in a Jar - January 2](https://www.londontourism.ca/events/steam-snowstorm-in-a-jar-january-2) [(Tour)](/about#Tour) |
 |  |  | [Winter Break Day Camp @ Forest City CrossFit, January 2-5](https://www.londontourism.ca/events/winter-break-day-camp-forest-city-crossfit-january-2-5) [(Tour)](/about#Tour) |
 |  | 09:00 | [PA Day Camp](https://www.londonchildrensmuseum.ca/event/pa-day-camp) [(CMus)](/about#CMus) |
@@ -46,8 +45,7 @@ draft: false
 | Sunday | 11:00 | [STEAM: Snowflake Science](https://www.londonchildrensmuseum.ca/event/steam-snowflake-science) [(CMus)](/about#CMus) |
 |  | 13:00 | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/07) [(Museum)](/about#Museum) |
 |  | 14:30 | [STEAM: Snowflake Science](https://www.londonchildrensmuseum.ca/event/steam-snowflake-science) [(CMus)](/about#CMus) |
-| Mon Jan 08 |  | [CLOSED](https://www.londonchildrensmuseum.ca/event/closed) [(CMus)](/about#CMus) |
-|  | 08:00 | [Classes Resume](https://calendar.tvdsb.ca/default/Detail/2024-01-08-0800-Classes-Resume) [(TVDSB)](/about#TVDSB) |
+| Mon Jan 08 | 08:00 | [Classes Resume](https://calendar.tvdsb.ca/default/Detail/2024-01-08-0800-Classes-Resume) [(TVDSB)](/about#TVDSB) |
 |  | 13:00 | [Community and Protective Services Committee - January 08, 2024](https://london.ca/government/calendar/community-protective-services-committee-january-08-2024) [(City)](/about#City) |
 | Tue Jan 09 | 09:30 | [Toddler Takeover Week](https://www.londonchildrensmuseum.ca/event/toddler-takeover-week) [(CMus)](/about#CMus) |
 |  | 09:30 | [Civic Works Committee - January 09, 2024](https://london.ca/government/calendar/civic-works-committee-january-09-2024) [(City)](/about#City) |
@@ -82,8 +80,7 @@ draft: false
 |  | 11:00 | [STEAM: Snow Scoop Challenge](https://www.londonchildrensmuseum.ca/event/steam-snow-scoop-challenge) [(CMus)](/about#CMus) |
 |  | 13:00 | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/14) [(Museum)](/about#Museum) |
 |  | 14:30 | [STEAM: Snow Scoop Challenge](https://www.londonchildrensmuseum.ca/event/steam-snow-scoop-challenge) [(CMus)](/about#CMus) |
-| Mon Jan 15 |  | [CLOSED](https://www.londonchildrensmuseum.ca/event/closed) [(CMus)](/about#CMus) |
-|  |  | [Learn to Play Basketball - (Mondays) Winter 2024](https://www.londontourism.ca/events/learn-to-play-basketball-mondays-winter-2024) [(Tour)](/about#Tour) |
+| Mon Jan 15 |  | [Learn to Play Basketball - (Mondays) Winter 2024](https://www.londontourism.ca/events/learn-to-play-basketball-mondays-winter-2024) [(Tour)](/about#Tour) |
 |  | 08:00 | [World Religion Day](https://calendar.tvdsb.ca/default/Detail/2024-01-15-0800-World-Religion-Day) [(TVDSB)](/about#TVDSB) |
 |  | 13:00 | [Corporate Services Committee - January 15, 2024](https://london.ca/government/calendar/corporate-services-committee-january-15-2024) [(City)](/about#City) |
 | Tue Jan 16 |  | [The Invisible - Agents of Ungentlemanly Warfare](https://www.grandtheatre.com/event/the-invisible) [(Grand)](/about#Grand) |
@@ -132,15 +129,13 @@ draft: false
 |  | 13:00 | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/21) [(Museum)](/about#Museum) |
 |  | 14:30 | [STEAM: Salt Experiments](https://www.londonchildrensmuseum.ca/event/steam-salt-experiments) [(CMus)](/about#CMus) |
 |  | 20:00 | [MJ The Illusion](https://aeolianhall.ca/events/mj-the-illusion/) [(Aeol)](/about#Aeol) |
-| Mon Jan 22 |  | [CLOSED](https://www.londonchildrensmuseum.ca/event/closed) [(CMus)](/about#CMus) |
-|  |  | [Afonso Padilha - A Agora?](https://www.londontourism.ca/events/afonso-padilha-a-agora) [(Tour)](/about#Tour) |
+| Mon Jan 22 |  | [Afonso Padilha - A Agora?](https://www.londontourism.ca/events/afonso-padilha-a-agora) [(Tour)](/about#Tour) |
 |  | 10:00 | [Governance Working Group - January 22, 2024](https://london.ca/government/calendar/governance-working-group-january-22-2024) [(City)](/about#City) |
 |  | 13:00 | [Health Literacy](https://www.informationlondon.ca/Event/Detail/48854/Health_Literacy?date=2024-01-22) [(Info)](/about#Info) |
 | Tue Jan 23 |  | [Nature in the City - Building bird-friendly communities in London](https://www.londontourism.ca/events/nature-in-the-city-building-bird-friendly-communities-in-london) [(Tour)](/about#Tour) |
 |  | 09:30 | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) [(CMus)](/about#CMus) |
 |  | 13:00 | [Council - January 23, 2024](https://london.ca/government/calendar/council-january-23-2024) [(City)](/about#City) |
 | Wed Jan 24 | 10:00 | [Powerful Tools for Caregivers](https://www.informationlondon.ca/Event/Detail/48855/Powerful_Tools_for_Caregivers?date=2024-01-24) [(Info)](/about#Info) |
-|  | 18:00 | [Artists-in-Residence Concert: New Orford String Quartet](http://www.events.westernu.ca/events/music/2024-01/new-orford.html) [(FMus)](/about#FMus) |
 |  | 19:00 | [Jamie Fine](http://londonmusichall.com/events/jamie-fine/) [(LMH)](/about#LMH) |
 | Thu Jan 25 |  | [Punch Needle Workshop - January 25](https://www.londontourism.ca/events/punch-needle-workshop-january-25) [(Tour)](/about#Tour) |
 |  | 09:30 | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) [(CMus)](/about#CMus) |
@@ -152,27 +147,22 @@ draft: false
 |  |  | [LHBA's Lifestyle Home Show](https://www.londontourism.ca/events/lhbas-lifestyle-home-show) [(Tour)](/about#Tour) |
 |  | 08:00 | [Evaluation Days Begin](https://calendar.tvdsb.ca/default/Detail/2024-01-26-0800-Evaluation-Days-Begin) [(TVDSB)](/about#TVDSB) |
 |  | 10:00 | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) [(CMus)](/about#CMus) |
-|  | 12:30 | [Fridays at 12:30 Series: Grace Lou, erhu and String Quartet](http://www.events.westernu.ca/events/music/2024-01/fridays-at-1230-grace-lou.html) [(FMus)](/about#FMus) |
 |  | 20:00 | [Aleksi Campagne](https://aeolianhall.ca/events/aleksi-campagne/) [(Aeol)](/about#Aeol) |
-|  | 20:00 | [Faculty Concert: Schoenberg's Pierrot Lunaire ](http://www.events.westernu.ca/events/music/2024-01/faculty-concert-pierrot-lunaire.html) [(FMus)](/about#FMus) |
 | Sat Jan 27 |  | [London Lightning vs Connecticut Crusaders](https://www.londontourism.ca/events/london-lightning-vs-connecticut-crusaders) [(Tour)](/about#Tour) |
 |  |  | [Billy Joel and the Piano Men](https://www.londontourism.ca/events/billy-joel-and-the-piano-men) [(Tour)](/about#Tour) |
 |  | 08:00 | [Family Literacy Day](https://calendar.tvdsb.ca/default/Detail/2024-01-27-0800-Family-Literacy-Day) [(TVDSB)](/about#TVDSB) |
 |  | 08:00 | [International Day of Commemoration in Memory of the Victims of the Holocaust](https://calendar.tvdsb.ca/default/Detail/2024-01-27-0800-International-Day-of-Commemoration-in-Memory-of-th) [(TVDSB)](/about#TVDSB) |
-|  | 09:00 | [Brass Day](http://www.events.westernu.ca/events/music/2024-01/brass-day.html) [(FMus)](/about#FMus) |
 |  | 10:30 | [OUTREACH: Family Literacy Day - LUSO](https://www.londonchildrensmuseum.ca/event/outreach-family-literacy-day-luso) [(CMus)](/about#CMus) |
 |  | 11:00 | [STEAM: Hot Chocolate Science](https://www.londonchildrensmuseum.ca/event/steam-hot-chocolate-science) [(CMus)](/about#CMus) |
 |  | 13:00 | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) [(CMus)](/about#CMus) |
 |  | 14:30 | [STEAM: Hot Chocolate Science](https://www.londonchildrensmuseum.ca/event/steam-hot-chocolate-science) [(CMus)](/about#CMus) |
-|  | 15:00 | [Brass Day Recital: James Miller, trombone](http://www.events.westernu.ca/events/music/2024-01/brass-day-recital.html) [(FMus)](/about#FMus) |
 |  | 22:00 | [AADJA & Lindsey Herbert @ System Saturdays](http://londonmusichall.com/events/aadja-lindsey-herbert-system-saturdays/) [(LMH)](/about#LMH) |
 | Sun Jan 28 |  | [London Lightning vs Montreal Tundra - Jan. 28](https://www.londontourism.ca/events/london-lightning-vs-montreal-tundra-jan-28) [(Tour)](/about#Tour) |
 |  |  | [Polymer Clay Earring Workshop - January 28](https://www.londontourism.ca/events/polymer-clay-earring-workshop-january-28) [(Tour)](/about#Tour) |
 |  | 11:00 | [STEAM: Hot Chocolate Science](https://www.londonchildrensmuseum.ca/event/steam-hot-chocolate-science) [(CMus)](/about#CMus) |
 |  | 13:00 | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/28) [(Museum)](/about#Museum) |
 |  | 14:30 | [STEAM: Hot Chocolate Science](https://www.londonchildrensmuseum.ca/event/steam-hot-chocolate-science) [(CMus)](/about#CMus) |
-| Mon Jan 29 |  | [CLOSED](https://www.londonchildrensmuseum.ca/event/closed) [(CMus)](/about#CMus) |
-|  | 08:00 | [National Day of Remembrance of the Quebec City Mosque Attack and Action Against Islamophobia](https://calendar.tvdsb.ca/default/Detail/2024-01-29-0800-National-Day-of-Remembrance-of-the-Quebec-City-Mos) [(TVDSB)](/about#TVDSB) |
+| Mon Jan 29 | 08:00 | [National Day of Remembrance of the Quebec City Mosque Attack and Action Against Islamophobia](https://calendar.tvdsb.ca/default/Detail/2024-01-29-0800-National-Day-of-Remembrance-of-the-Quebec-City-Mos) [(TVDSB)](/about#TVDSB) |
 |  | 13:00 | [Community and Protective Services Committee - January 29, 2024](https://london.ca/government/calendar/community-protective-services-committee-january-29-2024) [(City)](/about#City) |
 |  | 16:00 | [Budget Committee - Budget Public Participation - January 29, 2024](https://london.ca/government/calendar/budget-committee-budget-public-participation-january-29-2024) [(City)](/about#City) |
 | Tue Jan 30 |  | [Nature in the City - Some bugs suck! Why the insects in your garden have a drinking problem](https://www.londontourism.ca/events/nature-in-the-city-some-bugs-suck-why-the-insects-in-your-garden-have-a-drinking-problem) [(Tour)](/about#Tour) |
@@ -180,7 +170,6 @@ draft: false
 |  | 09:30 | [Civic Works Committee - January 30, 2024](https://london.ca/government/calendar/civic-works-committee-january-30-2024) [(City)](/about#City) |
 |  | 13:00 | [Planning and Environment Committee - January 30, 2024](https://london.ca/government/calendar/planning-environment-committee-january-30-2024) [(City)](/about#City) |
 |  | 17:30 | [City of London Recreation Job Fair - January 30, 2024](https://london.ca/government/calendar/city-london-recreation-job-fair-january-30-2024) [(City)](/about#City) |
-|  | 18:00 | [Studio Recital: Stéphan Sylvestre (piano)](http://www.events.westernu.ca/events/music/2024-01/studio-recital-stephan-sylvestre-1.html) [(FMus)](/about#FMus) |
 | Thu Feb 01 |  | [Punch Needle Workshop - February 1](https://www.londontourism.ca/events/punch-needle-workshop-february-1) [(Tour)](/about#Tour) |
 |  |  | [Hand Lettering & Calligraphy Workshop - February 1](https://www.londontourism.ca/events/hand-lettering-and-calligraphy-workshop-february-1) [(Tour)](/about#Tour) |
 |  |  | [The Harlem Globetrotters](https://www.londontourism.ca/events/the-harlem-globetrotters) [(Tour)](/about#Tour) |
@@ -205,8 +194,7 @@ draft: false
 |  | 11:00 | [STEAM: Melting Snowman](https://www.londonchildrensmuseum.ca/event/steam-melting-snowman) [(CMus)](/about#CMus) |
 |  | 13:00 | [Imagination Station: Paper Puppetry](https://museumlondon.ca/programs-events/event/10760/2024/02/04) [(Museum)](/about#Museum) |
 |  | 14:30 | [STEAM: Melting Snowman](https://www.londonchildrensmuseum.ca/event/steam-melting-snowman) [(CMus)](/about#CMus) |
-| Mon Feb 05 |  | [CLOSED](https://www.londonchildrensmuseum.ca/event/closed) [(CMus)](/about#CMus) |
-|  | 08:00 | [Semester 2 Begins (Secondary)](https://calendar.tvdsb.ca/default/Detail/2024-02-05-0800-Semester-2-Begins-Secondary) [(TVDSB)](/about#TVDSB) |
+| Mon Feb 05 | 08:00 | [Semester 2 Begins (Secondary)](https://calendar.tvdsb.ca/default/Detail/2024-02-05-0800-Semester-2-Begins-Secondary) [(TVDSB)](/about#TVDSB) |
 |  | 13:00 | [Corporate Services Committee - February 05, 2024](https://london.ca/government/calendar/corporate-services-committee-february-05-2024) [(City)](/about#City) |
 | Tue Feb 06 |  | [Huff](https://www.grandtheatre.com/event/huff) [(Grand)](/about#Grand) |
 |  | 09:30 | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) [(CMus)](/about#CMus) |
@@ -239,7 +227,6 @@ draft: false
 |  | 08:00 | [International Day of Women and Girls in Science](https://calendar.tvdsb.ca/default/Detail/2024-02-11-0800-International-Day-of-Women-and-Girls-in-Science) [(TVDSB)](/about#TVDSB) |
 |  | 13:00 | [Imagination Station: Paper Puppetry](https://museumlondon.ca/programs-events/event/10760/2024/02/11) [(Museum)](/about#Museum) |
 |  | 19:00 | [ANOMALIE](http://londonmusichall.com/events/anomalie/) [(LMH)](/about#LMH) |
-| Mon Feb 12 |  | [CLOSED](https://www.londonchildrensmuseum.ca/event/closed) [(CMus)](/about#CMus) |
 | Tue Feb 13 |  | [In Seven Days](https://www.grandtheatre.com/event/in-seven-days) [(Grand)](/about#Grand) |
 |  |  | [London Lightning vs Sudbury Five](https://www.londontourism.ca/events/london-lightning-vs-sudbury-five) [(Tour)](/about#Tour) |
 |  |  | [Nature in the City - London’s Secretive Wildlife: Challenges Faced by Reptiles and Amphibians](https://www.londontourism.ca/events/all-events/page/11) [(Tour)](/about#Tour) |
@@ -296,8 +283,7 @@ draft: false
 | Sun Feb 25 |  | [The Ring's London Wedding Expo](https://www.londontourism.ca/events/the-rings-london-wedding-expo) [(Tour)](/about#Tour) |
 |  |  | [London Toy & Collectibles Expo](https://www.londontourism.ca/events/london-toy-and-collectibles-expo) [(Tour)](/about#Tour) |
 |  | 13:00 | [Imagination Station: Paper Puppetry](https://museumlondon.ca/programs-events/event/10760/2024/02/25) [(Museum)](/about#Museum) |
-| Mon Feb 26 |  | [CLOSED](https://www.londonchildrensmuseum.ca/event/closed) [(CMus)](/about#CMus) |
-|  | 13:00 | [Corporate Services Committee - February 26, 2024](https://london.ca/government/calendar/corporate-services-committee-february-26-2024) [(City)](/about#City) |
+| Mon Feb 26 | 13:00 | [Corporate Services Committee - February 26, 2024](https://london.ca/government/calendar/corporate-services-committee-february-26-2024) [(City)](/about#City) |
 | Tue Feb 27 |  | [London Lightning vs Windsor Express - Feb. 27](https://www.londontourism.ca/events/london-lightning-vs-windsor-express-feb-27) [(Tour)](/about#Tour) |
 |  | 09:30 | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) [(CMus)](/about#CMus) |
 |  | 09:30 | [Dearness Home Committee of Management - February 27, 2024](https://london.ca/government/calendar/dearness-home-committee-management-february-27-2024) [(City)](/about#City) |
