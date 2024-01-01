@@ -1,6 +1,6 @@
 ---
 title: "Abbreviations"
-date: 2024-01-01T13:26:28-05:00
+date: 2024-01-01T13:32:45-05:00
 draft: false
 ---
 
@@ -22,6 +22,6 @@ This page knows about events on these sites.
 | **LMH** | [London Music Hall](http://londonmusichall.com/upcoming-events/) | *40 events found*
 | **Museum** | [Museum London](https://museumlondon.ca/programs-events) | *21 events found*
 | **TVDSB** | [Thames Valley District School Board](https://calendar.tvdsb.ca/) | *25 events found*
-| **Tour** | [Tourism London](https://www.londontourism.ca/events/all-events) | *56 events found*
+| **Tour** | [Tourism London](https://www.londontourism.ca/events/all-events) | *122 events found*
 
-_Last updated 2024-01-01 13:26:28 -0500_
+_Last updated 2024-01-01 13:32:45 -0500_
