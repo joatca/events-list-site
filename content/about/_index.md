@@ -1,6 +1,6 @@
 ---
 title: "Abbreviations"
-date: 2023-12-31T13:57:08-05:00
+date: 2024-01-01T00:00:23-05:00
 draft: false
 ---
 
@@ -16,10 +16,10 @@ This page knows about events on these sites.
 | **Cent** | [Centennial Hall](https://centennialhall.london.ca/london-event-listings.html) | *Not supported: too difficult to scan website automatically*
 | **Eldon** | [Eldon House](https://eldonhouse.ca/events/) | *7 events found*
 | **FMus** | [Don Wright Faculty of Music](http://www.events.westernu.ca/events/music/) | *6 events found*
-| **Grand** | [Grand Theatre](https://www.grandtheatre.com/events) | *16 events found*
+| **Grand** | [Grand Theatre](https://www.grandtheatre.com/events) | *17 events found*
 | **Info** | [Information London](https://www.informationlondon.ca/Event/List) | *4 events found*
 | **LMH** | [London Music Hall](http://londonmusichall.com/upcoming-events/) | *41 events found*
 | **Museum** | [Museum London](https://museumlondon.ca/programs-events) | *21 events found*
-| **Tour** | [Tourism London](https://www.londontourism.ca/events/all-events) | *126 events found*
+| **Tour** | [Tourism London](https://www.londontourism.ca/events/all-events) | *122 events found*
 
-_Last updated 2023-12-31 13:57:08 -0500_
+_Last updated 2024-01-01 00:00:23 -0500_
