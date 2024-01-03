@@ -1,18 +1,15 @@
 ---
 title: "Events - kids"
-date: 2024-01-02T13:10:18-05:00
+date: 2024-01-03T00:00:23-05:00
 draft: false
 ---
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Tue) | 09:00 | [CMus](/about#CMus) | [PA Day Camp](https://www.londonchildrensmuseum.ca/event/pa-day-camp) |
+| Today (Wed) | 09:00 | [CMus](/about#CMus) | [PA Day Camp](https://www.londonchildrensmuseum.ca/event/pa-day-camp) |
 |  | 11:00 | [CMus](/about#CMus) | [STEAM: Snowstorm in a Jar](https://www.londonchildrensmuseum.ca/event/steam-snowstorm-jar) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Snowflake Science](https://www.londonchildrensmuseum.ca/event/steam-snowflake-science) |
-| Tomorrow (Wed) | 09:00 | [CMus](/about#CMus) | [PA Day Camp](https://www.londonchildrensmuseum.ca/event/pa-day-camp) |
-|  | 11:00 | [CMus](/about#CMus) | [STEAM: Snowstorm in a Jar](https://www.londonchildrensmuseum.ca/event/steam-snowstorm-jar) |
-|  | 14:30 | [CMus](/about#CMus) | [STEAM: Snowflake Science](https://www.londonchildrensmuseum.ca/event/steam-snowflake-science) |
-| Thursday | 09:00 | [CMus](/about#CMus) | [PA Day Camp](https://www.londonchildrensmuseum.ca/event/pa-day-camp) |
+| Tomorrow (Thu) | 09:00 | [CMus](/about#CMus) | [PA Day Camp](https://www.londonchildrensmuseum.ca/event/pa-day-camp) |
 |  | 11:00 | [CMus](/about#CMus) | [STEAM: Snowstorm in a Jar](https://www.londonchildrensmuseum.ca/event/steam-snowstorm-jar) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Snowflake Science](https://www.londonchildrensmuseum.ca/event/steam-snowflake-science) |
 |  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
@@ -26,7 +23,7 @@ draft: false
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Snowflake Science](https://www.londonchildrensmuseum.ca/event/steam-snowflake-science) |
 | Sunday | 11:00 | [CMus](/about#CMus) | [STEAM: Snowflake Science](https://www.londonchildrensmuseum.ca/event/steam-snowflake-science) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Snowflake Science](https://www.londonchildrensmuseum.ca/event/steam-snowflake-science) |
-| Tue Jan 09 | 09:30 | [CMus](/about#CMus) | [Toddler Takeover Week](https://www.londonchildrensmuseum.ca/event/toddler-takeover-week) |
+| Tuesday | 09:30 | [CMus](/about#CMus) | [Toddler Takeover Week](https://www.londonchildrensmuseum.ca/event/toddler-takeover-week) |
 | Wed Jan 10 | 09:30 | [CMus](/about#CMus) | [Toddler Takeover Week](https://www.londonchildrensmuseum.ca/event/toddler-takeover-week) |
 | Thu Jan 11 | 09:30 | [CMus](/about#CMus) | [Toddler Takeover Week](https://www.londonchildrensmuseum.ca/event/toddler-takeover-week) |
 |  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
@@ -40,8 +37,8 @@ draft: false
 | Tue Jan 16 | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
 |  | 17:00 | [CMus](/about#CMus) | [Sensory Friendly Evening](https://www.londonchildrensmuseum.ca/event/sensory-friendly-evening) |
 | Thu Jan 18 | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
-|  | 17:00 | [CMus](/about#CMus) | [Mosaic Tiles with Susan Day](https://www.londonchildrensmuseum.ca/event/mosaic-tiles-susan-day) |
 |  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
+|  | 17:00 | [CMus](/about#CMus) | [Mosaic Tiles with Susan Day](https://www.londonchildrensmuseum.ca/event/mosaic-tiles-susan-day) |
 |  | 18:00 | [CMus](/about#CMus) | [STEAM: Salt Experiments](https://www.londonchildrensmuseum.ca/event/steam-salt-experiments) |
 | Fri Jan 19 | 09:00 | [CMus](/about#CMus) | [PA Day Camp](https://www.londonchildrensmuseum.ca/event/pa-day-camp) |
 |  | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |

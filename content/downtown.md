@@ -1,20 +1,17 @@
 ---
 title: "Events - downtown"
-date: 2024-01-02T13:10:18-05:00
+date: 2024-01-03T00:00:23-05:00
 draft: false
 ---
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Tue) |  | [Grand](/about#Grand) | [London Gospel Collective 2023/24 Series](https://www.grandtheatre.com/event/london-gospel-collective-2324) |
+| Today (Wed) |  | [BudG](/about#BudG) | [LONDON KNIGHTS VS. ERIE OTTERS](https://www.budweisergardens.com/events/detail/london-knights-jan3) |
+|  |  | [Grand](/about#Grand) | [London Gospel Collective 2023/24 Series](https://www.grandtheatre.com/event/london-gospel-collective-2324) |
 |  | 09:00 | [CMus](/about#CMus) | [PA Day Camp](https://www.londonchildrensmuseum.ca/event/pa-day-camp) |
 |  | 11:00 | [CMus](/about#CMus) | [STEAM: Snowstorm in a Jar](https://www.londonchildrensmuseum.ca/event/steam-snowstorm-jar) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Snowflake Science](https://www.londonchildrensmuseum.ca/event/steam-snowflake-science) |
-| Tomorrow (Wed) |  | [BudG](/about#BudG) | [LONDON KNIGHTS VS. ERIE OTTERS](https://www.budweisergardens.com/events/detail/london-knights-jan3) |
-|  | 09:00 | [CMus](/about#CMus) | [PA Day Camp](https://www.londonchildrensmuseum.ca/event/pa-day-camp) |
-|  | 11:00 | [CMus](/about#CMus) | [STEAM: Snowstorm in a Jar](https://www.londonchildrensmuseum.ca/event/steam-snowstorm-jar) |
-|  | 14:30 | [CMus](/about#CMus) | [STEAM: Snowflake Science](https://www.londonchildrensmuseum.ca/event/steam-snowflake-science) |
-| Thursday | 09:00 | [CMus](/about#CMus) | [PA Day Camp](https://www.londonchildrensmuseum.ca/event/pa-day-camp) |
+| Tomorrow (Thu) | 09:00 | [CMus](/about#CMus) | [PA Day Camp](https://www.londonchildrensmuseum.ca/event/pa-day-camp) |
 |  | 11:00 | [CMus](/about#CMus) | [STEAM: Snowstorm in a Jar](https://www.londonchildrensmuseum.ca/event/steam-snowstorm-jar) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Snowflake Science](https://www.londonchildrensmuseum.ca/event/steam-snowflake-science) |
 |  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
@@ -33,7 +30,7 @@ draft: false
 | Sunday | 11:00 | [CMus](/about#CMus) | [STEAM: Snowflake Science](https://www.londonchildrensmuseum.ca/event/steam-snowflake-science) |
 |  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/07) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Snowflake Science](https://www.londonchildrensmuseum.ca/event/steam-snowflake-science) |
-| Tue Jan 09 | 09:30 | [CMus](/about#CMus) | [Toddler Takeover Week](https://www.londonchildrensmuseum.ca/event/toddler-takeover-week) |
+| Tuesday | 09:30 | [CMus](/about#CMus) | [Toddler Takeover Week](https://www.londonchildrensmuseum.ca/event/toddler-takeover-week) |
 | Wed Jan 10 | 09:30 | [CMus](/about#CMus) | [Toddler Takeover Week](https://www.londonchildrensmuseum.ca/event/toddler-takeover-week) |
 | Thu Jan 11 |  | [BudG](/about#BudG) | [London Lightning vs. Montreal Tundra](https://www.budweisergardens.com/events/detail/london-lightning-vs-montreal-toundra) |
 |  | 09:30 | [CMus](/about#CMus) | [Toddler Takeover Week](https://www.londonchildrensmuseum.ca/event/toddler-takeover-week) |
@@ -59,8 +56,8 @@ draft: false
 |  | 17:00 | [CMus](/about#CMus) | [Sensory Friendly Evening](https://www.londonchildrensmuseum.ca/event/sensory-friendly-evening) |
 | Wed Jan 17 | 19:00 | [LMH](/about#LMH) | [Young Dubliners](http://londonmusichall.com/events/young-dubliners/) |
 | Thu Jan 18 | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
-|  | 17:00 | [CMus](/about#CMus) | [Mosaic Tiles with Susan Day](https://www.londonchildrensmuseum.ca/event/mosaic-tiles-susan-day) |
 |  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
+|  | 17:00 | [CMus](/about#CMus) | [Mosaic Tiles with Susan Day](https://www.londonchildrensmuseum.ca/event/mosaic-tiles-susan-day) |
 |  | 18:00 | [CMus](/about#CMus) | [STEAM: Salt Experiments](https://www.londonchildrensmuseum.ca/event/steam-salt-experiments) |
 | Fri Jan 19 |  | [BudG](/about#BudG) | [London Lightning vs. Rhode Island Kraken](https://www.budweisergardens.com/events/detail/london-lightning-vs-rhode-island-kraken) |
 |  | 08:30 | [Museum](/about#Museum) | [PA Day Camp: Mini Model Makers](https://museumlondon.ca/programs-events/event/10556/) |
