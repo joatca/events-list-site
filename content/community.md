@@ -1,6 +1,6 @@
 ---
 title: "Events - community"
-date: 2024-01-03T00:00:23-05:00
+date: 2024-01-04T00:00:24-05:00
 draft: false
 ---
 
@@ -23,6 +23,7 @@ draft: false
 |  | 13:00 | [Info](/about#Info) | [Health Literacy](https://www.informationlondon.ca/Event/Detail/48854/Health_Literacy?date=2024-01-22) |
 | Tue Jan 23 | 13:00 | [City](/about#City) | [Council - January 23, 2024](https://london.ca/government/calendar/council-january-23-2024) |
 | Wed Jan 24 | 10:00 | [Info](/about#Info) | [Powerful Tools for Caregivers](https://www.informationlondon.ca/Event/Detail/48855/Powerful_Tools_for_Caregivers?date=2024-01-24) |
+| Thu Jan 25 | 13:30 | [City](/about#City) | [Committee of Adjustment - January 25, 2024](https://london.ca/government/calendar/committee-adjustment-january-25-2024) |
 | Fri Jan 26 | 08:00 | [TVDSB](/about#TVDSB) | [Evaluation Days Begin](https://calendar.tvdsb.ca/default/Detail/2024-01-26-0800-Evaluation-Days-Begin) |
 | Sat Jan 27 | 08:00 | [TVDSB](/about#TVDSB) | [Family Literacy Day](https://calendar.tvdsb.ca/default/Detail/2024-01-27-0800-Family-Literacy-Day) |
 |  | 08:00 | [TVDSB](/about#TVDSB) | [International Day of Commemoration in Memory of the Victims of the Holocaust](https://calendar.tvdsb.ca/default/Detail/2024-01-27-0800-International-Day-of-Commemoration-in-Memory-of-th) |
