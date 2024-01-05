@@ -1,17 +1,16 @@
 ---
 title: "Events - entertainment"
-date: 2024-01-04T00:00:24-05:00
+date: 2024-01-05T00:00:22-05:00
 draft: false
 ---
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Thu) |  | [Grand](/about#Grand) | [London Gospel Collective 2023/24 Series](https://www.grandtheatre.com/event/london-gospel-collective-2324) |
-| Tomorrow (Fri) |  | [BudG](/about#BudG) | [LONDON KNIGHTS VS. BARRIE COLTS](https://www.budweisergardens.com/events/detail/london-knights-jan5) |
+| Today (Fri) |  | [BudG](/about#BudG) | [LONDON KNIGHTS VS. BARRIE COLTS](https://www.budweisergardens.com/events/detail/london-knights-jan5) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Peter Karle Combo – Everything In Its Right Place (A Jazz Tribute to Radiohead)](https://aeolianhall.ca/events/peter-karle-combo-everything-in-its-right-place/) |
-| Saturday |  | [BudG](/about#BudG) | [London Lightning vs. KW Titans](https://www.budweisergardens.com/events/detail/london-lightning-vs-kw-titans-18) |
+| Tomorrow (Sat) |  | [BudG](/about#BudG) | [London Lightning vs. KW Titans](https://www.budweisergardens.com/events/detail/london-lightning-vs-kw-titans-18) |
 | Sunday | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/07) |
-| Thu Jan 11 |  | [BudG](/about#BudG) | [London Lightning vs. Montreal Tundra](https://www.budweisergardens.com/events/detail/london-lightning-vs-montreal-toundra) |
+| Thursday |  | [BudG](/about#BudG) | [London Lightning vs. Montreal Tundra](https://www.budweisergardens.com/events/detail/london-lightning-vs-montreal-toundra) |
 |  | 19:00 | [LMH](/about#LMH) | [PARABOLUS: The Complete Tool Experience](http://londonmusichall.com/events/parabolus-the-complete-tool-experience/) |
 | Fri Jan 12 |  | [BudG](/about#BudG) | [LONDON KNIGHTS VS. SAGINAW SPIRIT](https://www.budweisergardens.com/events/detail/london-knights-jan12) |
 |  | 12:30 | [FMus](/about#FMus) | [Fridays at 12:30 Concert Series: Ein Liederkonzert CANCELLED](http://www.events.westernu.ca/events/music/2024-01/fridays-at-1230-ein-liederkonzert.html) |
@@ -35,11 +34,20 @@ draft: false
 |  |  | [Grand](/about#Grand) | [Ensemble Caprice](https://www.grandtheatre.com/event/ensemble-caprice) |
 |  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/21) |
 |  | 20:00 | [Aeol](/about#Aeol) | [MJ The Illusion](https://aeolianhall.ca/events/mj-the-illusion/) |
-| Wed Jan 24 | 19:00 | [LMH](/about#LMH) | [Jamie Fine](http://londonmusichall.com/events/jamie-fine/) |
-| Fri Jan 26 | 20:00 | [Aeol](/about#Aeol) | [Aleksi Campagne](https://aeolianhall.ca/events/aleksi-campagne/) |
-| Sat Jan 27 | 22:00 | [LMH](/about#LMH) | [AADJA & Lindsey Herbert @ System Saturdays](http://londonmusichall.com/events/aadja-lindsey-herbert-system-saturdays/) |
+| Wed Jan 24 | 18:00 | [FMus](/about#FMus) | [Artists-in-Residence Concert: New Orford String Quartet](http://www.events.westernu.ca/events/music/2024-01/new-orford.html) |
+|  | 19:00 | [LMH](/about#LMH) | [Jamie Fine](http://londonmusichall.com/events/jamie-fine/) |
+| Thu Jan 25 | 18:30 | [Aeol](/about#Aeol) | [Aeolian Jazz Series – Laurraine Sigouin (Southen Lounge)](https://aeolianhall.ca/events/aeolian-jazz-series-laurraine-sigouin/) |
+| Fri Jan 26 | 12:30 | [FMus](/about#FMus) | [Fridays at 12:30 Series: Grace Lou, erhu and String Quartet](http://www.events.westernu.ca/events/music/2024-01/fridays-at-1230-grace-lou.html) |
+|  | 20:00 | [Aeol](/about#Aeol) | [Aleksi Campagne](https://aeolianhall.ca/events/aleksi-campagne/) |
+|  | 20:00 | [FMus](/about#FMus) | [Faculty Concert: Schoenberg's Pierrot Lunaire ](http://www.events.westernu.ca/events/music/2024-01/faculty-concert-pierrot-lunaire.html) |
+| Sat Jan 27 | 09:00 | [FMus](/about#FMus) | [Brass Day](http://www.events.westernu.ca/events/music/2024-01/brass-day.html) |
+|  | 15:00 | [FMus](/about#FMus) | [Brass Day Recital: James Miller, trombone](http://www.events.westernu.ca/events/music/2024-01/brass-day-recital.html) |
+|  | 22:00 | [LMH](/about#LMH) | [AADJA & Lindsey Herbert @ System Saturdays](http://londonmusichall.com/events/aadja-lindsey-herbert-system-saturdays/) |
 | Sun Jan 28 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/28) |
-| Fri Feb 02 | 21:00 | [LMH](/about#LMH) | [Wing Night: The Band](http://londonmusichall.com/events/wing-night-the-band-5/) |
+| Tue Jan 30 | 18:00 | [FMus](/about#FMus) | [Studio Recital: Stéphan Sylvestre (piano)](http://www.events.westernu.ca/events/music/2024-01/studio-recital-stephan-sylvestre-1.html) |
+| Fri Feb 02 | 12:30 | [FMus](/about#FMus) | [Fridays at 12:30: J. Archibald, soprano; L. Upchurch, piano](http://www.events.westernu.ca/events/music/2024-02/fridays-at-1230-Archibald-Upchurch.html) |
+|  | 21:00 | [LMH](/about#LMH) | [Wing Night: The Band](http://londonmusichall.com/events/wing-night-the-band-5/) |
+| Sat Feb 03 | 14:00 | [FMus](/about#FMus) | [Opera and Musical Theatre Gala with Early Music Studio](http://www.events.westernu.ca/events/music/2024-02/opera-gala-2024.html) |
 | Sun Feb 04 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paper Puppetry](https://museumlondon.ca/programs-events/event/10760/2024/02/04) |
 | Tue Feb 06 |  | [Grand](/about#Grand) | [Huff](https://www.grandtheatre.com/event/huff) |
 | Wed Feb 07 | 19:00 | [LMH](/about#LMH) | [Brother Elsey](http://londonmusichall.com/events/brother-elsey-4/) |
@@ -65,7 +73,8 @@ draft: false
 | Fri Feb 23 | 20:00 | [Aeol](/about#Aeol) | [Guy Davis](https://aeolianhall.ca/events/guy-davis-2/) |
 | Sat Feb 24 | 12:00 | [Museum](/about#Museum) | [Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10900/) |
 |  | 18:30 | [LMH](/about#LMH) | [Chase Rice – Get Western Tour](http://londonmusichall.com/events/chase-rice-get-western-tour/) |
-| Sun Feb 25 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paper Puppetry](https://museumlondon.ca/programs-events/event/10760/2024/02/25) |
+| Sun Feb 25 |  | [Grand](/about#Grand) | [London Gospel Collective 2023/24 Series](https://www.grandtheatre.com/event/london-gospel-collective-2324) |
+|  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paper Puppetry](https://museumlondon.ca/programs-events/event/10760/2024/02/25) |
 | Wed Feb 28 | 18:30 | [LMH](/about#LMH) | [Aaron Pritchett: The Liquored Up Tour](http://londonmusichall.com/events/aaron-pritchett-the-liquored-up-tour/) |
 | Thu Feb 29 | 19:00 | [LMH](/about#LMH) | [SHAWN DESMAN](http://londonmusichall.com/events/shawn-desman/) |
 | Sat Mar 02 | 12:00 | [Museum](/about#Museum) | [Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10902/) |
