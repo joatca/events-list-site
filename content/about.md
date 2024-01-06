@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2024-01-05T21:37:37-05:00
+date: 2024-01-06T00:00:21-05:00
 draft: false
 ---
 
@@ -22,6 +22,6 @@ This page knows about events on these sites.
 | **LMH** | [London Music Hall](http://londonmusichall.com/upcoming-events/) | *40 events found*
 | **Museum** | [Museum London](https://museumlondon.ca/programs-events) | *21 events found*
 | **TVDSB** | [Thames Valley District School Board](https://calendar.tvdsb.ca/) | *25 events found*
-| **Tour** | [Tourism London](https://www.londontourism.ca/events/all-events) | *121 events found*
+| **Tour** | [Tourism London](https://www.londontourism.ca/events/all-events) | *119 events found*
 
-_Last updated 2024-01-05 21:37:37 -0500_
+_Last updated 2024-01-06 00:00:21 -0500_

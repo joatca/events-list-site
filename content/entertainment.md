@@ -1,6 +1,6 @@
 ---
 title: "Events - entertainment"
-date: 2024-01-05T21:37:37-05:00
+date: 2024-01-06T00:00:21-05:00
 draft: false
 ---
 
@@ -9,11 +9,11 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Tomorrow (Sat) |  | [BudG](/about#BudG) | [London Lightning vs. KW Titans](https://www.budweisergardens.com/events/detail/london-lightning-vs-kw-titans-18) |
-| Sunday | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/07) |
+| Today (Sat) |  | [BudG](/about#BudG) | [London Lightning vs. KW Titans](https://www.budweisergardens.com/events/detail/london-lightning-vs-kw-titans-18) |
+| Tomorrow (Sun) | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/07) |
 | Thursday |  | [BudG](/about#BudG) | [London Lightning vs. Montreal Tundra](https://www.budweisergardens.com/events/detail/london-lightning-vs-montreal-toundra) |
 |  | 19:00 | [LMH](/about#LMH) | [PARABOLUS: The Complete Tool Experience](http://londonmusichall.com/events/parabolus-the-complete-tool-experience/) |
-| Fri Jan 12 |  | [BudG](/about#BudG) | [LONDON KNIGHTS VS. SAGINAW SPIRIT](https://www.budweisergardens.com/events/detail/london-knights-jan12) |
+| Friday |  | [BudG](/about#BudG) | [LONDON KNIGHTS VS. SAGINAW SPIRIT](https://www.budweisergardens.com/events/detail/london-knights-jan12) |
 |  | 12:30 | [FMus](/about#FMus) | [Fridays at 12:30 Concert Series: Ein Liederkonzert CANCELLED](http://www.events.westernu.ca/events/music/2024-01/fridays-at-1230-ein-liederkonzert.html) |
 | Sat Jan 13 | 12:00 | [FMus](/about#FMus) | [Maritsa Brookes Concerto Competition - Final Round](http://www.events.westernu.ca/events/music/2024-01/maritsa-brookes-final-round.html) |
 |  | 19:30 | [Aeol](/about#Aeol) | [mattlayn – One Last Time (Southen Lounge)](https://aeolianhall.ca/events/mattlayn-one-last-time-2/) |

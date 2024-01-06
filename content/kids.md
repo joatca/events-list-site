@@ -1,6 +1,6 @@
 ---
 title: "Events - kids"
-date: 2024-01-05T21:37:37-05:00
+date: 2024-01-06T00:00:21-05:00
 draft: false
 ---
 
@@ -9,21 +9,17 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Fri) | 09:00 | [CMus](/about#CMus) | [PA Day Camp](https://www.londonchildrensmuseum.ca/event/pa-day-camp) |
-|  | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
-|  | 11:00 | [CMus](/about#CMus) | [STEAM: Snowstorm in a Jar](https://www.londonchildrensmuseum.ca/event/steam-snowstorm-jar) |
-|  | 14:30 | [CMus](/about#CMus) | [STEAM: Snowflake Science](https://www.londonchildrensmuseum.ca/event/steam-snowflake-science) |
-| Tomorrow (Sat) | 11:00 | [CMus](/about#CMus) | [STEAM: Snowflake Science](https://www.londonchildrensmuseum.ca/event/steam-snowflake-science) |
+| Today (Sat) | 11:00 | [CMus](/about#CMus) | [STEAM: Snowflake Science](https://www.londonchildrensmuseum.ca/event/steam-snowflake-science) |
 |  | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Snowflake Science](https://www.londonchildrensmuseum.ca/event/steam-snowflake-science) |
-| Sunday | 11:00 | [CMus](/about#CMus) | [STEAM: Snowflake Science](https://www.londonchildrensmuseum.ca/event/steam-snowflake-science) |
+| Tomorrow (Sun) | 11:00 | [CMus](/about#CMus) | [STEAM: Snowflake Science](https://www.londonchildrensmuseum.ca/event/steam-snowflake-science) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Snowflake Science](https://www.londonchildrensmuseum.ca/event/steam-snowflake-science) |
 | Tuesday | 09:30 | [CMus](/about#CMus) | [Toddler Takeover Week](https://www.londonchildrensmuseum.ca/event/toddler-takeover-week) |
 | Wednesday | 09:30 | [CMus](/about#CMus) | [Toddler Takeover Week](https://www.londonchildrensmuseum.ca/event/toddler-takeover-week) |
 | Thursday | 09:30 | [CMus](/about#CMus) | [Toddler Takeover Week](https://www.londonchildrensmuseum.ca/event/toddler-takeover-week) |
 |  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
 |  | 18:00 | [CMus](/about#CMus) | [STEAM: Snow Scoop Challenge](https://www.londonchildrensmuseum.ca/event/steam-snow-scoop-challenge) |
-| Fri Jan 12 | 09:30 | [CMus](/about#CMus) | [Toddler Takeover Week](https://www.londonchildrensmuseum.ca/event/toddler-takeover-week) |
+| Friday | 09:30 | [CMus](/about#CMus) | [Toddler Takeover Week](https://www.londonchildrensmuseum.ca/event/toddler-takeover-week) |
 | Sat Jan 13 | 11:00 | [CMus](/about#CMus) | [STEAM: Snow Scoop Challenge](https://www.londonchildrensmuseum.ca/event/steam-snow-scoop-challenge) |
 |  | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Snow Scoop Challenge](https://www.londonchildrensmuseum.ca/event/steam-snow-scoop-challenge) |

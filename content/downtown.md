@@ -1,6 +1,6 @@
 ---
 title: "Events - downtown"
-date: 2024-01-05T21:37:37-05:00
+date: 2024-01-06T00:00:21-05:00
 draft: false
 ---
 
@@ -9,16 +9,12 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Fri) | 09:00 | [CMus](/about#CMus) | [PA Day Camp](https://www.londonchildrensmuseum.ca/event/pa-day-camp) |
-|  | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
-|  | 11:00 | [CMus](/about#CMus) | [STEAM: Snowstorm in a Jar](https://www.londonchildrensmuseum.ca/event/steam-snowstorm-jar) |
-|  | 14:30 | [CMus](/about#CMus) | [STEAM: Snowflake Science](https://www.londonchildrensmuseum.ca/event/steam-snowflake-science) |
-| Tomorrow (Sat) |  | [BudG](/about#BudG) | [London Lightning vs. KW Titans](https://www.budweisergardens.com/events/detail/london-lightning-vs-kw-titans-18) |
+| Today (Sat) |  | [BudG](/about#BudG) | [London Lightning vs. KW Titans](https://www.budweisergardens.com/events/detail/london-lightning-vs-kw-titans-18) |
 |  | 11:00 | [CGM](/about#CGM) | [Saturday Cooking Demo](https://coventmarket.com/event/saturday-cooking-classes-2/) |
 |  | 11:00 | [CMus](/about#CMus) | [STEAM: Snowflake Science](https://www.londonchildrensmuseum.ca/event/steam-snowflake-science) |
 |  | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Snowflake Science](https://www.londonchildrensmuseum.ca/event/steam-snowflake-science) |
-| Sunday | 11:00 | [CMus](/about#CMus) | [STEAM: Snowflake Science](https://www.londonchildrensmuseum.ca/event/steam-snowflake-science) |
+| Tomorrow (Sun) | 11:00 | [CMus](/about#CMus) | [STEAM: Snowflake Science](https://www.londonchildrensmuseum.ca/event/steam-snowflake-science) |
 |  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/07) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Snowflake Science](https://www.londonchildrensmuseum.ca/event/steam-snowflake-science) |
 | Tuesday | 09:30 | [CMus](/about#CMus) | [Toddler Takeover Week](https://www.londonchildrensmuseum.ca/event/toddler-takeover-week) |
@@ -30,7 +26,7 @@ View only a category:
 |  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
 |  | 18:00 | [CMus](/about#CMus) | [STEAM: Snow Scoop Challenge](https://www.londonchildrensmuseum.ca/event/steam-snow-scoop-challenge) |
 |  | 19:00 | [LMH](/about#LMH) | [PARABOLUS: The Complete Tool Experience](http://londonmusichall.com/events/parabolus-the-complete-tool-experience/) |
-| Fri Jan 12 |  | [BudG](/about#BudG) | [LONDON KNIGHTS VS. SAGINAW SPIRIT](https://www.budweisergardens.com/events/detail/london-knights-jan12) |
+| Friday |  | [BudG](/about#BudG) | [LONDON KNIGHTS VS. SAGINAW SPIRIT](https://www.budweisergardens.com/events/detail/london-knights-jan12) |
 |  | 09:30 | [CMus](/about#CMus) | [Toddler Takeover Week](https://www.londonchildrensmuseum.ca/event/toddler-takeover-week) |
 | Sat Jan 13 | 11:00 | [CMus](/about#CMus) | [STEAM: Snow Scoop Challenge](https://www.londonchildrensmuseum.ca/event/steam-snow-scoop-challenge) |
 |  | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
