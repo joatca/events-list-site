@@ -1,6 +1,6 @@
 ---
 title: "Events - adult"
-date: 2024-01-07T00:00:37-05:00
+date: 2024-01-08T00:00:22-05:00
 draft: false
 ---
 
@@ -9,10 +9,9 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Sun) | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/07) |
-| Tomorrow (Mon) | 08:00 | [TVDSB](/about#TVDSB) | [Classes Resume](https://calendar.tvdsb.ca/default/Detail/2024-01-08-0800-Classes-Resume) |
+| Today (Mon) | 08:00 | [TVDSB](/about#TVDSB) | [Classes Resume](https://calendar.tvdsb.ca/default/Detail/2024-01-08-0800-Classes-Resume) |
 |  | 13:00 | [City](/about#City) | [Community and Protective Services Committee - January 08, 2024](https://london.ca/government/calendar/community-protective-services-committee-january-08-2024) |
-| Tuesday | 09:30 | [City](/about#City) | [Civic Works Committee - January 09, 2024](https://london.ca/government/calendar/civic-works-committee-january-09-2024) |
+| Tomorrow (Tue) | 09:30 | [City](/about#City) | [Civic Works Committee - January 09, 2024](https://london.ca/government/calendar/civic-works-committee-january-09-2024) |
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - January 09, 2024](https://london.ca/government/calendar/planning-environment-committee-january-09-2024) |
 | Thursday |  | [BudG](/about#BudG) | [London Lightning vs. Montreal Tundra](https://www.budweisergardens.com/events/detail/london-lightning-vs-montreal-toundra) |
 |  |  | [Tour](/about#Tour) | [Parabolus:  The Complete Tool Experience](https://www.londontourism.ca/events/parabolus-the-complete-tool-experience) |
@@ -32,7 +31,7 @@ View only a category:
 |  | 12:00 | [FMus](/about#FMus) | [Maritsa Brookes Concerto Competition - Final Round](http://www.events.westernu.ca/events/music/2024-01/maritsa-brookes-final-round.html) |
 |  | 19:30 | [Aeol](/about#Aeol) | [mattlayn – One Last Time (Southen Lounge)](https://aeolianhall.ca/events/mattlayn-one-last-time-2/) |
 |  | 22:00 | [LMH](/about#LMH) | [Markus Shulz](http://londonmusichall.com/events/markus-shulz/) |
-| Sun Jan 14 |  | [BudG](/about#BudG) | [LONDON KNIGHTS VS. OWEN SOUND ATTACK](https://www.budweisergardens.com/events/detail/london-knights-jan14) |
+| Sunday |  | [BudG](/about#BudG) | [LONDON KNIGHTS VS. OWEN SOUND ATTACK](https://www.budweisergardens.com/events/detail/london-knights-jan14) |
 |  |  | [Tour](/about#Tour) | [Toboggan Sunday Jazz: The Jazz Collective - Music of Miles Davis](https://www.londontourism.ca/events/toboggan-sunday-jazz-the-jazz-collective-music-of-miles-davis) |
 |  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/14) |
 |  | 14:00 | [Aeol](/about#Aeol) | [Aeolian Classical Series – Dan Luong](https://aeolianhall.ca/events/aeolian-classical-series-dan-luong/) |
@@ -125,6 +124,7 @@ View only a category:
 |  |  | [Tour](/about#Tour) | [Nature in the City - London’s Naturals](https://www.londontourism.ca/events/all-events/page/6) |
 |  |  | [Tour](/about#Tour) | [Huff](https://www.londontourism.ca/events/huff) |
 |  | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - February 06, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-february-06-2024) |
+|  | 20:00 | [FMus](/about#FMus) | [Guest Artists: Jeremy Huw Williams and Ensemble Paramirabo](http://www.events.westernu.ca/events/music/2024-02/horizon-madog.html) |
 | Wed Feb 07 |  | [Tour](/about#Tour) | [London Lightning vs Pontiac Pharaohs](https://www.londontourism.ca/events/london-lightning-vs-pontiac-pharaohs) |
 |  | 09:30 | [Info](/about#Info) | [Living a Healthy Life with Diabetes](https://www.informationlondon.ca/Event/Detail/48852/Living_a_Healthy_Life_with_Diabetes?date=2024-02-07) |
 |  | 19:00 | [LMH](/about#LMH) | [Brother Elsey](http://londonmusichall.com/events/brother-elsey-4/) |

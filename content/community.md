@@ -1,6 +1,6 @@
 ---
 title: "Events - community"
-date: 2024-01-07T00:00:37-05:00
+date: 2024-01-08T00:00:22-05:00
 draft: false
 ---
 
@@ -9,9 +9,9 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Tomorrow (Mon) | 08:00 | [TVDSB](/about#TVDSB) | [Classes Resume](https://calendar.tvdsb.ca/default/Detail/2024-01-08-0800-Classes-Resume) |
+| Today (Mon) | 08:00 | [TVDSB](/about#TVDSB) | [Classes Resume](https://calendar.tvdsb.ca/default/Detail/2024-01-08-0800-Classes-Resume) |
 |  | 13:00 | [City](/about#City) | [Community and Protective Services Committee - January 08, 2024](https://london.ca/government/calendar/community-protective-services-committee-january-08-2024) |
-| Tuesday | 09:30 | [City](/about#City) | [Civic Works Committee - January 09, 2024](https://london.ca/government/calendar/civic-works-committee-january-09-2024) |
+| Tomorrow (Tue) | 09:30 | [City](/about#City) | [Civic Works Committee - January 09, 2024](https://london.ca/government/calendar/civic-works-committee-january-09-2024) |
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - January 09, 2024](https://london.ca/government/calendar/planning-environment-committee-january-09-2024) |
 | Thursday | 13:30 | [Info](/about#Info) | [Skills of Well-Being](https://www.informationlondon.ca/Event/Detail/48853/Skills_of_Well-Being?date=2024-01-11) |
 |  | 13:30 | [City](/about#City) | [Committee of Adjustment - January 11, 2024](https://london.ca/government/calendar/committee-adjustment-january-11-2024) |

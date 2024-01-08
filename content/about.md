@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2024-01-07T00:00:37-05:00
+date: 2024-01-08T00:00:22-05:00
 draft: false
 ---
 
@@ -16,12 +16,12 @@ This page knows about events on these sites.
 | **Cent** | [Centennial Hall](https://centennialhall.london.ca/london-event-listings.html) | *Not supported: too difficult to scan website automatically*
 | **City** | [London City Government Calendar](https://london.ca/government/calendar) | *74 events found*
 | **Eldon** | [Eldon House](https://eldonhouse.ca/events/) | *4 events found*
-| **FMus** | [Don Wright Faculty of Music](http://www.events.westernu.ca/events/music/) | *15 events found*
+| **FMus** | [Don Wright Faculty of Music](http://www.events.westernu.ca/events/music/) | *16 events found*
 | **Grand** | [Grand Theatre](https://www.grandtheatre.com/events) | *16 events found*
 | **Info** | [Information London](https://www.informationlondon.ca/Event/List) | *5 events found*
 | **LMH** | [London Music Hall](http://londonmusichall.com/upcoming-events/) | *40 events found*
-| **Museum** | [Museum London](https://museumlondon.ca/programs-events) | *21 events found*
+| **Museum** | [Museum London](https://museumlondon.ca/programs-events) | *20 events found*
 | **TVDSB** | [Thames Valley District School Board](https://calendar.tvdsb.ca/) | *25 events found*
 | **Tour** | [Tourism London](https://www.londontourism.ca/events/all-events) | *99 events found*
 
-_Last updated 2024-01-07 00:00:37 -0500_
+_Last updated 2024-01-08 00:00:22 -0500_
