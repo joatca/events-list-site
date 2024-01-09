@@ -1,6 +1,6 @@
 ---
 title: "Events - culture"
-date: 2024-01-08T00:00:22-05:00
+date: 2024-01-09T00:00:22-05:00
 draft: false
 ---
 

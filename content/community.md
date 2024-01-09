@@ -1,6 +1,6 @@
 ---
 title: "Events - community"
-date: 2024-01-08T00:00:22-05:00
+date: 2024-01-09T00:00:22-05:00
 draft: false
 ---
 
@@ -9,13 +9,13 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Mon) | 08:00 | [TVDSB](/about#TVDSB) | [Classes Resume](https://calendar.tvdsb.ca/default/Detail/2024-01-08-0800-Classes-Resume) |
-|  | 13:00 | [City](/about#City) | [Community and Protective Services Committee - January 08, 2024](https://london.ca/government/calendar/community-protective-services-committee-january-08-2024) |
-| Tomorrow (Tue) | 09:30 | [City](/about#City) | [Civic Works Committee - January 09, 2024](https://london.ca/government/calendar/civic-works-committee-january-09-2024) |
+| Today (Tue) | 09:30 | [City](/about#City) | [Civic Works Committee - January 09, 2024](https://london.ca/government/calendar/civic-works-committee-january-09-2024) |
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - January 09, 2024](https://london.ca/government/calendar/planning-environment-committee-january-09-2024) |
 | Thursday | 13:30 | [Info](/about#Info) | [Skills of Well-Being](https://www.informationlondon.ca/Event/Detail/48853/Skills_of_Well-Being?date=2024-01-11) |
 |  | 13:30 | [City](/about#City) | [Committee of Adjustment - January 11, 2024](https://london.ca/government/calendar/committee-adjustment-january-11-2024) |
-| Mon Jan 15 | 08:00 | [TVDSB](/about#TVDSB) | [World Religion Day](https://calendar.tvdsb.ca/default/Detail/2024-01-15-0800-World-Religion-Day) |
+| Saturday | 08:00 | [TVDSB](/about#TVDSB) | [Lohri](https://calendar.tvdsb.ca/default/Detail/2024-01-13-0800-Lohri) |
+| Sunday | 08:00 | [TVDSB](/about#TVDSB) | [New Year - Coptic & Eastern Orthodox](https://calendar.tvdsb.ca/default/Detail/2024-01-14-0800-New-Year-Coptic-amp-Eastern-Orthodox) |
+| Monday | 08:00 | [TVDSB](/about#TVDSB) | [World Religion Day](https://calendar.tvdsb.ca/default/Detail/2024-01-15-0800-World-Religion-Day) |
 |  | 13:00 | [City](/about#City) | [Corporate Services Committee - January 15, 2024](https://london.ca/government/calendar/corporate-services-committee-january-15-2024) |
 | Tue Jan 16 | 08:00 | [TVDSB](/about#TVDSB) | [Martin Luther King Jr Day](https://calendar.tvdsb.ca/default/Detail/2024-01-16-0800-Martin-Luther-King-Jr-Day) |
 |  | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - January 16, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-january-16-2024) |
@@ -77,14 +77,13 @@ View only a category:
 | Sun Mar 10 | 08:00 | [TVDSB](/about#TVDSB) | [Ramadan](https://calendar.tvdsb.ca/default/Detail/2024-03-10-0800-Ramadan) |
 | Mon Mar 11 | 08:00 | [TVDSB](/about#TVDSB) | [National COVID-19 Day of Observance](https://calendar.tvdsb.ca/default/Detail/2024-03-11-0800-National-COVID-19-Day-of-Observance) |
 |  | 08:00 | [TVDSB](/about#TVDSB) | [Spring Break Begins](https://calendar.tvdsb.ca/default/Detail/2024-03-11-0800-Spring-Break-Begins) |
-| Sun Mar 17 | 08:00 | [TVDSB](/about#TVDSB) | [St. Patrick's Day](https://calendar.tvdsb.ca/default/Detail/2024-03-17-0800-St-Patricks-Day) |
 | Mon Mar 18 | 13:00 | [City](/about#City) | [Community and Protective Services Committee - March 18, 2024](https://london.ca/government/calendar/community-protective-services-committee-march-18-2024) |
 | Tue Mar 19 | 09:30 | [City](/about#City) | [Civic Works Committee - March 19, 2024](https://london.ca/government/calendar/civic-works-committee-march-19-2024) |
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - March 19, 2024](https://london.ca/government/calendar/planning-environment-committee-march-19-2024) |
 | Mon Mar 25 | 10:00 | [City](/about#City) | [Governance Working Group - March 25, 2024](https://london.ca/government/calendar/governance-working-group-march-25-2024) |
 |  | 13:00 | [City](/about#City) | [Corporate Services Committee - March 25, 2024](https://london.ca/government/calendar/corporate-services-committee-march-25-2024) |
-| Tue Mar 26 | 13:00 | [City](/about#City) | [Council - March 26, 2024](https://london.ca/government/calendar/council-march-26-2024) |
-|  | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - March 26, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-march-26-2024) |
+| Tue Mar 26 | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - March 26, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-march-26-2024) |
+|  | 13:00 | [City](/about#City) | [Council - March 26, 2024](https://london.ca/government/calendar/council-march-26-2024) |
 | Tue Apr 02 | 13:00 | [City](/about#City) | [Council - April 02, 2024](https://london.ca/government/calendar/council-april-02-2024) |
 | Mon Apr 08 | 13:00 | [City](/about#City) | [Community and Protective Services Committee - April 08, 2024](https://london.ca/government/calendar/community-protective-services-committee-april-08-2024) |
 | Tue Apr 09 | 09:30 | [City](/about#City) | [Civic Works Committee - April 09, 2024](https://london.ca/government/calendar/civic-works-committee-april-09-2024) |
