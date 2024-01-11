@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2024-01-10T12:28:13-05:00
+date: 2024-01-11T00:00:35-05:00
 draft: false
 ---
 
@@ -24,4 +24,4 @@ This page knows about events on these sites.
 | **TVDSB** | [Thames Valley District School Board](https://calendar.tvdsb.ca/) | *Error: unable to fetch any events*
 | **Tour** | [Tourism London](https://www.londontourism.ca/events/all-events) | *123 events found*
 
-_Last updated 2024-01-10 12:28:13 -0500_
+_Last updated 2024-01-11 00:00:35 -0500_

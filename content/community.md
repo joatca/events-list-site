@@ -1,6 +1,6 @@
 ---
 title: "Events - community"
-date: 2024-01-10T12:28:13-05:00
+date: 2024-01-11T00:00:35-05:00
 draft: false
 ---
 
@@ -9,12 +9,12 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Tomorrow (Thu) | 13:30 | [Info](/about#Info) | [Skills of Well-Being](https://www.informationlondon.ca/Event/Detail/48853/Skills_of_Well-Being?date=2024-01-11) |
+| Today (Thu) | 13:30 | [Info](/about#Info) | [Skills of Well-Being](https://www.informationlondon.ca/Event/Detail/48853/Skills_of_Well-Being?date=2024-01-11) |
 |  | 13:30 | [City](/about#City) | [Committee of Adjustment - January 11, 2024](https://london.ca/government/calendar/committee-adjustment-january-11-2024) |
-| Friday | 18:30 | [Info](/about#Info) | [TGIF Game Night!](https://www.informationlondon.ca/Event/Detail/49385/TGIF_Game_Night?date=2024-01-12) |
+| Tomorrow (Fri) | 18:30 | [Info](/about#Info) | [TGIF Game Night!](https://www.informationlondon.ca/Event/Detail/49385/TGIF_Game_Night?date=2024-01-12) |
 | Monday | 13:00 | [City](/about#City) | [Corporate Services Committee - January 15, 2024](https://london.ca/government/calendar/corporate-services-committee-january-15-2024) |
 | Tuesday | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - January 16, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-january-16-2024) |
-| Wed Jan 17 | 09:00 | [City](/about#City) | [Special Strategic Priorities and Policy Committee - January 17, 2024](https://london.ca/government/calendar/special-strategic-priorities-policy-committee-january-17-2024) |
+| Wednesday | 09:00 | [City](/about#City) | [Special Strategic Priorities and Policy Committee - January 17, 2024](https://london.ca/government/calendar/special-strategic-priorities-policy-committee-january-17-2024) |
 |  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-01-17) |
 | Fri Jan 19 | 18:30 | [Info](/about#Info) | [TGIF Game Night!](https://www.informationlondon.ca/Event/Detail/49385/TGIF_Game_Night?date=2024-01-19) |
 |  | 18:30 | [Info](/about#Info) | [Free Drop-In Basketball for Youth](https://www.informationlondon.ca/Event/Detail/49394/Free_Drop-In_Basketball_for_Youth?date=2024-01-19) |
