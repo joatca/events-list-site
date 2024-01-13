@@ -1,6 +1,6 @@
 baseURL: 'https://londonevents.joat.me/'
 languageCode: 'en-ca'
-title: 'London ON Events'
+title: 'London ON & Area Events'
 theme: 'hugo-flex'
 
 params:
