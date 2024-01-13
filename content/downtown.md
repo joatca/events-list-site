@@ -1,6 +1,6 @@
 ---
 title: "Events - downtown"
-date: 2024-01-12T21:12:08-05:00
+date: 2024-01-13T00:00:39-05:00
 draft: false
 ---
 
@@ -9,14 +9,12 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Fri) | 09:30 | [CMus](/about#CMus) | [Toddler Takeover Week](https://www.londonchildrensmuseum.ca/event/toddler-takeover-week) |
-|  | 18:30 | [Info](/about#Info) | [TGIF Game Night!](https://www.informationlondon.ca/Event/Detail/49385/TGIF_Game_Night?date=2024-01-12) |
-| Tomorrow (Sat) | 11:00 | [CMus](/about#CMus) | [STEAM: Snow Scoop Challenge](https://www.londonchildrensmuseum.ca/event/steam-snow-scoop-challenge) |
+| Today (Sat) | 11:00 | [CMus](/about#CMus) | [STEAM: Snow Scoop Challenge](https://www.londonchildrensmuseum.ca/event/steam-snow-scoop-challenge) |
 |  | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Snow Scoop Challenge](https://www.londonchildrensmuseum.ca/event/steam-snow-scoop-challenge) |
 |  | 19:30 | [Aeol](/about#Aeol) | [mattlayn – One Last Time (Southen Lounge)](https://aeolianhall.ca/events/mattlayn-one-last-time-2/) |
 |  | 22:00 | [LMH](/about#LMH) | [Markus Shulz](http://londonmusichall.com/events/markus-shulz/) |
-| Sunday |  | [BudG](/about#BudG) | [LONDON KNIGHTS VS. OWEN SOUND ATTACK](https://www.budweisergardens.com/events/detail/london-knights-jan14) |
+| Tomorrow (Sun) |  | [BudG](/about#BudG) | [LONDON KNIGHTS VS. OWEN SOUND ATTACK](https://www.budweisergardens.com/events/detail/london-knights-jan14) |
 |  | 11:00 | [CGM](/about#CGM) | [Calling All Vendors – Naw Ruz Bazaar](https://coventmarket.com/event/calling-all-vendors-naw-ruz-bazaar/) |
 |  | 11:00 | [CMus](/about#CMus) | [STEAM: Snow Scoop Challenge](https://www.londonchildrensmuseum.ca/event/steam-snow-scoop-challenge) |
 |  | 12:00 | [CGM](/about#CGM) | [Crokicurl](https://coventmarket.com/event/crokicurl-on-the-rotary-square/) |
@@ -32,7 +30,7 @@ View only a category:
 |  | 17:00 | [CMus](/about#CMus) | [Mosaic Tiles with Susan Day](https://www.londonchildrensmuseum.ca/event/mosaic-tiles-susan-day) |
 |  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
 |  | 18:00 | [CMus](/about#CMus) | [STEAM: Salt Experiments](https://www.londonchildrensmuseum.ca/event/steam-salt-experiments) |
-| Fri Jan 19 |  | [BudG](/about#BudG) | [London Lightning vs. Rhode Island Kraken](https://www.budweisergardens.com/events/detail/london-lightning-vs-rhode-island-kraken) |
+| Friday |  | [BudG](/about#BudG) | [London Lightning vs. Rhode Island Kraken](https://www.budweisergardens.com/events/detail/london-lightning-vs-rhode-island-kraken) |
 |  | 08:30 | [Museum](/about#Museum) | [PA Day Camp: Mini Model Makers](https://museumlondon.ca/programs-events/event/10556/) |
 |  | 09:00 | [CMus](/about#CMus) | [PA Day Camp](https://www.londonchildrensmuseum.ca/event/pa-day-camp) |
 |  | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |

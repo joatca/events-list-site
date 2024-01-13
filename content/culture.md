@@ -1,6 +1,6 @@
 ---
 title: "Events - culture"
-date: 2024-01-12T21:12:08-05:00
+date: 2024-01-13T00:00:39-05:00
 draft: false
 ---
 
@@ -9,9 +9,9 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Tomorrow (Sat) |  | [PSFTOff](/about#PSFTOff) | [Voodoo Lounge, The Rolling Stones Experience](https://psft.ca/event/voodoo-lounge-the-rolling-stones-experience/) |
-| Sunday | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/14) |
-| Fri Jan 19 | 08:30 | [Museum](/about#Museum) | [PA Day Camp: Mini Model Makers](https://museumlondon.ca/programs-events/event/10556/) |
+| Today (Sat) |  | [PSFTOff](/about#PSFTOff) | [Voodoo Lounge, The Rolling Stones Experience](https://psft.ca/event/voodoo-lounge-the-rolling-stones-experience/) |
+| Tomorrow (Sun) | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/14) |
+| Friday | 08:30 | [Museum](/about#Museum) | [PA Day Camp: Mini Model Makers](https://museumlondon.ca/programs-events/event/10556/) |
 | Sat Jan 20 |  | [PSFTOff](/about#PSFTOff) | [Forever Young The Tribute to Rod Stewart](https://psft.ca/event/forever-young-the-tribute-to-rod-stewart/) |
 | Sun Jan 21 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/21) |
 | Sat Jan 27 |  | [PSFTOff](/about#PSFTOff) | [Billy Joel and the Piano Men](https://psft.ca/event/billy-joel-and-the-piano-men/) |

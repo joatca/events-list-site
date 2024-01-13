@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2024-01-12T21:12:08-05:00
+date: 2024-01-13T00:00:39-05:00
 draft: false
 ---
 
@@ -18,13 +18,13 @@ This page knows about events on these sites.
 | **Eldon** | [Eldon House](https://eldonhouse.ca/events/) | *4 events found*
 | **FMus** | [Don Wright Faculty of Music](http://www.events.westernu.ca/events/music/) | *23 events found*
 | **Grand** | [Grand Theatre](https://www.grandtheatre.com/events) | *18 events found*
-| **Info** | [Information London](https://www.informationlondon.ca/Event/List) | *32 events found*
+| **Info** | [Information London](https://www.informationlondon.ca/Event/List) | *31 events found*
 | **LMH** | [London Music Hall](http://londonmusichall.com/upcoming-events/) | *44 events found*
 | **Maker** | [Hello Maker](https://www.hellomaker.ca/events) | *23 events found*
 | **Museum** | [Museum London](https://museumlondon.ca/programs-events) | *20 events found*
 | **PSFT** | [Post Stanley Festival Theatre - Summer Season](https://psft.ca/schedule/summer-season/) | *3 events found*
 | **PSFTOff** | [Post Stanley Festival Theatre - Off Season](https://psft.ca/schedule/off-season-events/) | *12 events found*
 | **TVDSB** | [Thames Valley District School Board](https://calendar.tvdsb.ca/) | *Error: unable to fetch any events*
-| **Tour** | [Tourism London](https://www.londontourism.ca/events/all-events) | *99 events found*
+| **Tour** | [Tourism London](https://www.londontourism.ca/events/all-events) | *101 events found*
 
-_Last updated 2024-01-12 21:12:08 -0500_
+_Last updated 2024-01-13 00:00:39 -0500_
