@@ -1,6 +1,6 @@
 ---
 title: "Events - downtown"
-date: 2024-01-12T20:55:35-05:00
+date: 2024-01-12T21:12:08-05:00
 draft: false
 ---
 
@@ -9,8 +9,7 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Fri) |  | [BudG](/about#BudG) | [LONDON KNIGHTS VS. SAGINAW SPIRIT](https://www.budweisergardens.com/events/detail/london-knights-jan12) |
-|  | 09:30 | [CMus](/about#CMus) | [Toddler Takeover Week](https://www.londonchildrensmuseum.ca/event/toddler-takeover-week) |
+| Today (Fri) | 09:30 | [CMus](/about#CMus) | [Toddler Takeover Week](https://www.londonchildrensmuseum.ca/event/toddler-takeover-week) |
 |  | 18:30 | [Info](/about#Info) | [TGIF Game Night!](https://www.informationlondon.ca/Event/Detail/49385/TGIF_Game_Night?date=2024-01-12) |
 | Tomorrow (Sat) | 11:00 | [CMus](/about#CMus) | [STEAM: Snow Scoop Challenge](https://www.londonchildrensmuseum.ca/event/steam-snow-scoop-challenge) |
 |  | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
@@ -78,7 +77,8 @@ View only a category:
 |  | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Hot Chocolate Science](https://www.londonchildrensmuseum.ca/event/steam-hot-chocolate-science) |
 |  | 22:00 | [LMH](/about#LMH) | [AADJA & Lindsey Herbert @ System Saturdays](http://londonmusichall.com/events/aadja-lindsey-herbert-system-saturdays/) |
-| Sun Jan 28 | 11:00 | [CMus](/about#CMus) | [STEAM: Hot Chocolate Science](https://www.londonchildrensmuseum.ca/event/steam-hot-chocolate-science) |
+| Sun Jan 28 |  | [BudG](/about#BudG) | [London Lightning vs. Montreal Tundra](https://www.budweisergardens.com/events/detail/london-lightning-vs-montreal-toundra-1) |
+|  | 11:00 | [CMus](/about#CMus) | [STEAM: Hot Chocolate Science](https://www.londonchildrensmuseum.ca/event/steam-hot-chocolate-science) |
 |  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/28) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Hot Chocolate Science](https://www.londonchildrensmuseum.ca/event/steam-hot-chocolate-science) |
 | Tue Jan 30 | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |

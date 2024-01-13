@@ -1,6 +1,6 @@
 ---
 title: "Events - entertainment"
-date: 2024-01-12T20:55:35-05:00
+date: 2024-01-12T21:12:08-05:00
 draft: false
 ---
 
@@ -9,8 +9,7 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Fri) |  | [BudG](/about#BudG) | [LONDON KNIGHTS VS. SAGINAW SPIRIT](https://www.budweisergardens.com/events/detail/london-knights-jan12) |
-|  | 12:30 | [FMus](/about#FMus) | [Fridays at 12:30 Concert Series: Ein Liederkonzert CANCELLED](http://www.events.westernu.ca/events/music/2024-01/fridays-at-1230-ein-liederkonzert.html) |
+| Today (Fri) | 12:30 | [FMus](/about#FMus) | [Fridays at 12:30 Concert Series: Ein Liederkonzert CANCELLED](http://www.events.westernu.ca/events/music/2024-01/fridays-at-1230-ein-liederkonzert.html) |
 | Tomorrow (Sat) | 12:00 | [FMus](/about#FMus) | [Maritsa Brookes Concerto Competition - Final Round](http://www.events.westernu.ca/events/music/2024-01/maritsa-brookes-final-round.html) |
 |  | 19:30 | [Aeol](/about#Aeol) | [mattlayn – One Last Time (Southen Lounge)](https://aeolianhall.ca/events/mattlayn-one-last-time-2/) |
 |  | 22:00 | [LMH](/about#LMH) | [Markus Shulz](http://londonmusichall.com/events/markus-shulz/) |
@@ -46,7 +45,8 @@ View only a category:
 |  | 09:00 | [FMus](/about#FMus) | [Brass Day](http://www.events.westernu.ca/events/music/2024-01/brass-day.html) |
 |  | 15:00 | [FMus](/about#FMus) | [Brass Day Recital: James Miller, trombone](http://www.events.westernu.ca/events/music/2024-01/brass-day-recital.html) |
 |  | 22:00 | [LMH](/about#LMH) | [AADJA & Lindsey Herbert @ System Saturdays](http://londonmusichall.com/events/aadja-lindsey-herbert-system-saturdays/) |
-| Sun Jan 28 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/28) |
+| Sun Jan 28 |  | [BudG](/about#BudG) | [London Lightning vs. Montreal Tundra](https://www.budweisergardens.com/events/detail/london-lightning-vs-montreal-toundra-1) |
+|  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/28) |
 | Tue Jan 30 | 18:00 | [FMus](/about#FMus) | [Studio Recital: Stéphan Sylvestre (piano)](http://www.events.westernu.ca/events/music/2024-01/studio-recital-stephan-sylvestre-1.html) |
 | Fri Feb 02 | 12:30 | [FMus](/about#FMus) | [Fridays at 12:30: J. Archibald, soprano; L. Upchurch, piano](http://www.events.westernu.ca/events/music/2024-02/fridays-at-1230-Archibald-Upchurch.html) |
 |  | 21:00 | [LMH](/about#LMH) | [Wing Night: The Band](http://londonmusichall.com/events/wing-night-the-band-5/) |
