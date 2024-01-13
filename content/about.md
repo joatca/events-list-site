@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2024-01-13T13:17:37-05:00
+date: 2024-01-13T13:20:32-05:00
 draft: false
 ---
 
@@ -26,6 +26,6 @@ This page knows about events on these sites.
 | **PSFTOff** | [Post Stanley Festival Theatre - Off Season](https://psft.ca/schedule/off-season-events/) | *12 events found*
 | **RBCP** | [RBP Place](https://www.rbcplacelondon.com/events) | *12 events found*
 | **TVDSB** | [Thames Valley District School Board](https://calendar.tvdsb.ca/) | *Error: unable to fetch any events*
-| **Tour** | [Tourism London](https://www.londontourism.ca/events/all-events) | *101 events found*
+| **Tour** | [Tourism London](https://www.londontourism.ca/events/all-events) | *98 events found*
 
-_Last updated 2024-01-13 13:17:37 -0500_
+_Last updated 2024-01-13 13:20:32 -0500_

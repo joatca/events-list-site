@@ -1,6 +1,6 @@
 ---
 title: "Events - adult"
-date: 2024-01-13T13:17:37-05:00
+date: 2024-01-13T13:20:32-05:00
 draft: false
 ---
 
@@ -14,7 +14,6 @@ View only a category:
 |  |  | [Tour](/about#Tour) | [Grunge Cantina returns to Eastside Bar & Grill](https://www.londontourism.ca/events/grunge-cantina-returns-to-eastside-bar-and-grill) |
 |  |  | [Tour](/about#Tour) | [Microgreens Tutorial and Sale at London Food Co-op](https://www.londontourism.ca/events/microgreens-tutorial-and-sale-at-london-food-co-op) |
 |  |  | [Tour](/about#Tour) | [Storm Stayed Brewing Company's 6th Anniversary Party](https://www.londontourism.ca/events/storm-stayed-brewing-companys-6th-anniversary-party) |
-|  |  | [Tour](/about#Tour) | [London Bridal Expo](https://www.londontourism.ca/events/london-bridal-expo) |
 |  |  | [PSFTOff](/about#PSFTOff) | [Voodoo Lounge, The Rolling Stones Experience](https://psft.ca/event/voodoo-lounge-the-rolling-stones-experience/) |
 |  |  | [Maker](/about#Maker) | [Focused Fridays: coworking at the Studio](https://www.hellomaker.ca/events/xel7kcn9gpcpldh-9l69t) |
 |  |  | [RBCP](/about#RBCP) | [London Bridal Expo](https://www.rbcplacelondon.com/events/london-bridal-expo-january-13-14) |
@@ -163,7 +162,6 @@ View only a category:
 | Fri Feb 09 |  | [Grand](/about#Grand) | [Kelly Zimba Lukic, flute and Heidi Bearcroft, harp](https://www.grandtheatre.com/event/kelly-zimba-lukic-flute-and-heidi-bearcroft-harp) |
 |  |  | [Tour](/about#Tour) | [Jeffery Concerts Presents Kelly Zimba Lukic, Flute & Heidi Bearcroft, Harp](https://www.londontourism.ca/events/jeffery-concerts-presents-kelly-zimba-lukic-flute-and-heidi-bearcroft-harp) |
 |  |  | [Tour](/about#Tour) | [Taylor Swift Dance Party](https://www.londontourism.ca/events/taylor-swift-dance-party) |
-|  |  | [Tour](/about#Tour) | [18th Annual Breakfast for YOU!](https://www.londontourism.ca/events/18th-annual-breakfast-for-you) |
 |  |  | [RBCP](/about#RBCP) | [18th Annual Breakfast for YOU](https://www.rbcplacelondon.com/events/18th-annual-breakfast-you-february-9) |
 |  | 09:30 | [City](/about#City) | [Budget Committee - BUDGET - February 09, 2024](https://london.ca/government/calendar/budget-committee-budget-february-09-2024) |
 |  | 10:00 | [Maker](/about#Maker) | [Focused Fridays: coworking at the Studio](https://www.hellomaker.ca/events/xel7kcn9gpcpldh-9l69t-9d4lx-febmn-w6ncz-ee7m5) |
@@ -255,7 +253,6 @@ View only a category:
 |  | 18:30 | [Info](/about#Info) | [TGIF Game Night!](https://www.informationlondon.ca/Event/Detail/49385/TGIF_Game_Night?date=2024-02-23) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Guy Davis](https://aeolianhall.ca/events/guy-davis-2/) |
 | Sat Feb 24 |  | [Tour](/about#Tour) | [Heatwave Hot Sauce Expo](https://www.londontourism.ca/events/heatwave-hot-sauce-expo) |
-|  |  | [Tour](/about#Tour) | [London Seafood Festival](https://www.londontourism.ca/events/london-seafood-festival) |
 |  |  | [Tour](/about#Tour) | [London Symphonia: Freedom: The Spirit and Legacy of Black Music](https://www.londontourism.ca/events/london-symphonia-freedom-the-spirit-and-legacy-of-black-music) |
 |  |  | [PSFTOff](/about#PSFTOff) | [Take It Easy: The Story of the Eagles](https://psft.ca/event/take-it-easy-the-story-of-the-eagles/) |
 |  |  | [RBCP](/about#RBCP) | [London Seafood Festival](https://www.rbcplacelondon.com/events/london-seafood-festival-february-24) |
