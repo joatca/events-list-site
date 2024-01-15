@@ -1,6 +1,6 @@
 ---
 title: "Events - downtown"
-date: 2024-01-14T00:01:00-05:00
+date: 2024-01-15T00:00:49-05:00
 draft: false
 ---
 
@@ -9,14 +9,7 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Sun) |  | [BudG](/about#BudG) | [LONDON KNIGHTS VS. OWEN SOUND ATTACK](https://www.budweisergardens.com/events/detail/london-knights-jan14) |
-|  | 11:00 | [CGM](/about#CGM) | [Calling All Vendors – Naw Ruz Bazaar](https://coventmarket.com/event/calling-all-vendors-naw-ruz-bazaar/) |
-|  | 11:00 | [CMus](/about#CMus) | [STEAM: Snow Scoop Challenge](https://www.londonchildrensmuseum.ca/event/steam-snow-scoop-challenge) |
-|  | 12:00 | [CGM](/about#CGM) | [Crokicurl](https://coventmarket.com/event/crokicurl-on-the-rotary-square/) |
-|  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/14) |
-|  | 14:00 | [Aeol](/about#Aeol) | [Aeolian Classical Series – Dan Luong](https://aeolianhall.ca/events/aeolian-classical-series-dan-luong/) |
-|  | 14:30 | [CMus](/about#CMus) | [STEAM: Snow Scoop Challenge](https://www.londonchildrensmuseum.ca/event/steam-snow-scoop-challenge) |
-| Tuesday |  | [Grand](/about#Grand) | [The Invisible - Agents of Ungentlemanly Warfare](https://www.grandtheatre.com/event/the-invisible) |
+| Tomorrow (Tue) |  | [Grand](/about#Grand) | [The Invisible - Agents of Ungentlemanly Warfare](https://www.grandtheatre.com/event/the-invisible) |
 |  | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
 |  | 17:00 | [CMus](/about#CMus) | [Sensory Friendly Evening](https://www.londonchildrensmuseum.ca/event/sensory-friendly-evening) |
 | Wednesday | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-01-17) |
@@ -41,7 +34,7 @@ View only a category:
 |  | 14:00 | [CGM](/about#CGM) | [Crokicurl](https://coventmarket.com/event/crokicurl-2/) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Salt Experiments](https://www.londonchildrensmuseum.ca/event/steam-salt-experiments) |
 |  | 22:00 | [LMH](/about#LMH) | [Flowidus at System Saturdays](http://londonmusichall.com/events/flowidus-at-system-saturdays/) |
-| Sun Jan 21 |  | [BudG](/about#BudG) | [London Lightning vs. Rhode Island Kraken](https://www.budweisergardens.com/events/detail/london-lightning-vs-rhode-island-kraken-1) |
+| Sunday |  | [BudG](/about#BudG) | [London Lightning vs. Rhode Island Kraken](https://www.budweisergardens.com/events/detail/london-lightning-vs-rhode-island-kraken-1) |
 |  |  | [Grand](/about#Grand) | [Ensemble Caprice](https://www.grandtheatre.com/event/ensemble-caprice) |
 |  | 11:00 | [CMus](/about#CMus) | [STEAM: Salt Experiments](https://www.londonchildrensmuseum.ca/event/steam-salt-experiments) |
 |  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/21) |
@@ -76,7 +69,8 @@ View only a category:
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Hot Chocolate Science](https://www.londonchildrensmuseum.ca/event/steam-hot-chocolate-science) |
 | Tue Jan 30 | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
 | Wed Jan 31 | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-01-31) |
-| Thu Feb 01 | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
+| Thu Feb 01 |  | [BudG](/about#BudG) | [The Harlem Globetrotters](https://www.budweisergardens.com/events/detail/the-harlem-globetrotters-5) |
+|  | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
 |  | 11:00 | [CGM](/about#CGM) | [Crokicurl Thursdays](https://coventmarket.com/event/crokicurl-tuesdsays-3/) |
 |  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
 |  | 18:00 | [CMus](/about#CMus) | [STEAM: Melting Snowman](https://www.londonchildrensmuseum.ca/event/steam-melting-snowman) |

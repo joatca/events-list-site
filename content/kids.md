@@ -1,6 +1,6 @@
 ---
 title: "Events - kids"
-date: 2024-01-14T00:01:00-05:00
+date: 2024-01-15T00:00:49-05:00
 draft: false
 ---
 
@@ -9,9 +9,7 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Sun) | 11:00 | [CMus](/about#CMus) | [STEAM: Snow Scoop Challenge](https://www.londonchildrensmuseum.ca/event/steam-snow-scoop-challenge) |
-|  | 14:30 | [CMus](/about#CMus) | [STEAM: Snow Scoop Challenge](https://www.londonchildrensmuseum.ca/event/steam-snow-scoop-challenge) |
-| Tuesday | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
+| Tomorrow (Tue) | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
 |  | 17:00 | [CMus](/about#CMus) | [Sensory Friendly Evening](https://www.londonchildrensmuseum.ca/event/sensory-friendly-evening) |
 | Thursday | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
 |  | 17:00 | [CMus](/about#CMus) | [Mosaic Tiles with Susan Day](https://www.londonchildrensmuseum.ca/event/mosaic-tiles-susan-day) |
@@ -24,7 +22,7 @@ View only a category:
 |  | 11:00 | [CMus](/about#CMus) | [STEAM: Salt Experiments](https://www.londonchildrensmuseum.ca/event/steam-salt-experiments) |
 |  | 13:00 | [CMus](/about#CMus) | [Mosaic Tiles with Susan Day](https://www.londonchildrensmuseum.ca/event/mosaic-tiles-susan-day) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Salt Experiments](https://www.londonchildrensmuseum.ca/event/steam-salt-experiments) |
-| Sun Jan 21 | 11:00 | [CMus](/about#CMus) | [STEAM: Salt Experiments](https://www.londonchildrensmuseum.ca/event/steam-salt-experiments) |
+| Sunday | 11:00 | [CMus](/about#CMus) | [STEAM: Salt Experiments](https://www.londonchildrensmuseum.ca/event/steam-salt-experiments) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Salt Experiments](https://www.londonchildrensmuseum.ca/event/steam-salt-experiments) |
 | Tue Jan 23 | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
 | Thu Jan 25 | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |

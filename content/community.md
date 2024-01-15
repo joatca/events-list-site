@@ -1,6 +1,6 @@
 ---
 title: "Events - community"
-date: 2024-01-14T00:01:00-05:00
+date: 2024-01-15T00:00:49-05:00
 draft: false
 ---
 
@@ -9,8 +9,8 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Tomorrow (Mon) | 13:00 | [City](/about#City) | [Corporate Services Committee - January 15, 2024](https://london.ca/government/calendar/corporate-services-committee-january-15-2024) |
-| Tuesday | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - January 16, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-january-16-2024) |
+| Today (Mon) | 13:00 | [City](/about#City) | [Corporate Services Committee - January 15, 2024](https://london.ca/government/calendar/corporate-services-committee-january-15-2024) |
+| Tomorrow (Tue) | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - January 16, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-january-16-2024) |
 |  | 15:00 | [Maker](/about#Maker) | [Open Studio](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt) |
 | Wednesday | 09:00 | [City](/about#City) | [Special Strategic Priorities and Policy Committee - January 17, 2024](https://london.ca/government/calendar/special-strategic-priorities-policy-committee-january-17-2024) |
 |  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-01-17) |

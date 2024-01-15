@@ -1,6 +1,6 @@
 ---
 title: "Events - entertainment"
-date: 2024-01-14T00:01:00-05:00
+date: 2024-01-15T00:00:49-05:00
 draft: false
 ---
 
@@ -9,10 +9,7 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Sun) |  | [BudG](/about#BudG) | [LONDON KNIGHTS VS. OWEN SOUND ATTACK](https://www.budweisergardens.com/events/detail/london-knights-jan14) |
-|  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/14) |
-|  | 14:00 | [Aeol](/about#Aeol) | [Aeolian Classical Series – Dan Luong](https://aeolianhall.ca/events/aeolian-classical-series-dan-luong/) |
-| Tuesday |  | [Grand](/about#Grand) | [The Invisible - Agents of Ungentlemanly Warfare](https://www.grandtheatre.com/event/the-invisible) |
+| Tomorrow (Tue) |  | [Grand](/about#Grand) | [The Invisible - Agents of Ungentlemanly Warfare](https://www.grandtheatre.com/event/the-invisible) |
 | Wednesday | 19:00 | [LMH](/about#LMH) | [CANCELLED: Young Dubliners](http://londonmusichall.com/events/young-dubliners/) |
 | Thursday | 20:00 | [FMus](/about#FMus) | [2023 Fred Pattison Piano Award Winner's Recital ](http://www.events.westernu.ca/events/music/2024-01/2023-fred-pattison-recital.html) |
 | Friday |  | [BudG](/about#BudG) | [London Lightning vs. Rhode Island Kraken](https://www.budweisergardens.com/events/detail/london-lightning-vs-rhode-island-kraken) |
@@ -22,7 +19,7 @@ View only a category:
 | Saturday |  | [BudG](/about#BudG) | [LONDON KNIGHTS VS. KITCHENER RANGERS](https://www.budweisergardens.com/events/detail/london-knights-jan20) |
 |  | 11:00 | [FMus](/about#FMus) | [2024 Fred Pattison Piano Competition - Masterclass](http://www.events.westernu.ca/events/music/2024-01/2024-fred-pattison-masterclass.html) |
 |  | 22:00 | [LMH](/about#LMH) | [Flowidus at System Saturdays](http://londonmusichall.com/events/flowidus-at-system-saturdays/) |
-| Sun Jan 21 |  | [BudG](/about#BudG) | [London Lightning vs. Rhode Island Kraken](https://www.budweisergardens.com/events/detail/london-lightning-vs-rhode-island-kraken-1) |
+| Sunday |  | [BudG](/about#BudG) | [London Lightning vs. Rhode Island Kraken](https://www.budweisergardens.com/events/detail/london-lightning-vs-rhode-island-kraken-1) |
 |  |  | [Grand](/about#Grand) | [Ensemble Caprice](https://www.grandtheatre.com/event/ensemble-caprice) |
 |  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/21) |
 |  | 20:00 | [Aeol](/about#Aeol) | [MJ The Illusion](https://aeolianhall.ca/events/mj-the-illusion/) |
@@ -44,6 +41,7 @@ View only a category:
 | Sun Jan 28 |  | [BudG](/about#BudG) | [London Lightning vs. Montreal Tundra](https://www.budweisergardens.com/events/detail/london-lightning-vs-montreal-toundra-1) |
 |  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/28) |
 | Tue Jan 30 | 18:00 | [FMus](/about#FMus) | [Studio Recital: Stéphan Sylvestre (piano)](http://www.events.westernu.ca/events/music/2024-01/studio-recital-stephan-sylvestre-1.html) |
+| Thu Feb 01 |  | [BudG](/about#BudG) | [The Harlem Globetrotters](https://www.budweisergardens.com/events/detail/the-harlem-globetrotters-5) |
 | Fri Feb 02 | 12:30 | [FMus](/about#FMus) | [Fridays at 12:30: J. Archibald, soprano; L. Upchurch, piano](http://www.events.westernu.ca/events/music/2024-02/fridays-at-1230-Archibald-Upchurch.html) |
 |  | 21:00 | [LMH](/about#LMH) | [Wing Night: The Band](http://londonmusichall.com/events/wing-night-the-band-5/) |
 | Sat Feb 03 | 14:00 | [FMus](/about#FMus) | [Opera and Musical Theatre Gala with Early Music Studio](http://www.events.westernu.ca/events/music/2024-02/opera-gala-2024.html) |
