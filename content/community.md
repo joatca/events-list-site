@@ -1,6 +1,6 @@
 ---
 title: "Events - community"
-date: 2024-01-15T12:41:20-05:00
+date: 2024-01-15T19:07:02-05:00
 draft: false
 ---
 
@@ -9,15 +9,14 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Mon) | 13:00 | [City](/about#City) | [Corporate Services Committee - January 15, 2024](https://london.ca/government/calendar/corporate-services-committee-january-15-2024) |
 | Tomorrow (Tue) | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - January 16, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-january-16-2024) |
 |  | 15:00 | [Maker](/about#Maker) | [Open Studio](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt) |
-| Wednesday | 09:00 | [City](/about#City) | [Special Strategic Priorities and Policy Committee - January 17, 2024](https://london.ca/government/calendar/special-strategic-priorities-policy-committee-january-17-2024) |
+| Wed Jan 17 | 09:00 | [City](/about#City) | [Special Strategic Priorities and Policy Committee - January 17, 2024](https://london.ca/government/calendar/special-strategic-priorities-policy-committee-january-17-2024) |
 |  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-01-17) |
-| Friday | 10:00 | [Maker](/about#Maker) | [Focused Fridays: coworking at the Studio](https://www.hellomaker.ca/events/xel7kcn9gpcpldh-9l69t-9d4lx) |
+| Fri Jan 19 | 10:00 | [Maker](/about#Maker) | [Focused Fridays: coworking at the Studio](https://www.hellomaker.ca/events/xel7kcn9gpcpldh-9l69t-9d4lx) |
 |  | 18:30 | [Info](/about#Info) | [Free Drop-In Basketball for Youth](https://www.informationlondon.ca/Event/Detail/49394/Free_Drop-In_Basketball_for_Youth?date=2024-01-19) |
 |  | 18:30 | [Info](/about#Info) | [TGIF Game Night!](https://www.informationlondon.ca/Event/Detail/49385/TGIF_Game_Night?date=2024-01-19) |
-| Saturday |  | [Eldon](/about#Eldon) | [Behind the Ropes](https://eldonhouse.ca/product/behind-the-ropes-6/) |
+| Sat Jan 20 |  | [Eldon](/about#Eldon) | [Behind the Ropes](https://eldonhouse.ca/product/behind-the-ropes-6/) |
 |  |  | [PSFTOff](/about#PSFTOff) | [Forever Young The Tribute to Rod Stewart](https://psft.ca/event/forever-young-the-tribute-to-rod-stewart/) |
 | Mon Jan 22 | 10:00 | [City](/about#City) | [Governance Working Group - CANCELLED - January 22, 2024](https://london.ca/government/calendar/governance-working-group-cancelled-january-22-2024) |
 |  | 13:00 | [Info](/about#Info) | [Health Literacy](https://www.informationlondon.ca/Event/Detail/48854/Health_Literacy?date=2024-01-22) |

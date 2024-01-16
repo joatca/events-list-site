@@ -1,6 +1,6 @@
 ---
 title: "Events - entertainment"
-date: 2024-01-15T12:41:20-05:00
+date: 2024-01-15T19:07:02-05:00
 draft: false
 ---
 
@@ -10,20 +10,19 @@ View only a category:
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
 | Tomorrow (Tue) |  | [Grand](/about#Grand) | [The Invisible - Agents of Ungentlemanly Warfare](https://www.grandtheatre.com/event/the-invisible) |
-| Wednesday | 19:00 | [LMH](/about#LMH) | [CANCELLED: Young Dubliners](http://londonmusichall.com/events/young-dubliners/) |
-| Thursday | 20:00 | [FMus](/about#FMus) | [2023 Fred Pattison Piano Award Winner's Recital ](http://www.events.westernu.ca/events/music/2024-01/2023-fred-pattison-recital.html) |
-| Friday |  | [BudG](/about#BudG) | [London Lightning vs. Rhode Island Kraken](https://www.budweisergardens.com/events/detail/london-lightning-vs-rhode-island-kraken) |
+| Thu Jan 18 | 20:00 | [FMus](/about#FMus) | [2023 Fred Pattison Piano Award Winner's Recital ](http://www.events.westernu.ca/events/music/2024-01/2023-fred-pattison-recital.html) |
+| Fri Jan 19 |  | [BudG](/about#BudG) | [London Lightning vs. Rhode Island Kraken](https://www.budweisergardens.com/events/detail/london-lightning-vs-rhode-island-kraken) |
 |  | 08:30 | [Museum](/about#Museum) | [PA Day Camp: Mini Model Makers](https://museumlondon.ca/programs-events/event/10556/) |
 |  | 12:30 | [FMus](/about#FMus) | [Fridays at 12:30 Concert Series: The Sylvestre-Park Duo](http://www.events.westernu.ca/events/music/2024-01/fridays-at-1230-sylvestre-park.html) |
 |  | 20:00 | [FMus](/about#FMus) | [2024 Fred Pattison Piano Competition - Final Round](http://www.events.westernu.ca/events/music/2024-01/2024-fred-pattison-final-round.html) |
-| Saturday |  | [BudG](/about#BudG) | [LONDON KNIGHTS VS. KITCHENER RANGERS](https://www.budweisergardens.com/events/detail/london-knights-jan20) |
+| Sat Jan 20 |  | [BudG](/about#BudG) | [LONDON KNIGHTS VS. KITCHENER RANGERS](https://www.budweisergardens.com/events/detail/london-knights-jan20) |
 |  | 11:00 | [FMus](/about#FMus) | [2024 Fred Pattison Piano Competition - Masterclass](http://www.events.westernu.ca/events/music/2024-01/2024-fred-pattison-masterclass.html) |
 |  | 22:00 | [LMH](/about#LMH) | [Flowidus at System Saturdays](http://londonmusichall.com/events/flowidus-at-system-saturdays/) |
-| Sunday |  | [BudG](/about#BudG) | [London Lightning vs. Rhode Island Kraken](https://www.budweisergardens.com/events/detail/london-lightning-vs-rhode-island-kraken-1) |
+| Sun Jan 21 |  | [BudG](/about#BudG) | [London Lightning vs. Rhode Island Kraken](https://www.budweisergardens.com/events/detail/london-lightning-vs-rhode-island-kraken-1) |
 |  |  | [Grand](/about#Grand) | [Ensemble Caprice](https://www.grandtheatre.com/event/ensemble-caprice) |
 |  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/21) |
 |  | 20:00 | [Aeol](/about#Aeol) | [MJ The Illusion				](https://aeolianhall.ca/events/mj-the-illusion/) |
-|  | 21:00 | [LMH](/about#LMH) | [Raygun Does Disco](http://londonmusichall.com/events/raygun-does-disco/) |
+|  | 21:00 | [LMH](/about#LMH) | [Raygun: Retro Night – ‘Does Disco’ w/ DJ Meltingman](http://londonmusichall.com/events/raygun-does-disco/) |
 | Wed Jan 24 |  | [BudG](/about#BudG) | [London Lightning vs. Windsor Express](https://www.budweisergardens.com/events/detail/london-lightning-vs-windsor-express-13) |
 |  | 14:00 | [FMus](/about#FMus) | [Guest Artist Masterclass: Janina Fialkowska, piano](http://www.events.westernu.ca/events/music/2024-01/guest-artist-masterclass-janina-fialkowska.html) |
 |  | 18:00 | [FMus](/about#FMus) | [Artists-in-Residence Concert: New Orford String Quartet](http://www.events.westernu.ca/events/music/2024-01/new-orford.html) |
@@ -53,6 +52,7 @@ View only a category:
 |  | 20:00 | [FMus](/about#FMus) | [Guest Artists: Jeremy Huw Williams and Ensemble Paramirabo](http://www.events.westernu.ca/events/music/2024-02/horizon-madog.html) |
 | Wed Feb 07 | 18:00 | [FMus](/about#FMus) | [Studio Recital: Gloria Gassi (voice)](http://www.events.westernu.ca/events/music/2024-02/studio-recital-glora-gassi.html) |
 |  | 19:00 | [LMH](/about#LMH) | [Brother Elsey](http://londonmusichall.com/events/brother-elsey-4/) |
+|  | 19:00 | [FMus](/about#FMus) | [Studio Recital: Bethany Horst (voice)](http://www.events.westernu.ca/events/music/2024-02/studio-recital-beth-horst.html) |
 | Thu Feb 08 | 19:00 | [LMH](/about#LMH) | [Hotel Mira](http://londonmusichall.com/events/hotel-mira/) |
 |  | 19:30 | [FMus](/about#FMus) | [Jazz Ensemble: An Evening with Rodney Whitaker](http://www.events.westernu.ca/events/music/2024-02/jazz-ensemble-rodney-whitaker.html) |
 | Fri Feb 09 |  | [Grand](/about#Grand) | [Kelly Zimba Lukic, flute and Heidi Bearcroft, harp](https://www.grandtheatre.com/event/kelly-zimba-lukic-flute-and-heidi-bearcroft-harp) |

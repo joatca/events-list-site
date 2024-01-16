@@ -1,6 +1,6 @@
 ---
 title: "Events - downtown"
-date: 2024-01-15T12:41:20-05:00
+date: 2024-01-15T19:07:02-05:00
 draft: false
 ---
 
@@ -12,20 +12,19 @@ View only a category:
 | Tomorrow (Tue) |  | [Grand](/about#Grand) | [The Invisible - Agents of Ungentlemanly Warfare](https://www.grandtheatre.com/event/the-invisible) |
 |  | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
 |  | 17:00 | [CMus](/about#CMus) | [Sensory Friendly Evening](https://www.londonchildrensmuseum.ca/event/sensory-friendly-evening) |
-| Wednesday | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-01-17) |
-|  | 19:00 | [LMH](/about#LMH) | [CANCELLED: Young Dubliners](http://londonmusichall.com/events/young-dubliners/) |
-| Thursday | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
-|  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
+| Wed Jan 17 | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-01-17) |
+| Thu Jan 18 | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
 |  | 17:00 | [CMus](/about#CMus) | [Mosaic Tiles with Susan Day](https://www.londonchildrensmuseum.ca/event/mosaic-tiles-susan-day) |
+|  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
 |  | 18:00 | [CMus](/about#CMus) | [STEAM: Salt Experiments](https://www.londonchildrensmuseum.ca/event/steam-salt-experiments) |
-| Friday |  | [BudG](/about#BudG) | [London Lightning vs. Rhode Island Kraken](https://www.budweisergardens.com/events/detail/london-lightning-vs-rhode-island-kraken) |
+| Fri Jan 19 |  | [BudG](/about#BudG) | [London Lightning vs. Rhode Island Kraken](https://www.budweisergardens.com/events/detail/london-lightning-vs-rhode-island-kraken) |
 |  | 08:30 | [Museum](/about#Museum) | [PA Day Camp: Mini Model Makers](https://museumlondon.ca/programs-events/event/10556/) |
 |  | 09:00 | [CMus](/about#CMus) | [PA Day Camp](https://www.londonchildrensmuseum.ca/event/pa-day-camp) |
 |  | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
 |  | 13:00 | [CMus](/about#CMus) | [Mosaic Tiles with Susan Day](https://www.londonchildrensmuseum.ca/event/mosaic-tiles-susan-day) |
 |  | 18:30 | [Info](/about#Info) | [Free Drop-In Basketball for Youth](https://www.informationlondon.ca/Event/Detail/49394/Free_Drop-In_Basketball_for_Youth?date=2024-01-19) |
 |  | 18:30 | [Info](/about#Info) | [TGIF Game Night!](https://www.informationlondon.ca/Event/Detail/49385/TGIF_Game_Night?date=2024-01-19) |
-| Saturday |  | [BudG](/about#BudG) | [LONDON KNIGHTS VS. KITCHENER RANGERS](https://www.budweisergardens.com/events/detail/london-knights-jan20) |
+| Sat Jan 20 |  | [BudG](/about#BudG) | [LONDON KNIGHTS VS. KITCHENER RANGERS](https://www.budweisergardens.com/events/detail/london-knights-jan20) |
 |  |  | [Eldon](/about#Eldon) | [Behind the Ropes](https://eldonhouse.ca/product/behind-the-ropes-6/) |
 |  | 08:00 | [CGM](/about#CGM) | [FREE Yoga Class](https://coventmarket.com/event/calling-all-vendors-naw-ruz-bazaar-3/) |
 |  | 10:00 | [CMus](/about#CMus) | [OUTREACH: Volunteer Fair](https://www.londonchildrensmuseum.ca/event/outreach-volunteer-fair) |
@@ -34,13 +33,13 @@ View only a category:
 |  | 14:00 | [CGM](/about#CGM) | [Crokicurl](https://coventmarket.com/event/crokicurl-2/) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Salt Experiments](https://www.londonchildrensmuseum.ca/event/steam-salt-experiments) |
 |  | 22:00 | [LMH](/about#LMH) | [Flowidus at System Saturdays](http://londonmusichall.com/events/flowidus-at-system-saturdays/) |
-| Sunday |  | [BudG](/about#BudG) | [London Lightning vs. Rhode Island Kraken](https://www.budweisergardens.com/events/detail/london-lightning-vs-rhode-island-kraken-1) |
+| Sun Jan 21 |  | [BudG](/about#BudG) | [London Lightning vs. Rhode Island Kraken](https://www.budweisergardens.com/events/detail/london-lightning-vs-rhode-island-kraken-1) |
 |  |  | [Grand](/about#Grand) | [Ensemble Caprice](https://www.grandtheatre.com/event/ensemble-caprice) |
 |  | 11:00 | [CMus](/about#CMus) | [STEAM: Salt Experiments](https://www.londonchildrensmuseum.ca/event/steam-salt-experiments) |
 |  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/21) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Salt Experiments](https://www.londonchildrensmuseum.ca/event/steam-salt-experiments) |
 |  | 20:00 | [Aeol](/about#Aeol) | [MJ The Illusion				](https://aeolianhall.ca/events/mj-the-illusion/) |
-|  | 21:00 | [LMH](/about#LMH) | [Raygun Does Disco](http://londonmusichall.com/events/raygun-does-disco/) |
+|  | 21:00 | [LMH](/about#LMH) | [Raygun: Retro Night – ‘Does Disco’ w/ DJ Meltingman](http://londonmusichall.com/events/raygun-does-disco/) |
 | Mon Jan 22 | 13:00 | [Info](/about#Info) | [Health Literacy](https://www.informationlondon.ca/Event/Detail/48854/Health_Literacy?date=2024-01-22) |
 | Tue Jan 23 | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
 | Wed Jan 24 |  | [BudG](/about#BudG) | [London Lightning vs. Windsor Express](https://www.budweisergardens.com/events/detail/london-lightning-vs-windsor-express-13) |
@@ -171,24 +170,24 @@ View only a category:
 |  | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
 |  | 17:00 | [CGM](/about#CGM) | [Crokicurl](https://coventmarket.com/event/crokicurl-4-2/) |
 |  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
-|  | 18:00 | [CMus](/about#CMus) | [STEAM: Marble Roller Coasters](https://www.londonchildrensmuseum.ca/event/steam-marble-roller-coasters) |
+|  | 18:00 | [CMus](/about#CMus) | [STEAM: DIY Marble Run](https://www.londonchildrensmuseum.ca/event/steam-diy-marble-run) |
 | Fri Feb 23 | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
 |  | 18:30 | [Info](/about#Info) | [Free Drop-In Basketball for Youth](https://www.informationlondon.ca/Event/Detail/49394/Free_Drop-In_Basketball_for_Youth?date=2024-02-23) |
 |  | 18:30 | [Info](/about#Info) | [TGIF Game Night!](https://www.informationlondon.ca/Event/Detail/49385/TGIF_Game_Night?date=2024-02-23) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Guy Davis				](https://aeolianhall.ca/events/guy-davis-2/) |
 | Sat Feb 24 | 08:00 | [CGM](/about#CGM) | [Yoga Class](https://coventmarket.com/event/yoga-classes-3/) |
-|  | 11:00 | [CMus](/about#CMus) | [STEAM: Marble Roller Coasters](https://www.londonchildrensmuseum.ca/event/steam-marble-roller-coasters) |
+|  | 11:00 | [CMus](/about#CMus) | [STEAM: DIY Marble Run](https://www.londonchildrensmuseum.ca/event/steam-diy-marble-run) |
 |  | 12:00 | [Museum](/about#Museum) | [Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10900/) |
 |  | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
 |  | 14:00 | [CGM](/about#CGM) | [Market Block DJ Skate](https://coventmarket.com/event/market-block-dj-skate/) |
-|  | 14:30 | [CMus](/about#CMus) | [STEAM: Marble Roller Coasters](https://www.londonchildrensmuseum.ca/event/steam-marble-roller-coasters) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: DIY Marble Run](https://www.londonchildrensmuseum.ca/event/steam-diy-marble-run) |
 |  | 18:30 | [LMH](/about#LMH) | [Chase Rice – Get Western Tour](http://londonmusichall.com/events/chase-rice-get-western-tour/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [The Western Swing Authority				](https://aeolianhall.ca/events/the-western-swing-authority/) |
 | Sun Feb 25 |  | [Grand](/about#Grand) | [London Gospel Collective 2023/24 Series](https://www.grandtheatre.com/event/london-gospel-collective-2324) |
-|  | 11:00 | [CMus](/about#CMus) | [STEAM: Marble Roller Coasters](https://www.londonchildrensmuseum.ca/event/steam-marble-roller-coasters) |
+|  | 11:00 | [CMus](/about#CMus) | [STEAM: DIY Marble Run](https://www.londonchildrensmuseum.ca/event/steam-diy-marble-run) |
 |  | 12:00 | [CGM](/about#CGM) | [Market Block DJ Skate](https://coventmarket.com/event/crokicurl/) |
 |  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paper Puppetry](https://museumlondon.ca/programs-events/event/10760/2024/02/25) |
-|  | 14:30 | [CMus](/about#CMus) | [STEAM: Marble Roller Coasters](https://www.londonchildrensmuseum.ca/event/steam-marble-roller-coasters) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: DIY Marble Run](https://www.londonchildrensmuseum.ca/event/steam-diy-marble-run) |
 | Tue Feb 27 | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
 | Wed Feb 28 | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
 |  | 17:00 | [CGM](/about#CGM) | [Crokicurl](https://coventmarket.com/event/crokicurl-4-3/) |
@@ -203,6 +202,7 @@ View only a category:
 |  | 18:30 | [Info](/about#Info) | [Free Drop-In Basketball for Youth](https://www.informationlondon.ca/Event/Detail/49394/Free_Drop-In_Basketball_for_Youth?date=2024-03-01) |
 | Sat Mar 02 | 11:00 | [CMus](/about#CMus) | [STEAM: Volcano Science](https://www.londonchildrensmuseum.ca/event/steam-volcano-science) |
 |  | 12:00 | [Museum](/about#Museum) | [Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10902/) |
+|  | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Volcano Science](https://www.londonchildrensmuseum.ca/event/steam-volcano-science) |
 | Sun Mar 03 | 11:00 | [CMus](/about#CMus) | [STEAM: Volcano Science](https://www.londonchildrensmuseum.ca/event/steam-volcano-science) |
 |  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Wonderful Weaving](https://museumlondon.ca/programs-events/event/10763/2024/03/03) |

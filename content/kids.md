@@ -1,6 +1,6 @@
 ---
 title: "Events - kids"
-date: 2024-01-15T12:41:20-05:00
+date: 2024-01-15T19:07:02-05:00
 draft: false
 ---
 
@@ -11,18 +11,18 @@ View only a category:
 |------:|-:|:-------|:------|
 | Tomorrow (Tue) | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
 |  | 17:00 | [CMus](/about#CMus) | [Sensory Friendly Evening](https://www.londonchildrensmuseum.ca/event/sensory-friendly-evening) |
-| Thursday | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
-|  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
+| Thu Jan 18 | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
 |  | 17:00 | [CMus](/about#CMus) | [Mosaic Tiles with Susan Day](https://www.londonchildrensmuseum.ca/event/mosaic-tiles-susan-day) |
+|  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
 |  | 18:00 | [CMus](/about#CMus) | [STEAM: Salt Experiments](https://www.londonchildrensmuseum.ca/event/steam-salt-experiments) |
-| Friday | 09:00 | [CMus](/about#CMus) | [PA Day Camp](https://www.londonchildrensmuseum.ca/event/pa-day-camp) |
+| Fri Jan 19 | 09:00 | [CMus](/about#CMus) | [PA Day Camp](https://www.londonchildrensmuseum.ca/event/pa-day-camp) |
 |  | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
 |  | 13:00 | [CMus](/about#CMus) | [Mosaic Tiles with Susan Day](https://www.londonchildrensmuseum.ca/event/mosaic-tiles-susan-day) |
-| Saturday | 10:00 | [CMus](/about#CMus) | [OUTREACH: Volunteer Fair](https://www.londonchildrensmuseum.ca/event/outreach-volunteer-fair) |
+| Sat Jan 20 | 10:00 | [CMus](/about#CMus) | [OUTREACH: Volunteer Fair](https://www.londonchildrensmuseum.ca/event/outreach-volunteer-fair) |
 |  | 11:00 | [CMus](/about#CMus) | [STEAM: Salt Experiments](https://www.londonchildrensmuseum.ca/event/steam-salt-experiments) |
 |  | 13:00 | [CMus](/about#CMus) | [Mosaic Tiles with Susan Day](https://www.londonchildrensmuseum.ca/event/mosaic-tiles-susan-day) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Salt Experiments](https://www.londonchildrensmuseum.ca/event/steam-salt-experiments) |
-| Sunday | 11:00 | [CMus](/about#CMus) | [STEAM: Salt Experiments](https://www.londonchildrensmuseum.ca/event/steam-salt-experiments) |
+| Sun Jan 21 | 11:00 | [CMus](/about#CMus) | [STEAM: Salt Experiments](https://www.londonchildrensmuseum.ca/event/steam-salt-experiments) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Salt Experiments](https://www.londonchildrensmuseum.ca/event/steam-salt-experiments) |
 | Tue Jan 23 | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
 | Thu Jan 25 | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
@@ -77,13 +77,13 @@ View only a category:
 | Wed Feb 21 | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
 | Thu Feb 22 | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
 |  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
-|  | 18:00 | [CMus](/about#CMus) | [STEAM: Marble Roller Coasters](https://www.londonchildrensmuseum.ca/event/steam-marble-roller-coasters) |
+|  | 18:00 | [CMus](/about#CMus) | [STEAM: DIY Marble Run](https://www.londonchildrensmuseum.ca/event/steam-diy-marble-run) |
 | Fri Feb 23 | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
-| Sat Feb 24 | 11:00 | [CMus](/about#CMus) | [STEAM: Marble Roller Coasters](https://www.londonchildrensmuseum.ca/event/steam-marble-roller-coasters) |
+| Sat Feb 24 | 11:00 | [CMus](/about#CMus) | [STEAM: DIY Marble Run](https://www.londonchildrensmuseum.ca/event/steam-diy-marble-run) |
 |  | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
-|  | 14:30 | [CMus](/about#CMus) | [STEAM: Marble Roller Coasters](https://www.londonchildrensmuseum.ca/event/steam-marble-roller-coasters) |
-| Sun Feb 25 | 11:00 | [CMus](/about#CMus) | [STEAM: Marble Roller Coasters](https://www.londonchildrensmuseum.ca/event/steam-marble-roller-coasters) |
-|  | 14:30 | [CMus](/about#CMus) | [STEAM: Marble Roller Coasters](https://www.londonchildrensmuseum.ca/event/steam-marble-roller-coasters) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: DIY Marble Run](https://www.londonchildrensmuseum.ca/event/steam-diy-marble-run) |
+| Sun Feb 25 | 11:00 | [CMus](/about#CMus) | [STEAM: DIY Marble Run](https://www.londonchildrensmuseum.ca/event/steam-diy-marble-run) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: DIY Marble Run](https://www.londonchildrensmuseum.ca/event/steam-diy-marble-run) |
 | Tue Feb 27 | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
 | Wed Feb 28 | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
 | Thu Feb 29 | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
@@ -91,6 +91,7 @@ View only a category:
 |  | 18:00 | [CMus](/about#CMus) | [STEAM: Volcano Science](https://www.londonchildrensmuseum.ca/event/steam-volcano-science) |
 | Fri Mar 01 | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
 | Sat Mar 02 | 11:00 | [CMus](/about#CMus) | [STEAM: Volcano Science](https://www.londonchildrensmuseum.ca/event/steam-volcano-science) |
+|  | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Volcano Science](https://www.londonchildrensmuseum.ca/event/steam-volcano-science) |
 | Sun Mar 03 | 11:00 | [CMus](/about#CMus) | [STEAM: Volcano Science](https://www.londonchildrensmuseum.ca/event/steam-volcano-science) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Volcano Science](https://www.londonchildrensmuseum.ca/event/steam-volcano-science) |
