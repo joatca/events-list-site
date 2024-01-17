@@ -1,6 +1,6 @@
 ---
 title: "Events - community"
-date: 2024-01-16T00:00:52-05:00
+date: 2024-01-17T00:00:40-05:00
 draft: false
 ---
 
@@ -9,9 +9,8 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Tue) | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - January 16, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-january-16-2024) |
-|  | 15:00 | [Maker](/about#Maker) | [Open Studio](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt) |
-| Tomorrow (Wed) | 09:00 | [City](/about#City) | [Special Strategic Priorities and Policy Committee - January 17, 2024](https://london.ca/government/calendar/special-strategic-priorities-policy-committee-january-17-2024) |
+| Today (Wed) |  | [Maker](/about#Maker) | [Open Studio](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt) |
+|  | 09:00 | [City](/about#City) | [Special Strategic Priorities and Policy Committee - January 17, 2024](https://london.ca/government/calendar/special-strategic-priorities-policy-committee-january-17-2024) |
 |  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-01-17) |
 | Fri Jan 19 | 10:00 | [Maker](/about#Maker) | [Focused Fridays: coworking at the Studio](https://www.hellomaker.ca/events/xel7kcn9gpcpldh-9l69t-9d4lx) |
 |  | 18:30 | [Info](/about#Info) | [Free Drop-In Basketball for Youth](https://www.informationlondon.ca/Event/Detail/49394/Free_Drop-In_Basketball_for_Youth?date=2024-01-19) |

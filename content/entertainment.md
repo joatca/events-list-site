@@ -1,6 +1,6 @@
 ---
 title: "Events - entertainment"
-date: 2024-01-16T00:00:52-05:00
+date: 2024-01-17T00:00:40-05:00
 draft: false
 ---
 
@@ -9,8 +9,8 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Tue) |  | [Grand](/about#Grand) | [The Invisible - Agents of Ungentlemanly Warfare](https://www.grandtheatre.com/event/the-invisible) |
-| Thu Jan 18 | 20:00 | [FMus](/about#FMus) | [2023 Fred Pattison Piano Award Winner's Recital ](http://www.events.westernu.ca/events/music/2024-01/2023-fred-pattison-recital.html) |
+| Today (Wed) |  | [Grand](/about#Grand) | [The Invisible - Agents of Ungentlemanly Warfare](https://www.grandtheatre.com/event/the-invisible) |
+| Tomorrow (Thu) | 20:00 | [FMus](/about#FMus) | [2023 Fred Pattison Piano Award Winner's Recital ](http://www.events.westernu.ca/events/music/2024-01/2023-fred-pattison-recital.html) |
 | Fri Jan 19 |  | [BudG](/about#BudG) | [London Lightning vs. Rhode Island Kraken](https://www.budweisergardens.com/events/detail/london-lightning-vs-rhode-island-kraken) |
 |  | 08:30 | [Museum](/about#Museum) | [PA Day Camp: Mini Model Makers](https://museumlondon.ca/programs-events/event/10556/) |
 |  | 12:30 | [FMus](/about#FMus) | [Fridays at 12:30 Concert Series: The Sylvestre-Park Duo](http://www.events.westernu.ca/events/music/2024-01/fridays-at-1230-sylvestre-park.html) |
@@ -53,7 +53,8 @@ View only a category:
 | Wed Feb 07 | 18:00 | [FMus](/about#FMus) | [Studio Recital: Gloria Gassi (voice)](http://www.events.westernu.ca/events/music/2024-02/studio-recital-glora-gassi.html) |
 |  | 19:00 | [LMH](/about#LMH) | [Brother Elsey](http://londonmusichall.com/events/brother-elsey-4/) |
 |  | 19:00 | [FMus](/about#FMus) | [Studio Recital: Bethany Horst (voice)](http://www.events.westernu.ca/events/music/2024-02/studio-recital-beth-horst.html) |
-| Thu Feb 08 | 19:00 | [LMH](/about#LMH) | [Hotel Mira](http://londonmusichall.com/events/hotel-mira/) |
+| Thu Feb 08 | 18:30 | [Aeol](/about#Aeol) | [Aeolian Jazz Series – Bryan Gloyd & Peter Hysen (Southen Lounge)				](https://aeolianhall.ca/events/aeolian-jazz-series-bryan-gloyd-peter-hysen-southen-lounge/) |
+|  | 19:00 | [LMH](/about#LMH) | [Hotel Mira](http://londonmusichall.com/events/hotel-mira/) |
 |  | 19:30 | [FMus](/about#FMus) | [Jazz Ensemble: An Evening with Rodney Whitaker](http://www.events.westernu.ca/events/music/2024-02/jazz-ensemble-rodney-whitaker.html) |
 | Fri Feb 09 |  | [Grand](/about#Grand) | [Kelly Zimba Lukic, flute and Heidi Bearcroft, harp](https://www.grandtheatre.com/event/kelly-zimba-lukic-flute-and-heidi-bearcroft-harp) |
 |  | 12:30 | [FMus](/about#FMus) | [Fridays at 12:30 Concert Series: Rodney Whitaker, jazz bass](http://www.events.westernu.ca/events/music/2024-02/fridays-at-1230-rodney-whitaker.html) |
@@ -61,9 +62,11 @@ View only a category:
 | Sat Feb 10 | 12:00 | [Museum](/about#Museum) | [*SOLD OUT* Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10898/) |
 |  | 14:00 | [Aeol](/about#Aeol) | [Big Bandemic Featuring Rick Kish & Denise Pelley				](https://aeolianhall.ca/events/big-bandemic-featuring-rick-kish-denise-pelley/) |
 |  | 15:00 | [FMus](/about#FMus) | [Symphonic Band and Wind Ensemble Concert: Real or Imagined? ](http://www.events.westernu.ca/events/music/2024-02/symphonic-band-real-or-imagined.html) |
+|  | 17:00 | [FMus](/about#FMus) | [Encore: Music Education Student Association Conference Day 1](http://www.events.westernu.ca/events/music/2024-02/encore-music-education.html) |
 |  | 19:00 | [LMH](/about#LMH) | [Sam Roberts Band – The Adventures Of Ben Blank Tour](http://londonmusichall.com/events/sam-roberts-band/) |
 |  | 22:00 | [LMH](/about#LMH) | [*Sold Out* RIOT TEN “HYPE OR DIE” TOUR](http://londonmusichall.com/events/riot-ten-hype-or-die-tour/) |
-| Sun Feb 11 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paper Puppetry](https://museumlondon.ca/programs-events/event/10760/2024/02/11) |
+| Sun Feb 11 | 10:00 | [FMus](/about#FMus) | [Encore: Music Education Student Association Conference Day 2](http://www.events.westernu.ca/events/music/2024-02/encore-music-education-2.html) |
+|  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paper Puppetry](https://museumlondon.ca/programs-events/event/10760/2024/02/11) |
 |  | 19:00 | [LMH](/about#LMH) | [ANOMALIE](http://londonmusichall.com/events/anomalie/) |
 | Mon Feb 12 | 12:30 | [FMus](/about#FMus) | [Studio Recital I: Aaron Hodgson and Shawn Spicer (trumpet)](http://www.events.westernu.ca/events/music/2024-02/studio-recital-hodgson-spicer-1.html) |
 |  | 18:00 | [FMus](/about#FMus) | [Studio Recital II: Aaron Hodgson and Shawn Spicer (trumpet)](http://www.events.westernu.ca/events/music/2024-02/studio-recital-hodgson-spicer-2.html) |
@@ -72,8 +75,11 @@ View only a category:
 |  | 18:00 | [LMH](/about#LMH) | [Share The Land 2024](http://londonmusichall.com/events/share-the-land-2024/) |
 | Wed Feb 14 | 12:30 | [FMus](/about#FMus) | [Lunchtime Choral Series: Western University Singers](http://www.events.westernu.ca/events/music/2024-02/lunchtime-series-western-university-singers.html) |
 |  | 19:00 | [LMH](/about#LMH) | [Elliott Brood](http://londonmusichall.com/events/elliott-brood/) |
-| Thu Feb 15 | 19:00 | [LMH](/about#LMH) | [Brett Kissel – The Compass Tour](http://londonmusichall.com/events/brett-kissel-the-compass-tour/) |
+| Thu Feb 15 | 12:30 | [FMus](/about#FMus) | [Lunchtime Choral Series: Les Choristes](http://www.events.westernu.ca/events/music/2024-02/lunchtime-series-les-choristes.html) |
+|  | 18:00 | [FMus](/about#FMus) | [Studio Recital: Marianna Chibotar-Rutkevich (piano)](http://www.events.westernu.ca/events/music/2024-02/studio-recital-chibotar-rutkevich.html) |
+|  | 19:00 | [LMH](/about#LMH) | [Brett Kissel – The Compass Tour](http://londonmusichall.com/events/brett-kissel-the-compass-tour/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Jordan Hart				](https://aeolianhall.ca/events/jordan-hart/) |
+|  | 20:00 | [FMus](/about#FMus) | [Studio Recital: Allison Wiebe (piano)](http://www.events.westernu.ca/events/music/2024-02/studio-recital-allison-wiebe-1.html) |
 | Fri Feb 16 | 20:00 | [Aeol](/about#Aeol) | [A Taste of Sinatra – The Way You Look Tonight				](https://aeolianhall.ca/events/a-taste-of-sinatra-the-way-you-look-tonight/) |
 |  | 21:00 | [LMH](/about#LMH) | [GIMME GIMME DISCO](http://londonmusichall.com/events/gimme-gimme-disco/) |
 | Sat Feb 17 | 19:00 | [LMH](/about#LMH) | [Charlotte Cardin – 99 Nights Tour](http://londonmusichall.com/events/charlotte-cardin-99-nights-tour/) |
@@ -113,6 +119,7 @@ View only a category:
 | Tue Mar 19 | 18:00 | [LMH](/about#LMH) | [KOYO, One Step Closer, Anxious, Stateside](http://londonmusichall.com/events/koyo-one-step-closer-anxious-stateside/) |
 | Thu Mar 21 | 19:00 | [LMH](/about#LMH) | [DillanPonders, King Cruff, Kris The Spirit](http://londonmusichall.com/events/dillanponders-king-cruff-kris-the-spirit/) |
 | Sun Mar 24 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Wonderful Weaving](https://museumlondon.ca/programs-events/event/10763/2024/03/24) |
+| Wed Mar 27 | 20:00 | [Aeol](/about#Aeol) | [Kevin Drew – Aging				](https://aeolianhall.ca/events/kevin-drew-aging/) |
 | Thu Mar 28 | 19:00 | [LMH](/about#LMH) | [Warren Zeiders](http://londonmusichall.com/events/warren-zeiders/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Ariel Posen				](https://aeolianhall.ca/events/ariel-posen/) |
 | Sat Mar 30 | 22:00 | [LMH](/about#LMH) | [Le Youth @ System Saturdays](http://londonmusichall.com/events/le-youth-system-saturdays/) |

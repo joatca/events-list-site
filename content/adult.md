@@ -1,6 +1,6 @@
 ---
 title: "Events - adult"
-date: 2024-01-16T00:00:52-05:00
+date: 2024-01-17T00:00:40-05:00
 draft: false
 ---
 
@@ -9,18 +9,18 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Tue) |  | [Grand](/about#Grand) | [The Invisible - Agents of Ungentlemanly Warfare](https://www.grandtheatre.com/event/the-invisible) |
-|  |  | [Tour](/about#Tour) | [Nature in the City - Bats as Beings](https://www.londontourism.ca/events/nature-in-the-city-bats-as-beings) |
+| Today (Wed) |  | [Grand](/about#Grand) | [The Invisible - Agents of Ungentlemanly Warfare](https://www.grandtheatre.com/event/the-invisible) |
+|  |  | [Tour](/about#Tour) | [Return to District Twelve](https://www.londontourism.ca/events/return-to-district-twelve) |
 |  |  | [Tour](/about#Tour) | [The Invisible - Agents Of Ungentlemanly Warfare](https://www.londontourism.ca/events/the-invisible-agents-of-ungentlemanly-warfare) |
-|  | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - January 16, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-january-16-2024) |
-|  | 15:00 | [Maker](/about#Maker) | [Open Studio](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt) |
-| Tomorrow (Wed) |  | [Tour](/about#Tour) | [Return to District Twelve](https://www.londontourism.ca/events/return-to-district-twelve) |
+|  |  | [Maker](/about#Maker) | [Open Studio](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt) |
 |  | 09:00 | [City](/about#City) | [Special Strategic Priorities and Policy Committee - January 17, 2024](https://london.ca/government/calendar/special-strategic-priorities-policy-committee-january-17-2024) |
 |  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-01-17) |
-| Thu Jan 18 | 20:00 | [FMus](/about#FMus) | [2023 Fred Pattison Piano Award Winner's Recital ](http://www.events.westernu.ca/events/music/2024-01/2023-fred-pattison-recital.html) |
+| Tomorrow (Thu) | 20:00 | [FMus](/about#FMus) | [2023 Fred Pattison Piano Award Winner's Recital ](http://www.events.westernu.ca/events/music/2024-01/2023-fred-pattison-recital.html) |
 | Fri Jan 19 |  | [BudG](/about#BudG) | [London Lightning vs. Rhode Island Kraken](https://www.budweisergardens.com/events/detail/london-lightning-vs-rhode-island-kraken) |
+|  |  | [Tour](/about#Tour) | [The Matrix](https://www.londontourism.ca/events/the-matrix) |
 |  |  | [Tour](/about#Tour) | [Sweetwood Mac](https://www.londontourism.ca/events/sweetwood-mac) |
 |  |  | [Tour](/about#Tour) | [Bryan Bicknell Duo at The Scots Corner](https://www.londontourism.ca/events/bryan-bicknell-duo-at-the-scots-corner) |
+|  |  | [Tour](/about#Tour) | [Willow Switch // Cogadh // Nepenthe // Skyless Aeons](https://www.londontourism.ca/events/willow-switch-cogadh-nepenthe-skyless-aeons) |
 |  | 08:30 | [Museum](/about#Museum) | [PA Day Camp: Mini Model Makers](https://museumlondon.ca/programs-events/event/10556/) |
 |  | 10:00 | [Maker](/about#Maker) | [Focused Fridays: coworking at the Studio](https://www.hellomaker.ca/events/xel7kcn9gpcpldh-9l69t-9d4lx) |
 |  | 12:30 | [FMus](/about#FMus) | [Fridays at 12:30 Concert Series: The Sylvestre-Park Duo](http://www.events.westernu.ca/events/music/2024-01/fridays-at-1230-sylvestre-park.html) |
@@ -29,9 +29,10 @@ View only a category:
 |  | 20:00 | [FMus](/about#FMus) | [2024 Fred Pattison Piano Competition - Final Round](http://www.events.westernu.ca/events/music/2024-01/2024-fred-pattison-final-round.html) |
 | Sat Jan 20 |  | [BudG](/about#BudG) | [LONDON KNIGHTS VS. KITCHENER RANGERS](https://www.budweisergardens.com/events/detail/london-knights-jan20) |
 |  |  | [Tour](/about#Tour) | [Artisanal Winter Market](https://www.londontourism.ca/events/artisanal-winter-market) |
+|  |  | [Tour](/about#Tour) | [C.S.O. Presents 'LEGACY' the 2024 Culture Show](https://www.londontourism.ca/events/cso-presents-legacy-the-2024-culture-show) |
 |  |  | [Tour](/about#Tour) | [Lowdown Dirty Mojos](https://www.londontourism.ca/events/lowdown-dirty-mojos) |
-|  |  | [Tour](/about#Tour) | [Crush returns to Eastsides!!](https://www.londontourism.ca/events/crush-returns-to-eastsides) |
 |  |  | [Tour](/about#Tour) | [Open House for Tabla Classes](https://www.londontourism.ca/events/open-house-for-tabla-classes) |
+|  |  | [Tour](/about#Tour) | [Crush returns to Eastsides!!](https://www.londontourism.ca/events/crush-returns-to-eastsides) |
 |  |  | [Eldon](/about#Eldon) | [Behind the Ropes](https://eldonhouse.ca/product/behind-the-ropes-6/) |
 |  |  | [PSFTOff](/about#PSFTOff) | [Forever Young The Tribute to Rod Stewart](https://psft.ca/event/forever-young-the-tribute-to-rod-stewart/) |
 |  | 08:00 | [CGM](/about#CGM) | [FREE Yoga Class](https://coventmarket.com/event/calling-all-vendors-naw-ruz-bazaar-3/) |
@@ -40,7 +41,6 @@ View only a category:
 |  | 22:00 | [LMH](/about#LMH) | [Flowidus at System Saturdays](http://londonmusichall.com/events/flowidus-at-system-saturdays/) |
 | Sun Jan 21 |  | [BudG](/about#BudG) | [London Lightning vs. Rhode Island Kraken](https://www.budweisergardens.com/events/detail/london-lightning-vs-rhode-island-kraken-1) |
 |  |  | [Grand](/about#Grand) | [Ensemble Caprice](https://www.grandtheatre.com/event/ensemble-caprice) |
-|  |  | [Tour](/about#Tour) | [James Gordon with Katherine Wheatley - Cuckoo's Nest Concert Series](https://www.londontourism.ca/events/james-gordon-with-katherine-wheatley-cuckoos-nest-concert-series) |
 |  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/21) |
 |  | 20:00 | [Aeol](/about#Aeol) | [MJ The Illusion				](https://aeolianhall.ca/events/mj-the-illusion/) |
 |  | 21:00 | [LMH](/about#LMH) | [Raygun: Retro Night – ‘Does Disco’ w/ DJ Meltingman](http://londonmusichall.com/events/raygun-does-disco/) |
@@ -63,10 +63,10 @@ View only a category:
 |  | 18:30 | [Aeol](/about#Aeol) | [Aeolian Jazz Series – Laurraine Sigouin (Southen Lounge)				](https://aeolianhall.ca/events/aeolian-jazz-series-laurraine-sigouin/) |
 |  | 19:30 | [FMus](/about#FMus) | [Guest Artist Talk/Q&A: Janina Fialkowska, piano](http://www.events.westernu.ca/events/music/2024-01/guest-artist-talk-janina-fialkowska.html) |
 | Fri Jan 26 |  | [BudG](/about#BudG) | [LONDON KNIGHTS VS. PETERBOROUGH PETES](https://www.budweisergardens.com/events/detail/london-knights-jan26) |
+|  |  | [Tour](/about#Tour) | [Chrysalis: Bealart Opening Reception](https://www.londontourism.ca/events/chrysalis-bealart-opening-reception) |
 |  |  | [Tour](/about#Tour) | [The Shining](https://www.londontourism.ca/events/the-shining) |
 |  |  | [Tour](/about#Tour) | [Coffeehouse Open Mic at The Tea Lounge](https://www.londontourism.ca/events/coffeehouse-open-mic-at-the-tea-lounge) |
-|  |  | [Tour](/about#Tour) | [Chrysalis: Bealart Opening Reception](https://www.londontourism.ca/events/chrysalis-bealart-opening-reception) |
-|  |  | [Tour](/about#Tour) | [Josh Ross: The Trouble Tour](https://www.londontourism.ca/events/josh-ross-the-trouble-tour) |
+|  |  | [Tour](/about#Tour) | [AJ Bate & Joe Botelho LIVE! In London \| Glad You Came Standup Comedy Tour](https://www.londontourism.ca/events/aj-bate-and-joe-botelho-live-in-london-glad-you-came-standup-comedy-tour) |
 |  |  | [Tour](/about#Tour) | [LHBA's Lifestyle Home Show](https://www.londontourism.ca/events/lhbas-lifestyle-home-show) |
 |  | 10:00 | [Maker](/about#Maker) | [Focused Fridays: coworking at the Studio](https://www.hellomaker.ca/events/xel7kcn9gpcpldh-9l69t-9d4lx-febmn) |
 |  | 12:30 | [FMus](/about#FMus) | [Fridays at 12:30 Series: Grace Lou, erhu and String Quartet](http://www.events.westernu.ca/events/music/2024-01/fridays-at-1230-grace-lou.html) |
@@ -82,9 +82,10 @@ View only a category:
 |  |  | [Tour](/about#Tour) | [London Symphonia: Janina Fialkowska Plays Chopin](https://www.londontourism.ca/events/london-symphonia-janina-fialkowska-plays-chopin) |
 |  |  | [Tour](/about#Tour) | [Annual Robbie Burns Celebration](https://www.londontourism.ca/events/annual-robbie-burns-celebration) |
 |  |  | [PSFTOff](/about#PSFTOff) | [Billy Joel and the Piano Men](https://psft.ca/event/billy-joel-and-the-piano-men/) |
-|  | 08:00 | [CGM](/about#CGM) | [Yoga Class](https://coventmarket.com/event/calling-all-vendors-naw-ruz-bazaar-4/) |
 |  | 09:00 | [FMus](/about#FMus) | [Brass Day](http://www.events.westernu.ca/events/music/2024-01/brass-day.html) |
+|  | 12:00 | [CGM](/about#CGM) | [Sokoni Market](https://coventmarket.com/event/sokoni-market-8/) |
 |  | 15:00 | [FMus](/about#FMus) | [Brass Day Recital: James Miller, trombone](http://www.events.westernu.ca/events/music/2024-01/brass-day-recital.html) |
+|  | 18:00 | [CGM](/about#CGM) | [Yoga Class](https://coventmarket.com/event/calling-all-vendors-naw-ruz-bazaar-4/) |
 |  | 22:00 | [LMH](/about#LMH) | [AADJA & Lindsey Herbert @ System Saturdays](http://londonmusichall.com/events/aadja-lindsey-herbert-system-saturdays/) |
 | Sun Jan 28 |  | [BudG](/about#BudG) | [London Lightning vs. Montreal Tundra](https://www.budweisergardens.com/events/detail/london-lightning-vs-montreal-toundra-1) |
 |  |  | [Tour](/about#Tour) | [London Lightning vs Montreal Tundra - Jan. 28](https://www.londontourism.ca/events/london-lightning-vs-montreal-tundra-jan-28) |
@@ -94,8 +95,7 @@ View only a category:
 | Mon Jan 29 |  | [Tour](/about#Tour) | [Toboggan Monday Jazz: 401 Smooth Jazz](https://www.londontourism.ca/events/toboggan-monday-jazz-401-smooth-jazz) |
 |  | 13:00 | [City](/about#City) | [Community and Protective Services Committee - January 29, 2024](https://london.ca/government/calendar/community-protective-services-committee-january-29-2024) |
 |  | 16:00 | [City](/about#City) | [Budget Committee - Budget Public Participation - January 29, 2024](https://london.ca/government/calendar/budget-committee-budget-public-participation-january-29-2024) |
-| Tue Jan 30 |  | [Tour](/about#Tour) | [Nature in the City - Some bugs suck! Why the insects in your garden have a drinking problem](https://www.londontourism.ca/events/nature-in-the-city-some-bugs-suck-why-the-insects-in-your-garden-have-a-drinking-problem) |
-|  | 09:30 | [City](/about#City) | [Civic Works Committee - January 30, 2024](https://london.ca/government/calendar/civic-works-committee-january-30-2024) |
+| Tue Jan 30 | 09:30 | [City](/about#City) | [Civic Works Committee - January 30, 2024](https://london.ca/government/calendar/civic-works-committee-january-30-2024) |
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - January 30, 2024](https://london.ca/government/calendar/planning-environment-committee-january-30-2024) |
 |  | 15:00 | [Maker](/about#Maker) | [Open Studio](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk) |
 |  | 17:30 | [City](/about#City) | [City of London Recreation Job Fair - January 30, 2024](https://london.ca/government/calendar/city-london-recreation-job-fair-january-30-2024) |
@@ -119,10 +119,10 @@ View only a category:
 |  |  | [Tour](/about#Tour) | [Lindsey & The Lonelies, Innes Wilson's Freightliner + Renée Coughlin Trio](https://www.londontourism.ca/events/lindsey-and-the-lonelies-innes-wilsons-freightliner-rene-coughlin-trio) |
 |  |  | [Tour](/about#Tour) | [Middle Raged Sketch Comedy](https://www.londontourism.ca/events/middle-raged-sketch-comedy) |
 |  |  | [PSFTOff](/about#PSFTOff) | [Port Stanley Firefighters Association Fundraiser Comedy Night](https://psft.ca/event/port-stanley-firefighters-association-fundraiser-comedy-night/) |
-|  | 08:00 | [CGM](/about#CGM) | [Yoga Class](https://coventmarket.com/event/yoga-class/) |
 |  | 09:00 | [CGM](/about#CGM) | [Indoor Farmers Market](https://coventmarket.com/event/first-indoor-winter-farmers-market/) |
 |  | 14:00 | [CGM](/about#CGM) | [Market Block DJ Skate](https://coventmarket.com/event/market-block-dj-skate-3-2/) |
 |  | 14:00 | [FMus](/about#FMus) | [Opera and Musical Theatre Gala with Early Music Studio](http://www.events.westernu.ca/events/music/2024-02/opera-gala-2024.html) |
+|  | 18:00 | [CGM](/about#CGM) | [Yoga Class](https://coventmarket.com/event/yoga-class/) |
 |  | 22:00 | [LMH](/about#LMH) | [DLMT @ SYSTEM SATURDAYS](http://londonmusichall.com/events/dlmt-system-saturdays/) |
 | Sun Feb 04 |  | [Tour](/about#Tour) | [London Lightning vs Windsor Express - Feb. 4](https://www.londontourism.ca/events/london-lightning-vs-windsor-express-feb-4) |
 |  | 09:00 | [Maker](/about#Maker) | [Mini Makers DIY Group](https://www.hellomaker.ca/events/8l5hdfmhs4g84jj-y997t-32263-rafnp-898fh) |
@@ -136,7 +136,8 @@ View only a category:
 |  | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - February 06, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-february-06-2024) |
 |  | 15:00 | [Maker](/about#Maker) | [Open Studio](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9) |
 |  | 20:00 | [FMus](/about#FMus) | [Guest Artists: Jeremy Huw Williams and Ensemble Paramirabo](http://www.events.westernu.ca/events/music/2024-02/horizon-madog.html) |
-| Wed Feb 07 |  | [Tour](/about#Tour) | [National Poultry Show](https://www.londontourism.ca/events/national-poultry-show) |
+| Wed Feb 07 |  | [Tour](/about#Tour) | [London Lightning vs Pontiac Pharaohs](https://www.londontourism.ca/events/london-lightning-vs-pontiac-pharaohs) |
+|  |  | [Tour](/about#Tour) | [National Poultry Show](https://www.londontourism.ca/events/national-poultry-show) |
 |  | 09:30 | [Info](/about#Info) | [Living a Healthy Life with Diabetes](https://www.informationlondon.ca/Event/Detail/48852/Living_a_Healthy_Life_with_Diabetes?date=2024-02-07) |
 |  | 12:00 | [Maker](/about#Maker) | [Painted Tote Bag Workshop](https://www.hellomaker.ca/events/zfvpxsej5j9u9z39dn0cn9q7v6q0nk-22x5e-fjxkf-d3gmb-5w3kx-9mnfb-wpp2w-rz2z2-343nh-zs6pt-ewwxe-ksahp-menef-dm93d-ypxsp-rcc5e-zmxbp-zwhtx-wk5s3-2pnfb-rk8ea-nja2t) |
 |  | 18:00 | [FMus](/about#FMus) | [Studio Recital: Gloria Gassi (voice)](http://www.events.westernu.ca/events/music/2024-02/studio-recital-glora-gassi.html) |
@@ -146,6 +147,7 @@ View only a category:
 | Thu Feb 08 |  | [Tour](/about#Tour) | [Amanda Keeles - 'Can't Stop Me Now' Album Release Tour](https://www.londontourism.ca/events/amanda-keeles-cant-stop-me-now-album-release-tour) |
 |  | 09:30 | [City](/about#City) | [Budget Committee - BUDGET - February 08, 2024](https://london.ca/government/calendar/budget-committee-budget-february-08-2024) |
 |  | 13:30 | [City](/about#City) | [Committee of Adjustment - February 08, 2024](https://london.ca/government/calendar/committee-adjustment-february-08-2024) |
+|  | 18:30 | [Aeol](/about#Aeol) | [Aeolian Jazz Series – Bryan Gloyd & Peter Hysen (Southen Lounge)				](https://aeolianhall.ca/events/aeolian-jazz-series-bryan-gloyd-peter-hysen-southen-lounge/) |
 |  | 19:00 | [LMH](/about#LMH) | [Hotel Mira](http://londonmusichall.com/events/hotel-mira/) |
 |  | 19:30 | [FMus](/about#FMus) | [Jazz Ensemble: An Evening with Rodney Whitaker](http://www.events.westernu.ca/events/music/2024-02/jazz-ensemble-rodney-whitaker.html) |
 | Fri Feb 09 |  | [Grand](/about#Grand) | [Kelly Zimba Lukic, flute and Heidi Bearcroft, harp](https://www.grandtheatre.com/event/kelly-zimba-lukic-flute-and-heidi-bearcroft-harp) |
@@ -159,31 +161,33 @@ View only a category:
 |  | 17:00 | [CGM](/about#CGM) | [Crokicurl](https://coventmarket.com/event/crokicurl-3-3/) |
 |  | 18:30 | [Info](/about#Info) | [Free Drop-In Basketball for Youth](https://www.informationlondon.ca/Event/Detail/49394/Free_Drop-In_Basketball_for_Youth?date=2024-02-09) |
 |  | 18:30 | [Info](/about#Info) | [TGIF Game Night!](https://www.informationlondon.ca/Event/Detail/49385/TGIF_Game_Night?date=2024-02-09) |
-| Sat Feb 10 |  | [Tour](/about#Tour) | [Down 'N' Dirty Debuts at The Dawghouse!](https://www.londontourism.ca/events/down-n-dirty-debuts-at-the-dawghouse) |
-|  |  | [Tour](/about#Tour) | [Gabi & The Whats, Livingroom For Small + Yellow Magnolia](https://www.londontourism.ca/events/gabi-and-the-whats-livingroom-for-small-yellow-magnolia) |
+| Sat Feb 10 |  | [Tour](/about#Tour) | [Brother Time @ Fitzray's](https://www.londontourism.ca/events/brother-time-fitzrays) |
 |  |  | [Tour](/about#Tour) | [Heritage Fair 2024](https://www.londontourism.ca/events/heritage-fair-2024) |
 |  |  | [Tour](/about#Tour) | [Yesterday's Tomorrow](https://www.londontourism.ca/events/yesterdays-tomorrow) |
+|  |  | [Tour](/about#Tour) | [Gabi & The Whats, Livingroom For Small + Yellow Magnolia](https://www.londontourism.ca/events/gabi-and-the-whats-livingroom-for-small-yellow-magnolia) |
 |  |  | [Tour](/about#Tour) | [Classic Albums Live: ACDC - Highway To Hell](https://www.londontourism.ca/events/classic-albums-live-acdc-highway-to-hell) |
 |  |  | [Tour](/about#Tour) | [Dominique Fils-Aime](https://www.londontourism.ca/events/dominique-fils-aime) |
 |  |  | [Eldon](/about#Eldon) | [100 Objects and Gems: The History of London](https://eldonhouse.ca/product/heritage-fair-100-objects-and-gems-from-the-city-of-london/) |
 |  |  | [PSFTOff](/about#PSFTOff) | [Tommy Youngsteen The Very Best of Neil Young](https://psft.ca/event/the-very-best-of-neil-young/) |
 |  |  | [RBCP](/about#RBCP) | [Brescia Ball 2024: A Walk Down Memory Lane](https://www.rbcplacelondon.com/events/brescia-ball-2024-walk-down-memory-lane-february-10) |
-|  | 08:00 | [CGM](/about#CGM) | [Yoga Class](https://coventmarket.com/event/yoga-classes/) |
 |  | 09:00 | [CGM](/about#CGM) | [Valentine’s Day Farmers & Artisan Market](https://coventmarket.com/event/valentines-day-farmers-artisans-market/) |
 |  | 12:00 | [Museum](/about#Museum) | [*SOLD OUT* Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10898/) |
 |  | 13:00 | [CGM](/about#CGM) | [Cookie Decorating Workshop](https://coventmarket.com/event/cookie-decorating-workshop/) |
 |  | 14:00 | [CGM](/about#CGM) | [Market Block DJ Skate](https://coventmarket.com/event/market-block-dj-skate-3/) |
 |  | 14:00 | [Aeol](/about#Aeol) | [Big Bandemic Featuring Rick Kish & Denise Pelley				](https://aeolianhall.ca/events/big-bandemic-featuring-rick-kish-denise-pelley/) |
 |  | 15:00 | [FMus](/about#FMus) | [Symphonic Band and Wind Ensemble Concert: Real or Imagined? ](http://www.events.westernu.ca/events/music/2024-02/symphonic-band-real-or-imagined.html) |
+|  | 17:00 | [FMus](/about#FMus) | [Encore: Music Education Student Association Conference Day 1](http://www.events.westernu.ca/events/music/2024-02/encore-music-education.html) |
+|  | 18:00 | [CGM](/about#CGM) | [Yoga Class](https://coventmarket.com/event/yoga-classes/) |
 |  | 19:00 | [LMH](/about#LMH) | [Sam Roberts Band – The Adventures Of Ben Blank Tour](http://londonmusichall.com/events/sam-roberts-band/) |
 |  | 22:00 | [LMH](/about#LMH) | [*Sold Out* RIOT TEN “HYPE OR DIE” TOUR](http://londonmusichall.com/events/riot-ten-hype-or-die-tour/) |
-| Sun Feb 11 |  | [Tour](/about#Tour) | [Mini Pop Kids Live - The Good Vibes Tour](https://www.londontourism.ca/events/mini-pop-kids-live-the-good-vibes-tour) |
-|  | 09:00 | [Maker](/about#Maker) | [Mini Makers DIY Group](https://www.hellomaker.ca/events/8l5hdfmhs4g84jj-y997t-32263-rafnp-898fh-kb6ds) |
+| Sun Feb 11 | 09:00 | [Maker](/about#Maker) | [Mini Makers DIY Group](https://www.hellomaker.ca/events/8l5hdfmhs4g84jj-y997t-32263-rafnp-898fh-kb6ds) |
+|  | 10:00 | [FMus](/about#FMus) | [Encore: Music Education Student Association Conference Day 2](http://www.events.westernu.ca/events/music/2024-02/encore-music-education-2.html) |
 |  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paper Puppetry](https://museumlondon.ca/programs-events/event/10760/2024/02/11) |
 |  | 19:00 | [LMH](/about#LMH) | [ANOMALIE](http://londonmusichall.com/events/anomalie/) |
 | Mon Feb 12 | 12:30 | [FMus](/about#FMus) | [Studio Recital I: Aaron Hodgson and Shawn Spicer (trumpet)](http://www.events.westernu.ca/events/music/2024-02/studio-recital-hodgson-spicer-1.html) |
 |  | 18:00 | [FMus](/about#FMus) | [Studio Recital II: Aaron Hodgson and Shawn Spicer (trumpet)](http://www.events.westernu.ca/events/music/2024-02/studio-recital-hodgson-spicer-2.html) |
 | Tue Feb 13 |  | [Grand](/about#Grand) | [In Seven Days](https://www.grandtheatre.com/event/in-seven-days) |
+|  |  | [Tour](/about#Tour) | [Nature in the City - London’s Secretive Wildlife: Challenges Faced by Reptiles and Amphibians](https://www.londontourism.ca/events/all-events/page/8) |
 |  |  | [Tour](/about#Tour) | [In Seven Days](https://www.londontourism.ca/events/in-seven-days) |
 |  | 12:30 | [FMus](/about#FMus) | [Lunchtime Choral Series: Chorale](http://www.events.westernu.ca/events/music/2024-02/lunchtime-series-chorale.html) |
 |  | 13:00 | [City](/about#City) | [Council - February 13, 2024](https://london.ca/government/calendar/council-february-13-2024) |
@@ -198,11 +202,16 @@ View only a category:
 |  | 17:00 | [CGM](/about#CGM) | [Valentine’s Date Night at the Market](https://coventmarket.com/event/valentines-date-night-at-the-market/) |
 |  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-02-14) |
 |  | 19:00 | [LMH](/about#LMH) | [Elliott Brood](http://londonmusichall.com/events/elliott-brood/) |
-| Thu Feb 15 |  | [Tour](/about#Tour) | [London Jazz Orchestra - February 15](https://www.londontourism.ca/events/london-jazz-orchestra-february-15) |
-|  | 09:30 | [City](/about#City) | [Budget Committee - BUDGET - February 15, 2024](https://london.ca/government/calendar/budget-committee-budget-february-15-2024) |
+| Thu Feb 15 | 09:30 | [City](/about#City) | [Budget Committee - BUDGET - February 15, 2024](https://london.ca/government/calendar/budget-committee-budget-february-15-2024) |
+|  | 12:30 | [FMus](/about#FMus) | [Lunchtime Choral Series: Les Choristes](http://www.events.westernu.ca/events/music/2024-02/lunchtime-series-les-choristes.html) |
+|  | 18:00 | [FMus](/about#FMus) | [Studio Recital: Marianna Chibotar-Rutkevich (piano)](http://www.events.westernu.ca/events/music/2024-02/studio-recital-chibotar-rutkevich.html) |
 |  | 19:00 | [LMH](/about#LMH) | [Brett Kissel – The Compass Tour](http://londonmusichall.com/events/brett-kissel-the-compass-tour/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Jordan Hart				](https://aeolianhall.ca/events/jordan-hart/) |
-| Fri Feb 16 |  | [Tour](/about#Tour) | [London RV Show](https://www.londontourism.ca/events/london-rv-show) |
+|  | 20:00 | [FMus](/about#FMus) | [Studio Recital: Allison Wiebe (piano)](http://www.events.westernu.ca/events/music/2024-02/studio-recital-allison-wiebe-1.html) |
+| Fri Feb 16 |  | [Tour](/about#Tour) | [Jesse James Medicine Show wsg/The Doppelgangers, Javelin and Hank Scorpio](https://www.londontourism.ca/events/jesse-james-medicine-show-wsg-the-doppelgangers-javelin-and-hank-scorpio) |
+|  |  | [Tour](/about#Tour) | [Oh, Berlin + Amanda Movio + Addison Johnson](https://www.londontourism.ca/events/oh-berlin-amanda-movio-addison-johnson) |
+|  |  | [Tour](/about#Tour) | [The Mummy](https://www.londontourism.ca/events/the-mummy) |
+|  |  | [Tour](/about#Tour) | [London RV Show](https://www.londontourism.ca/events/london-rv-show) |
 |  | 09:30 | [City](/about#City) | [Budget Committee - BUDGET - February 16, 2024](https://london.ca/government/calendar/budget-committee-budget-february-16-2024) |
 |  | 10:00 | [Maker](/about#Maker) | [Focused Fridays: coworking at the Studio](https://www.hellomaker.ca/events/xel7kcn9gpcpldh-9l69t-9d4lx-febmn-w6ncz-ee7m5-g8ynt) |
 |  | 17:00 | [CGM](/about#CGM) | [Crokicurl](https://coventmarket.com/event/crokicurl-4/) |
@@ -210,17 +219,18 @@ View only a category:
 |  | 18:30 | [Info](/about#Info) | [TGIF Game Night!](https://www.informationlondon.ca/Event/Detail/49385/TGIF_Game_Night?date=2024-02-16) |
 |  | 20:00 | [Aeol](/about#Aeol) | [A Taste of Sinatra – The Way You Look Tonight				](https://aeolianhall.ca/events/a-taste-of-sinatra-the-way-you-look-tonight/) |
 |  | 21:00 | [LMH](/about#LMH) | [GIMME GIMME DISCO](http://londonmusichall.com/events/gimme-gimme-disco/) |
-| Sat Feb 17 |  | [Tour](/about#Tour) | [Bryan Bicknell Duo @ Fitzray's](https://www.londontourism.ca/events/bryan-bicknell-duo-fitzrays) |
-|  |  | [Tour](/about#Tour) | [Ace of Wands, Hyness + Hunter Gatherer](https://www.londontourism.ca/events/ace-of-wands-hyness-hunter-gatherer) |
+| Sat Feb 17 |  | [Tour](/about#Tour) | [Ace of Wands, Hyness + Hunter Gatherer](https://www.londontourism.ca/events/ace-of-wands-hyness-hunter-gatherer) |
+|  |  | [Tour](/about#Tour) | [Bryan Bicknell Duo @ Fitzray's](https://www.londontourism.ca/events/bryan-bicknell-duo-fitzrays) |
 |  |  | [Tour](/about#Tour) | [LB Spiffy Live in London](https://www.londontourism.ca/events/lb-spiffy-live-in-london) |
 |  |  | [PSFTOff](/about#PSFTOff) | [Girls Nite Out](https://psft.ca/event/girls-nite-out/) |
-|  | 08:00 | [CGM](/about#CGM) | [Yoga Class](https://coventmarket.com/event/yoga-classes-2/) |
 |  | 14:00 | [CGM](/about#CGM) | [Market Block DJ Skate](https://coventmarket.com/event/market-block-dj-skate-2/) |
 |  | 14:00 | [CGM](/about#CGM) | [New Horizons Band Performance](https://coventmarket.com/event/new-horizons-band-performance-2/) |
+|  | 18:00 | [CGM](/about#CGM) | [Yoga Class](https://coventmarket.com/event/yoga-classes-2/) |
 |  | 19:00 | [LMH](/about#LMH) | [Charlotte Cardin – 99 Nights Tour](http://londonmusichall.com/events/charlotte-cardin-99-nights-tour/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Listen To The Music – A Tribute to The Doobie Brothers				](https://aeolianhall.ca/events/listen-to-the-music-a-tribute-to-the-doobie-brothers/) |
 |  | 22:00 | [LMH](/about#LMH) | [THE LEGEND OF ONE SOUND TOUR @ SYSTEM SATURDAYS](http://londonmusichall.com/events/the-legend-of-one-sound-tour-system-saturdays/) |
-| Sun Feb 18 |  | [Eldon](/about#Eldon) | [Amelia Harris: Birthday Celebrations](https://eldonhouse.ca/product/amelia-harris-birthday-celebrations-2/) |
+| Sun Feb 18 |  | [Tour](/about#Tour) | [Silent Film Special Event](https://www.londontourism.ca/events/silent-film-special-event) |
+|  |  | [Eldon](/about#Eldon) | [Amelia Harris: Birthday Celebrations](https://eldonhouse.ca/product/amelia-harris-birthday-celebrations-2/) |
 |  | 09:00 | [Maker](/about#Maker) | [Mini Makers DIY Group ](https://www.hellomaker.ca/events/8l5hdfmhs4g84jj-y997t-32263-rafnp-898fh-kb6ds-3bkfn) |
 |  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paper Puppetry](https://museumlondon.ca/programs-events/event/10760/2024/02/18) |
 |  | 22:00 | [LMH](/about#LMH) | [Emo Night: London // City and Colour Afterparty](http://londonmusichall.com/events/emo-night-london-city-and-colour-afterparty/) |
@@ -243,19 +253,18 @@ View only a category:
 |  | 17:00 | [CGM](/about#CGM) | [Crokicurl](https://coventmarket.com/event/crokicurl-4-2/) |
 |  | 18:30 | [Maker](/about#Maker) | [Polymer Clay Earring Workshop](https://www.hellomaker.ca/events/polymer-clay-earring-workshop-7m6jk-db26w-b42sc-c7l7d-m8rbg-yxm5r-a48nk-xggm8-mdblt-9z7h6-e36fb) |
 | Fri Feb 23 |  | [Tour](/about#Tour) | [Excuses Excuses, No Exceptions + Travesty](https://www.londontourism.ca/events/excuses-excuses-no-exceptions-travesty) |
-|  |  | [Tour](/about#Tour) | [London Ontario Boat, Fishing & Outdoor Show](https://www.londontourism.ca/events/london-ontario-boat-fishing-and-outdoor-show) |
 |  | 09:30 | [City](/about#City) | [Budget Committee - BUDGET - February 23, 2024](https://london.ca/government/calendar/budget-committee-budget-february-23-2024) |
 |  | 10:00 | [Maker](/about#Maker) | [Focused Fridays: coworking at the Studio](https://www.hellomaker.ca/events/xel7kcn9gpcpldh-9l69t-9d4lx-febmn-w6ncz-ee7m5-g8ynt-zntn2) |
 |  | 18:30 | [Info](/about#Info) | [Free Drop-In Basketball for Youth](https://www.informationlondon.ca/Event/Detail/49394/Free_Drop-In_Basketball_for_Youth?date=2024-02-23) |
 |  | 18:30 | [Info](/about#Info) | [TGIF Game Night!](https://www.informationlondon.ca/Event/Detail/49385/TGIF_Game_Night?date=2024-02-23) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Guy Davis				](https://aeolianhall.ca/events/guy-davis-2/) |
-| Sat Feb 24 |  | [Tour](/about#Tour) | [Bia Ferreira - TD Sunfest Concert Series](https://www.londontourism.ca/events/bia-ferreira-td-sunfest-concert-series) |
-|  |  | [Tour](/about#Tour) | [Riverside Unplugged @ Anderson Craft Ales](https://www.londontourism.ca/events/riverside-unplugged-anderson-craft-ales) |
+| Sat Feb 24 |  | [Tour](/about#Tour) | [Heatwave Hot Sauce Expo](https://www.londontourism.ca/events/heatwave-hot-sauce-expo) |
+|  |  | [Tour](/about#Tour) | [London Symphonia: Freedom: The Spirit and Legacy of Black Music](https://www.londontourism.ca/events/london-symphonia-freedom-the-spirit-and-legacy-of-black-music) |
 |  |  | [PSFTOff](/about#PSFTOff) | [Take It Easy: The Story of the Eagles](https://psft.ca/event/take-it-easy-the-story-of-the-eagles/) |
 |  |  | [RBCP](/about#RBCP) | [London Seafood Festival](https://www.rbcplacelondon.com/events/london-seafood-festival-february-24) |
-|  | 08:00 | [CGM](/about#CGM) | [Yoga Class](https://coventmarket.com/event/yoga-classes-3/) |
 |  | 12:00 | [Museum](/about#Museum) | [Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10900/) |
 |  | 14:00 | [CGM](/about#CGM) | [Market Block DJ Skate](https://coventmarket.com/event/market-block-dj-skate/) |
+|  | 18:00 | [CGM](/about#CGM) | [Yoga Class](https://coventmarket.com/event/yoga-classes-3/) |
 |  | 18:30 | [LMH](/about#LMH) | [Chase Rice – Get Western Tour](http://londonmusichall.com/events/chase-rice-get-western-tour/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [The Western Swing Authority				](https://aeolianhall.ca/events/the-western-swing-authority/) |
 | Sun Feb 25 |  | [Grand](/about#Grand) | [London Gospel Collective 2023/24 Series](https://www.grandtheatre.com/event/london-gospel-collective-2324) |
@@ -263,6 +272,7 @@ View only a category:
 |  |  | [Tour](/about#Tour) | [The Ring's London Wedding Expo](https://www.londontourism.ca/events/the-rings-london-wedding-expo) |
 |  |  | [Tour](/about#Tour) | [London Toy & Collectibles Expo](https://www.londontourism.ca/events/london-toy-and-collectibles-expo) |
 |  |  | [Tour](/about#Tour) | [Flamespitter wsg/ All That Is Unholy, Zero Tolerance & Hazard](https://www.londontourism.ca/events/flamespitter-wsg-all-that-is-unholy-zero-tolerance-and-hazard) |
+|  |  | [Tour](/about#Tour) | [Midnight Cowboy](https://www.londontourism.ca/events/midnight-cowboy) |
 |  | 09:00 | [Maker](/about#Maker) | [Mini Makers DIY Group](https://www.hellomaker.ca/events/8l5hdfmhs4g84jj-y997t-32263-rafnp-898fh-kb6ds-3bkfn-78ycb) |
 |  | 12:00 | [CGM](/about#CGM) | [Market Block DJ Skate](https://coventmarket.com/event/crokicurl/) |
 |  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paper Puppetry](https://museumlondon.ca/programs-events/event/10760/2024/02/25) |
@@ -278,14 +288,15 @@ View only a category:
 |  | 18:30 | [LMH](/about#LMH) | [Aaron Pritchett: The Liquored Up Tour](http://londonmusichall.com/events/aaron-pritchett-the-liquored-up-tour/) |
 |  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-02-28) |
 | Thu Feb 29 |  | [Grand](/about#Grand) | [Company](https://www.grandtheatre.com/event/company) |
-|  |  | [Tour](/about#Tour) | [Anthony Jeselnik: Bones and All Tour](https://www.londontourism.ca/events/anthony-jeselnik-bones-and-all-tour) |
-|  |  | [Tour](/about#Tour) | [Daniel Romano's Outfit](https://www.londontourism.ca/events/daniel-romanos-outfit) |
 |  | 18:00 | [Maker](/about#Maker) | [Punch Needle Workshop](https://www.hellomaker.ca/events/zfvpxsej5j9u9z39dn0cn9q7v6q0nk-22x5e-fjxkf-d3gmb-5w3kx-9mnfb-wpp2w-rz2z2-343nh-zs6pt-ewwxe-ksahp-menef-dm93d-ypxsp-rcc5e-zmxbp-zwhtx-trff9-7sbzh-5e67z-tte7w-39x2s) |
 |  | 19:00 | [LMH](/about#LMH) | [SHAWN DESMAN](http://londonmusichall.com/events/shawn-desman/) |
-| Fri Mar 01 |  | [Tour](/about#Tour) | [Choir! Choir! Choir! DREAMS: An EPIC Fleetwood Mac Sing-Along!](https://www.londontourism.ca/events/choir-choir-choir-dreams-an-epic-fleetwood-mac-sing-along) |
+| Fri Mar 01 |  | [Tour](/about#Tour) | [London Lightning vs Newfoundland Rogues - Mar. 1](https://www.londontourism.ca/events/london-lightning-vs-newfoundland-rogues-mar-1) |
+|  |  | [Tour](/about#Tour) | [Kiwanis Children's Charities Trivia Night](https://www.londontourism.ca/events/kiwanis-childrens-charities-trivia-night) |
 |  | 18:30 | [Info](/about#Info) | [Free Drop-In Basketball for Youth](https://www.informationlondon.ca/Event/Detail/49394/Free_Drop-In_Basketball_for_Youth?date=2024-03-01) |
-| Sat Mar 02 | 12:00 | [Museum](/about#Museum) | [Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10902/) |
-| Sun Mar 03 |  | [Tour](/about#Tour) | [London Concert Band presents Flight of Fancy](https://www.londontourism.ca/events/london-concert-band-presents-flight-of-fancy) |
+| Sat Mar 02 |  | [Tour](/about#Tour) | [Devilz by Definition, Kavara, Skyless Aeons and Cryophilic](https://www.londontourism.ca/events/devilz-by-definition-kavara-skyless-aeons-and-cryophilic) |
+|  | 12:00 | [Museum](/about#Museum) | [Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10902/) |
+| Sun Mar 03 |  | [Tour](/about#Tour) | [London Lightning vs Windsor Express - Mar. 3](https://www.londontourism.ca/events/london-lightning-vs-windsor-express-mar-3) |
+|  |  | [Tour](/about#Tour) | [London Concert Band presents Flight of Fancy](https://www.londontourism.ca/events/london-concert-band-presents-flight-of-fancy) |
 |  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Wonderful Weaving](https://museumlondon.ca/programs-events/event/10763/2024/03/03) |
 | Mon Mar 04 |  | [RBCP](/about#RBCP) | [Take Your Place: Achieve!](https://www.rbcplacelondon.com/events/take-your-place-achieve-march-4) |
 |  | 13:00 | [City](/about#City) | [Corporate Services Committee - March 04, 2024](https://london.ca/government/calendar/corporate-services-committee-march-04-2024) |
@@ -294,13 +305,11 @@ View only a category:
 |  |  | [Tour](/about#Tour) | [LMRG Monthly Open House - March 5](https://www.londontourism.ca/events/lmrg-monthly-open-house-march-5) |
 |  |  | [Tour](/about#Tour) | [London Lightning vs Sudbury Five - Mar. 5](https://www.londontourism.ca/events/london-lightning-vs-sudbury-five-mar-5) |
 |  | 13:00 | [City](/about#City) | [Council - March 05, 2024](https://london.ca/government/calendar/council-march-05-2024) |
-| Wed Mar 06 |  | [Tour](/about#Tour) | [Annie](https://www.londontourism.ca/events/annie) |
-|  |  | [Tour](/about#Tour) | [84th London Farm Show](https://www.londontourism.ca/events/84th-london-farm-show) |
-|  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-03-06) |
+| Wed Mar 06 | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-03-06) |
 |  | 20:00 | [LMH](/about#LMH) | [James Kennedy](http://londonmusichall.com/events/james-kennedy/) |
-| Thu Mar 07 |  | [Tour](/about#Tour) | [Ron Hawkins with special guest Graven](https://www.londontourism.ca/events/ron-hawkins-with-special-guest-graven) |
-|  | 20:00 | [Aeol](/about#Aeol) | [Rum Ragged				](https://aeolianhall.ca/events/rum-ragged-2/) |
-| Fri Mar 08 |  | [RBCP](/about#RBCP) | [24th Annual International Women’s Day Breakfast](https://www.rbcplacelondon.com/events/24th-annual-international-womens-day-breakfast-march-8) |
+| Thu Mar 07 | 20:00 | [Aeol](/about#Aeol) | [Rum Ragged				](https://aeolianhall.ca/events/rum-ragged-2/) |
+| Fri Mar 08 |  | [Tour](/about#Tour) | [Bianca Del Rio - Dead Inside Comedy Tour](https://www.londontourism.ca/events/bianca-del-rio-dead-inside-comedy-tour) |
+|  |  | [RBCP](/about#RBCP) | [24th Annual International Women’s Day Breakfast](https://www.rbcplacelondon.com/events/24th-annual-international-womens-day-breakfast-march-8) |
 |  | 18:30 | [Info](/about#Info) | [Free Drop-In Basketball for Youth](https://www.informationlondon.ca/Event/Detail/49394/Free_Drop-In_Basketball_for_Youth?date=2024-03-08) |
 |  | 19:00 | [Aeol](/about#Aeol) | [Zachary Stevenson’s Tribute to Buddy Holly				](https://aeolianhall.ca/events/zachary-stevensons-tribute-to-buddy-holly/) |
 |  | 19:00 | [LMH](/about#LMH) | [Spencer Burton](http://londonmusichall.com/events/spencer-burton/) |
@@ -310,27 +319,22 @@ View only a category:
 |  | 18:30 | [LMH](/about#LMH) | [The Portuguese Kids – iMPROVISITAS! Tour](http://londonmusichall.com/events/the-portuguese-kids-improvisitas-tour/) |
 | Sun Mar 10 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Wonderful Weaving](https://museumlondon.ca/programs-events/event/10763/2024/03/10) |
 |  | 19:00 | [LMH](/about#LMH) | [Allison Russell – The Returner Tour](http://londonmusichall.com/events/allison-russell-the-returner-tour/) |
-| Mon Mar 11 |  | [Tour](/about#Tour) | [London Lightning vs Glass City Wranglers](https://www.londontourism.ca/events/london-lightning-vs-glass-city-wranglers) |
 | Tue Mar 12 |  | [Grand](/about#Grand) | [Clue](https://www.grandtheatre.com/event/clue) |
-|  |  | [Tour](/about#Tour) | [Clue](https://www.londontourism.ca/events/clue) |
 |  | 18:00 | [LMH](/about#LMH) | [Gwar](http://londonmusichall.com/events/gwar/) |
 | Wed Mar 13 | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-03-13) |
 | Thu Mar 14 | 19:00 | [LMH](/about#LMH) | [Jeremie Albino – The Long Road Home Tour 2024](http://londonmusichall.com/events/jeremie-albino-when-the-long-road-home-tour-2024/) |
 | Fri Mar 15 |  | [PSFTOff](/about#PSFTOff) | [Finnegans Wake](https://psft.ca/event/finnegans-wake/) |
 |  |  | [RBCP](/about#RBCP) | [I❤︎BEER & Taco Festival](https://www.rbcplacelondon.com/events/ibeer-taco-festival-march-15-16) |
 |  | 18:30 | [Info](/about#Info) | [Free Drop-In Basketball for Youth](https://www.informationlondon.ca/Event/Detail/49394/Free_Drop-In_Basketball_for_Youth?date=2024-03-15) |
-| Sat Mar 16 |  | [PSFTOff](/about#PSFTOff) | [Brothers’ Gibb The Bee Gees Story](https://psft.ca/event/brothers-gibb-the-bee-gees-story/) |
+| Sat Mar 16 |  | [Tour](/about#Tour) | [Absolute Magic with Keith Brown & Friends - FSTV Fundraiser](https://www.londontourism.ca/events/absolute-magic-with-keith-brown-and-friends-fstv-fundraiser) |
+|  |  | [PSFTOff](/about#PSFTOff) | [Brothers’ Gibb The Bee Gees Story](https://psft.ca/event/brothers-gibb-the-bee-gees-story/) |
 |  | 09:00 | [CGM](/about#CGM) | [Maple Fest! 🍁](https://coventmarket.com/event/maple-syrup-festival/) |
 |  | 12:00 | [Museum](/about#Museum) | [Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10904/) |
-| Sun Mar 17 |  | [Tour](/about#Tour) | [London Lightning vs KW Titans](https://www.londontourism.ca/events/london-lightning-vs-kw-titans) |
-|  |  | [Tour](/about#Tour) | [London Record Show](https://www.londontourism.ca/events/london-record-show) |
-|  |  | [Tour](/about#Tour) | [Pinky Patel - New Crown, Who Dhis](https://www.londontourism.ca/events/pinky-patel-new-crown-who-dhis) |
+| Sun Mar 17 |  | [Tour](/about#Tour) | [London Record Show](https://www.londontourism.ca/events/london-record-show) |
 |  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Wonderful Weaving](https://museumlondon.ca/programs-events/event/10763/2024/03/17) |
 |  | 19:00 | [LMH](/about#LMH) | [CORB LUND: THE EL VIEJO RELEASE TOUR](http://londonmusichall.com/events/corb-lund-the-el-viejo-release-tour/) |
 | Mon Mar 18 | 13:00 | [City](/about#City) | [Community and Protective Services Committee - March 18, 2024](https://london.ca/government/calendar/community-protective-services-committee-march-18-2024) |
-| Tue Mar 19 |  | [Tour](/about#Tour) | [London Lightning vs Komoko Bobkats](https://www.londontourism.ca/events/london-lightning-vs-komoko-bobkats) |
-|  |  | [Tour](/about#Tour) | [2024 Banff Centre Mountain Film Festival World Tour](https://www.londontourism.ca/events/2024-banff-centre-mountain-film-festival-world-tour) |
-|  |  | [RBCP](/about#RBCP) | [Grain Farmers of Ontario 2024 March Classic](https://www.rbcplacelondon.com/events/grain-farmers-ontario-2024-march-classic-march-19) |
+| Tue Mar 19 |  | [RBCP](/about#RBCP) | [Grain Farmers of Ontario 2024 March Classic](https://www.rbcplacelondon.com/events/grain-farmers-ontario-2024-march-classic-march-19) |
 |  | 09:30 | [City](/about#City) | [Civic Works Committee - March 19, 2024](https://london.ca/government/calendar/civic-works-committee-march-19-2024) |
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - March 19, 2024](https://london.ca/government/calendar/planning-environment-committee-march-19-2024) |
 |  | 18:00 | [LMH](/about#LMH) | [KOYO, One Step Closer, Anxious, Stateside](http://londonmusichall.com/events/koyo-one-step-closer-anxious-stateside/) |
@@ -338,41 +342,46 @@ View only a category:
 |  |  | [Tour](/about#Tour) | [Matt Rife: ProbleMATTic World Tour - Second Show](https://www.londontourism.ca/events/matt-rife-problemattic-world-tour-second-show) |
 |  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-03-20) |
 | Thu Mar 21 | 19:00 | [LMH](/about#LMH) | [DillanPonders, King Cruff, Kris The Spirit](http://londonmusichall.com/events/dillanponders-king-cruff-kris-the-spirit/) |
-| Fri Mar 22 | 18:30 | [Info](/about#Info) | [Free Drop-In Basketball for Youth](https://www.informationlondon.ca/Event/Detail/49394/Free_Drop-In_Basketball_for_Youth?date=2024-03-22) |
-| Sat Mar 23 |  | [Tour](/about#Tour) | [The London Wedding Expo](https://www.londontourism.ca/events/the-london-wedding-expo) |
+| Fri Mar 22 |  | [Tour](/about#Tour) | [Studies in Motion 2024: Dance Showcase](https://www.londontourism.ca/events/studies-in-motion-2024-dance-showcase) |
+|  |  | [Tour](/about#Tour) | [Tryplanes Live at Eastside Bar & Grill](https://www.londontourism.ca/events/tryplanes-live-at-eastside-bar-and-grill) |
+|  | 18:30 | [Info](/about#Info) | [Free Drop-In Basketball for Youth](https://www.informationlondon.ca/Event/Detail/49394/Free_Drop-In_Basketball_for_Youth?date=2024-03-22) |
+| Sat Mar 23 |  | [Tour](/about#Tour) | [Degrassi Tour: School's Out! VIP](https://www.londontourism.ca/events/degrassi-tour-schools-out-vip) |
+|  |  | [Tour](/about#Tour) | [The London Wedding Expo](https://www.londontourism.ca/events/the-london-wedding-expo) |
 | Sun Mar 24 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Wonderful Weaving](https://museumlondon.ca/programs-events/event/10763/2024/03/24) |
 | Mon Mar 25 | 10:00 | [City](/about#City) | [Governance Working Group - March 25, 2024](https://london.ca/government/calendar/governance-working-group-march-25-2024) |
 |  | 13:00 | [City](/about#City) | [Corporate Services Committee - March 25, 2024](https://london.ca/government/calendar/corporate-services-committee-march-25-2024) |
 | Tue Mar 26 | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - March 26, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-march-26-2024) |
 |  | 13:00 | [City](/about#City) | [Council - March 26, 2024](https://london.ca/government/calendar/council-march-26-2024) |
 | Wed Mar 27 | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-03-27) |
-| Thu Mar 28 |  | [Tour](/about#Tour) | [41st London Spring Craft Show](https://www.londontourism.ca/events/41st-london-spring-craft-show) |
-|  | 19:00 | [LMH](/about#LMH) | [Warren Zeiders](http://londonmusichall.com/events/warren-zeiders/) |
+|  | 20:00 | [Aeol](/about#Aeol) | [Kevin Drew – Aging				](https://aeolianhall.ca/events/kevin-drew-aging/) |
+| Thu Mar 28 | 19:00 | [LMH](/about#LMH) | [Warren Zeiders](http://londonmusichall.com/events/warren-zeiders/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Ariel Posen				](https://aeolianhall.ca/events/ariel-posen/) |
 | Sat Mar 30 |  | [Tour](/about#Tour) | [AEW - All Elite Wrestling - Collision](https://www.londontourism.ca/events/aew-all-elite-wrestling-collision) |
+|  |  | [Tour](/about#Tour) | [Classic Albums Live: Eagles - Greatest Hits](https://www.londontourism.ca/events/classic-albums-live-eagles-greatest-hits) |
 |  |  | [PSFTOff](/about#PSFTOff) | [How We Got to Jersey: A Tale of Two Frankies](https://psft.ca/event/how-we-got-to-jersey-a-tale-of-two-frankies/) |
 |  | 08:00 | [CGM](/about#CGM) | [Outdoor Easter Market](https://coventmarket.com/event/4032/) |
 |  | 22:00 | [LMH](/about#LMH) | [Le Youth @ System Saturdays](http://londonmusichall.com/events/le-youth-system-saturdays/) |
-| Tue Apr 02 | 13:00 | [City](/about#City) | [Council - April 02, 2024](https://london.ca/government/calendar/council-april-02-2024) |
-| Wed Apr 03 |  | [Tour](/about#Tour) | [Canada's Drag Race: The Official 2024 Tour](https://www.londontourism.ca/events/canadas-drag-race-the-official-2024-tour) |
-| Thu Apr 04 |  | [Tour](/about#Tour) | [Bowling For Soup](https://www.londontourism.ca/events/bowling-for-soup) |
-|  | 19:00 | [LMH](/about#LMH) | [Dave Hause](http://londonmusichall.com/events/dave-hause-the-drew-thomson-foundation/) |
+| Mon Apr 01 |  | [Tour](/about#Tour) | [London Lightning vs Newfoundland Rogues - Apr. 1](https://www.londontourism.ca/events/london-lightning-vs-newfoundland-rogues-apr-1) |
+| Tue Apr 02 |  | [Tour](/about#Tour) | [LMRG Monthly Open House - April 2](https://www.londontourism.ca/events/lmrg-monthly-open-house-april-2) |
+|  |  | [Tour](/about#Tour) | [DZ Deathrays](https://www.londontourism.ca/events/dz-deathrays) |
+|  | 13:00 | [City](/about#City) | [Council - April 02, 2024](https://london.ca/government/calendar/council-april-02-2024) |
+| Thu Apr 04 | 19:00 | [LMH](/about#LMH) | [Dave Hause](http://londonmusichall.com/events/dave-hause-the-drew-thomson-foundation/) |
 | Fri Apr 05 | 20:00 | [Aeol](/about#Aeol) | [It’s Too Late To Stop Now: The Music of Van Morrison				](https://aeolianhall.ca/events/its-too-late-to-stop-now-the-music-of-van-morrison-3/) |
 | Sat Apr 06 |  | [Tour](/about#Tour) | [London Symphony: A Bohemian Life](https://www.londontourism.ca/events/london-symphony-a-bohemian-life) |
 |  |  | [Tour](/about#Tour) | [Springbank Sprint](https://www.londontourism.ca/events/springbank-sprint) |
 |  | 12:00 | [Museum](/about#Museum) | [Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10906/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [A’Court, Spiegel & Vinnick				](https://aeolianhall.ca/events/acourt-spiegel-vinnick/) |
 | Sun Apr 07 |  | [Grand](/about#Grand) | [Calidore String Quartet](https://www.grandtheatre.com/event/calidore-string-quartet) |
+|  |  | [Tour](/about#Tour) | [Calidore String Quartet](https://www.londontourism.ca/events/calidore-string-quartet) |
+|  |  | [Tour](/about#Tour) | [Noah Kahan: We'll All Be Here Forever Tour](https://www.londontourism.ca/events/noah-kahan-well-all-be-here-forever-tour) |
 |  | 19:00 | [LMH](/about#LMH) | [LADYSMITH BLACK MAMBOZA](http://londonmusichall.com/events/ladysmith-black-mamboza/) |
 | Mon Apr 08 | 13:00 | [City](/about#City) | [Community and Protective Services Committee - April 08, 2024](https://london.ca/government/calendar/community-protective-services-committee-april-08-2024) |
 | Tue Apr 09 |  | [Grand](/about#Grand) | [One Step at a Time](https://www.grandtheatre.com/event/one-step-at-a-time) |
+|  |  | [Tour](/about#Tour) | [One Step at a Time](https://www.londontourism.ca/events/one-step-at-a-time) |
 |  | 09:30 | [City](/about#City) | [Civic Works Committee - April 09, 2024](https://london.ca/government/calendar/civic-works-committee-april-09-2024) |
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - April 09, 2024](https://london.ca/government/calendar/planning-environment-committee-april-09-2024) |
 | Wed Apr 10 |  | [Tour](/about#Tour) | [Queens of the Stone Age:The End is Nero](https://www.londontourism.ca/events/queens-of-the-stone-agethe-end-is-nero) |
-| Fri Apr 12 |  | [Tour](/about#Tour) | [London Lightning vs Los Angeles Ignite](https://www.londontourism.ca/events/london-lightning-vs-los-angeles-ignite) |
-| Sat Apr 13 |  | [Tour](/about#Tour) | [Amanda Martinez - Sunfest Concert Series](https://www.londontourism.ca/events/amanda-martinez-sunfest-concert-series) |
-|  |  | [Tour](/about#Tour) | [Bill Welychka: 'A Happy Has-Been' Book Signing](https://www.londontourism.ca/events/bill-welychka-a-happy-has-been-book-signing) |
-|  |  | [PSFTOff](/about#PSFTOff) | [Mudmen](https://psft.ca/event/mudmen/) |
+| Sat Apr 13 |  | [PSFTOff](/about#PSFTOff) | [Mudmen](https://psft.ca/event/mudmen/) |
 | Mon Apr 15 | 13:00 | [City](/about#City) | [Corporate Services Committee - April 15, 2024](https://london.ca/government/calendar/corporate-services-committee-april-15-2024) |
 | Tue Apr 16 |  | [Grand](/about#Grand) | [Million Dollar Quartet](https://www.grandtheatre.com/event/million-dollar-quartet) |
 |  |  | [Tour](/about#Tour) | [Million Dollar Quartet](https://www.londontourism.ca/events/million-dollar-quartet) |
@@ -381,34 +390,38 @@ View only a category:
 | Thu Apr 18 |  | [Tour](/about#Tour) | [London Jazz Orchestra - April 18](https://www.londontourism.ca/events/london-jazz-orchestra-april-18) |
 | Fri Apr 19 |  | [Tour](/about#Tour) | [SNAPSHOTS: April 19-20](https://www.londontourism.ca/events/snapshots-april-19-20) |
 |  | 19:00 | [LMH](/about#LMH) | [Queen : It’s A Kinda Magic (RENOWNED TRIBUTE ACT)](http://londonmusichall.com/events/queen-its-a-kinda-magic-renowned-tribute-act/) |
-| Sat Apr 20 |  | [PSFTOff](/about#PSFTOff) | [British Beat 66](https://psft.ca/event/british-beat-66/) |
+| Sat Apr 20 |  | [Tour](/about#Tour) | [Rapid Tension/G.F.U./Bad Words/Mental State](https://www.londontourism.ca/events/rapid-tension-gfu-bad-words-mental-state) |
+|  |  | [PSFTOff](/about#PSFTOff) | [British Beat 66](https://psft.ca/event/british-beat-66/) |
 |  | 12:00 | [Museum](/about#Museum) | [Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10908/) |
 |  | 19:30 | [Aeol](/about#Aeol) | [Shantero Productions Presents: The Stampeders – One More Time!				](https://aeolianhall.ca/events/shantero-productions-presents-the-stampeders-one-more-time/) |
-| Sun Apr 21 | 19:30 | [Aeol](/about#Aeol) | [Shantero Productions Presents: The Stampeders – One More Time!				](https://aeolianhall.ca/events/shantero-productions-presents-the-stampeders-one-more-time-2/) |
+| Sun Apr 21 |  | [Tour](/about#Tour) | [SNAPSHOTS: April 21](https://www.londontourism.ca/events/snapshots-april-21) |
+|  | 19:30 | [Aeol](/about#Aeol) | [Shantero Productions Presents: The Stampeders – One More Time!				](https://aeolianhall.ca/events/shantero-productions-presents-the-stampeders-one-more-time-2/) |
 | Mon Apr 22 | 13:00 | [City](/about#City) | [Corporate Services Committee - April 22, 2024](https://london.ca/government/calendar/corporate-services-committee-april-22-2024) |
 | Tue Apr 23 |  | [Tour](/about#Tour) | [Ghost Town Blues with special guest Joel Dupuis Band](https://www.londontourism.ca/events/ghost-town-blues-with-special-guest-joel-dupuis-band) |
 |  | 13:00 | [City](/about#City) | [Council - April 23, 2024](https://london.ca/government/calendar/council-april-23-2024) |
-| Wed Apr 24 |  | [Tour](/about#Tour) | [London Lightning vs West Virginia Grind](https://www.londontourism.ca/events/london-lightning-vs-west-virginia-grind) |
-| Thu Apr 25 |  | [Tour](/about#Tour) | [Jazzabelles](https://www.londontourism.ca/events/jazzabelles) |
-|  |  | [RBCP](/about#RBCP) | [33rd Canadian Conference on HIV/Aids Research](https://www.rbcplacelondon.com/events/33rd-canadian-conference-hivaids-research-april-25-28) |
+| Thu Apr 25 |  | [RBCP](/about#RBCP) | [33rd Canadian Conference on HIV/Aids Research](https://www.rbcplacelondon.com/events/33rd-canadian-conference-hivaids-research-april-25-28) |
 |  | 18:30 | [LMH](/about#LMH) | [Green Jelly](http://londonmusichall.com/events/green-jelly/) |
 | Fri Apr 26 | 19:00 | [LMH](/about#LMH) | [TALK – LORD OF THE FLIES & BIRDS & BEES TOUR](http://londonmusichall.com/events/talk-lord-of-the-flies-birds-bees-tour/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [The Woodstock Experience				](https://aeolianhall.ca/events/the-woodstock-experience-2/) |
 | Sat Apr 27 |  | [Grand](/about#Grand) | [Jaeden Izik-Dzurko, piano](https://www.grandtheatre.com/event/jaeden-izik-dzurko-piano) |
 |  |  | [Tour](/about#Tour) | [Jeffery Concerts Presents Jaeden Izik-Dzurko](https://www.londontourism.ca/events/jeffery-concerts-presents-jaeden-izik-dzurko) |
+|  |  | [Tour](/about#Tour) | [TsuShiMaMiRe, The Delicate Arch, The Dead Souls + Ferret Noise](https://www.londontourism.ca/events/tsushimamire-the-delicate-arch-the-dead-souls-ferret-noise) |
 |  | 11:00 | [CGM](/about#CGM) | [New Horizons Band Performance](https://coventmarket.com/event/new-horizons-band-performance/) |
 |  | 22:00 | [LMH](/about#LMH) | [Vampa “Bad Bodies” tour @ System Saturdays](http://londonmusichall.com/events/vampa-bad-bodies-tour-system-saturdays-2/) |
 | Mon Apr 29 |  | [Tour](/about#Tour) | [Little Women](https://www.londontourism.ca/events/little-women) |
 |  | 13:00 | [City](/about#City) | [Community and Protective Services Committee - April 29, 2024](https://london.ca/government/calendar/community-protective-services-committee-april-29-2024) |
 | Tue Apr 30 | 09:30 | [City](/about#City) | [Civic Works Committee - April 30, 2024](https://london.ca/government/calendar/civic-works-committee-april-30-2024) |
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - April 30, 2024](https://london.ca/government/calendar/planning-environment-committee-april-30-2024) |
-| Sat May 04 | 12:00 | [CGM](/about#CGM) | [Spring Weekend Market](https://coventmarket.com/event/spring-launch-market/) |
-| Sun May 05 | 19:30 | [Aeol](/about#Aeol) | [Shantero Productions Presents: Marc Jordan & Amy Sky				](https://aeolianhall.ca/events/shantero-productions-presents-marc-jordan-amy-sky/) |
+| Wed May 01 |  | [Tour](/about#Tour) | [America's Top Psychic Medium Matt Fraser](https://www.londontourism.ca/events/americas-top-psychic-medium-matt-fraser) |
+|  |  | [Tour](/about#Tour) | [Shock Stock 2024](https://www.londontourism.ca/events/shock-stock-2024) |
+| Sat May 04 |  | [Tour](/about#Tour) | [London Symphonia: An Elegant Fire](https://www.londontourism.ca/events/london-symphonia-an-elegant-fire) |
+|  | 12:00 | [CGM](/about#CGM) | [Spring Weekend Market](https://coventmarket.com/event/spring-launch-market/) |
+| Sun May 05 |  | [Tour](/about#Tour) | [Stars on Ice](https://www.londontourism.ca/events/stars-on-ice) |
+|  | 19:30 | [Aeol](/about#Aeol) | [Shantero Productions Presents: Marc Jordan & Amy Sky				](https://aeolianhall.ca/events/shantero-productions-presents-marc-jordan-amy-sky/) |
 | Mon May 06 | 13:00 | [City](/about#City) | [Corporate Services Committee - May 06, 2024](https://london.ca/government/calendar/corporate-services-committee-may-06-2024) |
 | Tue May 07 | 13:00 | [Info](/about#Info) | [The Art and Science of Survey Design  2024](https://www.informationlondon.ca/Event/Detail/49241/The_Art_and_Science_of_Survey_Design_2024?date=2024-05-07) |
 |  | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - May 07, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-may-07-2024) |
 |  | 20:00 | [Aeol](/about#Aeol) | [The Once				](https://aeolianhall.ca/events/the-once-3/) |
-| Thu May 09 |  | [Tour](/about#Tour) | [Kathy Griffin: My Life On The PTSD List](https://www.londontourism.ca/events/kathy-griffin-my-life-on-the-ptsd-list) |
 | Fri May 10 | 20:00 | [Aeol](/about#Aeol) | [Daniel Champagne				](https://aeolianhall.ca/events/daniel-champagne-3/) |
 | Sat May 11 | 12:00 | [Museum](/about#Museum) | [Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10910/) |
 |  | 19:00 | [Aeol](/about#Aeol) | [Whiskey Jack – Stories & Songs of Stompin’ Tom				](https://aeolianhall.ca/events/whiskey-jack-stories-songs-of-stompin-tom/) |
@@ -441,7 +454,8 @@ View only a category:
 | Tue Jun 18 | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - June 18, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-june-18-2024) |
 | Wed Jun 19 |  | [PSFT](/about#PSFT) | [They’re Found In Trees](https://psft.ca/event/theyre-found-in-trees/) |
 |  | 12:00 | [City](/about#City) | [Audit Committee - June 19, 2024](https://london.ca/government/calendar/audit-committee-june-19-2024) |
-| Sat Jun 22 | 20:00 | [Aeol](/about#Aeol) | [A Night In Vegas (Featuring Micah Barnes & Billy Newton-Davis)				](https://aeolianhall.ca/events/a-night-in-vegas-featuring-micah-barnes-billy-newton-davis/) |
+| Sat Jun 22 |  | [Tour](/about#Tour) | [Annual London Walk to End ALS](https://www.londontourism.ca/events/annual-london-walk-to-end-als) |
+|  | 20:00 | [Aeol](/about#Aeol) | [A Night In Vegas (Featuring Micah Barnes & Billy Newton-Davis)				](https://aeolianhall.ca/events/a-night-in-vegas-featuring-micah-barnes-billy-newton-davis/) |
 | Mon Jun 24 | 10:00 | [City](/about#City) | [Governance Working Group - June 24, 2024](https://london.ca/government/calendar/governance-working-group-june-24-2024) |
 | Tue Jun 25 | 13:00 | [City](/about#City) | [Council - June 25, 2024](https://london.ca/government/calendar/council-june-25-2024) |
 | Sat Jun 29 |  | [Grand](/about#Grand) | [Decades of Bond - The Ultimate Tribute to the Music of James Bond](https://www.grandtheatre.com/event/decades-of-bond) |
