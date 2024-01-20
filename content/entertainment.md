@@ -1,6 +1,6 @@
 ---
 title: "Events - entertainment"
-date: 2024-01-19T00:00:53-05:00
+date: 2024-01-20T00:00:40-05:00
 draft: false
 ---
 
@@ -9,15 +9,11 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Fri) |  | [BudG](/about#BudG) | [London Lightning vs. Rhode Island Kraken](https://www.budweisergardens.com/events/detail/london-lightning-vs-rhode-island-kraken) |
+| Today (Sat) |  | [BudG](/about#BudG) | [LONDON KNIGHTS VS. KITCHENER RANGERS](https://www.budweisergardens.com/events/detail/london-knights-jan20) |
 |  |  | [Grand](/about#Grand) | [The Invisible - Agents of Ungentlemanly Warfare](https://www.grandtheatre.com/event/the-invisible) |
-|  | 08:30 | [Museum](/about#Museum) | [PA Day Camp: Mini Model Makers](https://museumlondon.ca/programs-events/event/10556/) |
-|  | 12:30 | [FMus](/about#FMus) | [Fridays at 12:30 Concert Series: The Sylvestre-Park Duo](http://www.events.westernu.ca/events/music/2024-01/fridays-at-1230-sylvestre-park.html) |
-|  | 20:00 | [FMus](/about#FMus) | [2024 Fred Pattison Piano Competition - Final Round](http://www.events.westernu.ca/events/music/2024-01/2024-fred-pattison-final-round.html) |
-| Tomorrow (Sat) |  | [BudG](/about#BudG) | [LONDON KNIGHTS VS. KITCHENER RANGERS](https://www.budweisergardens.com/events/detail/london-knights-jan20) |
 |  | 11:00 | [FMus](/about#FMus) | [2024 Fred Pattison Piano Competition - Masterclass](http://www.events.westernu.ca/events/music/2024-01/2024-fred-pattison-masterclass.html) |
 |  | 22:00 | [LMH](/about#LMH) | [Flowidus at System Saturdays](http://londonmusichall.com/events/flowidus-at-system-saturdays/) |
-| Sun Jan 21 |  | [BudG](/about#BudG) | [London Lightning vs. Rhode Island Kraken](https://www.budweisergardens.com/events/detail/london-lightning-vs-rhode-island-kraken-1) |
+| Tomorrow (Sun) |  | [BudG](/about#BudG) | [London Lightning vs. Rhode Island Kraken](https://www.budweisergardens.com/events/detail/london-lightning-vs-rhode-island-kraken-1) |
 |  |  | [Grand](/about#Grand) | [Ensemble Caprice](https://www.grandtheatre.com/event/ensemble-caprice) |
 |  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/21) |
 |  | 20:00 | [Aeol](/about#Aeol) | [MJ The Illusion				](https://aeolianhall.ca/events/mj-the-illusion/) |
@@ -40,7 +36,8 @@ View only a category:
 |  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/28) |
 | Tue Jan 30 | 18:00 | [FMus](/about#FMus) | [Studio Recital: Stéphan Sylvestre (piano)](http://www.events.westernu.ca/events/music/2024-01/studio-recital-stephan-sylvestre-1.html) |
 | Thu Feb 01 |  | [BudG](/about#BudG) | [The Harlem Globetrotters](https://www.budweisergardens.com/events/detail/the-harlem-globetrotters-5) |
-| Fri Feb 02 | 12:30 | [FMus](/about#FMus) | [Fridays at 12:30: J. Archibald, soprano; L. Upchurch, piano](http://www.events.westernu.ca/events/music/2024-02/fridays-at-1230-Archibald-Upchurch.html) |
+| Fri Feb 02 |  | [BudG](/about#BudG) | [LONDON KNIGHTS VS. ERIE OTTERS](https://www.budweisergardens.com/events/detail/london-knights-feb2) |
+|  | 12:30 | [FMus](/about#FMus) | [Fridays at 12:30: J. Archibald, soprano; L. Upchurch, piano](http://www.events.westernu.ca/events/music/2024-02/fridays-at-1230-Archibald-Upchurch.html) |
 |  | 21:00 | [LMH](/about#LMH) | [Wing Night: The Band](http://londonmusichall.com/events/wing-night-the-band-5/) |
 | Sat Feb 03 | 14:00 | [FMus](/about#FMus) | [Opera and Musical Theatre Gala with Early Music Studio](http://www.events.westernu.ca/events/music/2024-02/opera-gala-2024.html) |
 |  | 22:00 | [LMH](/about#LMH) | [DLMT @ SYSTEM SATURDAYS](http://londonmusichall.com/events/dlmt-system-saturdays/) |
@@ -143,6 +140,7 @@ View only a category:
 |  | 20:00 | [Aeol](/about#Aeol) | [The Woodstock Experience				](https://aeolianhall.ca/events/the-woodstock-experience-2/) |
 | Sat Apr 27 |  | [Grand](/about#Grand) | [Jaeden Izik-Dzurko, piano](https://www.grandtheatre.com/event/jaeden-izik-dzurko-piano) |
 |  | 22:00 | [LMH](/about#LMH) | [Vampa “Bad Bodies” tour @ System Saturdays](http://londonmusichall.com/events/vampa-bad-bodies-tour-system-saturdays-2/) |
+| Sat May 04 | 20:00 | [Aeol](/about#Aeol) | [Grace, 2 – Celebrating The Tragically Hip				](https://aeolianhall.ca/events/grace-2-celebrating-the-tragically-hip/) |
 | Sun May 05 | 19:30 | [Aeol](/about#Aeol) | [Shantero Productions Presents: Marc Jordan & Amy Sky				](https://aeolianhall.ca/events/shantero-productions-presents-marc-jordan-amy-sky/) |
 | Tue May 07 | 20:00 | [Aeol](/about#Aeol) | [The Once				](https://aeolianhall.ca/events/the-once-3/) |
 | Fri May 10 | 20:00 | [Aeol](/about#Aeol) | [Daniel Champagne				](https://aeolianhall.ca/events/daniel-champagne-3/) |

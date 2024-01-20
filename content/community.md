@@ -1,6 +1,6 @@
 ---
 title: "Events - community"
-date: 2024-01-19T00:00:53-05:00
+date: 2024-01-20T00:00:40-05:00
 draft: false
 ---
 
@@ -9,12 +9,8 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Fri) |  | [Maker](/about#Maker) | [Open Studio](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt) |
-|  | 10:00 | [Maker](/about#Maker) | [Focused Fridays: coworking at the Studio](https://www.hellomaker.ca/events/xel7kcn9gpcpldh-9l69t-9d4lx) |
-|  | 18:30 | [Info](/about#Info) | [Free Drop-In Basketball for Youth](https://www.informationlondon.ca/Event/Detail/49394/Free_Drop-In_Basketball_for_Youth?date=2024-01-19) |
-|  | 18:30 | [Info](/about#Info) | [TGIF Game Night!](https://www.informationlondon.ca/Event/Detail/49385/TGIF_Game_Night?date=2024-01-19) |
-| Tomorrow (Sat) |  | [Eldon](/about#Eldon) | [Behind the Ropes](https://eldonhouse.ca/product/behind-the-ropes-6/) |
-|  |  | [PSFTOff](/about#PSFTOff) | [Forever Young The Tribute to Rod Stewart](https://psft.ca/event/forever-young-the-tribute-to-rod-stewart/) |
+| Today (Sat) |  | [PSFTOff](/about#PSFTOff) | [Forever Young The Tribute to Rod Stewart](https://psft.ca/event/forever-young-the-tribute-to-rod-stewart/) |
+|  |  | [Maker](/about#Maker) | [Focused Fridays: coworking at the Studio](https://www.hellomaker.ca/events/xel7kcn9gpcpldh-9l69t-9d4lx) |
 | Mon Jan 22 | 10:00 | [City](/about#City) | [Governance Working Group - CANCELLED - January 22, 2024](https://london.ca/government/calendar/governance-working-group-cancelled-january-22-2024) |
 |  | 13:00 | [Info](/about#Info) | [Health Literacy](https://www.informationlondon.ca/Event/Detail/48854/Health_Literacy?date=2024-01-22) |
 | Tue Jan 23 | 13:00 | [City](/about#City) | [Council - January 23, 2024](https://london.ca/government/calendar/council-january-23-2024) |
@@ -167,7 +163,8 @@ View only a category:
 | Tue Jun 11 | 09:30 | [City](/about#City) | [Civic Works Committee - June 11, 2024](https://london.ca/government/calendar/civic-works-committee-june-11-2024) |
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - June 11, 2024](https://london.ca/government/calendar/planning-environment-committee-june-11-2024) |
 | Mon Jun 17 | 13:00 | [City](/about#City) | [Corporate Services Committee - June 17, 2024](https://london.ca/government/calendar/corporate-services-committee-june-17-2024) |
-| Tue Jun 18 | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - June 18, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-june-18-2024) |
+| Tue Jun 18 | 09:30 | [City](/about#City) | [Dearness Home Committee of Management - June 18, 2024](https://london.ca/government/calendar/dearness-home-committee-management-june-18-2024) |
+|  | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - June 18, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-june-18-2024) |
 | Wed Jun 19 |  | [PSFT](/about#PSFT) | [They’re Found In Trees](https://psft.ca/event/theyre-found-in-trees/) |
 |  | 12:00 | [City](/about#City) | [Audit Committee - June 19, 2024](https://london.ca/government/calendar/audit-committee-june-19-2024) |
 | Mon Jun 24 | 10:00 | [City](/about#City) | [Governance Working Group - June 24, 2024](https://london.ca/government/calendar/governance-working-group-june-24-2024) |
@@ -176,3 +173,4 @@ View only a category:
 | Tue Jul 16 | 09:30 | [City](/about#City) | [Civic Works Committee - July 16, 2024](https://london.ca/government/calendar/civic-works-committee-july-16-2024) |
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - July 16, 2024](https://london.ca/government/calendar/planning-environment-committee-july-16-2024) |
 | Wed Jul 17 |  | [PSFT](/about#PSFT) | [Hurry Hard](https://psft.ca/event/hurry-hard/) |
+|  | 13:00 | [City](/about#City) | [Corporate Services Committee - July 17, 2024](https://london.ca/government/calendar/corporate-services-committee-july-17-2024) |
