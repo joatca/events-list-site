@@ -1,6 +1,6 @@
 ---
 title: "Events - community"
-date: 2024-01-20T00:00:40-05:00
+date: 2024-01-21T00:01:03-05:00
 draft: false
 ---
 
@@ -9,9 +9,8 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Sat) |  | [PSFTOff](/about#PSFTOff) | [Forever Young The Tribute to Rod Stewart](https://psft.ca/event/forever-young-the-tribute-to-rod-stewart/) |
-|  |  | [Maker](/about#Maker) | [Focused Fridays: coworking at the Studio](https://www.hellomaker.ca/events/xel7kcn9gpcpldh-9l69t-9d4lx) |
-| Mon Jan 22 | 10:00 | [City](/about#City) | [Governance Working Group - CANCELLED - January 22, 2024](https://london.ca/government/calendar/governance-working-group-cancelled-january-22-2024) |
+| Today (Sun) |  | [Maker](/about#Maker) | [Focused Fridays: coworking at the Studio](https://www.hellomaker.ca/events/xel7kcn9gpcpldh-9l69t-9d4lx) |
+| Tomorrow (Mon) | 10:00 | [City](/about#City) | [Governance Working Group - CANCELLED - January 22, 2024](https://london.ca/government/calendar/governance-working-group-cancelled-january-22-2024) |
 |  | 13:00 | [Info](/about#Info) | [Health Literacy](https://www.informationlondon.ca/Event/Detail/48854/Health_Literacy?date=2024-01-22) |
 | Tue Jan 23 | 13:00 | [City](/about#City) | [Council - January 23, 2024](https://london.ca/government/calendar/council-january-23-2024) |
 |  | 15:00 | [Maker](/about#Maker) | [Open Studio](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k) |
@@ -174,3 +173,4 @@ View only a category:
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - July 16, 2024](https://london.ca/government/calendar/planning-environment-committee-july-16-2024) |
 | Wed Jul 17 |  | [PSFT](/about#PSFT) | [Hurry Hard](https://psft.ca/event/hurry-hard/) |
 |  | 13:00 | [City](/about#City) | [Corporate Services Committee - July 17, 2024](https://london.ca/government/calendar/corporate-services-committee-july-17-2024) |
+| Thu Jul 18 | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - July 18, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-july-18-2024) |
