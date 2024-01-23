@@ -1,6 +1,6 @@
 ---
 title: "Events - community"
-date: 2024-01-22T00:00:44-05:00
+date: 2024-01-23T00:00:48-05:00
 draft: false
 ---
 
@@ -9,11 +9,9 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Mon) | 10:00 | [City](/about#City) | [Governance Working Group - CANCELLED - January 22, 2024](https://london.ca/government/calendar/governance-working-group-cancelled-january-22-2024) |
-|  | 13:00 | [Info](/about#Info) | [Health Literacy](https://www.informationlondon.ca/Event/Detail/48854/Health_Literacy?date=2024-01-22) |
-| Tomorrow (Tue) | 13:00 | [City](/about#City) | [Council - January 23, 2024](https://london.ca/government/calendar/council-january-23-2024) |
+| Today (Tue) | 13:00 | [City](/about#City) | [Council - January 23, 2024](https://london.ca/government/calendar/council-january-23-2024) |
 |  | 15:00 | [Maker](/about#Maker) | [Open Studio](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k) |
-| Wed Jan 24 | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-01-24) |
+| Tomorrow (Wed) | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-01-24) |
 | Thu Jan 25 |  | [RBCP](/about#RBCP) | [2024 State of the City Address](https://www.rbcplacelondon.com/events/2024-state-city-address-january-25) |
 |  | 12:00 | [Maker](/about#Maker) | [Punch Needle Workshop](https://www.hellomaker.ca/events/zfvpxsej5j9u9z39dn0cn9q7v6q0nk-22x5e-fjxkf-d3gmb-5w3kx-9mnfb-wpp2w-rz2z2-343nh-zs6pt-ewwxe-ksahp-menef-dm93d-ypxsp-rcc5e-zmxbp-zwhtx-trff9-7sbzh) |
 |  | 13:00 | [Info](/about#Info) | [Adult Speech Therapy Group](https://www.informationlondon.ca/Event/Detail/49418/Adult_Speech_Therapy_Group?date=2024-01-25) |
@@ -30,7 +28,8 @@ View only a category:
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - January 30, 2024](https://london.ca/government/calendar/planning-environment-committee-january-30-2024) |
 |  | 15:00 | [Maker](/about#Maker) | [Open Studio](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk) |
 |  | 17:30 | [City](/about#City) | [City of London Recreation Job Fair - January 30, 2024](https://london.ca/government/calendar/city-london-recreation-job-fair-january-30-2024) |
-| Wed Jan 31 | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-01-31) |
+| Wed Jan 31 | 15:00 | [City](/about#City) | [Special Council Meeting - January 31, 2024](https://london.ca/government/calendar/special-council-meeting-january-31-2024) |
+|  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-01-31) |
 | Thu Feb 01 | 09:30 | [City](/about#City) | [Budget Committee - BUDGET - February 01, 2024](https://london.ca/government/calendar/budget-committee-budget-february-01-2024) |
 |  | 13:30 | [City](/about#City) | [Committee of Adjustment - February 01, 2024](https://london.ca/government/calendar/committee-adjustment-february-01-2024) |
 |  | 17:30 | [Maker](/about#Maker) | [Hand Lettering & Calligraphy (4 weeks) ](https://www.hellomaker.ca/events/q8s1yenla3a6dmjix0wtwkpd2fm3fz-p7g3b-286t3-kk7hk-tdf37-52z5t-h2lwg-z6fm8) |

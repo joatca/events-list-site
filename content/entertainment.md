@@ -1,6 +1,6 @@
 ---
 title: "Events - entertainment"
-date: 2024-01-22T00:00:44-05:00
+date: 2024-01-23T00:00:48-05:00
 draft: false
 ---
 
@@ -9,8 +9,8 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Mon) |  | [Grand](/about#Grand) | [The Invisible - Agents of Ungentlemanly Warfare](https://www.grandtheatre.com/event/the-invisible) |
-| Wed Jan 24 |  | [BudG](/about#BudG) | [London Lightning vs. Windsor Express](https://www.budweisergardens.com/events/detail/london-lightning-vs-windsor-express-13) |
+| Today (Tue) |  | [Grand](/about#Grand) | [The Invisible - Agents of Ungentlemanly Warfare](https://www.grandtheatre.com/event/the-invisible) |
+| Tomorrow (Wed) |  | [BudG](/about#BudG) | [London Lightning vs. Windsor Express](https://www.budweisergardens.com/events/detail/london-lightning-vs-windsor-express-13) |
 |  | 14:00 | [FMus](/about#FMus) | [Guest Artist Masterclass: Janina Fialkowska, piano](http://www.events.westernu.ca/events/music/2024-01/guest-artist-masterclass-janina-fialkowska.html) |
 |  | 18:00 | [FMus](/about#FMus) | [Artists-in-Residence Concert: New Orford String Quartet](http://www.events.westernu.ca/events/music/2024-01/new-orford.html) |
 |  | 19:00 | [LMH](/about#LMH) | [Jamie Fine](http://londonmusichall.com/events/jamie-fine/) |
@@ -31,6 +31,8 @@ View only a category:
 | Thu Feb 01 |  | [BudG](/about#BudG) | [The Harlem Globetrotters](https://www.budweisergardens.com/events/detail/the-harlem-globetrotters-5) |
 | Fri Feb 02 |  | [BudG](/about#BudG) | [LONDON KNIGHTS VS. ERIE OTTERS](https://www.budweisergardens.com/events/detail/london-knights-feb2) |
 |  | 12:30 | [FMus](/about#FMus) | [Fridays at 12:30: J. Archibald, soprano; L. Upchurch, piano](http://www.events.westernu.ca/events/music/2024-02/fridays-at-1230-Archibald-Upchurch.html) |
+|  | 18:00 | [FMus](/about#FMus) | [Studio Recital I: Bobbi Thompson (saxophone)](http://www.events.westernu.ca/events/music/2024-02/studio-recital-bobbi-thompson-1.html) |
+|  | 20:00 | [FMus](/about#FMus) | [Studio Recital II: Bobbi Thompson (saxophone)](http://www.events.westernu.ca/events/music/2024-02/studio-recital-bobbi-thompson-2.html) |
 |  | 21:00 | [LMH](/about#LMH) | [Wing Night: The Band](http://londonmusichall.com/events/wing-night-the-band-5/) |
 | Sat Feb 03 | 14:00 | [FMus](/about#FMus) | [Opera and Musical Theatre Gala with Early Music Studio](http://www.events.westernu.ca/events/music/2024-02/opera-gala-2024.html) |
 |  | 22:00 | [LMH](/about#LMH) | [DLMT @ SYSTEM SATURDAYS](http://londonmusichall.com/events/dlmt-system-saturdays/) |
@@ -67,6 +69,7 @@ View only a category:
 | Wed Feb 14 | 12:30 | [FMus](/about#FMus) | [Lunchtime Choral Series: Western University Singers](http://www.events.westernu.ca/events/music/2024-02/lunchtime-series-western-university-singers.html) |
 |  | 19:00 | [LMH](/about#LMH) | [Elliott Brood](http://londonmusichall.com/events/elliott-brood/) |
 | Thu Feb 15 | 12:30 | [FMus](/about#FMus) | [Lunchtime Choral Series: Les Choristes](http://www.events.westernu.ca/events/music/2024-02/lunchtime-series-les-choristes.html) |
+|  | 12:30 | [FMus](/about#FMus) | [Chamber Music Recital Series: Sax Duo - NEW DATE AND VENUE](http://www.events.westernu.ca/events/music/2024-03/chamber-music-saxophone-duo-1.html) |
 |  | 18:00 | [FMus](/about#FMus) | [Studio Recital: Marianna Chibotar-Rutkevich (piano)](http://www.events.westernu.ca/events/music/2024-02/studio-recital-chibotar-rutkevich.html) |
 |  | 19:00 | [LMH](/about#LMH) | [Brett Kissel – The Compass Tour](http://londonmusichall.com/events/brett-kissel-the-compass-tour/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Jordan Hart				](https://aeolianhall.ca/events/jordan-hart/) |
@@ -74,7 +77,7 @@ View only a category:
 | Fri Feb 16 | 12:30 | [FMus](/about#FMus) | [NEW DATE: Symphony Orchestra Concert](http://www.events.westernu.ca/events/music/2024-02/symphony-orchestra-concert.html) |
 |  | 20:00 | [Aeol](/about#Aeol) | [A Taste of Sinatra – The Way You Look Tonight				](https://aeolianhall.ca/events/a-taste-of-sinatra-the-way-you-look-tonight/) |
 |  | 21:00 | [LMH](/about#LMH) | [GIMME GIMME DISCO](http://londonmusichall.com/events/gimme-gimme-disco/) |
-| Sat Feb 17 | 19:00 | [LMH](/about#LMH) | [Charlotte Cardin – 99 Nights Tour](http://londonmusichall.com/events/charlotte-cardin-99-nights-tour/) |
+| Sat Feb 17 | 19:00 | [LMH](/about#LMH) | [*SOLD OUT* Charlotte Cardin – 99 Nights Tour](http://londonmusichall.com/events/charlotte-cardin-99-nights-tour/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Listen To The Music – A Tribute to The Doobie Brothers				](https://aeolianhall.ca/events/listen-to-the-music-a-tribute-to-the-doobie-brothers/) |
 |  | 22:00 | [LMH](/about#LMH) | [THE LEGEND OF ONE SOUND TOUR @ SYSTEM SATURDAYS](http://londonmusichall.com/events/the-legend-of-one-sound-tour-system-saturdays/) |
 | Sun Feb 18 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paper Puppetry](https://museumlondon.ca/programs-events/event/10760/2024/02/18) |
@@ -90,7 +93,7 @@ View only a category:
 |  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paper Puppetry](https://museumlondon.ca/programs-events/event/10760/2024/02/25) |
 | Wed Feb 28 | 18:30 | [LMH](/about#LMH) | [Aaron Pritchett: The Liquored Up Tour](http://londonmusichall.com/events/aaron-pritchett-the-liquored-up-tour/) |
 | Thu Feb 29 |  | [Grand](/about#Grand) | [Company](https://www.grandtheatre.com/event/company) |
-|  | 19:00 | [LMH](/about#LMH) | [SHAWN DESMAN](http://londonmusichall.com/events/shawn-desman/) |
+|  | 19:00 | [LMH](/about#LMH) | [*SOLD OUT* SHAWN DESMAN](http://londonmusichall.com/events/shawn-desman/) |
 | Sat Mar 02 | 12:00 | [Museum](/about#Museum) | [Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10902/) |
 | Sun Mar 03 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Wonderful Weaving](https://museumlondon.ca/programs-events/event/10763/2024/03/03) |
 | Mon Mar 04 | 19:00 | [LMH](/about#LMH) | [MAD CADDIES](http://londonmusichall.com/events/mad-caddies/) |
@@ -107,14 +110,15 @@ View only a category:
 |  | 18:00 | [LMH](/about#LMH) | [Gwar](http://londonmusichall.com/events/gwar/) |
 | Thu Mar 14 | 19:00 | [LMH](/about#LMH) | [Jeremie Albino – The Long Road Home Tour 2024](http://londonmusichall.com/events/jeremie-albino-when-the-long-road-home-tour-2024/) |
 | Sat Mar 16 | 12:00 | [Museum](/about#Museum) | [Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10904/) |
-| Sun Mar 17 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Wonderful Weaving](https://museumlondon.ca/programs-events/event/10763/2024/03/17) |
+| Sun Mar 17 |  | [Grand](/about#Grand) | [Maggie's Wake](https://www.grandtheatre.com/event/maggies-wake) |
+|  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Wonderful Weaving](https://museumlondon.ca/programs-events/event/10763/2024/03/17) |
 |  | 19:00 | [LMH](/about#LMH) | [CORB LUND: THE EL VIEJO RELEASE TOUR](http://londonmusichall.com/events/corb-lund-the-el-viejo-release-tour/) |
 | Tue Mar 19 | 18:00 | [LMH](/about#LMH) | [KOYO, One Step Closer, Anxious, Stateside](http://londonmusichall.com/events/koyo-one-step-closer-anxious-stateside/) |
 | Thu Mar 21 | 19:00 | [LMH](/about#LMH) | [DillanPonders, King Cruff, Kris The Spirit](http://londonmusichall.com/events/dillanponders-king-cruff-kris-the-spirit/) |
 | Sun Mar 24 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Wonderful Weaving](https://museumlondon.ca/programs-events/event/10763/2024/03/24) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Chrome Horse – The Bob Dylan Tribute				](https://aeolianhall.ca/events/chrome-horse-the-bob-dylan-tribute/) |
 | Wed Mar 27 | 20:00 | [Aeol](/about#Aeol) | [Kevin Drew – Aging				](https://aeolianhall.ca/events/kevin-drew-aging/) |
-| Thu Mar 28 | 19:00 | [LMH](/about#LMH) | [Warren Zeiders *SOLD OUT*](http://londonmusichall.com/events/warren-zeiders/) |
+| Thu Mar 28 | 19:00 | [LMH](/about#LMH) | [*SOLD OUT* Warren Zeiders](http://londonmusichall.com/events/warren-zeiders/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Ariel Posen				](https://aeolianhall.ca/events/ariel-posen/) |
 | Sat Mar 30 | 22:00 | [LMH](/about#LMH) | [Le Youth @ System Saturdays](http://londonmusichall.com/events/le-youth-system-saturdays/) |
 | Thu Apr 04 | 19:00 | [LMH](/about#LMH) | [Dave Hause](http://londonmusichall.com/events/dave-hause-the-drew-thomson-foundation/) |
@@ -125,6 +129,7 @@ View only a category:
 |  | 19:00 | [LMH](/about#LMH) | [LADYSMITH BLACK MAMBOZA](http://londonmusichall.com/events/ladysmith-black-mamboza/) |
 | Tue Apr 09 |  | [Grand](/about#Grand) | [One Step at a Time](https://www.grandtheatre.com/event/one-step-at-a-time) |
 | Tue Apr 16 |  | [Grand](/about#Grand) | [Million Dollar Quartet](https://www.grandtheatre.com/event/million-dollar-quartet) |
+|  | 19:00 | [LMH](/about#LMH) | [X Ambassadors – TOWNIE: NORTH AMERICAN TOUR](http://londonmusichall.com/events/x-ambassadors-townie-north-american-tour/) |
 | Wed Apr 17 | 19:00 | [LMH](/about#LMH) | [Matthew Good](http://londonmusichall.com/events/matthew-good-band/) |
 | Fri Apr 19 | 19:00 | [LMH](/about#LMH) | [Queen : It’s A Kinda Magic (RENOWNED TRIBUTE ACT)](http://londonmusichall.com/events/queen-its-a-kinda-magic-renowned-tribute-act/) |
 | Sat Apr 20 | 12:00 | [Museum](/about#Museum) | [Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10908/) |
