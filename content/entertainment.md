@@ -1,6 +1,6 @@
 ---
 title: "Events - entertainment"
-date: 2024-01-27T00:00:41-05:00
+date: 2024-01-28T00:02:21-05:00
 draft: false
 ---
 
@@ -9,12 +9,8 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Sat) |  | [BudG](/about#BudG) | [London Lightning vs. Tri-State Admirals](https://www.budweisergardens.com/events/detail/london-lightning-vs-tri-state) |
+| Today (Sun) |  | [BudG](/about#BudG) | [London Lightning vs. Montreal Tundra](https://www.budweisergardens.com/events/detail/london-lightning-vs-montreal-toundra-1) |
 |  |  | [Grand](/about#Grand) | [The Invisible - Agents of Ungentlemanly Warfare](https://www.grandtheatre.com/event/the-invisible) |
-|  | 09:00 | [FMus](/about#FMus) | [Brass Day](http://www.events.westernu.ca/events/music/2024-01/brass-day.html) |
-|  | 15:00 | [FMus](/about#FMus) | [Brass Day Recital: James Miller, trombone](http://www.events.westernu.ca/events/music/2024-01/brass-day-recital.html) |
-|  | 22:00 | [LMH](/about#LMH) | [AADJA & Lindsey Herbert @ System Saturdays](http://londonmusichall.com/events/aadja-lindsey-herbert-system-saturdays/) |
-| Tomorrow (Sun) |  | [BudG](/about#BudG) | [London Lightning vs. Montreal Tundra](https://www.budweisergardens.com/events/detail/london-lightning-vs-montreal-toundra-1) |
 |  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paint n’ Sew](https://museumlondon.ca/programs-events/event/10757/2024/01/28) |
 | Tue Jan 30 | 18:00 | [FMus](/about#FMus) | [Studio Recital: Stéphan Sylvestre (piano)](http://www.events.westernu.ca/events/music/2024-01/studio-recital-stephan-sylvestre-1.html) |
 | Thu Feb 01 |  | [BudG](/about#BudG) | [The Harlem Globetrotters](https://www.budweisergardens.com/events/detail/the-harlem-globetrotters-5) |
@@ -67,7 +63,8 @@ View only a category:
 |  | 19:00 | [LMH](/about#LMH) | [Brett Kissel – The Compass Tour](http://londonmusichall.com/events/brett-kissel-the-compass-tour/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Jordan Hart				](https://aeolianhall.ca/events/jordan-hart/) |
 |  | 20:00 | [FMus](/about#FMus) | [Studio Recital: Allison Wiebe (piano)](http://www.events.westernu.ca/events/music/2024-02/studio-recital-allison-wiebe-1.html) |
-| Fri Feb 16 | 12:30 | [FMus](/about#FMus) | [NEW DATE: Symphony Orchestra Concert](http://www.events.westernu.ca/events/music/2024-02/symphony-orchestra-concert.html) |
+| Fri Feb 16 |  | [BudG](/about#BudG) | [LONDON KNIGHTS VS. SOO GREYHOUNDS](https://www.budweisergardens.com/events/detail/london-knights-feb16) |
+|  | 12:30 | [FMus](/about#FMus) | [NEW DATE: Symphony Orchestra Concert](http://www.events.westernu.ca/events/music/2024-02/symphony-orchestra-concert.html) |
 |  | 20:00 | [Aeol](/about#Aeol) | [A Taste of Sinatra – The Way You Look Tonight				](https://aeolianhall.ca/events/a-taste-of-sinatra-the-way-you-look-tonight/) |
 |  | 21:00 | [LMH](/about#LMH) | [GIMME GIMME DISCO](http://londonmusichall.com/events/gimme-gimme-disco/) |
 | Sat Feb 17 | 19:00 | [LMH](/about#LMH) | [*SOLD OUT* Charlotte Cardin – 99 Nights Tour](http://londonmusichall.com/events/charlotte-cardin-99-nights-tour/) |
