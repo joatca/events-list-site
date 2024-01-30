@@ -1,6 +1,6 @@
 ---
 title: "Events - entertainment"
-date: 2024-01-29T00:01:13-05:00
+date: 2024-01-30T00:00:58-05:00
 draft: false
 ---
 
@@ -9,8 +9,8 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Mon) |  | [Grand](/about#Grand) | [The Invisible - Agents of Ungentlemanly Warfare](https://www.grandtheatre.com/event/the-invisible) |
-| Tomorrow (Tue) | 18:00 | [FMus](/about#FMus) | [Studio Recital: Stéphan Sylvestre (piano)](http://www.events.westernu.ca/events/music/2024-01/studio-recital-stephan-sylvestre-1.html) |
+| Today (Tue) |  | [Grand](/about#Grand) | [The Invisible - Agents of Ungentlemanly Warfare](https://www.grandtheatre.com/event/the-invisible) |
+|  | 18:00 | [FMus](/about#FMus) | [Studio Recital: Stéphan Sylvestre (piano)](http://www.events.westernu.ca/events/music/2024-01/studio-recital-stephan-sylvestre-1.html) |
 | Thu Feb 01 |  | [BudG](/about#BudG) | [The Harlem Globetrotters](https://www.budweisergardens.com/events/detail/the-harlem-globetrotters-5) |
 | Fri Feb 02 |  | [BudG](/about#BudG) | [LONDON KNIGHTS VS. ERIE OTTERS](https://www.budweisergardens.com/events/detail/london-knights-feb2) |
 |  | 12:30 | [FMus](/about#FMus) | [Fridays at 12:30: J. Archibald, soprano; L. Upchurch, piano](http://www.events.westernu.ca/events/music/2024-02/fridays-at-1230-Archibald-Upchurch.html) |
@@ -50,14 +50,14 @@ View only a category:
 | Mon Feb 12 | 12:30 | [FMus](/about#FMus) | [Studio Recital I: Aaron Hodgson and Shawn Spicer (trumpet)](http://www.events.westernu.ca/events/music/2024-02/studio-recital-hodgson-spicer-1.html) |
 |  | 18:00 | [FMus](/about#FMus) | [Studio Recital II: Aaron Hodgson and Shawn Spicer (trumpet)](http://www.events.westernu.ca/events/music/2024-02/studio-recital-hodgson-spicer-2.html) |
 | Tue Feb 13 |  | [BudG](/about#BudG) | [London Lightning vs. Sudbury Five](https://www.budweisergardens.com/events/detail/london-lightning-vs-sudbury-five-5) |
-|  |  | [Grand](/about#Grand) | [In Seven Days](https://www.grandtheatre.com/event/in-seven-days) |
+|  |  | [Grand](/about#Grand) | [In Seven Days](https://www.grandtheatre.com/in-seven-days) |
 |  | 12:30 | [FMus](/about#FMus) | [Lunchtime Choral Series: Chorale](http://www.events.westernu.ca/events/music/2024-02/lunchtime-series-chorale.html) |
 |  | 18:00 | [LMH](/about#LMH) | [Share The Land 2024](http://londonmusichall.com/events/share-the-land-2024/) |
 | Wed Feb 14 | 12:30 | [FMus](/about#FMus) | [Lunchtime Choral Series: Western University Singers](http://www.events.westernu.ca/events/music/2024-02/lunchtime-series-western-university-singers.html) |
 |  | 14:30 | [Museum](/about#Museum) | [Culture Club ”Love Letter to London” with James Kingsley](https://museumlondon.ca/programs-events/event/10996/) |
 |  | 19:00 | [LMH](/about#LMH) | [Elliott Brood](http://londonmusichall.com/events/elliott-brood/) |
-| Thu Feb 15 | 12:30 | [FMus](/about#FMus) | [Lunchtime Choral Series: Les Choristes](http://www.events.westernu.ca/events/music/2024-02/lunchtime-series-les-choristes.html) |
-|  | 12:30 | [FMus](/about#FMus) | [Chamber Music Recital Series: Sax Duo - NEW DATE AND VENUE](http://www.events.westernu.ca/events/music/2024-03/chamber-music-saxophone-duo-1.html) |
+| Thu Feb 15 | 12:30 | [FMus](/about#FMus) | [Chamber Music Recital Series: Sax Duo - NEW DATE AND VENUE](http://www.events.westernu.ca/events/music/2024-03/chamber-music-saxophone-duo-1.html) |
+|  | 12:30 | [FMus](/about#FMus) | [Lunchtime Choral Series: Les Choristes](http://www.events.westernu.ca/events/music/2024-02/lunchtime-series-les-choristes.html) |
 |  | 18:00 | [FMus](/about#FMus) | [Studio Recital: Marianna Chibotar-Rutkevich (piano)](http://www.events.westernu.ca/events/music/2024-02/studio-recital-chibotar-rutkevich.html) |
 |  | 19:00 | [LMH](/about#LMH) | [Brett Kissel – The Compass Tour](http://londonmusichall.com/events/brett-kissel-the-compass-tour/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Jordan Hart				](https://aeolianhall.ca/events/jordan-hart/) |
@@ -66,7 +66,8 @@ View only a category:
 |  | 12:30 | [FMus](/about#FMus) | [NEW DATE: Symphony Orchestra Concert](http://www.events.westernu.ca/events/music/2024-02/symphony-orchestra-concert.html) |
 |  | 20:00 | [Aeol](/about#Aeol) | [A Taste of Sinatra – The Way You Look Tonight				](https://aeolianhall.ca/events/a-taste-of-sinatra-the-way-you-look-tonight/) |
 |  | 21:00 | [LMH](/about#LMH) | [GIMME GIMME DISCO](http://londonmusichall.com/events/gimme-gimme-disco/) |
-| Sat Feb 17 | 19:00 | [LMH](/about#LMH) | [*SOLD OUT* Charlotte Cardin – 99 Nights Tour](http://londonmusichall.com/events/charlotte-cardin-99-nights-tour/) |
+| Sat Feb 17 | 11:00 | [Museum](/about#Museum) | [Simple Reflections Art & Culture Showcase](https://museumlondon.ca/programs-events/event/10999/) |
+|  | 19:00 | [LMH](/about#LMH) | [*SOLD OUT* Charlotte Cardin – 99 Nights Tour](http://londonmusichall.com/events/charlotte-cardin-99-nights-tour/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Listen To The Music – A Tribute to The Doobie Brothers				](https://aeolianhall.ca/events/listen-to-the-music-a-tribute-to-the-doobie-brothers/) |
 |  | 22:00 | [LMH](/about#LMH) | [THE LEGEND OF ONE SOUND TOUR @ SYSTEM SATURDAYS](http://londonmusichall.com/events/the-legend-of-one-sound-tour-system-saturdays/) |
 | Sun Feb 18 |  | [BudG](/about#BudG) | [City and Colour w/ Nathaniel Rateliff & The Night Sweats](https://www.budweisergardens.com/events/detail/city-and-colour-w-nathaniel-rateliff-the-night-sweats) |
@@ -84,6 +85,9 @@ View only a category:
 |  | 20:00 | [Aeol](/about#Aeol) | [The Western Swing Authority				](https://aeolianhall.ca/events/the-western-swing-authority/) |
 | Sun Feb 25 |  | [Grand](/about#Grand) | [London Gospel Collective 2023/24 Series](https://www.grandtheatre.com/event/london-gospel-collective-2324) |
 |  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paper Puppetry](https://museumlondon.ca/programs-events/event/10760/2024/02/25) |
+| Mon Feb 26 | 16:00 | [FMus](/about#FMus) | [Doctoral Recital - Vera Sherwood, violin](http://www.events.westernu.ca/events/music/2024-02/student-recital-vera-sherwood.html) |
+| Tue Feb 27 | 12:30 | [FMus](/about#FMus) | [Studio Recital: Angela Park (piano)](http://www.events.westernu.ca/events/music/2024-02/studio-recital-angela-park.html) |
+|  | 18:00 | [FMus](/about#FMus) | [Studio Recital: Stéphan Sylvestre (piano)](http://www.events.westernu.ca/events/music/2024-02/studio-recital-stephan-sylvestre-1.html) |
 | Wed Feb 28 | 18:30 | [LMH](/about#LMH) | [Aaron Pritchett: The Liquored Up Tour](http://londonmusichall.com/events/aaron-pritchett-the-liquored-up-tour/) |
 | Thu Feb 29 |  | [Grand](/about#Grand) | [Company](https://www.grandtheatre.com/event/company) |
 |  | 18:00 | [Museum](/about#Museum) | [Black History Slam](https://museumlondon.ca/programs-events/event/10984/) |

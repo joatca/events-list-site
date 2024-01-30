@@ -1,6 +1,6 @@
 ---
 title: "Events - community"
-date: 2024-01-29T00:01:13-05:00
+date: 2024-01-30T00:00:58-05:00
 draft: false
 ---
 
@@ -9,16 +9,13 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Mon) |  | [Maker](/about#Maker) | [Mini Makers DIY Group ](https://www.hellomaker.ca/events/8l5hdfmhs4g84jj-y997t-32263-rafnp) |
+| Today (Tue) |  | [Maker](/about#Maker) | [Mini Makers DIY Group ](https://www.hellomaker.ca/events/8l5hdfmhs4g84jj-y997t-32263-rafnp) |
 |  |  | [Maker](/about#Maker) | [Polymer Clay Earring Workshop](https://www.hellomaker.ca/events/polymer-clay-earring-workshop-7m6jk-db26w-b42sc-c7l7d-m8rbg-yxm5r-a48nk-xggm8-mdblt-9z7h6-jsyxf-9xpr9-tynjz) |
-|  | 09:00 | [Info](/about#Info) | [Pop-Up Pap Test Clinic](https://www.informationlondon.ca/Event/Detail/49428/Pop-Up_Pap_Test_Clinic?date=2024-01-29) |
-|  | 13:00 | [City](/about#City) | [Community and Protective Services Committee - January 29, 2024](https://london.ca/government/calendar/community-protective-services-committee-january-29-2024) |
-|  | 16:00 | [City](/about#City) | [Budget Committee - Budget Public Participation - January 29, 2024](https://london.ca/government/calendar/budget-committee-budget-public-participation-january-29-2024) |
-| Tomorrow (Tue) | 09:30 | [City](/about#City) | [Civic Works Committee - January 30, 2024](https://london.ca/government/calendar/civic-works-committee-january-30-2024) |
+|  | 09:30 | [City](/about#City) | [Civic Works Committee - January 30, 2024](https://london.ca/government/calendar/civic-works-committee-january-30-2024) |
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - January 30, 2024](https://london.ca/government/calendar/planning-environment-committee-january-30-2024) |
 |  | 15:00 | [Maker](/about#Maker) | [Open Studio](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk) |
 |  | 17:30 | [City](/about#City) | [City of London Recreation Job Fair - January 30, 2024](https://london.ca/government/calendar/city-london-recreation-job-fair-january-30-2024) |
-| Wed Jan 31 | 15:00 | [City](/about#City) | [Special Council Meeting - January 31, 2024](https://london.ca/government/calendar/special-council-meeting-january-31-2024) |
+| Tomorrow (Wed) | 15:00 | [City](/about#City) | [Special Council Meeting - January 31, 2024](https://london.ca/government/calendar/special-council-meeting-january-31-2024) |
 |  | 18:00 | [Maker](/about#Maker) | [Dying Wool & Silk](https://www.hellomaker.ca/events/dyingsilkandwool) |
 |  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-01-31) |
 | Thu Feb 01 | 09:30 | [City](/about#City) | [Budget Committee - BUDGET - February 01, 2024](https://london.ca/government/calendar/budget-committee-budget-february-01-2024) |
@@ -101,7 +98,8 @@ View only a category:
 | Mon Mar 04 |  | [RBCP](/about#RBCP) | [Take Your Place: Achieve!](https://www.rbcplacelondon.com/events/take-your-place-achieve-march-4) |
 |  | 13:00 | [City](/about#City) | [Corporate Services Committee - March 04, 2024](https://london.ca/government/calendar/corporate-services-committee-march-04-2024) |
 | Tue Mar 05 | 13:00 | [City](/about#City) | [Council - March 05, 2024](https://london.ca/government/calendar/council-march-05-2024) |
-| Wed Mar 06 | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-03-06) |
+| Wed Mar 06 |  | [RBCP](/about#RBCP) | [Western University Research Awards Celebration](https://www.rbcplacelondon.com/events/western-university-research-awards-celebration-march-6) |
+|  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-03-06) |
 | Thu Mar 07 | 17:00 | [Maker](/about#Maker) | [Hand Lettering & Calligraphy (4 weeks)](https://www.hellomaker.ca/events/q8s1yenla3a6dmjix0wtwkpd2fm3fz-p7g3b-286t3-kk7hk-tdf37-52z5t-h2lwg-z6fm8-zeljm) |
 | Fri Mar 08 |  | [RBCP](/about#RBCP) | [24th Annual International Women’s Day Breakfast](https://www.rbcplacelondon.com/events/24th-annual-international-womens-day-breakfast-march-8) |
 |  | 18:30 | [Info](/about#Info) | [Free Drop-In Basketball for Youth](https://www.informationlondon.ca/Event/Detail/49394/Free_Drop-In_Basketball_for_Youth?date=2024-03-08) |

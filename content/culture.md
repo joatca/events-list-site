@@ -1,6 +1,6 @@
 ---
 title: "Events - culture"
-date: 2024-01-29T00:01:13-05:00
+date: 2024-01-30T00:00:58-05:00
 draft: false
 ---
 
@@ -17,6 +17,7 @@ View only a category:
 | Sun Feb 11 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paper Puppetry](https://museumlondon.ca/programs-events/event/10760/2024/02/11) |
 | Wed Feb 14 | 14:30 | [Museum](/about#Museum) | [Culture Club ”Love Letter to London” with James Kingsley](https://museumlondon.ca/programs-events/event/10996/) |
 | Sat Feb 17 |  | [PSFTOff](/about#PSFTOff) | [Girls Nite Out](https://psft.ca/event/girls-nite-out/) |
+|  | 11:00 | [Museum](/about#Museum) | [Simple Reflections Art & Culture Showcase](https://museumlondon.ca/programs-events/event/10999/) |
 | Sun Feb 18 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paper Puppetry](https://museumlondon.ca/programs-events/event/10760/2024/02/18) |
 |  | 14:00 | [Museum](/about#Museum) | [The Chapel Project Film](https://museumlondon.ca/programs-events/event/10981/) |
 | Thu Feb 22 | 18:00 | [Museum](/about#Museum) | [ML Youth](https://museumlondon.ca/programs-events/event/10974/) |
