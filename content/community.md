@@ -1,6 +1,6 @@
 ---
 title: "Events - community"
-date: 2024-01-30T00:00:58-05:00
+date: 2024-01-31T00:00:58-05:00
 draft: false
 ---
 
@@ -9,16 +9,11 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Tue) |  | [Maker](/about#Maker) | [Mini Makers DIY Group ](https://www.hellomaker.ca/events/8l5hdfmhs4g84jj-y997t-32263-rafnp) |
-|  |  | [Maker](/about#Maker) | [Polymer Clay Earring Workshop](https://www.hellomaker.ca/events/polymer-clay-earring-workshop-7m6jk-db26w-b42sc-c7l7d-m8rbg-yxm5r-a48nk-xggm8-mdblt-9z7h6-jsyxf-9xpr9-tynjz) |
-|  | 09:30 | [City](/about#City) | [Civic Works Committee - January 30, 2024](https://london.ca/government/calendar/civic-works-committee-january-30-2024) |
-|  | 13:00 | [City](/about#City) | [Planning and Environment Committee - January 30, 2024](https://london.ca/government/calendar/planning-environment-committee-january-30-2024) |
-|  | 15:00 | [Maker](/about#Maker) | [Open Studio](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk) |
-|  | 17:30 | [City](/about#City) | [City of London Recreation Job Fair - January 30, 2024](https://london.ca/government/calendar/city-london-recreation-job-fair-january-30-2024) |
-| Tomorrow (Wed) | 15:00 | [City](/about#City) | [Special Council Meeting - January 31, 2024](https://london.ca/government/calendar/special-council-meeting-january-31-2024) |
+| Today (Wed) |  | [Maker](/about#Maker) | [Open Studio](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk) |
+|  | 15:00 | [City](/about#City) | [Special Council Meeting - January 31, 2024](https://london.ca/government/calendar/special-council-meeting-january-31-2024) |
 |  | 18:00 | [Maker](/about#Maker) | [Dying Wool & Silk](https://www.hellomaker.ca/events/dyingsilkandwool) |
 |  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-01-31) |
-| Thu Feb 01 | 09:30 | [City](/about#City) | [Budget Committee - BUDGET - February 01, 2024](https://london.ca/government/calendar/budget-committee-budget-february-01-2024) |
+| Tomorrow (Thu) | 09:30 | [City](/about#City) | [Budget Committee - BUDGET - February 01, 2024](https://london.ca/government/calendar/budget-committee-budget-february-01-2024) |
 |  | 13:30 | [City](/about#City) | [Committee of Adjustment - February 01, 2024](https://london.ca/government/calendar/committee-adjustment-february-01-2024) |
 |  | 17:30 | [Maker](/about#Maker) | [Hand Lettering & Calligraphy (4 weeks) ](https://www.hellomaker.ca/events/q8s1yenla3a6dmjix0wtwkpd2fm3fz-p7g3b-286t3-kk7hk-tdf37-52z5t-h2lwg-z6fm8) |
 |  | 18:30 | [Maker](/about#Maker) | [Punch Needle Workshop](https://www.hellomaker.ca/events/zfvpxsej5j9u9z39dn0cn9q7v6q0nk-22x5e-fjxkf-d3gmb-5w3kx-9mnfb-wpp2w-rz2z2-343nh-zs6pt-ewwxe-ksahp-menef-dm93d-ypxsp-rcc5e-zmxbp-zwhtx-trff9-7sbzh-5e67z-tte7w) |
@@ -71,7 +66,8 @@ View only a category:
 |  | 15:00 | [Maker](/about#Maker) | [Family Day Plate Paint Workshop](https://www.hellomaker.ca/events/8l5hdfmhs4g84jj-y997t-32263-rafnp-898fh-kb6ds-3bkfn-zge2z-wakmd-ebhcb) |
 | Tue Feb 20 | 13:00 | [City](/about#City) | [Community and Protective Services Committee - February 20, 2024](https://london.ca/government/calendar/community-protective-services-committee-february-20-2024) |
 |  | 15:00 | [Maker](/about#Maker) | [Open Studio](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr) |
-| Wed Feb 21 | 09:30 | [City](/about#City) | [Civic Works Committee - February 21, 2024](https://london.ca/government/calendar/civic-works-committee-february-21-2024) |
+| Wed Feb 21 |  | [RBCP](/about#RBCP) | [Lewis Coray Trailblazer Awards Evening](https://www.rbcplacelondon.com/events/lewis-coray-trailblazer-awards-evening-february-21) |
+|  | 09:30 | [City](/about#City) | [Civic Works Committee - February 21, 2024](https://london.ca/government/calendar/civic-works-committee-february-21-2024) |
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - February 21, 2024](https://london.ca/government/calendar/planning-environment-committee-february-21-2024) |
 |  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-02-21) |
 | Thu Feb 22 |  | [RBCP](/about#RBCP) | [32nd Annual Night of Heroes Fashion Show & Silent Auction](https://www.rbcplacelondon.com/events/32nd-annual-night-heroes-fashion-show-silent-auction-february-22) |
@@ -114,8 +110,7 @@ View only a category:
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - March 19, 2024](https://london.ca/government/calendar/planning-environment-committee-march-19-2024) |
 | Wed Mar 20 | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-03-20) |
 | Fri Mar 22 | 18:30 | [Info](/about#Info) | [Free Drop-In Basketball for Youth](https://www.informationlondon.ca/Event/Detail/49394/Free_Drop-In_Basketball_for_Youth?date=2024-03-22) |
-| Mon Mar 25 | 10:00 | [City](/about#City) | [Governance Working Group - March 25, 2024](https://london.ca/government/calendar/governance-working-group-march-25-2024) |
-|  | 13:00 | [City](/about#City) | [Corporate Services Committee - March 25, 2024](https://london.ca/government/calendar/corporate-services-committee-march-25-2024) |
+| Mon Mar 25 | 13:00 | [City](/about#City) | [Corporate Services Committee - March 25, 2024](https://london.ca/government/calendar/corporate-services-committee-march-25-2024) |
 | Tue Mar 26 | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - March 26, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-march-26-2024) |
 |  | 13:00 | [City](/about#City) | [Council - March 26, 2024](https://london.ca/government/calendar/council-march-26-2024) |
 | Wed Mar 27 | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-03-27) |

@@ -1,6 +1,6 @@
 ---
 title: "Events - kids"
-date: 2024-01-30T00:00:58-05:00
+date: 2024-01-31T00:00:58-05:00
 draft: false
 ---
 
@@ -9,8 +9,7 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Tue) | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
-| Thu Feb 01 | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
+| Tomorrow (Thu) | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
 |  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
 |  | 18:00 | [CMus](/about#CMus) | [STEAM: Melting Snowman](https://www.londonchildrensmuseum.ca/event/steam-melting-snowman) |
 | Fri Feb 02 | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
@@ -27,8 +26,8 @@ View only a category:
 |  | 18:00 | [CMus](/about#CMus) | [STEAM: Paper Heart Chains](https://www.londonchildrensmuseum.ca/event/steam-paper-heart-chains) |
 | Fri Feb 09 | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
 | Sat Feb 10 | 09:30 | [CMus](/about#CMus) | [Lunar New Year](https://www.londonchildrensmuseum.ca/event/lunar-new-year) |
-|  | 10:00 | [CMus](/about#CMus) | [OUTREACH: Black History Month Family Celebration](https://www.londonchildrensmuseum.ca/event/outreach-black-history-month-family-celebration) |
 |  | 10:00 | [CMus](/about#CMus) | [OUTREACH: Heritage Fair](https://www.londonchildrensmuseum.ca/event/outreach-heritage-fair) |
+|  | 10:00 | [CMus](/about#CMus) | [OUTREACH: Black History Month Family Celebration](https://www.londonchildrensmuseum.ca/event/outreach-black-history-month-family-celebration) |
 |  | 11:00 | [CMus](/about#CMus) | [STEAM: Paper Chain Dragons](https://www.londonchildrensmuseum.ca/event/steam-paper-chain-dragons) |
 |  | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Paper Chain Dragons](https://www.londonchildrensmuseum.ca/event/steam-paper-chain-dragons) |
@@ -76,35 +75,53 @@ View only a category:
 | Tue Mar 05 | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
 | Thu Mar 07 | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
 |  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
+|  | 18:00 | [CMus](/about#CMus) | [STEAM: Secret Agent Science](https://www.londonchildrensmuseum.ca/event/steam-secret-agent-science) |
 | Fri Mar 08 | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
-| Sat Mar 09 | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
+| Sat Mar 09 | 11:00 | [CMus](/about#CMus) | [STEAM: Secret Agent Science](https://www.londonchildrensmuseum.ca/event/steam-secret-agent-science) |
+|  | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Secret Agent Science](https://www.londonchildrensmuseum.ca/event/steam-secret-agent-science) |
+| Sun Mar 10 | 11:00 | [CMus](/about#CMus) | [STEAM: Secret Agent Science](https://www.londonchildrensmuseum.ca/event/steam-secret-agent-science) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Secret Agent Science](https://www.londonchildrensmuseum.ca/event/steam-secret-agent-science) |
 | Mon Mar 11 | 09:00 | [CMus](/about#CMus) | [March Break Day Camp](https://www.londonchildrensmuseum.ca/event/march-break-day-camp) |
 |  | 09:30 | [CMus](/about#CMus) | [March Break](https://www.londonchildrensmuseum.ca/event/march-break) |
 | Tue Mar 12 | 09:30 | [CMus](/about#CMus) | [March Break](https://www.londonchildrensmuseum.ca/event/march-break) |
 | Wed Mar 13 | 09:30 | [CMus](/about#CMus) | [March Break](https://www.londonchildrensmuseum.ca/event/march-break) |
 | Thu Mar 14 | 09:30 | [CMus](/about#CMus) | [March Break](https://www.londonchildrensmuseum.ca/event/march-break) |
-|  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
 |  | 17:00 | [CMus](/about#CMus) | [Mosaic Tiles with Susan Day](https://www.londonchildrensmuseum.ca/event/mosaic-tiles-susan-day) |
+|  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
 | Fri Mar 15 | 09:30 | [CMus](/about#CMus) | [March Break](https://www.londonchildrensmuseum.ca/event/march-break) |
 |  | 13:00 | [CMus](/about#CMus) | [Mosaic Tiles with Susan Day](https://www.londonchildrensmuseum.ca/event/mosaic-tiles-susan-day) |
-| Sat Mar 16 | 13:00 | [CMus](/about#CMus) | [Mosaic Tiles with Susan Day](https://www.londonchildrensmuseum.ca/event/mosaic-tiles-susan-day) |
+| Sat Mar 16 | 11:00 | [CMus](/about#CMus) | [STEAM: Engineering Madness](https://www.londonchildrensmuseum.ca/event/steam-engineering-madness) |
+|  | 13:00 | [CMus](/about#CMus) | [Mosaic Tiles with Susan Day](https://www.londonchildrensmuseum.ca/event/mosaic-tiles-susan-day) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Engineering Madness](https://www.londonchildrensmuseum.ca/event/steam-engineering-madness) |
+| Sun Mar 17 | 11:00 | [CMus](/about#CMus) | [STEAM: Engineering Madness](https://www.londonchildrensmuseum.ca/event/steam-engineering-madness) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Engineering Madness](https://www.londonchildrensmuseum.ca/event/steam-engineering-madness) |
 | Tue Mar 19 | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
 | Thu Mar 21 | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
 |  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
 |  | 17:30 | [CMus](/about#CMus) | [Special Guest: Western Engineering](https://www.londonchildrensmuseum.ca/event/special-guest-western-engineering) |
 | Fri Mar 22 | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
-| Sat Mar 23 | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
+| Sat Mar 23 | 11:00 | [CMus](/about#CMus) | [STEAM: Zoetrope](https://www.londonchildrensmuseum.ca/event/steam-zoetrope) |
+|  | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Zoetrope](https://www.londonchildrensmuseum.ca/event/steam-zoetrope) |
+| Sun Mar 24 | 11:00 | [CMus](/about#CMus) | [STEAM: Zoetrope](https://www.londonchildrensmuseum.ca/event/steam-zoetrope) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Zoetrope](https://www.londonchildrensmuseum.ca/event/steam-zoetrope) |
 | Tue Mar 26 | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
 | Wed Mar 27 | 15:00 | [CMus](/about#CMus) | [Early Closure](https://www.londonchildrensmuseum.ca/event/early-closure) |
 |  | 17:00 | [CMus](/about#CMus) | [Spring Bunny Hop](https://www.londonchildrensmuseum.ca/event/spring-bunny-hop) |
 | Thu Mar 28 | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
 |  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
+|  | 18:00 | [CMus](/about#CMus) | [STEAM: Exploring Microbes](https://www.londonchildrensmuseum.ca/event/steam-exploring-microbes) |
 | Fri Mar 29 | 09:30 | [CMus](/about#CMus) | [OPEN](https://www.londonchildrensmuseum.ca/event/open) |
 |  | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
-| Sat Mar 30 | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
+| Sat Mar 30 | 11:00 | [CMus](/about#CMus) | [STEAM: Exploring Microbes](https://www.londonchildrensmuseum.ca/event/steam-exploring-microbes) |
+|  | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Exploring Microbes](https://www.londonchildrensmuseum.ca/event/steam-exploring-microbes) |
+| Sun Mar 31 | 11:00 | [CMus](/about#CMus) | [STEAM: Exploring Microbes](https://www.londonchildrensmuseum.ca/event/steam-exploring-microbes) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Exploring Microbes](https://www.londonchildrensmuseum.ca/event/steam-exploring-microbes) |
 | Mon Apr 01 | 09:30 | [CMus](/about#CMus) | [OPEN](https://www.londonchildrensmuseum.ca/event/open) |
 | Tue Jul 02 | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
 | Mon Jul 08 | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
-| Mon Jul 15 | 09:00 | [CMus](/about#CMus) | [Tween Summer Day Camp](https://www.londonchildrensmuseum.ca/event/tween-summer-day-camp) |
-|  | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
+| Mon Jul 15 | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
+|  | 09:00 | [CMus](/about#CMus) | [Tween Summer Day Camp](https://www.londonchildrensmuseum.ca/event/tween-summer-day-camp) |
 | Mon Jul 22 | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |

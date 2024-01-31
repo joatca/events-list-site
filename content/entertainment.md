@@ -1,6 +1,6 @@
 ---
 title: "Events - entertainment"
-date: 2024-01-30T00:00:58-05:00
+date: 2024-01-31T00:00:58-05:00
 draft: false
 ---
 
@@ -9,9 +9,8 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Tue) |  | [Grand](/about#Grand) | [The Invisible - Agents of Ungentlemanly Warfare](https://www.grandtheatre.com/event/the-invisible) |
-|  | 18:00 | [FMus](/about#FMus) | [Studio Recital: Stéphan Sylvestre (piano)](http://www.events.westernu.ca/events/music/2024-01/studio-recital-stephan-sylvestre-1.html) |
-| Thu Feb 01 |  | [BudG](/about#BudG) | [The Harlem Globetrotters](https://www.budweisergardens.com/events/detail/the-harlem-globetrotters-5) |
+| Today (Wed) |  | [Grand](/about#Grand) | [The Invisible - Agents of Ungentlemanly Warfare](https://www.grandtheatre.com/event/the-invisible) |
+| Tomorrow (Thu) |  | [BudG](/about#BudG) | [The Harlem Globetrotters](https://www.budweisergardens.com/events/detail/the-harlem-globetrotters-5) |
 | Fri Feb 02 |  | [BudG](/about#BudG) | [LONDON KNIGHTS VS. ERIE OTTERS](https://www.budweisergardens.com/events/detail/london-knights-feb2) |
 |  | 12:30 | [FMus](/about#FMus) | [Fridays at 12:30: J. Archibald, soprano; L. Upchurch, piano](http://www.events.westernu.ca/events/music/2024-02/fridays-at-1230-Archibald-Upchurch.html) |
 |  | 18:00 | [FMus](/about#FMus) | [Studio Recital I: Bobbi Thompson (saxophone)](http://www.events.westernu.ca/events/music/2024-02/studio-recital-bobbi-thompson-1.html) |
@@ -36,6 +35,7 @@ View only a category:
 | Fri Feb 09 |  | [BudG](/about#BudG) | [LONDON KNIGHTS VS. WINDSOR SPITFIRES](https://www.budweisergardens.com/events/detail/london-knights-feb9) |
 |  |  | [Grand](/about#Grand) | [Kelly Zimba Lukic, flute and Heidi Bearcroft, harp](https://www.grandtheatre.com/event/kelly-zimba-lukic-flute-and-heidi-bearcroft-harp) |
 |  | 12:30 | [FMus](/about#FMus) | [Fridays at 12:30 Concert Series: Rodney Whitaker, jazz bass](http://www.events.westernu.ca/events/music/2024-02/fridays-at-1230-rodney-whitaker.html) |
+|  | 15:30 | [FMus](/about#FMus) | [Music Graduate Colloquium: Kristin M. Franseen (Concordia)](http://www.events.westernu.ca/events/music/2024-02/music-graduate-colloquium-kristen-franseen.html) |
 |  | 15:30 | [FMus](/about#FMus) | [Guest Artist Masterclass: Bénédicte Lauzière, violin](http://www.events.westernu.ca/events/music/2024-02/guest-artist-masterclass-benedicte-lauziere.html) |
 | Sat Feb 10 | 12:00 | [Museum](/about#Museum) | [*SOLD OUT* Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10898/) |
 |  | 13:00 | [FMus](/about#FMus) | [Charting: Popular Music Industry Summit](http://www.events.westernu.ca/events/music/2024-02/charting-pop-music-summit.html) |
@@ -50,14 +50,14 @@ View only a category:
 | Mon Feb 12 | 12:30 | [FMus](/about#FMus) | [Studio Recital I: Aaron Hodgson and Shawn Spicer (trumpet)](http://www.events.westernu.ca/events/music/2024-02/studio-recital-hodgson-spicer-1.html) |
 |  | 18:00 | [FMus](/about#FMus) | [Studio Recital II: Aaron Hodgson and Shawn Spicer (trumpet)](http://www.events.westernu.ca/events/music/2024-02/studio-recital-hodgson-spicer-2.html) |
 | Tue Feb 13 |  | [BudG](/about#BudG) | [London Lightning vs. Sudbury Five](https://www.budweisergardens.com/events/detail/london-lightning-vs-sudbury-five-5) |
-|  |  | [Grand](/about#Grand) | [In Seven Days](https://www.grandtheatre.com/in-seven-days) |
+|  |  | [Grand](/about#Grand) | [In Seven Days](https://www.grandtheatre.com/event/in-seven-days) |
 |  | 12:30 | [FMus](/about#FMus) | [Lunchtime Choral Series: Chorale](http://www.events.westernu.ca/events/music/2024-02/lunchtime-series-chorale.html) |
 |  | 18:00 | [LMH](/about#LMH) | [Share The Land 2024](http://londonmusichall.com/events/share-the-land-2024/) |
 | Wed Feb 14 | 12:30 | [FMus](/about#FMus) | [Lunchtime Choral Series: Western University Singers](http://www.events.westernu.ca/events/music/2024-02/lunchtime-series-western-university-singers.html) |
 |  | 14:30 | [Museum](/about#Museum) | [Culture Club ”Love Letter to London” with James Kingsley](https://museumlondon.ca/programs-events/event/10996/) |
 |  | 19:00 | [LMH](/about#LMH) | [Elliott Brood](http://londonmusichall.com/events/elliott-brood/) |
-| Thu Feb 15 | 12:30 | [FMus](/about#FMus) | [Chamber Music Recital Series: Sax Duo - NEW DATE AND VENUE](http://www.events.westernu.ca/events/music/2024-03/chamber-music-saxophone-duo-1.html) |
-|  | 12:30 | [FMus](/about#FMus) | [Lunchtime Choral Series: Les Choristes](http://www.events.westernu.ca/events/music/2024-02/lunchtime-series-les-choristes.html) |
+| Thu Feb 15 | 12:30 | [FMus](/about#FMus) | [Lunchtime Choral Series: Les Choristes](http://www.events.westernu.ca/events/music/2024-02/lunchtime-series-les-choristes.html) |
+|  | 12:30 | [FMus](/about#FMus) | [Chamber Music Recital Series: Sax Duo - NEW DATE AND VENUE](http://www.events.westernu.ca/events/music/2024-03/chamber-music-saxophone-duo-1.html) |
 |  | 18:00 | [FMus](/about#FMus) | [Studio Recital: Marianna Chibotar-Rutkevich (piano)](http://www.events.westernu.ca/events/music/2024-02/studio-recital-chibotar-rutkevich.html) |
 |  | 19:00 | [LMH](/about#LMH) | [Brett Kissel – The Compass Tour](http://londonmusichall.com/events/brett-kissel-the-compass-tour/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Jordan Hart				](https://aeolianhall.ca/events/jordan-hart/) |
@@ -90,7 +90,9 @@ View only a category:
 |  | 18:00 | [FMus](/about#FMus) | [Studio Recital: Stéphan Sylvestre (piano)](http://www.events.westernu.ca/events/music/2024-02/studio-recital-stephan-sylvestre-1.html) |
 | Wed Feb 28 | 18:30 | [LMH](/about#LMH) | [Aaron Pritchett: The Liquored Up Tour](http://londonmusichall.com/events/aaron-pritchett-the-liquored-up-tour/) |
 | Thu Feb 29 |  | [Grand](/about#Grand) | [Company](https://www.grandtheatre.com/event/company) |
+|  | 12:30 | [FMus](/about#FMus) | [Chamber Music Recital Series: Piano Duo](http://www.events.westernu.ca/events/music/2024-02/chamber-music-piano-duo-1.html) |
 |  | 18:00 | [Museum](/about#Museum) | [Black History Slam](https://museumlondon.ca/programs-events/event/10984/) |
+|  | 18:00 | [FMus](/about#FMus) | [Chamber Music Recital Series: String Quartet](http://www.events.westernu.ca/events/music/2024-02/chamber-music-string-quartet-1.html) |
 |  | 19:00 | [LMH](/about#LMH) | [*SOLD OUT* SHAWN DESMAN](http://londonmusichall.com/events/shawn-desman/) |
 | Sat Mar 02 | 12:00 | [Museum](/about#Museum) | [Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10902/) |
 | Sun Mar 03 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Wonderful Weaving](https://museumlondon.ca/programs-events/event/10763/2024/03/03) |

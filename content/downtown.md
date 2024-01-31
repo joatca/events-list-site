@@ -1,6 +1,6 @@
 ---
 title: "Events - downtown"
-date: 2024-01-30T00:00:58-05:00
+date: 2024-01-31T00:00:58-05:00
 draft: false
 ---
 
@@ -9,11 +9,12 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Tue) |  | [Grand](/about#Grand) | [The Invisible - Agents of Ungentlemanly Warfare](https://www.grandtheatre.com/event/the-invisible) |
-|  | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
-| Tomorrow (Wed) | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-01-31) |
-| Thu Feb 01 |  | [BudG](/about#BudG) | [The Harlem Globetrotters](https://www.budweisergardens.com/events/detail/the-harlem-globetrotters-5) |
+| Today (Wed) |  | [Grand](/about#Grand) | [The Invisible - Agents of Ungentlemanly Warfare](https://www.grandtheatre.com/event/the-invisible) |
+|  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-01-31) |
+| Tomorrow (Thu) |  | [BudG](/about#BudG) | [The Harlem Globetrotters](https://www.budweisergardens.com/events/detail/the-harlem-globetrotters-5) |
+|  | 08:00 | [CGM](/about#CGM) | [Calling all Artists – International Women’s Day](https://coventmarket.com/event/calling-all-artists-international-womens-day/) |
 |  | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
+|  | 11:00 | [CGM](/about#CGM) | [Calling All Vendors – Naw Ruz Bazaar](https://coventmarket.com/event/calling-all-vendors-naw-ruz-bazaar/) |
 |  | 11:00 | [CGM](/about#CGM) | [Crokicurl Thursdays](https://coventmarket.com/event/crokicurl-tuesdsays-3/) |
 |  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
 |  | 18:00 | [CMus](/about#CMus) | [STEAM: Melting Snowman](https://www.londonchildrensmuseum.ca/event/steam-melting-snowman) |
@@ -23,7 +24,8 @@ View only a category:
 |  | 18:30 | [Info](/about#Info) | [Free Drop-In Basketball for Youth](https://www.informationlondon.ca/Event/Detail/49394/Free_Drop-In_Basketball_for_Youth?date=2024-02-02) |
 |  | 18:30 | [Info](/about#Info) | [TGIF Game Night!](https://www.informationlondon.ca/Event/Detail/49385/TGIF_Game_Night?date=2024-02-02) |
 |  | 21:00 | [LMH](/about#LMH) | [Wing Night: The Band](http://londonmusichall.com/events/wing-night-the-band-5/) |
-| Sat Feb 03 | 09:00 | [CGM](/about#CGM) | [Indoor Farmers Market](https://coventmarket.com/event/first-indoor-winter-farmers-market/) |
+| Sat Feb 03 | 08:00 | [CGM](/about#CGM) | [Yoga Class](https://coventmarket.com/event/yoga-class/) |
+|  | 09:00 | [CGM](/about#CGM) | [Indoor Farmers Market](https://coventmarket.com/event/first-indoor-winter-farmers-market/) |
 |  | 09:30 | [CMus](/about#CMus) | [THEMUSEUM Reciprocal Event](https://www.londonchildrensmuseum.ca/event/themuseum-reciprocal-event) |
 |  | 11:00 | [CGM](/about#CGM) | [Saturday Cooking Demo](https://coventmarket.com/event/saturday-cooking-classes-2/) |
 |  | 11:00 | [CMus](/about#CMus) | [STEAM: Melting Snowman](https://www.londonchildrensmuseum.ca/event/steam-melting-snowman) |
@@ -31,7 +33,6 @@ View only a category:
 |  | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
 |  | 14:00 | [CGM](/about#CGM) | [Market Block DJ Skate](https://coventmarket.com/event/market-block-dj-skate-3-2/) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Melting Snowman](https://www.londonchildrensmuseum.ca/event/steam-melting-snowman) |
-|  | 18:00 | [CGM](/about#CGM) | [Yoga Class](https://coventmarket.com/event/yoga-class/) |
 |  | 22:00 | [LMH](/about#LMH) | [DLMT @ SYSTEM SATURDAYS](http://londonmusichall.com/events/dlmt-system-saturdays/) |
 | Sun Feb 04 |  | [BudG](/about#BudG) | [London Lightning vs. Windsor Express](https://www.budweisergardens.com/events/detail/london-lightning-vs-windsor-express-14) |
 |  | 11:00 | [CMus](/about#CMus) | [STEAM: Melting Snowman](https://www.londonchildrensmuseum.ca/event/steam-melting-snowman) |
@@ -40,7 +41,6 @@ View only a category:
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Melting Snowman](https://www.londonchildrensmuseum.ca/event/steam-melting-snowman) |
 | Tue Feb 06 |  | [Grand](/about#Grand) | [Huff](https://www.grandtheatre.com/event/huff) |
 |  | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
-|  | 11:00 | [CGM](/about#CGM) | [Crokicurl Tuesdsays](https://coventmarket.com/event/crokicurl-tuesdsays/) |
 | Wed Feb 07 |  | [BudG](/about#BudG) | [London Lightning vs. Pontiac Pharaohs](https://www.budweisergardens.com/events/detail/london-lightning-vs-pontiac-pharaohs) |
 |  | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
 |  | 09:30 | [Info](/about#Info) | [Living a Healthy Life with Diabetes](https://www.informationlondon.ca/Event/Detail/48852/Living_a_Healthy_Life_with_Diabetes?date=2024-02-07) |
@@ -61,8 +61,8 @@ View only a category:
 | Sat Feb 10 |  | [Eldon](/about#Eldon) | [100 Objects and Gems: The History of London](https://eldonhouse.ca/product/heritage-fair-100-objects-and-gems-from-the-city-of-london/) |
 |  | 09:00 | [CGM](/about#CGM) | [Valentine’s Day Farmers & Artisan Market](https://coventmarket.com/event/valentines-day-farmers-artisans-market/) |
 |  | 09:30 | [CMus](/about#CMus) | [Lunar New Year](https://www.londonchildrensmuseum.ca/event/lunar-new-year) |
-|  | 10:00 | [CMus](/about#CMus) | [OUTREACH: Black History Month Family Celebration](https://www.londonchildrensmuseum.ca/event/outreach-black-history-month-family-celebration) |
 |  | 10:00 | [CMus](/about#CMus) | [OUTREACH: Heritage Fair](https://www.londonchildrensmuseum.ca/event/outreach-heritage-fair) |
+|  | 10:00 | [CMus](/about#CMus) | [OUTREACH: Black History Month Family Celebration](https://www.londonchildrensmuseum.ca/event/outreach-black-history-month-family-celebration) |
 |  | 11:00 | [CGM](/about#CGM) | [Bracelet Making Workshop](https://coventmarket.com/event/bracelet-making-workshop-4/) |
 |  | 11:00 | [CMus](/about#CMus) | [STEAM: Paper Chain Dragons](https://www.londonchildrensmuseum.ca/event/steam-paper-chain-dragons) |
 |  | 12:00 | [CGM](/about#CGM) | [Bath Bomb Workshop](https://coventmarket.com/event/bath-bomb-workshop-4/) |
@@ -80,7 +80,7 @@ View only a category:
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Paper Heart Chains](https://www.londonchildrensmuseum.ca/event/steam-paper-heart-chains) |
 |  | 19:00 | [LMH](/about#LMH) | [ANOMALIE](http://londonmusichall.com/events/anomalie/) |
 | Tue Feb 13 |  | [BudG](/about#BudG) | [London Lightning vs. Sudbury Five](https://www.budweisergardens.com/events/detail/london-lightning-vs-sudbury-five-5) |
-|  |  | [Grand](/about#Grand) | [In Seven Days](https://www.grandtheatre.com/in-seven-days) |
+|  |  | [Grand](/about#Grand) | [In Seven Days](https://www.grandtheatre.com/event/in-seven-days) |
 |  | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
 |  | 18:00 | [LMH](/about#LMH) | [Share The Land 2024](http://londonmusichall.com/events/share-the-land-2024/) |
 | Wed Feb 14 |  | [Eldon](/about#Eldon) | [Valentine’s Day: Behind the Ropes](https://eldonhouse.ca/product/valentines-day-behind-the-ropes-2/) |
@@ -101,7 +101,8 @@ View only a category:
 |  | 18:30 | [Info](/about#Info) | [TGIF Game Night!](https://www.informationlondon.ca/Event/Detail/49385/TGIF_Game_Night?date=2024-02-16) |
 |  | 20:00 | [Aeol](/about#Aeol) | [A Taste of Sinatra – The Way You Look Tonight				](https://aeolianhall.ca/events/a-taste-of-sinatra-the-way-you-look-tonight/) |
 |  | 21:00 | [LMH](/about#LMH) | [GIMME GIMME DISCO](http://londonmusichall.com/events/gimme-gimme-disco/) |
-| Sat Feb 17 | 10:00 | [CMus](/about#CMus) | [OUTREACH: Family Literacy Day](https://www.londonchildrensmuseum.ca/event/outreach-family-literacy-day) |
+| Sat Feb 17 | 08:00 | [CGM](/about#CGM) | [Yoga Class](https://coventmarket.com/event/yoga-classes-2/) |
+|  | 10:00 | [CMus](/about#CMus) | [OUTREACH: Family Literacy Day](https://www.londonchildrensmuseum.ca/event/outreach-family-literacy-day) |
 |  | 11:00 | [Museum](/about#Museum) | [Simple Reflections Art & Culture Showcase](https://museumlondon.ca/programs-events/event/10999/) |
 |  | 11:00 | [CMus](/about#CMus) | [STEAM: Suet Feeders](https://www.londonchildrensmuseum.ca/event/steam-suet-feeders) |
 |  | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
@@ -109,7 +110,6 @@ View only a category:
 |  | 14:00 | [CGM](/about#CGM) | [New Horizons Band Performance](https://coventmarket.com/event/new-horizons-band-performance-2/) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Suet Feeders](https://www.londonchildrensmuseum.ca/event/steam-suet-feeders) |
 |  | 15:00 | [CGM](/about#CGM) | [Sourdough Workshop](https://coventmarket.com/event/sourdough-workshop/) |
-|  | 18:00 | [CGM](/about#CGM) | [Yoga Class](https://coventmarket.com/event/yoga-classes-2/) |
 |  | 19:00 | [LMH](/about#LMH) | [*SOLD OUT* Charlotte Cardin – 99 Nights Tour](http://londonmusichall.com/events/charlotte-cardin-99-nights-tour/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Listen To The Music – A Tribute to The Doobie Brothers				](https://aeolianhall.ca/events/listen-to-the-music-a-tribute-to-the-doobie-brothers/) |
 |  | 22:00 | [LMH](/about#LMH) | [THE LEGEND OF ONE SOUND TOUR @ SYSTEM SATURDAYS](http://londonmusichall.com/events/the-legend-of-one-sound-tour-system-saturdays/) |
@@ -141,13 +141,13 @@ View only a category:
 |  | 18:30 | [Info](/about#Info) | [Free Drop-In Basketball for Youth](https://www.informationlondon.ca/Event/Detail/49394/Free_Drop-In_Basketball_for_Youth?date=2024-02-23) |
 |  | 18:30 | [Info](/about#Info) | [TGIF Game Night!](https://www.informationlondon.ca/Event/Detail/49385/TGIF_Game_Night?date=2024-02-23) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Guy Davis				](https://aeolianhall.ca/events/guy-davis-2/) |
-| Sat Feb 24 | 08:00 | [Museum](/about#Museum) | [Annual Conference – History Symposium](https://museumlondon.ca/programs-events/event/10978/) |
+| Sat Feb 24 | 08:00 | [CGM](/about#CGM) | [Yoga Class](https://coventmarket.com/event/yoga-classes-3/) |
+|  | 08:00 | [Museum](/about#Museum) | [Annual Conference – History Symposium](https://museumlondon.ca/programs-events/event/10978/) |
 |  | 11:00 | [CMus](/about#CMus) | [STEAM: DIY Marble Run](https://www.londonchildrensmuseum.ca/event/steam-diy-marble-run) |
 |  | 12:00 | [Museum](/about#Museum) | [*SOLD OUT* Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10900/) |
 |  | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
 |  | 14:00 | [CGM](/about#CGM) | [Market Block DJ Skate](https://coventmarket.com/event/market-block-dj-skate/) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: DIY Marble Run](https://www.londonchildrensmuseum.ca/event/steam-diy-marble-run) |
-|  | 18:00 | [CGM](/about#CGM) | [Yoga Class](https://coventmarket.com/event/yoga-classes-3/) |
 |  | 18:30 | [LMH](/about#LMH) | [Chase Rice – Get Western Tour](http://londonmusichall.com/events/chase-rice-get-western-tour/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [The Western Swing Authority				](https://aeolianhall.ca/events/the-western-swing-authority/) |
 | Sun Feb 25 |  | [Grand](/about#Grand) | [London Gospel Collective 2023/24 Series](https://www.grandtheatre.com/event/london-gospel-collective-2324) |
@@ -182,16 +182,21 @@ View only a category:
 |  | 20:00 | [LMH](/about#LMH) | [James Kennedy](http://londonmusichall.com/events/james-kennedy/) |
 | Thu Mar 07 | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
 |  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
+|  | 18:00 | [CMus](/about#CMus) | [STEAM: Secret Agent Science](https://www.londonchildrensmuseum.ca/event/steam-secret-agent-science) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Rum Ragged				](https://aeolianhall.ca/events/rum-ragged-2/) |
 | Fri Mar 08 | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
 |  | 18:30 | [Info](/about#Info) | [Free Drop-In Basketball for Youth](https://www.informationlondon.ca/Event/Detail/49394/Free_Drop-In_Basketball_for_Youth?date=2024-03-08) |
 |  | 19:00 | [Aeol](/about#Aeol) | [Zachary Stevenson’s Tribute to Buddy Holly				](https://aeolianhall.ca/events/zachary-stevensons-tribute-to-buddy-holly/) |
 |  | 19:00 | [LMH](/about#LMH) | [Spencer Burton](http://londonmusichall.com/events/spencer-burton/) |
 | Sat Mar 09 |  | [Grand](/about#Grand) | [Isidore String Quartet and Arthur Rowe, piano](https://www.grandtheatre.com/event/isidore-string-quartet-and-arthur-rowe-piano) |
+|  | 11:00 | [CMus](/about#CMus) | [STEAM: Secret Agent Science](https://www.londonchildrensmuseum.ca/event/steam-secret-agent-science) |
 |  | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Secret Agent Science](https://www.londonchildrensmuseum.ca/event/steam-secret-agent-science) |
 |  | 18:30 | [LMH](/about#LMH) | [The Portuguese Kids – iMPROVISITAS! Tour](http://londonmusichall.com/events/the-portuguese-kids-improvisitas-tour/) |
-| Sun Mar 10 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Wonderful Weaving](https://museumlondon.ca/programs-events/event/10763/2024/03/10) |
+| Sun Mar 10 | 11:00 | [CMus](/about#CMus) | [STEAM: Secret Agent Science](https://www.londonchildrensmuseum.ca/event/steam-secret-agent-science) |
+|  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Wonderful Weaving](https://museumlondon.ca/programs-events/event/10763/2024/03/10) |
 |  | 14:00 | [Aeol](/about#Aeol) | [Aeolian Classical Series – Kathleen Gahagan				](https://aeolianhall.ca/events/aeolian-classical-series-kathleen-gahagan/) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Secret Agent Science](https://www.londonchildrensmuseum.ca/event/steam-secret-agent-science) |
 |  | 19:00 | [LMH](/about#LMH) | [Allison Russell – The Returner Tour](http://londonmusichall.com/events/allison-russell-the-returner-tour/) |
 | Mon Mar 11 | 09:00 | [Museum](/about#Museum) | [ML Kids: Earth Avengers  March Break Camp](https://museumlondon.ca/programs-events/event/10963/) |
 |  | 09:00 | [CMus](/about#CMus) | [March Break Day Camp](https://www.londonchildrensmuseum.ca/event/march-break-day-camp) |
@@ -205,19 +210,24 @@ View only a category:
 |  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-03-13) |
 | Thu Mar 14 | 09:30 | [CMus](/about#CMus) | [March Break](https://www.londonchildrensmuseum.ca/event/march-break) |
 |  | 11:00 | [CGM](/about#CGM) | [Dotsy’s](https://coventmarket.com/event/dotsy-the-clown/) |
-|  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
+|  | 13:00 | [CGM](/about#CGM) | [Cake Pop Decorating Workshop for Kids](https://coventmarket.com/event/cake-pop-decorating-workshop-for-kids/) |
 |  | 17:00 | [CMus](/about#CMus) | [Mosaic Tiles with Susan Day](https://www.londonchildrensmuseum.ca/event/mosaic-tiles-susan-day) |
+|  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
 |  | 19:00 | [LMH](/about#LMH) | [Jeremie Albino – The Long Road Home Tour 2024](http://londonmusichall.com/events/jeremie-albino-when-the-long-road-home-tour-2024/) |
 | Fri Mar 15 | 09:30 | [CMus](/about#CMus) | [March Break](https://www.londonchildrensmuseum.ca/event/march-break) |
 |  | 11:00 | [CGM](/about#CGM) | [Bubbleology Show](https://coventmarket.com/event/bubbleology-show/) |
 |  | 13:00 | [CMus](/about#CMus) | [Mosaic Tiles with Susan Day](https://www.londonchildrensmuseum.ca/event/mosaic-tiles-susan-day) |
 |  | 18:30 | [Info](/about#Info) | [Free Drop-In Basketball for Youth](https://www.informationlondon.ca/Event/Detail/49394/Free_Drop-In_Basketball_for_Youth?date=2024-03-15) |
 | Sat Mar 16 | 09:00 | [CGM](/about#CGM) | [Maple Fest! 🍁](https://coventmarket.com/event/maple-syrup-festival/) |
+|  | 11:00 | [CMus](/about#CMus) | [STEAM: Engineering Madness](https://www.londonchildrensmuseum.ca/event/steam-engineering-madness) |
 |  | 12:00 | [Museum](/about#Museum) | [Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10904/) |
 |  | 12:30 | [CGM](/about#CGM) | [Goggin Carroll Irish Dance Performance](https://coventmarket.com/event/goggin-carroll-irish-dance-performance/) |
 |  | 13:00 | [CMus](/about#CMus) | [Mosaic Tiles with Susan Day](https://www.londonchildrensmuseum.ca/event/mosaic-tiles-susan-day) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Engineering Madness](https://www.londonchildrensmuseum.ca/event/steam-engineering-madness) |
 | Sun Mar 17 |  | [Grand](/about#Grand) | [Maggie's Wake](https://www.grandtheatre.com/event/maggies-wake) |
+|  | 11:00 | [CMus](/about#CMus) | [STEAM: Engineering Madness](https://www.londonchildrensmuseum.ca/event/steam-engineering-madness) |
 |  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Wonderful Weaving](https://museumlondon.ca/programs-events/event/10763/2024/03/17) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Engineering Madness](https://www.londonchildrensmuseum.ca/event/steam-engineering-madness) |
 |  | 19:00 | [LMH](/about#LMH) | [CORB LUND: THE EL VIEJO RELEASE TOUR](http://londonmusichall.com/events/corb-lund-the-el-viejo-release-tour/) |
 | Tue Mar 19 | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
 |  | 18:00 | [LMH](/about#LMH) | [KOYO, One Step Closer, Anxious, Stateside](http://londonmusichall.com/events/koyo-one-step-closer-anxious-stateside/) |
@@ -228,9 +238,13 @@ View only a category:
 |  | 19:00 | [LMH](/about#LMH) | [DillanPonders, King Cruff, Kris The Spirit](http://londonmusichall.com/events/dillanponders-king-cruff-kris-the-spirit/) |
 | Fri Mar 22 | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
 |  | 18:30 | [Info](/about#Info) | [Free Drop-In Basketball for Youth](https://www.informationlondon.ca/Event/Detail/49394/Free_Drop-In_Basketball_for_Youth?date=2024-03-22) |
-| Sat Mar 23 | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
+| Sat Mar 23 | 11:00 | [CMus](/about#CMus) | [STEAM: Zoetrope](https://www.londonchildrensmuseum.ca/event/steam-zoetrope) |
+|  | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Zoetrope](https://www.londonchildrensmuseum.ca/event/steam-zoetrope) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Elvis – One Night With You				](https://aeolianhall.ca/events/elvis-one-night-with-you/) |
-| Sun Mar 24 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Wonderful Weaving](https://museumlondon.ca/programs-events/event/10763/2024/03/24) |
+| Sun Mar 24 | 11:00 | [CMus](/about#CMus) | [STEAM: Zoetrope](https://www.londonchildrensmuseum.ca/event/steam-zoetrope) |
+|  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Wonderful Weaving](https://museumlondon.ca/programs-events/event/10763/2024/03/24) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Zoetrope](https://www.londonchildrensmuseum.ca/event/steam-zoetrope) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Chrome Horse – The Bob Dylan Tribute				](https://aeolianhall.ca/events/chrome-horse-the-bob-dylan-tribute/) |
 | Tue Mar 26 | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
 | Wed Mar 27 | 15:00 | [CMus](/about#CMus) | [Early Closure](https://www.londonchildrensmuseum.ca/event/early-closure) |
@@ -239,13 +253,18 @@ View only a category:
 |  | 20:00 | [Aeol](/about#Aeol) | [Kevin Drew – Aging				](https://aeolianhall.ca/events/kevin-drew-aging/) |
 | Thu Mar 28 | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
 |  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
+|  | 18:00 | [CMus](/about#CMus) | [STEAM: Exploring Microbes](https://www.londonchildrensmuseum.ca/event/steam-exploring-microbes) |
 |  | 19:00 | [LMH](/about#LMH) | [*SOLD OUT* Warren Zeiders](http://londonmusichall.com/events/warren-zeiders/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Ariel Posen				](https://aeolianhall.ca/events/ariel-posen/) |
 | Fri Mar 29 | 09:30 | [CMus](/about#CMus) | [OPEN](https://www.londonchildrensmuseum.ca/event/open) |
 |  | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
 | Sat Mar 30 | 08:00 | [CGM](/about#CGM) | [Outdoor Easter Market](https://coventmarket.com/event/4032/) |
+|  | 11:00 | [CMus](/about#CMus) | [STEAM: Exploring Microbes](https://www.londonchildrensmuseum.ca/event/steam-exploring-microbes) |
 |  | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Exploring Microbes](https://www.londonchildrensmuseum.ca/event/steam-exploring-microbes) |
 |  | 22:00 | [LMH](/about#LMH) | [Le Youth @ System Saturdays](http://londonmusichall.com/events/le-youth-system-saturdays/) |
+| Sun Mar 31 | 11:00 | [CMus](/about#CMus) | [STEAM: Exploring Microbes](https://www.londonchildrensmuseum.ca/event/steam-exploring-microbes) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Exploring Microbes](https://www.londonchildrensmuseum.ca/event/steam-exploring-microbes) |
 | Mon Apr 01 | 09:30 | [CMus](/about#CMus) | [OPEN](https://www.londonchildrensmuseum.ca/event/open) |
 | Tue Apr 02 | 12:00 | [CGM](/about#CGM) | [Jazz Tuesdays](https://coventmarket.com/event/jazz-sundays-2/) |
 | Thu Apr 04 | 19:00 | [LMH](/about#LMH) | [Dave Hause](http://londonmusichall.com/events/dave-hause-the-drew-thomson-foundation/) |
@@ -292,6 +311,6 @@ View only a category:
 | Sat Jun 29 |  | [Grand](/about#Grand) | [Decades of Bond - The Ultimate Tribute to the Music of James Bond](https://www.grandtheatre.com/event/decades-of-bond) |
 | Tue Jul 02 | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
 | Mon Jul 08 | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
-| Mon Jul 15 | 09:00 | [CMus](/about#CMus) | [Tween Summer Day Camp](https://www.londonchildrensmuseum.ca/event/tween-summer-day-camp) |
-|  | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
+| Mon Jul 15 | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
+|  | 09:00 | [CMus](/about#CMus) | [Tween Summer Day Camp](https://www.londonchildrensmuseum.ca/event/tween-summer-day-camp) |
 | Mon Jul 22 | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
