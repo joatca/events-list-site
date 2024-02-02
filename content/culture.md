@@ -1,6 +1,6 @@
 ---
 title: "Events - culture"
-date: 2024-02-01T00:00:38-05:00
+date: 2024-02-02T00:00:26-05:00
 draft: false
 ---
 
@@ -9,7 +9,7 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Sat Feb 03 |  | [PSFTOff](/about#PSFTOff) | [Port Stanley Firefighters Association Fundraiser Comedy Night](https://psft.ca/event/port-stanley-firefighters-association-fundraiser-comedy-night/) |
+| Tomorrow (Sat) |  | [PSFTOff](/about#PSFTOff) | [Port Stanley Firefighters Association Fundraiser Comedy Night](https://psft.ca/event/port-stanley-firefighters-association-fundraiser-comedy-night/) |
 |  | 12:00 | [Museum](/about#Museum) | [London Black History Month Opening Celebration](https://museumlondon.ca/programs-events/event/10975/) |
 | Sun Feb 04 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paper Puppetry](https://museumlondon.ca/programs-events/event/10760/2024/02/04) |
 | Sat Feb 10 |  | [PSFTOff](/about#PSFTOff) | [Tommy Youngsteen The Very Best of Neil Young](https://psft.ca/event/the-very-best-of-neil-young/) |
@@ -28,7 +28,7 @@ View only a category:
 | Thu Feb 29 | 18:00 | [Museum](/about#Museum) | [ML Youth](https://museumlondon.ca/programs-events/event/10974/2024/02/29) |
 |  | 18:00 | [Museum](/about#Museum) | [Black History Slam](https://museumlondon.ca/programs-events/event/10984/) |
 | Sat Mar 02 |  | [PSFTOff](/about#PSFTOff) | [Pirates Past Noon Kids](https://psft.ca/event/pirates-past-noon-kids/) |
-|  | 12:00 | [Museum](/about#Museum) | [Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10902/) |
+|  | 12:00 | [Museum](/about#Museum) | [*SOLD OUT* Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10902/) |
 | Sun Mar 03 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Wonderful Weaving](https://museumlondon.ca/programs-events/event/10763/2024/03/03) |
 | Thu Mar 07 | 18:00 | [Museum](/about#Museum) | [ML Youth](https://museumlondon.ca/programs-events/event/10974/2024/03/07) |
 | Sun Mar 10 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Wonderful Weaving](https://museumlondon.ca/programs-events/event/10763/2024/03/10) |
@@ -37,14 +37,17 @@ View only a category:
 | Sat Mar 16 |  | [PSFTOff](/about#PSFTOff) | [Brothers’ Gibb The Bee Gees Story](https://psft.ca/event/brothers-gibb-the-bee-gees-story/) |
 |  | 12:00 | [Museum](/about#Museum) | [Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10904/) |
 | Sun Mar 17 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Wonderful Weaving](https://museumlondon.ca/programs-events/event/10763/2024/03/17) |
+| Wed Mar 20 | 14:30 | [Museum](/about#Museum) | [Culture Club with Dan Ebbs and Diane Morrow, Crazy Beautiful People](https://museumlondon.ca/programs-events/event/11024/) |
 | Thu Mar 21 | 18:00 | [Museum](/about#Museum) | [ML Youth](https://museumlondon.ca/programs-events/event/10974/2024/03/21) |
 | Sun Mar 24 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Wonderful Weaving](https://museumlondon.ca/programs-events/event/10763/2024/03/24) |
+| Wed Mar 27 |  | [PSFTOff](/about#PSFTOff) | [Studio Style Fashion Show](https://psft.ca/event/studio-style-fashion-show/) |
 | Thu Mar 28 | 18:00 | [Museum](/about#Museum) | [ML Youth](https://museumlondon.ca/programs-events/event/10974/2024/03/28) |
 | Sat Mar 30 |  | [PSFTOff](/about#PSFTOff) | [How We Got to Jersey: A Tale of Two Frankies](https://psft.ca/event/how-we-got-to-jersey-a-tale-of-two-frankies/) |
 | Thu Apr 04 | 18:00 | [Museum](/about#Museum) | [ML Youth](https://museumlondon.ca/programs-events/event/10974/2024/04/04) |
 | Sat Apr 06 |  | [PSFTOff](/about#PSFTOff) | [Matilda The Musical JR.](https://psft.ca/event/matilda-the-musical-jr/) |
 |  | 12:00 | [Museum](/about#Museum) | [Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10906/) |
 | Sun Apr 07 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Stamp Champ](https://museumlondon.ca/programs-events/event/11004/2024/04/07) |
+| Mon Apr 08 | 09:00 | [Museum](/about#Museum) | [ML Kids: Optical Odyssey PA Day Camp](https://museumlondon.ca/programs-events/event/11018/) |
 | Sat Apr 13 |  | [PSFTOff](/about#PSFTOff) | [Mudmen](https://psft.ca/event/mudmen/) |
 | Sun Apr 14 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Stamp Champ](https://museumlondon.ca/programs-events/event/11004/2024/04/14) |
 | Sat Apr 20 |  | [PSFTOff](/about#PSFTOff) | [British Beat 66](https://psft.ca/event/british-beat-66/) |
@@ -59,6 +62,7 @@ View only a category:
 | Tue May 21 |  | [PSFT](/about#PSFT) | [The Beaver Club](https://psft.ca/event/the-beaver-club/) |
 | Sat May 25 | 12:00 | [Museum](/about#Museum) | [Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10912/) |
 | Sun May 26 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Whimsical Watercolour Resist](https://museumlondon.ca/programs-events/event/11011/2024/05/26) |
+| Fri May 31 | 09:00 | [Museum](/about#Museum) | [ML Kids: Art Detective and History Mystery PA Day Camp](https://museumlondon.ca/programs-events/event/11021/) |
 | Tue Jun 04 |  | [PSFT](/about#PSFT) | [Funny Valentine A Michael Buble Tribute](https://psft.ca/event/funny-valentine-a-michael-buble-tribute/) |
 | Wed Jun 19 |  | [PSFT](/about#PSFT) | [They’re Found In Trees](https://psft.ca/event/theyre-found-in-trees/) |
 | Wed Jul 17 |  | [PSFT](/about#PSFT) | [Hurry Hard](https://psft.ca/event/hurry-hard/) |

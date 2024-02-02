@@ -1,6 +1,6 @@
 ---
 title: "Events - community"
-date: 2024-02-01T00:00:38-05:00
+date: 2024-02-02T00:00:26-05:00
 draft: false
 ---
 
@@ -9,12 +9,10 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Thu) | 09:30 | [City](/about#City) | [Budget Committee - BUDGET - February 01, 2024](https://london.ca/government/calendar/budget-committee-budget-february-01-2024) |
-|  | 13:30 | [City](/about#City) | [Committee of Adjustment - February 01, 2024](https://london.ca/government/calendar/committee-adjustment-february-01-2024) |
-| Tomorrow (Fri) | 09:30 | [City](/about#City) | [Budget Committee - BUDGET - February 02, 2024](https://london.ca/government/calendar/budget-committee-budget-february-02-2024) |
+| Today (Fri) | 09:30 | [City](/about#City) | [Budget Committee - BUDGET - February 02, 2024](https://london.ca/government/calendar/budget-committee-budget-february-02-2024) |
 |  | 18:30 | [Info](/about#Info) | [Free Drop-In Basketball for Youth](https://www.informationlondon.ca/Event/Detail/49394/Free_Drop-In_Basketball_for_Youth?date=2024-02-02) |
 |  | 18:30 | [Info](/about#Info) | [TGIF Game Night!](https://www.informationlondon.ca/Event/Detail/49385/TGIF_Game_Night?date=2024-02-02) |
-| Sat Feb 03 |  | [PSFTOff](/about#PSFTOff) | [Port Stanley Firefighters Association Fundraiser Comedy Night](https://psft.ca/event/port-stanley-firefighters-association-fundraiser-comedy-night/) |
+| Tomorrow (Sat) |  | [PSFTOff](/about#PSFTOff) | [Port Stanley Firefighters Association Fundraiser Comedy Night](https://psft.ca/event/port-stanley-firefighters-association-fundraiser-comedy-night/) |
 | Mon Feb 05 | 13:00 | [City](/about#City) | [Corporate Services Committee - February 05, 2024](https://london.ca/government/calendar/corporate-services-committee-february-05-2024) |
 | Tue Feb 06 | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - February 06, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-february-06-2024) |
 | Wed Feb 07 | 09:30 | [Info](/about#Info) | [Living a Healthy Life with Diabetes](https://www.informationlondon.ca/Event/Detail/48852/Living_a_Healthy_Life_with_Diabetes?date=2024-02-07) |
@@ -84,7 +82,8 @@ View only a category:
 |  | 13:00 | [City](/about#City) | [Corporate Services Committee - March 25, 2024](https://london.ca/government/calendar/corporate-services-committee-march-25-2024) |
 | Tue Mar 26 | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - March 26, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-march-26-2024) |
 |  | 13:00 | [City](/about#City) | [Council - March 26, 2024](https://london.ca/government/calendar/council-march-26-2024) |
-| Wed Mar 27 | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-03-27) |
+| Wed Mar 27 |  | [PSFTOff](/about#PSFTOff) | [Studio Style Fashion Show](https://psft.ca/event/studio-style-fashion-show/) |
+|  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-03-27) |
 | Sat Mar 30 |  | [PSFTOff](/about#PSFTOff) | [How We Got to Jersey: A Tale of Two Frankies](https://psft.ca/event/how-we-got-to-jersey-a-tale-of-two-frankies/) |
 | Tue Apr 02 | 13:00 | [City](/about#City) | [Council - April 02, 2024](https://london.ca/government/calendar/council-april-02-2024) |
 | Sat Apr 06 |  | [PSFTOff](/about#PSFTOff) | [Matilda The Musical JR.](https://psft.ca/event/matilda-the-musical-jr/) |
