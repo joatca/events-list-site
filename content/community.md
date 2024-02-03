@@ -1,6 +1,6 @@
 ---
 title: "Events - community"
-date: 2024-02-02T00:00:26-05:00
+date: 2024-02-03T00:00:26-05:00
 draft: false
 ---
 
@@ -9,36 +9,52 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Fri) | 09:30 | [City](/about#City) | [Budget Committee - BUDGET - February 02, 2024](https://london.ca/government/calendar/budget-committee-budget-february-02-2024) |
-|  | 18:30 | [Info](/about#Info) | [Free Drop-In Basketball for Youth](https://www.informationlondon.ca/Event/Detail/49394/Free_Drop-In_Basketball_for_Youth?date=2024-02-02) |
-|  | 18:30 | [Info](/about#Info) | [TGIF Game Night!](https://www.informationlondon.ca/Event/Detail/49385/TGIF_Game_Night?date=2024-02-02) |
-| Tomorrow (Sat) |  | [PSFTOff](/about#PSFTOff) | [Port Stanley Firefighters Association Fundraiser Comedy Night](https://psft.ca/event/port-stanley-firefighters-association-fundraiser-comedy-night/) |
-| Mon Feb 05 | 13:00 | [City](/about#City) | [Corporate Services Committee - February 05, 2024](https://london.ca/government/calendar/corporate-services-committee-february-05-2024) |
+| Today (Sat) |  | [PSFTOff](/about#PSFTOff) | [Port Stanley Firefighters Association Fundraiser Comedy Night](https://psft.ca/event/port-stanley-firefighters-association-fundraiser-comedy-night/) |
+|  |  | [Maker](/about#Maker) | [Focused Fridays: coworking at the Studio](https://www.hellomaker.ca/events/xel7kcn9gpcpldh-9l69t-9d4lx-febmn-w6ncz) |
+| Tomorrow (Sun) | 09:00 | [Maker](/about#Maker) | [Mini Makers DIY Group](https://www.hellomaker.ca/events/8l5hdfmhs4g84jj-y997t-32263-rafnp-898fh) |
+|  | 14:00 | [Maker](/about#Maker) | [What the Sheep??](https://www.hellomaker.ca/events/whatthesheep) |
+| Mon Feb 05 | 12:00 | [Maker](/about#Maker) | [3-in-1 Winter Skin Workshop](https://www.hellomaker.ca/events/zfvpxsej5j9u9z39dn0cn9q7v6q0nk-22x5e-fjxkf-d3gmb-5w3kx-9mnfb-wpp2w-rz2z2-343nh-zs6pt-ewwxe-ksahp-menef-dm93d-ypxsp-rcc5e-zmxbp-zwhtx-wk5s3-jbxbw-mlbm3-cmgyf) |
+|  | 13:00 | [City](/about#City) | [Corporate Services Committee - February 05, 2024](https://london.ca/government/calendar/corporate-services-committee-february-05-2024) |
 | Tue Feb 06 | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - February 06, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-february-06-2024) |
+|  | 15:00 | [Maker](/about#Maker) | [Open Studio](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9) |
 | Wed Feb 07 | 09:30 | [Info](/about#Info) | [Living a Healthy Life with Diabetes](https://www.informationlondon.ca/Event/Detail/48852/Living_a_Healthy_Life_with_Diabetes?date=2024-02-07) |
+|  | 12:00 | [Maker](/about#Maker) | [Painted Tote Bag Workshop](https://www.hellomaker.ca/events/zfvpxsej5j9u9z39dn0cn9q7v6q0nk-22x5e-fjxkf-d3gmb-5w3kx-9mnfb-wpp2w-rz2z2-343nh-zs6pt-ewwxe-ksahp-menef-dm93d-ypxsp-rcc5e-zmxbp-zwhtx-wk5s3-2pnfb-rk8ea-nja2t) |
+|  | 18:00 | [Maker](/about#Maker) | [Brushwork, Dynamic Strokes & Confidence](https://www.hellomaker.ca/events/brushstrokes) |
 |  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-02-07) |
 | Thu Feb 08 | 09:30 | [City](/about#City) | [Budget Committee - BUDGET - February 08, 2024](https://london.ca/government/calendar/budget-committee-budget-february-08-2024) |
 |  | 13:30 | [City](/about#City) | [Committee of Adjustment - February 08, 2024](https://london.ca/government/calendar/committee-adjustment-february-08-2024) |
+|  | 19:00 | [Maker](/about#Maker) | [Cricut 101: Custom Tote Bag](https://www.hellomaker.ca/events/irqu905qi77vqjbol00gy0uc19ja68-gns73-fhhpr-najh8-yc3gg-a4kec) |
 | Fri Feb 09 |  | [RBCP](/about#RBCP) | [18th Annual Breakfast for YOU](https://www.rbcplacelondon.com/events/18th-annual-breakfast-you-february-9) |
 |  | 07:30 | [Info](/about#Info) | [18th Annual Breakfast for YOU](https://www.informationlondon.ca/Event/Detail/49412/18th_Annual_Breakfast_for_YOU?date=2024-02-09) |
 |  | 09:30 | [City](/about#City) | [Budget Committee - BUDGET - February 09, 2024](https://london.ca/government/calendar/budget-committee-budget-february-09-2024) |
+|  | 10:00 | [Maker](/about#Maker) | [Focused Fridays: coworking at the Studio](https://www.hellomaker.ca/events/xel7kcn9gpcpldh-9l69t-9d4lx-febmn-w6ncz-ee7m5) |
 |  | 18:30 | [Info](/about#Info) | [TGIF Game Night!](https://www.informationlondon.ca/Event/Detail/49385/TGIF_Game_Night?date=2024-02-09) |
 |  | 18:30 | [Info](/about#Info) | [Free Drop-In Basketball for Youth](https://www.informationlondon.ca/Event/Detail/49394/Free_Drop-In_Basketball_for_Youth?date=2024-02-09) |
 | Sat Feb 10 |  | [Eldon](/about#Eldon) | [100 Objects and Gems: The History of London](https://eldonhouse.ca/product/heritage-fair-100-objects-and-gems-from-the-city-of-london/) |
 |  |  | [PSFTOff](/about#PSFTOff) | [Tommy Youngsteen The Very Best of Neil Young](https://psft.ca/event/the-very-best-of-neil-young/) |
 |  |  | [RBCP](/about#RBCP) | [Brescia Ball 2024: A Walk Down Memory Lane](https://www.rbcplacelondon.com/events/brescia-ball-2024-walk-down-memory-lane-february-10) |
+| Sun Feb 11 | 09:00 | [Maker](/about#Maker) | [Mini Makers DIY Group](https://www.hellomaker.ca/events/8l5hdfmhs4g84jj-y997t-32263-rafnp-898fh-kb6ds) |
 | Tue Feb 13 | 13:00 | [City](/about#City) | [Council - February 13, 2024](https://london.ca/government/calendar/council-february-13-2024) |
+|  | 15:00 | [Maker](/about#Maker) | [Open Studio ](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt) |
+|  | 19:00 | [Maker](/about#Maker) | [Blank Space, Full Hearts: Friendship Bracelets & Rosé](https://www.hellomaker.ca/events/zfvpxsej5j9u9z39dn0cn9q7v6q0nk-22x5e-fjxkf-d3gmb-5w3kx-9mnfb-wpp2w-rz2z2-343nh-zs6pt-ewwxe-ksahp-menef-dm93d-ypxsp-rcc5e-zmxbp-zwhtx-wk5s3-jbxbw-mlbm3-cmgyf-t8tx5) |
 | Wed Feb 14 |  | [Eldon](/about#Eldon) | [Valentine’s Day: Behind the Ropes](https://eldonhouse.ca/product/valentines-day-behind-the-ropes-2/) |
 |  | 12:00 | [City](/about#City) | [Audit Committee - February 14, 2024](https://london.ca/government/calendar/audit-committee-february-14-2024) |
 |  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-02-14) |
 | Thu Feb 15 | 09:30 | [City](/about#City) | [Budget Committee - BUDGET - February 15, 2024](https://london.ca/government/calendar/budget-committee-budget-february-15-2024) |
 |  | 13:30 | [City](/about#City) | [Committee of Adjustment - February 15, 2024](https://london.ca/government/calendar/committee-adjustment-february-15-2024) |
 | Fri Feb 16 | 09:30 | [City](/about#City) | [Budget Committee - BUDGET - February 16, 2024](https://london.ca/government/calendar/budget-committee-budget-february-16-2024) |
+|  | 10:00 | [Maker](/about#Maker) | [Focused Fridays: coworking at the Studio](https://www.hellomaker.ca/events/xel7kcn9gpcpldh-9l69t-9d4lx-febmn-w6ncz-ee7m5-g8ynt) |
 |  | 18:30 | [Info](/about#Info) | [Free Drop-In Basketball for Youth](https://www.informationlondon.ca/Event/Detail/49394/Free_Drop-In_Basketball_for_Youth?date=2024-02-16) |
 |  | 18:30 | [Info](/about#Info) | [TGIF Game Night!](https://www.informationlondon.ca/Event/Detail/49385/TGIF_Game_Night?date=2024-02-16) |
 | Sat Feb 17 |  | [PSFTOff](/about#PSFTOff) | [Girls Nite Out](https://psft.ca/event/girls-nite-out/) |
 | Sun Feb 18 |  | [Eldon](/about#Eldon) | [Amelia Harris: Birthday Celebrations](https://eldonhouse.ca/product/amelia-harris-birthday-celebrations-2/) |
+|  | 09:00 | [Maker](/about#Maker) | [Mini Makers DIY Group ](https://www.hellomaker.ca/events/8l5hdfmhs4g84jj-y997t-32263-rafnp-898fh-kb6ds-3bkfn) |
+|  | 14:00 | [Maker](/about#Maker) | [What is my Knitting Machine?](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-mg43c) |
+| Mon Feb 19 | 10:00 | [Maker](/about#Maker) | [Family Day Plate Paint Workshop](https://www.hellomaker.ca/events/8l5hdfmhs4g84jj-y997t-32263-rafnp-898fh-kb6ds-3bkfn-zge2z) |
+|  | 12:30 | [Maker](/about#Maker) | [Family Day Plate Paint Workshop](https://www.hellomaker.ca/events/8l5hdfmhs4g84jj-y997t-32263-rafnp-898fh-kb6ds-3bkfn-zge2z-wakmd) |
+|  | 15:00 | [Maker](/about#Maker) | [Family Day Plate Paint Workshop](https://www.hellomaker.ca/events/8l5hdfmhs4g84jj-y997t-32263-rafnp-898fh-kb6ds-3bkfn-zge2z-wakmd-ebhcb) |
 | Tue Feb 20 | 13:00 | [City](/about#City) | [Community and Protective Services Committee - February 20, 2024](https://london.ca/government/calendar/community-protective-services-committee-february-20-2024) |
+|  | 15:00 | [Maker](/about#Maker) | [Open Studio](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr) |
 | Wed Feb 21 |  | [RBCP](/about#RBCP) | [Lewis Coray Trailblazer Awards Evening](https://www.rbcplacelondon.com/events/lewis-coray-trailblazer-awards-evening-february-21) |
 |  | 09:30 | [City](/about#City) | [Civic Works Committee - February 21, 2024](https://london.ca/government/calendar/civic-works-committee-february-21-2024) |
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - February 21, 2024](https://london.ca/government/calendar/planning-environment-committee-february-21-2024) |
@@ -46,18 +62,23 @@ View only a category:
 | Thu Feb 22 |  | [RBCP](/about#RBCP) | [32nd Annual Night of Heroes Fashion Show & Silent Auction](https://www.rbcplacelondon.com/events/32nd-annual-night-heroes-fashion-show-silent-auction-february-22) |
 |  | 09:30 | [City](/about#City) | [Budget - BUDGET - February 22, 2024](https://london.ca/government/calendar/budget-budget-february-22-2024) |
 |  | 13:30 | [City](/about#City) | [Committee of Adjustment  - February 22, 2024](https://london.ca/government/calendar/committee-adjustment-february-22-2024) |
+|  | 18:30 | [Maker](/about#Maker) | [Polymer Clay Earring Workshop](https://www.hellomaker.ca/events/polymer-clay-earring-workshop-7m6jk-db26w-b42sc-c7l7d-m8rbg-yxm5r-a48nk-xggm8-mdblt-9z7h6-e36fb) |
 | Fri Feb 23 | 09:30 | [City](/about#City) | [Budget Committee - BUDGET - February 23, 2024](https://london.ca/government/calendar/budget-committee-budget-february-23-2024) |
-|  | 18:30 | [Info](/about#Info) | [Free Drop-In Basketball for Youth](https://www.informationlondon.ca/Event/Detail/49394/Free_Drop-In_Basketball_for_Youth?date=2024-02-23) |
+|  | 10:00 | [Maker](/about#Maker) | [Focused Fridays: coworking at the Studio](https://www.hellomaker.ca/events/xel7kcn9gpcpldh-9l69t-9d4lx-febmn-w6ncz-ee7m5-g8ynt-zntn2) |
 |  | 18:30 | [Info](/about#Info) | [TGIF Game Night!](https://www.informationlondon.ca/Event/Detail/49385/TGIF_Game_Night?date=2024-02-23) |
+|  | 18:30 | [Info](/about#Info) | [Free Drop-In Basketball for Youth](https://www.informationlondon.ca/Event/Detail/49394/Free_Drop-In_Basketball_for_Youth?date=2024-02-23) |
 | Sat Feb 24 |  | [PSFTOff](/about#PSFTOff) | [Take It Easy: The Story of the Eagles](https://psft.ca/event/take-it-easy-the-story-of-the-eagles/) |
 |  |  | [RBCP](/about#RBCP) | [London Seafood Festival](https://www.rbcplacelondon.com/events/london-seafood-festival-february-24) |
+| Sun Feb 25 | 09:00 | [Maker](/about#Maker) | [Mini Makers DIY Group](https://www.hellomaker.ca/events/8l5hdfmhs4g84jj-y997t-32263-rafnp-898fh-kb6ds-3bkfn-78ycb) |
 | Mon Feb 26 | 13:00 | [City](/about#City) | [Corporate Services Committee - February 26, 2024](https://london.ca/government/calendar/corporate-services-committee-february-26-2024) |
 | Tue Feb 27 | 09:30 | [City](/about#City) | [Dearness Home Committee of Management - February 27, 2024](https://london.ca/government/calendar/dearness-home-committee-management-february-27-2024) |
 |  | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - February 27, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-february-27-2024) |
 |  | 13:30 | [City](/about#City) | [Special Council Meeting - Budget - if needed - February 27, 2024](https://london.ca/government/calendar/special-council-meeting-budget-if-needed-february-27-2024) |
+|  | 15:00 | [Maker](/about#Maker) | [Open Studio](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-3z438) |
 |  | 16:00 | [City](/about#City) | [Budget Committee - Public Participation Meeting - February 27, 2024](https://london.ca/government/calendar/budget-committee-public-participation-meeting-february-27-2024) |
 | Wed Feb 28 |  | [RBCP](/about#RBCP) | [AOLS 132nd Annual General Meeting](https://www.rbcplacelondon.com/events/aols-132nd-annual-general-meeting-february-28-march-1) |
 |  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-02-28) |
+| Thu Feb 29 | 18:00 | [Maker](/about#Maker) | [Punch Needle Workshop](https://www.hellomaker.ca/events/zfvpxsej5j9u9z39dn0cn9q7v6q0nk-22x5e-fjxkf-d3gmb-5w3kx-9mnfb-wpp2w-rz2z2-343nh-zs6pt-ewwxe-ksahp-menef-dm93d-ypxsp-rcc5e-zmxbp-zwhtx-trff9-7sbzh-5e67z-tte7w-39x2s) |
 | Fri Mar 01 | 18:30 | [Info](/about#Info) | [Free Drop-In Basketball for Youth](https://www.informationlondon.ca/Event/Detail/49394/Free_Drop-In_Basketball_for_Youth?date=2024-03-01) |
 | Sat Mar 02 |  | [PSFTOff](/about#PSFTOff) | [Pirates Past Noon Kids](https://psft.ca/event/pirates-past-noon-kids/) |
 | Mon Mar 04 |  | [RBCP](/about#RBCP) | [Take Your Place: Achieve!](https://www.rbcplacelondon.com/events/take-your-place-achieve-march-4) |
@@ -65,6 +86,7 @@ View only a category:
 | Tue Mar 05 | 13:00 | [City](/about#City) | [Council - March 05, 2024](https://london.ca/government/calendar/council-march-05-2024) |
 | Wed Mar 06 |  | [RBCP](/about#RBCP) | [Western University Research Awards Celebration](https://www.rbcplacelondon.com/events/western-university-research-awards-celebration-march-6) |
 |  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-03-06) |
+| Thu Mar 07 | 17:00 | [Maker](/about#Maker) | [Hand Lettering & Calligraphy (4 weeks)](https://www.hellomaker.ca/events/q8s1yenla3a6dmjix0wtwkpd2fm3fz-p7g3b-286t3-kk7hk-tdf37-52z5t-h2lwg-z6fm8-zeljm) |
 | Fri Mar 08 |  | [RBCP](/about#RBCP) | [24th Annual International Women’s Day Breakfast](https://www.rbcplacelondon.com/events/24th-annual-international-womens-day-breakfast-march-8) |
 |  | 18:30 | [Info](/about#Info) | [Free Drop-In Basketball for Youth](https://www.informationlondon.ca/Event/Detail/49394/Free_Drop-In_Basketball_for_Youth?date=2024-03-08) |
 | Wed Mar 13 | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-03-13) |
@@ -80,8 +102,8 @@ View only a category:
 | Fri Mar 22 | 18:30 | [Info](/about#Info) | [Free Drop-In Basketball for Youth](https://www.informationlondon.ca/Event/Detail/49394/Free_Drop-In_Basketball_for_Youth?date=2024-03-22) |
 | Mon Mar 25 | 10:00 | [City](/about#City) | [Governance Working Group - March 25, 2024](https://london.ca/government/calendar/governance-working-group-march-25-2024) |
 |  | 13:00 | [City](/about#City) | [Corporate Services Committee - March 25, 2024](https://london.ca/government/calendar/corporate-services-committee-march-25-2024) |
-| Tue Mar 26 | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - March 26, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-march-26-2024) |
-|  | 13:00 | [City](/about#City) | [Council - March 26, 2024](https://london.ca/government/calendar/council-march-26-2024) |
+| Tue Mar 26 | 13:00 | [City](/about#City) | [Council - March 26, 2024](https://london.ca/government/calendar/council-march-26-2024) |
+|  | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - March 26, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-march-26-2024) |
 | Wed Mar 27 |  | [PSFTOff](/about#PSFTOff) | [Studio Style Fashion Show](https://psft.ca/event/studio-style-fashion-show/) |
 |  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-03-27) |
 | Sat Mar 30 |  | [PSFTOff](/about#PSFTOff) | [How We Got to Jersey: A Tale of Two Frankies](https://psft.ca/event/how-we-got-to-jersey-a-tale-of-two-frankies/) |
