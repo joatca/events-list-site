@@ -1,6 +1,6 @@
 ---
 title: "Events - entertainment"
-date: 2024-02-03T00:00:26-05:00
+date: 2024-02-04T00:00:47-05:00
 draft: false
 ---
 
@@ -9,11 +9,7 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Sat) |  | [Grand](/about#Grand) | [The Invisible - Agents of Ungentlemanly Warfare](https://www.grandtheatre.com/event/the-invisible) |
-|  | 12:00 | [Museum](/about#Museum) | [London Black History Month Opening Celebration](https://museumlondon.ca/programs-events/event/10975/) |
-|  | 14:00 | [FMus](/about#FMus) | [Opera and Musical Theatre Gala with Early Music Studio](http://www.events.westernu.ca/events/music/2024-02/opera-gala-2024.html) |
-|  | 22:00 | [LMH](/about#LMH) | [DLMT @ SYSTEM SATURDAYS](http://londonmusichall.com/events/dlmt-system-saturdays/) |
-| Tomorrow (Sun) |  | [BudG](/about#BudG) | [London Lightning vs. Windsor Express](https://www.budweisergardens.com/events/detail/london-lightning-vs-windsor-express-14) |
+| Today (Sun) |  | [BudG](/about#BudG) | [London Lightning vs. Windsor Express](https://www.budweisergardens.com/events/detail/london-lightning-vs-windsor-express-14) |
 |  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paper Puppetry](https://museumlondon.ca/programs-events/event/10760/2024/02/04) |
 |  | 14:00 | [Aeol](/about#Aeol) | [Aeolian Classical Series – Daria Kharchenko – Colors of the Night				](https://aeolianhall.ca/events/aeolian-classical-series-daria-kharchenko/) |
 |  | 15:00 | [FMus](/about#FMus) | [Faculty Concert: Brett Kingsbury, piano](http://www.events.westernu.ca/events/music/2024-02/faculty-concert-kingsbury.html) |
@@ -46,7 +42,7 @@ View only a category:
 | Mon Feb 12 | 12:30 | [FMus](/about#FMus) | [Studio Recital I: Aaron Hodgson and Shawn Spicer (trumpet)](http://www.events.westernu.ca/events/music/2024-02/studio-recital-hodgson-spicer-1.html) |
 |  | 18:00 | [FMus](/about#FMus) | [Studio Recital II: Aaron Hodgson and Shawn Spicer (trumpet)](http://www.events.westernu.ca/events/music/2024-02/studio-recital-hodgson-spicer-2.html) |
 | Tue Feb 13 |  | [BudG](/about#BudG) | [London Lightning vs. Sudbury Five](https://www.budweisergardens.com/events/detail/london-lightning-vs-sudbury-five-5) |
-|  |  | [Grand](/about#Grand) | [In Seven Days](https://www.grandtheatre.com/in-seven-days) |
+|  |  | [Grand](/about#Grand) | [In Seven Days](https://www.grandtheatre.com/event/in-seven-days) |
 |  | 12:30 | [FMus](/about#FMus) | [Lunchtime Choral Series: Chorale](http://www.events.westernu.ca/events/music/2024-02/lunchtime-series-chorale.html) |
 |  | 18:00 | [LMH](/about#LMH) | [Share The Land 2024](http://londonmusichall.com/events/share-the-land-2024/) |
 | Wed Feb 14 | 12:30 | [FMus](/about#FMus) | [Lunchtime Choral Series: Western University Singers](http://www.events.westernu.ca/events/music/2024-02/lunchtime-series-western-university-singers.html) |

@@ -1,6 +1,6 @@
 ---
 title: "Events - downtown"
-date: 2024-02-03T00:00:26-05:00
+date: 2024-02-04T00:00:47-05:00
 draft: false
 ---
 
@@ -9,18 +9,8 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Sat) |  | [Grand](/about#Grand) | [The Invisible - Agents of Ungentlemanly Warfare](https://www.grandtheatre.com/event/the-invisible) |
-|  | 08:00 | [CGM](/about#CGM) | [Yoga Class](https://coventmarket.com/event/yoga-class/) |
-|  | 09:00 | [CGM](/about#CGM) | [Indoor Farmers Market](https://coventmarket.com/event/first-indoor-winter-farmers-market/) |
-|  | 09:30 | [CMus](/about#CMus) | [THEMUSEUM Reciprocal Event](https://www.londonchildrensmuseum.ca/event/themuseum-reciprocal-event) |
-|  | 11:00 | [CGM](/about#CGM) | [Saturday Cooking Demo](https://coventmarket.com/event/saturday-cooking-classes-2/) |
-|  | 11:00 | [CMus](/about#CMus) | [STEAM: Melting Snowman](https://www.londonchildrensmuseum.ca/event/steam-melting-snowman) |
-|  | 12:00 | [Museum](/about#Museum) | [London Black History Month Opening Celebration](https://museumlondon.ca/programs-events/event/10975/) |
-|  | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
-|  | 14:00 | [CGM](/about#CGM) | [Market Block DJ Skate](https://coventmarket.com/event/market-block-dj-skate-3-2/) |
-|  | 14:30 | [CMus](/about#CMus) | [STEAM: Melting Snowman](https://www.londonchildrensmuseum.ca/event/steam-melting-snowman) |
-|  | 22:00 | [LMH](/about#LMH) | [DLMT @ SYSTEM SATURDAYS](http://londonmusichall.com/events/dlmt-system-saturdays/) |
-| Tomorrow (Sun) |  | [BudG](/about#BudG) | [London Lightning vs. Windsor Express](https://www.budweisergardens.com/events/detail/london-lightning-vs-windsor-express-14) |
+| Today (Sun) |  | [BudG](/about#BudG) | [London Lightning vs. Windsor Express](https://www.budweisergardens.com/events/detail/london-lightning-vs-windsor-express-14) |
+|  |  | [CMus](/about#CMus) | [THEMUSEUM Reciprocal Event](https://www.londonchildrensmuseum.ca/event/themuseum-reciprocal-event) |
 |  | 11:00 | [CMus](/about#CMus) | [STEAM: Melting Snowman](https://www.londonchildrensmuseum.ca/event/steam-melting-snowman) |
 |  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paper Puppetry](https://museumlondon.ca/programs-events/event/10760/2024/02/04) |
 |  | 14:00 | [Aeol](/about#Aeol) | [Aeolian Classical Series – Daria Kharchenko – Colors of the Night				](https://aeolianhall.ca/events/aeolian-classical-series-daria-kharchenko/) |
@@ -66,7 +56,7 @@ View only a category:
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Paper Heart Chains](https://www.londonchildrensmuseum.ca/event/steam-paper-heart-chains) |
 |  | 19:00 | [LMH](/about#LMH) | [ANOMALIE](http://londonmusichall.com/events/anomalie/) |
 | Tue Feb 13 |  | [BudG](/about#BudG) | [London Lightning vs. Sudbury Five](https://www.budweisergardens.com/events/detail/london-lightning-vs-sudbury-five-5) |
-|  |  | [Grand](/about#Grand) | [In Seven Days](https://www.grandtheatre.com/in-seven-days) |
+|  |  | [Grand](/about#Grand) | [In Seven Days](https://www.grandtheatre.com/event/in-seven-days) |
 |  | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
 |  | 18:00 | [LMH](/about#LMH) | [Share The Land 2024](http://londonmusichall.com/events/share-the-land-2024/) |
 | Wed Feb 14 |  | [Eldon](/about#Eldon) | [Valentine’s Day: Behind the Ropes](https://eldonhouse.ca/product/valentines-day-behind-the-ropes-2/) |
