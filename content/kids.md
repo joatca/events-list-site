@@ -1,6 +1,6 @@
 ---
 title: "Events - kids"
-date: 2024-02-08T00:00:44-05:00
+date: 2024-02-09T00:00:41-05:00
 draft: false
 ---
 
@@ -9,11 +9,8 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Thu) | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
-|  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
-|  | 18:00 | [CMus](/about#CMus) | [STEAM: Paper Heart Chains](https://www.londonchildrensmuseum.ca/event/steam-paper-heart-chains) |
-| Tomorrow (Fri) | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
-| Sat Feb 10 | 09:30 | [CMus](/about#CMus) | [Lunar New Year](https://www.londonchildrensmuseum.ca/event/lunar-new-year) |
+| Today (Fri) | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
+| Tomorrow (Sat) | 09:30 | [CMus](/about#CMus) | [Lunar New Year](https://www.londonchildrensmuseum.ca/event/lunar-new-year) |
 |  | 10:00 | [CMus](/about#CMus) | [OUTREACH: Black History Month Family Celebration](https://www.londonchildrensmuseum.ca/event/outreach-black-history-month-family-celebration) |
 |  | 10:00 | [CMus](/about#CMus) | [OUTREACH: Heritage Fair](https://www.londonchildrensmuseum.ca/event/outreach-heritage-fair) |
 |  | 11:00 | [CMus](/about#CMus) | [STEAM: Paper Chain Dragons](https://www.londonchildrensmuseum.ca/event/steam-paper-chain-dragons) |
@@ -117,3 +114,4 @@ View only a category:
 |  | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
 | Mon Jul 22 | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
 | Mon Jul 29 | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
+| Tue Aug 06 | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
