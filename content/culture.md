@@ -1,6 +1,6 @@
 ---
 title: "Events - culture"
-date: 2024-02-11T00:00:50-05:00
+date: 2024-02-12T00:00:36-05:00
 draft: false
 ---
 
@@ -9,7 +9,6 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Sun) | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paper Puppetry](https://museumlondon.ca/programs-events/event/10760/2024/02/11) |
 | Wed Feb 14 | 14:30 | [Museum](/about#Museum) | [Culture Club ”Love Letter to London” with James Kingsley](https://museumlondon.ca/programs-events/event/10996/) |
 | Sat Feb 17 |  | [PSFTOff](/about#PSFTOff) | [Girls Nite Out](https://psft.ca/event/girls-nite-out/) |
 |  | 11:00 | [Museum](/about#Museum) | [Simple Reflections Art & Culture Showcase](https://museumlondon.ca/programs-events/event/10999/) |
@@ -21,8 +20,8 @@ View only a category:
 |  | 12:00 | [Museum](/about#Museum) | [*SOLD OUT* Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10900/) |
 |  | 15:30 | [Museum](/about#Museum) | [Creative Practice: with Art Therapist Hailey Tallman](https://museumlondon.ca/programs-events/event/11038/) |
 | Sun Feb 25 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Paper Puppetry](https://museumlondon.ca/programs-events/event/10760/2024/02/25) |
-| Thu Feb 29 | 18:00 | [Museum](/about#Museum) | [Black History Slam](https://museumlondon.ca/programs-events/event/10984/) |
-|  | 18:00 | [Museum](/about#Museum) | [ML Youth](https://museumlondon.ca/programs-events/event/10974/2024/02/29) |
+| Thu Feb 29 | 18:00 | [Museum](/about#Museum) | [ML Youth](https://museumlondon.ca/programs-events/event/10974/2024/02/29) |
+|  | 18:00 | [Museum](/about#Museum) | [Black History Slam](https://museumlondon.ca/programs-events/event/10984/) |
 | Sat Mar 02 |  | [PSFTOff](/about#PSFTOff) | [Pirates Past Noon Kids](https://psft.ca/event/pirates-past-noon-kids/) |
 |  | 12:00 | [Museum](/about#Museum) | [*SOLD OUT* Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10902/) |
 |  | 15:30 | [Museum](/about#Museum) | [Divine Strength: with Art Therapist Hailey Tallman](https://museumlondon.ca/programs-events/event/11041/) |

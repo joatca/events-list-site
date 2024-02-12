@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2024-02-11T00:00:50-05:00
+date: 2024-02-12T00:00:36-05:00
 draft: false
 ---
 
@@ -17,16 +17,16 @@ This page knows about events on these sites.
 | **Cent** | [Centennial Hall]() | *Not supported: website not sufficiently structured to process*
 | **City** | [London City Government Calendar](https://london.ca/government/calendar) | *64 events found*
 | **Eldon** | [Eldon House](https://eldonhouse.ca/events/) | *2 events found*
-| **FMus** | [Don Wright Faculty of Music](http://www.events.westernu.ca/events/music/) | *50 events found*
+| **FMus** | [Don Wright Faculty of Music](http://www.events.westernu.ca/events/music/) | *48 events found*
 | **Grand** | [Grand Theatre](https://www.grandtheatre.com/events) | *16 events found*
 | **Info** | [Information London](https://www.informationlondon.ca/Event/List) | *16 events found*
-| **LMH** | [London Music Hall](http://londonmusichall.com/upcoming-events/) | *45 events found*
+| **LMH** | [London Music Hall](http://londonmusichall.com/upcoming-events/) | *44 events found*
 | **Maker** | [Hello Maker](https://www.hellomaker.ca/events) | *55 events found*
-| **Museum** | [Museum London](https://museumlondon.ca/programs-events) | *44 events found*
+| **Museum** | [Museum London](https://museumlondon.ca/programs-events) | *43 events found*
 | **PSFT** | [Post Stanley Festival Theatre - Summer Season](https://psft.ca/schedule/summer-season/) | *5 events found*
 | **PSFTOff** | [Post Stanley Festival Theatre - Off Season](https://psft.ca/schedule/off-season-events/) | *14 events found*
 | **RBCP** | [RBP Place](https://www.rbcplacelondon.com/events) | *12 events found*
 | **TVDSB** | [Thames Valley District School Board](https://calendar.tvdsb.ca/) | *Error: unable to fetch any events*
-| **Tour** | [Tourism London](https://www.londontourism.ca/events/all-events) | *68 events found*
+| **Tour** | [Tourism London](https://www.londontourism.ca/events/all-events) | *125 events found*
 
-_Last updated 2024-02-11 00:00:50 -0500_
+_Last updated 2024-02-12 00:00:36 -0500_

@@ -1,6 +1,6 @@
 ---
 title: "Events - community"
-date: 2024-02-11T00:00:50-05:00
+date: 2024-02-12T00:00:36-05:00
 draft: false
 ---
 
@@ -9,8 +9,8 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Sun) | 09:00 | [Maker](/about#Maker) | [Mini Makers DIY Group](https://www.hellomaker.ca/events/8l5hdfmhs4g84jj-y997t-32263-rafnp-898fh-kb6ds) |
-| Tue Feb 13 | 13:00 | [City](/about#City) | [Council - February 13, 2024](https://london.ca/government/calendar/council-february-13-2024) |
+| Today (Mon) |  | [Maker](/about#Maker) | [Mini Makers DIY Group](https://www.hellomaker.ca/events/8l5hdfmhs4g84jj-y997t-32263-rafnp-898fh-kb6ds) |
+| Tomorrow (Tue) | 13:00 | [City](/about#City) | [Council - February 13, 2024](https://london.ca/government/calendar/council-february-13-2024) |
 |  | 15:00 | [Maker](/about#Maker) | [Open Studio ](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt) |
 |  | 19:00 | [Maker](/about#Maker) | [Blank Space, Full Hearts: Friendship Bracelets & Rosé](https://www.hellomaker.ca/events/zfvpxsej5j9u9z39dn0cn9q7v6q0nk-22x5e-fjxkf-d3gmb-5w3kx-9mnfb-wpp2w-rz2z2-343nh-zs6pt-ewwxe-ksahp-menef-dm93d-ypxsp-rcc5e-zmxbp-zwhtx-wk5s3-jbxbw-mlbm3-cmgyf-t8tx5) |
 | Wed Feb 14 |  | [Eldon](/about#Eldon) | [Valentine’s Day: Behind the Ropes](https://eldonhouse.ca/product/valentines-day-behind-the-ropes-2/) |
