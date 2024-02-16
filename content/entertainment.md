@@ -1,6 +1,6 @@
 ---
 title: "Events - entertainment"
-date: 2024-02-15T00:00:35-05:00
+date: 2024-02-16T00:00:36-05:00
 draft: false
 ---
 
@@ -9,20 +9,13 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Thu) |  | [Grand](/about#Grand) | [Huff](https://www.grandtheatre.com/event/huff) |
-|  |  | [Grand](/about#Grand) | [In Seven Days](https://www.grandtheatre.com/in-seven-days) |
-|  | 12:30 | [FMus](/about#FMus) | [Lunchtime Choral Series: Les Choristes](http://www.events.westernu.ca/events/music/2024-02/lunchtime-series-les-choristes.html) |
-|  | 12:30 | [FMus](/about#FMus) | [Chamber Music Recital Series: Sax Duo - NEW DATE AND VENUE](http://www.events.westernu.ca/events/music/2024-03/chamber-music-saxophone-duo-1.html) |
-|  | 18:00 | [FMus](/about#FMus) | [Studio Recital: Marianna Chibotar-Rutkevich (piano)](http://www.events.westernu.ca/events/music/2024-02/studio-recital-chibotar-rutkevich.html) |
-|  | 18:00 | [FMus](/about#FMus) | [Studio Recital II: Jana Starling, Carina Canonico (clarinet)](http://www.events.westernu.ca/events/music/2024-02/studio-recital-clarinet-2.html) |
-|  | 19:00 | [LMH](/about#LMH) | [Brett Kissel – The Compass Tour](http://londonmusichall.com/events/brett-kissel-the-compass-tour/) |
-|  | 20:00 | [Aeol](/about#Aeol) | [Jordan Hart				](https://aeolianhall.ca/events/jordan-hart/) |
-|  | 20:00 | [FMus](/about#FMus) | [Studio Recital: Allison Wiebe (piano)](http://www.events.westernu.ca/events/music/2024-02/studio-recital-allison-wiebe-1.html) |
-| Tomorrow (Fri) |  | [BudG](/about#BudG) | [LONDON KNIGHTS VS. SOO GREYHOUNDS](https://www.budweisergardens.com/events/detail/london-knights-feb16) |
+| Today (Fri) |  | [BudG](/about#BudG) | [LONDON KNIGHTS VS. SOO GREYHOUNDS](https://www.budweisergardens.com/events/detail/london-knights-feb16) |
+|  |  | [Grand](/about#Grand) | [Huff](https://www.grandtheatre.com/event/huff) |
+|  |  | [Grand](/about#Grand) | [In Seven Days](https://www.grandtheatre.com/event/in-seven-days) |
 |  | 12:30 | [FMus](/about#FMus) | [NEW DATE: Symphony Orchestra Concert](http://www.events.westernu.ca/events/music/2024-02/symphony-orchestra-concert.html) |
 |  | 20:00 | [Aeol](/about#Aeol) | [A Taste of Sinatra – The Way You Look Tonight				](https://aeolianhall.ca/events/a-taste-of-sinatra-the-way-you-look-tonight/) |
 |  | 21:00 | [LMH](/about#LMH) | [GIMME GIMME DISCO](http://londonmusichall.com/events/gimme-gimme-disco/) |
-| Sat Feb 17 | 11:00 | [Museum](/about#Museum) | [Simple Reflections Art & Culture Showcase](https://museumlondon.ca/programs-events/event/10999/) |
+| Tomorrow (Sat) | 11:00 | [Museum](/about#Museum) | [Simple Reflections Art & Culture Showcase](https://museumlondon.ca/programs-events/event/10999/) |
 |  | 19:00 | [LMH](/about#LMH) | [*SOLD OUT* Charlotte Cardin – 99 Nights Tour](http://londonmusichall.com/events/charlotte-cardin-99-nights-tour/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Listen To The Music – A Tribute to The Doobie Brothers				](https://aeolianhall.ca/events/listen-to-the-music-a-tribute-to-the-doobie-brothers/) |
 |  | 22:00 | [LMH](/about#LMH) | [THE LEGEND OF ONE SOUND TOUR @ SYSTEM SATURDAYS](http://londonmusichall.com/events/the-legend-of-one-sound-tour-system-saturdays/) |
@@ -50,6 +43,7 @@ View only a category:
 |  | 18:00 | [FMus](/about#FMus) | [Studio Recital: Stéphan Sylvestre (piano)](http://www.events.westernu.ca/events/music/2024-02/studio-recital-stephan-sylvestre-1.html) |
 | Wed Feb 28 |  | [BudG](/about#BudG) | [LONDON KNIGHTS VS. OSHAWA GENERALS](https://www.budweisergardens.com/events/detail/london-knights-feb28) |
 |  | 18:30 | [LMH](/about#LMH) | [Aaron Pritchett: The Liquored Up Tour](http://londonmusichall.com/events/aaron-pritchett-the-liquored-up-tour/) |
+|  | 20:00 | [FMus](/about#FMus) | [Studio Recital: Mel Martin (violin)](http://www.events.westernu.ca/events/music/2024-02/studio-recital-mel-martin.html) |
 | Thu Feb 29 |  | [Grand](/about#Grand) | [Company](https://www.grandtheatre.com/event/company) |
 |  | 12:30 | [FMus](/about#FMus) | [Chamber Music Recital Series: Piano Duo](http://www.events.westernu.ca/events/music/2024-02/chamber-music-piano-duo-1.html) |
 |  | 18:00 | [Museum](/about#Museum) | [Black History Slam](https://museumlondon.ca/programs-events/event/10984/) |
@@ -104,8 +98,8 @@ View only a category:
 |  | 19:00 | [LMH](/about#LMH) | [Allison Russell – The Returner Tour](http://londonmusichall.com/events/allison-russell-the-returner-tour/) |
 | Mon Mar 11 | 09:00 | [Museum](/about#Museum) | [ML Kids: Earth Avengers  March Break Camp](https://museumlondon.ca/programs-events/event/10963/) |
 |  | 18:00 | [FMus](/about#FMus) | [Undergraduate Recital - Karen Rui Xin Hu, voice](http://www.events.westernu.ca/events/music/2024-03/student-recital-karen-hu.html) |
-|  | 20:30 | [FMus](/about#FMus) | [Undergraduate Recital - Paul James Cross, trumpet](http://www.events.westernu.ca/events/music/2024-03/student-recital-paul-cross.html) |
 |  | 20:30 | [FMus](/about#FMus) | [Master's Recital - Iris Leck, double bass](http://www.events.westernu.ca/events/music/2024-03/student-recital-iris-leck.html) |
+|  | 20:30 | [FMus](/about#FMus) | [Undergraduate Recital - Paul James Cross, trumpet](http://www.events.westernu.ca/events/music/2024-03/student-recital-paul-cross.html) |
 | Tue Mar 12 |  | [Grand](/about#Grand) | [Clue](https://www.grandtheatre.com/event/clue) |
 |  | 18:00 | [LMH](/about#LMH) | [Gwar](http://londonmusichall.com/events/gwar/) |
 |  | 18:00 | [FMus](/about#FMus) | [Master's Recital - Dayesl Kim, voice](http://www.events.westernu.ca/events/music/2024-03/student-recital-dayesl-kim.html) |
