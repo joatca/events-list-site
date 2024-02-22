@@ -1,6 +1,6 @@
 ---
 title: "Events - culture"
-date: 2024-02-21T00:00:37-05:00
+date: 2024-02-22T00:00:41-05:00
 draft: false
 ---
 
@@ -9,7 +9,8 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Tomorrow (Thu) | 18:00 | [Museum](/about#Museum) | [ML Youth](https://museumlondon.ca/programs-events/event/10974/2024/02/22) |
+| Today (Thu) | 18:00 | [Museum](/about#Museum) | [ML Youth](https://museumlondon.ca/programs-events/event/10974/2024/02/22) |
+|  | 18:00 | [Museum](/about#Museum) | [THE PROMISE – ARCHITECT BV DOSHI a film by Jan Schmidt-Garre](https://museumlondon.ca/programs-events/event/11084/) |
 | Sat Feb 24 |  | [PSFTOff](/about#PSFTOff) | [Take It Easy: The Story of the Eagles](https://psft.ca/event/take-it-easy-the-story-of-the-eagles/) |
 |  | 08:00 | [Museum](/about#Museum) | [Annual Conference – History Symposium](https://museumlondon.ca/programs-events/event/10978/) |
 |  | 12:00 | [Museum](/about#Museum) | [*SOLD OUT* Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10900/) |
