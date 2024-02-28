@@ -1,6 +1,6 @@
 ---
 title: "Events - entertainment"
-date: 2024-02-27T00:00:45-05:00
+date: 2024-02-28T00:00:38-05:00
 draft: false
 ---
 
@@ -9,19 +9,15 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Tue) |  | [BudG](/about#BudG) | [London Lightning vs. Windsor Express](https://www.budweisergardens.com/events/detail/london-lightning-vs-windsor-express-15) |
+| Today (Wed) |  | [BudG](/about#BudG) | [LONDON KNIGHTS VS. OSHAWA GENERALS](https://www.budweisergardens.com/events/detail/london-knights-feb28) |
 |  |  | [Grand](/about#Grand) | [In Seven Days](https://www.grandtheatre.com/event/in-seven-days) |
 |  |  | [Grand](/about#Grand) | [London Gospel Collective 2023/24 Series](https://www.grandtheatre.com/event/london-gospel-collective-2324) |
-|  | 12:30 | [FMus](/about#FMus) | [Studio Recital: Angela Park (piano)](http://www.events.westernu.ca/events/music/2024-02/studio-recital-angela-park.html) |
-|  | 18:00 | [FMus](/about#FMus) | [Studio Recital: Stéphan Sylvestre (piano)](http://www.events.westernu.ca/events/music/2024-02/studio-recital-stephan-sylvestre-1.html) |
-| Tomorrow (Wed) |  | [BudG](/about#BudG) | [LONDON KNIGHTS VS. OSHAWA GENERALS](https://www.budweisergardens.com/events/detail/london-knights-feb28) |
 |  | 18:30 | [LMH](/about#LMH) | [Aaron Pritchett: The Liquored Up Tour](http://londonmusichall.com/events/aaron-pritchett-the-liquored-up-tour/) |
 |  | 20:00 | [FMus](/about#FMus) | [Studio Recital: Mel Martin (violin)](http://www.events.westernu.ca/events/music/2024-02/studio-recital-mel-martin.html) |
-| Thu Feb 29 |  | [Grand](/about#Grand) | [Company](https://www.grandtheatre.com/event/company) |
+| Tomorrow (Thu) |  | [Grand](/about#Grand) | [Company](https://www.grandtheatre.com/event/company) |
 |  | 12:30 | [FMus](/about#FMus) | [Chamber Music Recital Series: Piano Duo](http://www.events.westernu.ca/events/music/2024-02/chamber-music-piano-duo-1.html) |
 |  | 18:00 | [Museum](/about#Museum) | [Black History Slam](https://museumlondon.ca/programs-events/event/10984/) |
 |  | 18:00 | [Museum](/about#Museum) | [ML Youth](https://museumlondon.ca/programs-events/event/10974/2024/02/29) |
-|  | 18:00 | [FMus](/about#FMus) | [Chamber Music Recital Series: String Quartet](http://www.events.westernu.ca/events/music/2024-02/chamber-music-string-quartet-1.html) |
 |  | 19:00 | [LMH](/about#LMH) | [*SOLD OUT* SHAWN DESMAN](http://londonmusichall.com/events/shawn-desman/) |
 |  | 20:00 | [FMus](/about#FMus) | [Studio Recital II: Annette-Barbara Vogel (violin)](http://www.events.westernu.ca/events/music/2024-02/studio-recital-vogel2.html) |
 |  | 20:00 | [FMus](/about#FMus) | [Studio Recital: Brett Kingsbury (piano)](http://www.events.westernu.ca/events/music/2024-02/studio-recital-brett-kingsbury.html) |
@@ -51,6 +47,7 @@ View only a category:
 |  | 18:00 | [FMus](/about#FMus) | [Chamber Music Recital Series: Clarinet/Viola Trio](http://www.events.westernu.ca/events/music/2024-03/chamber-music-clarinet-viola-trio-1.html) |
 |  | 20:00 | [LMH](/about#LMH) | [James Kennedy](http://londonmusichall.com/events/james-kennedy/) |
 |  | 20:00 | [FMus](/about#FMus) | [Chamber Music Recital Series: Clarinet Quartet](http://www.events.westernu.ca/events/music/2024-03/chamber-music-clarinet-quartet-1.html) |
+|  | 20:00 | [FMus](/about#FMus) | [Studio Recital: Stephen Tam (flute)](http://www.events.westernu.ca/events/music/2024-03/studio-recital-stephen-tam.html) |
 | Thu Mar 07 | 13:00 | [FMus](/about#FMus) | [Chamber Music Recital Series: Brass Quintet - NEW TIME](http://www.events.westernu.ca/events/music/2024-03/chamber-music-brass-quintet-1.html) |
 |  | 18:00 | [Museum](/about#Museum) | [ML Youth](https://museumlondon.ca/programs-events/event/10974/2024/03/07) |
 |  | 18:30 | [Aeol](/about#Aeol) | [El Sistema Aeolian Concert				](https://aeolianhall.ca/events/el-sistema-aeolian-concert-2/) |
@@ -73,8 +70,10 @@ View only a category:
 | Sun Mar 10 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Wonderful Weaving](https://museumlondon.ca/programs-events/event/10763/2024/03/10) |
 |  | 14:00 | [Aeol](/about#Aeol) | [Aeolian Classical Series – Kathleen Gahagan				](https://aeolianhall.ca/events/aeolian-classical-series-kathleen-gahagan/) |
 |  | 14:00 | [FMus](/about#FMus) | [Opera at Western: Albert Herring](http://www.events.westernu.ca/events/music/2024-03/opera-albert-herring-4.html) |
+|  | 15:00 | [FMus](/about#FMus) | [Chamber Music Recital Series: String Quartet - NEW DATE](http://www.events.westernu.ca/events/music/2024-02/chamber-music-string-quartet-1.html) |
 |  | 19:00 | [LMH](/about#LMH) | [Allison Russell – The Returner Tour](http://londonmusichall.com/events/allison-russell-the-returner-tour/) |
-| Mon Mar 11 | 09:00 | [Museum](/about#Museum) | [ML Kids: Earth Avengers  March Break Camp](https://museumlondon.ca/programs-events/event/10963/) |
+| Mon Mar 11 |  | [BudG](/about#BudG) | [London Lightning vs. Glass City Wranglers](https://www.budweisergardens.com/events/detail/london-lightning-vs-kw-titans-20) |
+|  | 09:00 | [Museum](/about#Museum) | [ML Kids: Earth Avengers  March Break Camp](https://museumlondon.ca/programs-events/event/10963/) |
 |  | 18:00 | [FMus](/about#FMus) | [Undergraduate Recital - Karen Rui Xin Hu, voice](http://www.events.westernu.ca/events/music/2024-03/student-recital-karen-hu.html) |
 |  | 20:30 | [FMus](/about#FMus) | [Master's Recital - Iris Leck, double bass](http://www.events.westernu.ca/events/music/2024-03/student-recital-iris-leck.html) |
 |  | 20:30 | [FMus](/about#FMus) | [Undergraduate Recital - Paul James Cross, trumpet](http://www.events.westernu.ca/events/music/2024-03/student-recital-paul-cross.html) |
@@ -85,11 +84,12 @@ View only a category:
 |  | 16:00 | [FMus](/about#FMus) | [Master's Recital - Shu Chen, piano](http://www.events.westernu.ca/events/music/2024-03/student-recital-shu-chen.html) |
 |  | 18:00 | [FMus](/about#FMus) | [Undergraduate Recital - Tung Xuan Ngo, piano](http://www.events.westernu.ca/events/music/2024-03/student-recital-tung-ngo.html) |
 | Thu Mar 14 | 19:00 | [LMH](/about#LMH) | [Jeremie Albino – The Long Road Home Tour 2024](http://londonmusichall.com/events/jeremie-albino-when-the-long-road-home-tour-2024/) |
-| Fri Mar 15 | 12:30 | [FMus](/about#FMus) | [Percussion Ensemble: Spring Concert](http://www.events.westernu.ca/events/music/2024-03/percussion-ensemble-spring-1.html) |
-|  | 12:30 | [FMus](/about#FMus) | [Fridays at 12:30 Concert Series: Cara Lianne McLeod, soprano](http://www.events.westernu.ca/events/music/2024-03/fridays-at-1230-mcleod.html) |
+| Fri Mar 15 | 12:30 | [FMus](/about#FMus) | [Fridays at 12:30 Concert Series: Cara Lianne McLeod, soprano](http://www.events.westernu.ca/events/music/2024-03/fridays-at-1230-mcleod.html) |
+|  | 12:30 | [FMus](/about#FMus) | [Percussion Ensemble: Spring Concert](http://www.events.westernu.ca/events/music/2024-03/percussion-ensemble-spring-1.html) |
 |  | 19:00 | [LMH](/about#LMH) | [BRKN LOVE & Royal Tusk](http://londonmusichall.com/events/brkn-love-royal-tusk-the-northern-lights-co-headline-tour/) |
 |  | 19:30 | [FMus](/about#FMus) | [Percussion Ensemble: Spring Concert](http://www.events.westernu.ca/events/music/2024-03/percussion-ensemble-spring-2.html) |
 | Sat Mar 16 | 12:00 | [Museum](/about#Museum) | [Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10904/) |
+|  | 22:00 | [LMH](/about#LMH) | [Trust x Lies @ System Saturdays](http://londonmusichall.com/events/trust-x-lies-system-saturdays/) |
 | Sun Mar 17 |  | [Grand](/about#Grand) | [Maggie's Wake](https://www.grandtheatre.com/event/maggies-wake) |
 |  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Wonderful Weaving](https://museumlondon.ca/programs-events/event/10763/2024/03/17) |
 |  | 19:00 | [LMH](/about#LMH) | [CORB LUND: THE EL VIEJO RELEASE TOUR](http://londonmusichall.com/events/corb-lund-the-el-viejo-release-tour/) |
@@ -99,7 +99,6 @@ View only a category:
 | Tue Mar 19 | 12:30 | [FMus](/about#FMus) | [Master's Recital - Chaoyang Dong, violin](http://www.events.westernu.ca/events/music/2024-03/student-recital-chaoyang-dong.html) |
 |  | 16:00 | [FMus](/about#FMus) | [Doctoral Recital - Sing Yuan Liew, piano](http://www.events.westernu.ca/events/music/2024-03/student-recital-sing-yan-liew.html) |
 |  | 18:00 | [LMH](/about#LMH) | [KOYO, One Step Closer, & Anxious](http://londonmusichall.com/events/koyo-one-step-closer-anxious-stateside/) |
-|  | 18:00 | [FMus](/about#FMus) | [Undergraduate Recital - E. Von Hafenbradl, piano - DEFERRED](http://www.events.westernu.ca/events/music/2024-03/student-recital-Elis-Hafenbradl.html) |
 |  | 20:30 | [FMus](/about#FMus) | [Master's Recital - Danielle McAfee, saxophone](http://www.events.westernu.ca/events/music/2024-03/student-recital-danielle-mcafee.html) |
 | Wed Mar 20 | 12:30 | [FMus](/about#FMus) | [Undergraduate Recital - Maja Zbogar, piano](http://www.events.westernu.ca/events/music/2024-03/student-recital-maja-zbogar.html) |
 |  | 14:30 | [Museum](/about#Museum) | [Culture Club with Dan Ebbs and Diane Morrow, Crazy Beautiful People](https://museumlondon.ca/programs-events/event/11024/) |
@@ -123,8 +122,8 @@ View only a category:
 |  | 20:30 | [FMus](/about#FMus) | [Master's Recital - Rong (Rose) Guo, clarinet](http://www.events.westernu.ca/events/music/2024-03/student-recital-rose-guo.html) |
 | Sat Mar 23 | 14:00 | [FMus](/about#FMus) | [Doctoral Recital - Erica Simone, voice](http://www.events.westernu.ca/events/music/2024-03/student-recital-erica-simone.html) |
 |  | 16:00 | [FMus](/about#FMus) | [Doctoral Recital - Sunjoo Han, piano](http://www.events.westernu.ca/events/music/2024-03/student-recital-sunjoo-han.html) |
-|  | 18:00 | [FMus](/about#FMus) | [Undergraduate Recital - Erin Ruth Van Dyke, violin](http://www.events.westernu.ca/events/music/2024-03/student-recital-erin-van-dyke.html) |
 |  | 18:00 | [FMus](/about#FMus) | [Master's Recital - Kevin Allen Weiss, clarinet](http://www.events.westernu.ca/events/music/2024-03/student-recital-kevin-allen-weiss.html) |
+|  | 18:00 | [FMus](/about#FMus) | [Undergraduate Recital - Erin Ruth Van Dyke, violin](http://www.events.westernu.ca/events/music/2024-03/student-recital-erin-van-dyke.html) |
 |  | 19:30 | [FMus](/about#FMus) | [Chorale/Western University Singers/London Gospel Collective](http://www.events.westernu.ca/events/music/2024-03/chorale-wus-lgc.html) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Elvis – One Night With You				](https://aeolianhall.ca/events/elvis-one-night-with-you/) |
 |  | 20:30 | [FMus](/about#FMus) | [Master's Recital - Natalia Maria Jordan-Rozwadowski, voice](http://www.events.westernu.ca/events/music/2024-03/student-recital-rozwadowski.html) |
@@ -137,10 +136,21 @@ View only a category:
 |  | 18:00 | [FMus](/about#FMus) | [Master's Recital - Jiajing Zhou, voice](http://www.events.westernu.ca/events/music/2024-03/student-recital-jiajing-zhou.html) |
 |  | 20:30 | [FMus](/about#FMus) | [Doctoral Recital - Bing Jillian Yang, violin](http://www.events.westernu.ca/events/music/2024-03/student-recital-bing-jillian-yang.html) |
 |  | 20:30 | [FMus](/about#FMus) | [Undergraduate Recital - Aidan Andrew Hawkins, piano](http://www.events.westernu.ca/events/music/2024-03/student-recital-aidan-andrew-hawkins.html) |
-| Wed Mar 27 | 20:00 | [Aeol](/about#Aeol) | [Kevin Drew – Aging				](https://aeolianhall.ca/events/kevin-drew-aging/) |
-| Thu Mar 28 | 18:00 | [Museum](/about#Museum) | [ML Youth](https://museumlondon.ca/programs-events/event/10974/2024/03/28) |
+| Wed Mar 27 | 16:00 | [FMus](/about#FMus) | [Master's Recital - Paul Schulz-Courtemanche, flute](http://www.events.westernu.ca/events/music/2024-03/student-recital-courtemanche.html) |
+|  | 18:00 | [FMus](/about#FMus) | [Doctoral Recital - Yanet Campbell Secades, violin](http://www.events.westernu.ca/events/music/2024-03/student-recital-yanet-campbell-secades.html) |
+|  | 19:00 | [LMH](/about#LMH) | [Comeback Kid](http://londonmusichall.com/events/comeback-kid-2/) |
+|  | 19:30 | [FMus](/about#FMus) | [Chorale and Les Choristes Concert: United in Song](http://www.events.westernu.ca/events/music/2024-03/chorale-les-choristes.html) |
+|  | 20:00 | [Aeol](/about#Aeol) | [Kevin Drew – Aging				](https://aeolianhall.ca/events/kevin-drew-aging/) |
+|  | 20:30 | [FMus](/about#FMus) | [Master's Recital - Feiyang Yu, piano](http://www.events.westernu.ca/events/music/2024-03/student-recital-feiyang-yu.html) |
+|  | 20:30 | [FMus](/about#FMus) | [Undergraduate Recital - Yuye Ma, violin](http://www.events.westernu.ca/events/music/2024-03/student-recital-yuye-ma.html) |
+| Thu Mar 28 | 12:30 | [FMus](/about#FMus) | [Master's Recital - Xue Li, piano](http://www.events.westernu.ca/events/music/2024-03/student-recital-xue-li.html) |
+|  | 16:00 | [FMus](/about#FMus) | [Master's Recital - Chun Hin (Eric) Chan, piano](http://www.events.westernu.ca/events/music/2024-03/student-recital-eric-chan.html) |
+|  | 18:00 | [Museum](/about#Museum) | [ML Youth](https://museumlondon.ca/programs-events/event/10974/2024/03/28) |
+|  | 18:00 | [FMus](/about#FMus) | [Undergraduate Recital - Elizabeth Dawn Tucker, oboe](http://www.events.westernu.ca/events/music/2024-03/student-recital-elizabeth-tucker.html) |
+|  | 18:00 | [FMus](/about#FMus) | [Master's Recital - ZiYi Zack Guo, viola](http://www.events.westernu.ca/events/music/2024-03/student-recital-zack-guo.html) |
 |  | 19:00 | [LMH](/about#LMH) | [*SOLD OUT* Warren Zeiders](http://londonmusichall.com/events/warren-zeiders/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Ariel Posen				](https://aeolianhall.ca/events/ariel-posen/) |
+|  | 20:00 | [FMus](/about#FMus) | [Studio Recital: Annette-Barbara Vogel (violin)](http://www.events.westernu.ca/events/music/2024-03/studio-recital-vogel3.html) |
 | Sat Mar 30 | 22:00 | [LMH](/about#LMH) | [Le Youth @ System Saturdays](http://londonmusichall.com/events/le-youth-system-saturdays/) |
 | Wed Apr 03 | 14:30 | [Museum](/about#Museum) | [Culture Club with Dr. Amber Lloydlangston, Causing a Ferment](https://museumlondon.ca/programs-events/event/11027/) |
 |  | 19:00 | [LMH](/about#LMH) | [Lil Xan – The Return Tour](http://londonmusichall.com/events/lil-xan/) |

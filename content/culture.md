@@ -1,6 +1,6 @@
 ---
 title: "Events - culture"
-date: 2024-02-27T00:00:45-05:00
+date: 2024-02-28T00:00:38-05:00
 draft: false
 ---
 
@@ -9,7 +9,7 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Thu Feb 29 | 18:00 | [Museum](/about#Museum) | [Black History Slam](https://museumlondon.ca/programs-events/event/10984/) |
+| Tomorrow (Thu) | 18:00 | [Museum](/about#Museum) | [Black History Slam](https://museumlondon.ca/programs-events/event/10984/) |
 |  | 18:00 | [Museum](/about#Museum) | [ML Youth](https://museumlondon.ca/programs-events/event/10974/2024/02/29) |
 | Sat Mar 02 |  | [PSFTOff](/about#PSFTOff) | [Pirates Past Noon Kids](https://psft.ca/event/pirates-past-noon-kids/) |
 |  | 12:00 | [Museum](/about#Museum) | [*SOLD OUT* Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10902/) |

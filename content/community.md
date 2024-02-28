@@ -1,6 +1,6 @@
 ---
 title: "Events - community"
-date: 2024-02-27T00:00:45-05:00
+date: 2024-02-28T00:00:38-05:00
 draft: false
 ---
 
@@ -9,18 +9,15 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Tue) | 09:30 | [City](/about#City) | [Dearness Home Committee of Management - February 27, 2024](https://london.ca/government/calendar/dearness-home-committee-management-february-27-2024) |
-|  | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - CANCELLED - February 27, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-cancelled-february-27-2024) |
-|  | 15:00 | [Maker](/about#Maker) | [Open Studio](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-3z438) |
-|  | 16:00 | [City](/about#City) | [Budget Committee - Public Participation Meeting - February 27, 2024](https://london.ca/government/calendar/budget-committee-public-participation-meeting-february-27-2024) |
-|  | 19:30 | [Maker](/about#Maker) | [Candle Making Workshop](https://www.hellomaker.ca/events/candleworkshop) |
-| Tomorrow (Wed) |  | [RBCP](/about#RBCP) | [AOLS 132nd Annual General Meeting](https://www.rbcplacelondon.com/events/aols-132nd-annual-general-meeting-february-28-march-1) |
+| Today (Wed) |  | [Maker](/about#Maker) | [Open Studio](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-3z438) |
+|  |  | [Maker](/about#Maker) | [Candle Making Workshop](https://www.hellomaker.ca/events/candleworkshop) |
+|  |  | [RBCP](/about#RBCP) | [AOLS 132nd Annual General Meeting](https://www.rbcplacelondon.com/events/aols-132nd-annual-general-meeting-february-28-march-1) |
 |  | 12:00 | [Maker](/about#Maker) | [Mini Weaving workshop](https://www.hellomaker.ca/events/irqu905qi77vqjbol00gy0uc19ja68-gns73-fhhpr-najh8-yc3gg-6bcww-pjpfr-nfd4a-xspb5) |
 |  | 18:00 | [Maker](/about#Maker) | [Ink Making Workshop](https://www.hellomaker.ca/events/xel7kcn9gpcpldh-9l69t-9d4lx-febmn-w6ncz-ee7m5-g8ynt-kd8lc) |
 |  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-02-28) |
-| Thu Feb 29 | 12:00 | [Maker](/about#Maker) | [Candle Making Workshop ](https://www.hellomaker.ca/events/candleworkshop-8rmrf) |
-|  | 13:30 | [City](/about#City) | [Committee of Adjustment - February 29, 2024](https://london.ca/government/calendar/committee-adjustment-february-29-2024) |
+| Tomorrow (Thu) | 12:00 | [Maker](/about#Maker) | [Candle Making Workshop ](https://www.hellomaker.ca/events/candleworkshop-8rmrf) |
 |  | 13:30 | [City](/about#City) | [Special Council Meeting - February 29, 2024](https://london.ca/government/calendar/special-council-meeting-february-29-2024) |
+|  | 13:30 | [City](/about#City) | [Committee of Adjustment - February 29, 2024](https://london.ca/government/calendar/committee-adjustment-february-29-2024) |
 |  | 13:30 | [Maker](/about#Maker) | [Wax Melt workshop ](https://www.hellomaker.ca/events/waxmeltworkshop-nl5l9) |
 |  | 18:00 | [Maker](/about#Maker) | [Punch Needle Workshop](https://www.hellomaker.ca/events/zfvpxsej5j9u9z39dn0cn9q7v6q0nk-22x5e-fjxkf-d3gmb-5w3kx-9mnfb-wpp2w-rz2z2-343nh-zs6pt-ewwxe-ksahp-menef-dm93d-ypxsp-rcc5e-zmxbp-zwhtx-trff9-7sbzh-5e67z-tte7w-39x2s) |
 | Fri Mar 01 | 18:30 | [Info](/about#Info) | [Free Drop-In Basketball for Youth](https://www.informationlondon.ca/Event/Detail/49394/Free_Drop-In_Basketball_for_Youth?date=2024-03-01) |
@@ -54,6 +51,7 @@ View only a category:
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - March 19, 2024](https://london.ca/government/calendar/planning-environment-committee-march-19-2024) |
 |  | 19:30 | [Maker](/about#Maker) | [Floral Resin Jewlery](https://www.hellomaker.ca/events/waxmeltworkshop-d3wr2-rt83p-tghwl-y5h35) |
 | Wed Mar 20 | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-03-20) |
+| Thu Mar 21 | 13:30 | [City](/about#City) | [Committee of Adjustment  - March 21, 2024](https://london.ca/government/calendar/committee-adjustment-march-21-2024) |
 | Fri Mar 22 | 18:30 | [Info](/about#Info) | [Free Drop-In Basketball for Youth](https://www.informationlondon.ca/Event/Detail/49394/Free_Drop-In_Basketball_for_Youth?date=2024-03-22) |
 | Sat Mar 23 |  | [PSFTOff](/about#PSFTOff) | [Green River Revival](https://psft.ca/event/green-river-revival/) |
 | Mon Mar 25 | 10:00 | [City](/about#City) | [Governance Working Group - March 25, 2024](https://london.ca/government/calendar/governance-working-group-march-25-2024) |
@@ -103,11 +101,13 @@ View only a category:
 |  | 12:00 | [Maker](/about#Maker) | [Punch Needle Workshop ](https://www.hellomaker.ca/events/zfvpxsej5j9u9z39dn0cn9q7v6q0nk-22x5e-fjxkf-d3gmb-5w3kx-9mnfb-wpp2w-rz2z2-343nh-zs6pt-ewwxe-ksahp-menef-dm93d-ypxsp-rcc5e-zmxbp-zwhtx-trff9-7sbzh-5e67z-tte7w-39x2s-bkc5m-7abfj-56y82-8fbh7) |
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - April 30, 2024](https://london.ca/government/calendar/planning-environment-committee-april-30-2024) |
 |  | 19:00 | [Maker](/about#Maker) | [Embroidery 101: Custom Portrait ](https://www.hellomaker.ca/events/irqu905qi77vqjbol00gy0uc19ja68-gns73-fhhpr-najh8-yc3gg-6bcww-pjpfr-nfd4a-xy52p-b6wsn-8a9ra-c7hyd) |
+| Wed May 01 |  | [RBCP](/about#RBCP) | [37th Annual Geriatric Medicine Refresher Day](https://www.rbcplacelondon.com/events/37th-annual-geriatric-medicine-refresher-day-may-1) |
 | Thu May 02 | 17:30 | [Maker](/about#Maker) | [Flower pressing](https://www.hellomaker.ca/events/flowerpressingworkshop) |
 |  | 19:30 | [Maker](/about#Maker) | [Floral Resin Jewlery ](https://www.hellomaker.ca/events/waxmeltworkshop-d3wr2-rt83p-tghwl-y5h35-nx3xn-w3l69) |
 | Sat May 04 |  | [PSFTOff](/about#PSFTOff) | [The Music Man JR.](https://psft.ca/event/the-music-man-jr/) |
 | Mon May 06 | 13:00 | [City](/about#City) | [Corporate Services Committee - May 06, 2024](https://london.ca/government/calendar/corporate-services-committee-may-06-2024) |
-| Tue May 07 | 13:00 | [Info](/about#Info) | [The Art and Science of Survey Design  2024](https://www.informationlondon.ca/Event/Detail/49241/The_Art_and_Science_of_Survey_Design_2024?date=2024-05-07) |
+| Tue May 07 |  | [RBCP](/about#RBCP) | [St. Joseph's Healthcare Foundation Breakfast of Champions](https://www.rbcplacelondon.com/events/st-josephs-healthcare-foundation-breakfast-champions-may-7) |
+|  | 13:00 | [Info](/about#Info) | [The Art and Science of Survey Design  2024](https://www.informationlondon.ca/Event/Detail/49241/The_Art_and_Science_of_Survey_Design_2024?date=2024-05-07) |
 |  | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - May 07, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-may-07-2024) |
 |  | 19:30 | [Maker](/about#Maker) | [Collage Art Notebook ](https://www.hellomaker.ca/events/irqu905qi77vqjbol00gy0uc19ja68-gns73-fhhpr-najh8-yc3gg-6bcww-pjpfr-nfd4a-xy52p-b6wsn-le4b7-kxxh7) |
 | Mon May 13 | 10:00 | [City](/about#City) | [Governance Working Group - May 13, 2024](https://london.ca/government/calendar/governance-working-group-may-13-2024) |
