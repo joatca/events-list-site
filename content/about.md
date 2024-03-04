@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2024-03-03T00:01:11-05:00
+date: 2024-03-04T00:00:32-05:00
 draft: false
 ---
 
@@ -17,16 +17,16 @@ This page knows about events on these sites.
 | **Cent** | [Centennial Hall]() | *Not supported: website not sufficiently structured to process*
 | **City** | [London City Government Calendar](https://london.ca/government/calendar) | *57 events found*
 | **Eldon** | [Eldon House](https://eldonhouse.ca/events/) | *Error: unable to fetch any events*
-| **FMus** | [Don Wright Faculty of Music](http://www.events.westernu.ca/events/music/) | *86 events found*
+| **FMus** | [Don Wright Faculty of Music](http://www.events.westernu.ca/events/music/) | *96 events found*
 | **Grand** | [Grand Theatre](https://www.grandtheatre.com/events) | *15 events found*
 | **Info** | [Information London](https://www.informationlondon.ca/Event/List) | *36 events found*
-| **LMH** | [London Music Hall](http://londonmusichall.com/upcoming-events/) | *42 events found*
-| **Maker** | [Hello Maker](https://www.hellomaker.ca/events) | *Error: unable to fetch any events*
-| **Museum** | [Museum London](https://museumlondon.ca/programs-events) | *30 events found*
+| **LMH** | [London Music Hall](http://londonmusichall.com/upcoming-events/) | *41 events found*
+| **Maker** | [Hello Maker](https://www.hellomaker.ca/events) | *38 events found*
+| **Museum** | [Museum London](https://museumlondon.ca/programs-events) | *29 events found*
 | **PSFT** | [Post Stanley Festival Theatre - Summer Season](https://psft.ca/schedule/summer-season/) | *6 events found*
 | **PSFTOff** | [Post Stanley Festival Theatre - Off Season](https://psft.ca/schedule/off-season-events/) | *11 events found*
 | **RBCP** | [RBP Place](https://www.rbcplacelondon.com/events) | *Error: unable to fetch any events*
 | **TVDSB** | [Thames Valley District School Board](https://calendar.tvdsb.ca/) | *Error: unable to fetch any events*
-| **Tour** | [Tourism London](https://www.londontourism.ca/events/all-events) | *69 events found*
+| **Tour** | [Tourism London](https://www.londontourism.ca/events/all-events) | *12 events found*
 
-_Last updated 2024-03-03 00:01:11 -0500_
+_Last updated 2024-03-04 00:00:32 -0500_
