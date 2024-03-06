@@ -1,6 +1,6 @@
 ---
 title: "Events - culture"
-date: 2024-03-05T00:00:37-05:00
+date: 2024-03-06T00:00:43-05:00
 draft: false
 ---
 
@@ -9,7 +9,7 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Thu Mar 07 | 18:00 | [Museum](/about#Museum) | [ML Youth](https://museumlondon.ca/programs-events/event/10974/2024/03/07) |
+| Tomorrow (Thu) | 18:00 | [Museum](/about#Museum) | [ML Youth](https://museumlondon.ca/programs-events/event/10974/2024/03/07) |
 |  | 19:00 | [Museum](/about#Museum) | [Magisterra at the Museum: Masterworks - Café Music](https://museumlondon.ca/programs-events/event/11389/) |
 | Sat Mar 09 | 15:30 | [Museum](/about#Museum) | [Human Connection: with Ruth Douthwright](https://museumlondon.ca/programs-events/event/11044/) |
 | Sun Mar 10 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Wonderful Weaving](https://museumlondon.ca/programs-events/event/10763/2024/03/10) |
