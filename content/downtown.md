@@ -1,6 +1,6 @@
 ---
 title: "Events - downtown"
-date: 2024-03-16T00:00:44-04:00
+date: 2024-03-17T00:00:49-04:00
 draft: false
 ---
 
@@ -9,16 +9,8 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Sat) |  | [Grand](/about#Grand) | [Clue](https://www.grandtheatre.com/event/clue) |
-|  | 09:00 | [CGM](/about#CGM) | [Maple Fest! 🍁](https://coventmarket.com/event/maple-syrup-festival/) |
-|  | 11:00 | [CGM](/about#CGM) | [Nowruz Persian Bazaar](https://coventmarket.com/event/calling-all-vendors-naw-ruz-bazaar/) |
-|  | 11:00 | [CMus](/about#CMus) | [STEAM: Engineering Madness](https://www.londonchildrensmuseum.ca/event/steam-engineering-madness) |
-|  | 12:00 | [Museum](/about#Museum) | [*SOLD OUT* Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10904/) |
-|  | 12:30 | [CGM](/about#CGM) | [Goggin Carroll Irish Dance Performance](https://coventmarket.com/event/goggin-carroll-irish-dance-performance/) |
-|  | 13:00 | [CMus](/about#CMus) | [Mosaic Tiles with Susan Day](https://www.londonchildrensmuseum.ca/event/mosaic-tiles-susan-day) |
-|  | 14:30 | [CMus](/about#CMus) | [STEAM: Engineering Madness](https://www.londonchildrensmuseum.ca/event/steam-engineering-madness) |
-|  | 22:00 | [LMH](/about#LMH) | [Truth x Lies @ System Saturdays](http://londonmusichall.com/events/trust-x-lies-system-saturdays/) |
-| Tomorrow (Sun) |  | [BudG](/about#BudG) | [London Lightning vs. KW Titans](https://www.budweisergardens.com/events/detail/london-lightning-vs-kw-titans-19) |
+| Today (Sun) |  | [BudG](/about#BudG) | [London Lightning vs. KW Titans](https://www.budweisergardens.com/events/detail/london-lightning-vs-kw-titans-19) |
+|  |  | [Grand](/about#Grand) | [Clue](https://www.grandtheatre.com/event/clue) |
 |  |  | [Grand](/about#Grand) | [Maggie's Wake](https://www.grandtheatre.com/event/maggies-wake) |
 |  | 09:00 | [CGM](/about#CGM) | [Morning Yoga](https://coventmarket.com/event/yoga-class-2-2-3/) |
 |  | 11:00 | [CMus](/about#CMus) | [STEAM: Engineering Madness](https://www.londonchildrensmuseum.ca/event/steam-engineering-madness) |
@@ -84,8 +76,8 @@ View only a category:
 |  | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
 |  | 10:00 | [Info](/about#Info) | [26th Annual Easter Egg Hunt for Dogs](https://www.informationlondon.ca/Event/Detail/49639/26th_Annual_Easter_Egg_Hunt_for_Dogs?date=2024-03-29) |
 | Sat Mar 30 |  | [BudG](/about#BudG) | [AEW COLLISION](https://www.budweisergardens.com/events/detail/aew-collision) |
-|  | 08:00 | [CGM](/about#CGM) | [Outdoor Easter Market](https://coventmarket.com/event/4032/) |
 |  | 08:00 | [CGM](/about#CGM) | [Morning Yoga](https://coventmarket.com/event/yoga-class-2-2-3-3/) |
+|  | 08:00 | [CGM](/about#CGM) | [Outdoor Easter Market](https://coventmarket.com/event/4032/) |
 |  | 09:30 | [CGM](/about#CGM) | [Free Kids Zone](https://coventmarket.com/event/free-kids-zone-2/) |
 |  | 11:00 | [CGM](/about#CGM) | [Soca Dance Fitness Class](https://coventmarket.com/event/soca-dance-fitness-class-2/) |
 |  | 11:00 | [CMus](/about#CMus) | [STEAM: Egg Drop](https://www.londonchildrensmuseum.ca/event/steam-egg-drop) |

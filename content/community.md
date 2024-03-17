@@ -1,6 +1,6 @@
 ---
 title: "Events - community"
-date: 2024-03-16T00:00:44-04:00
+date: 2024-03-17T00:00:49-04:00
 draft: false
 ---
 
@@ -9,9 +9,7 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Sat) |  | [PSFTOff](/about#PSFTOff) | [Brothers’ Gibb The Bee Gees Story](https://psft.ca/event/brothers-gibb-the-bee-gees-story/) |
-|  |  | [RBCP](/about#RBCP) | [I❤︎BEER & Taco Festival](https://www.rbcplacelondon.com/events/ibeer-taco-festival-march-15-16) |
-| Mon Mar 18 | 13:00 | [City](/about#City) | [Community and Protective Services Committee - March 18, 2024](https://london.ca/government/calendar/community-protective-services-committee-march-18-2024) |
+| Tomorrow (Mon) | 13:00 | [City](/about#City) | [Community and Protective Services Committee - March 18, 2024](https://london.ca/government/calendar/community-protective-services-committee-march-18-2024) |
 | Tue Mar 19 |  | [RBCP](/about#RBCP) | [Grain Farmers of Ontario 2024 March Classic](https://www.rbcplacelondon.com/events/grain-farmers-ontario-2024-march-classic-march-19) |
 |  | 09:30 | [City](/about#City) | [Civic Works Committee - March 19, 2024](https://london.ca/government/calendar/civic-works-committee-march-19-2024) |
 |  | 12:00 | [Maker](/about#Maker) | [Crochet 101: Mastering Stitches, Colors, and Finishing Touches](https://www.hellomaker.ca/events/crochet101) |

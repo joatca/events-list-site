@@ -1,6 +1,6 @@
 ---
 title: "Events - entertainment"
-date: 2024-03-16T00:00:44-04:00
+date: 2024-03-17T00:00:49-04:00
 draft: false
 ---
 
@@ -9,15 +9,13 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Sat) |  | [Grand](/about#Grand) | [Clue](https://www.grandtheatre.com/event/clue) |
-|  | 12:00 | [Museum](/about#Museum) | [*SOLD OUT* Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10904/) |
-|  | 22:00 | [LMH](/about#LMH) | [Truth x Lies @ System Saturdays](http://londonmusichall.com/events/trust-x-lies-system-saturdays/) |
-| Tomorrow (Sun) |  | [BudG](/about#BudG) | [London Lightning vs. KW Titans](https://www.budweisergardens.com/events/detail/london-lightning-vs-kw-titans-19) |
+| Today (Sun) |  | [BudG](/about#BudG) | [London Lightning vs. KW Titans](https://www.budweisergardens.com/events/detail/london-lightning-vs-kw-titans-19) |
+|  |  | [Grand](/about#Grand) | [Clue](https://www.grandtheatre.com/event/clue) |
 |  |  | [Grand](/about#Grand) | [Maggie's Wake](https://www.grandtheatre.com/event/maggies-wake) |
 |  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Wonderful Weaving](https://museumlondon.ca/programs-events/event/10763/2024/03/17) |
 |  | 14:00 | [Museum](/about#Museum) | [Sunday Exhibition Tours](https://museumlondon.ca/programs-events/event/9394/2024/03/17) |
 |  | 19:00 | [LMH](/about#LMH) | [CORB LUND: THE EL VIEJO RELEASE TOUR](http://londonmusichall.com/events/corb-lund-the-el-viejo-release-tour/) |
-| Mon Mar 18 | 16:00 | [FMus](/about#FMus) | [Master's Recital - Yixuan Fang, voice](http://www.events.westernu.ca/events/music/2024-03/student-recital-yixuan-fang.html) |
+| Tomorrow (Mon) | 16:00 | [FMus](/about#FMus) | [Master's Recital - Yixuan Fang, voice](http://www.events.westernu.ca/events/music/2024-03/student-recital-yixuan-fang.html) |
 |  | 18:00 | [FMus](/about#FMus) | [Master's Recital - Emma Heaton, voice](http://www.events.westernu.ca/events/music/2024-03/student-recital-Emma-Heaton.html) |
 |  | 20:00 | [FMus](/about#FMus) | [Doctoral Recital - Paul Stevenson, trumpet](http://www.events.westernu.ca/events/music/2024-03/student-recital-Paul-Stevenson.html) |
 | Tue Mar 19 |  | [BudG](/about#BudG) | [London Lightning vs. Kokomo Bobkats](https://www.budweisergardens.com/events/detail/london-lightning-vs-kokomo-bobkats) |
