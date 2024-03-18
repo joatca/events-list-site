@@ -1,6 +1,6 @@
 ---
 title: "Events - kids"
-date: 2024-03-17T00:00:49-04:00
+date: 2024-03-18T00:00:36-04:00
 draft: false
 ---
 
@@ -9,9 +9,7 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Sun) | 11:00 | [CMus](/about#CMus) | [STEAM: Engineering Madness](https://www.londonchildrensmuseum.ca/event/steam-engineering-madness) |
-|  | 14:30 | [CMus](/about#CMus) | [STEAM: Engineering Madness](https://www.londonchildrensmuseum.ca/event/steam-engineering-madness) |
-| Tue Mar 19 | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
+| Tomorrow (Tue) | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
 |  | 17:00 | [CMus](/about#CMus) | [Sensory Friendly Evening](https://www.londonchildrensmuseum.ca/event/sensory-friendly-evening) |
 | Wed Mar 20 | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
 | Thu Mar 21 | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |

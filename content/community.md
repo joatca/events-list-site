@@ -1,6 +1,6 @@
 ---
 title: "Events - community"
-date: 2024-03-17T00:00:49-04:00
+date: 2024-03-18T00:00:36-04:00
 draft: false
 ---
 
@@ -9,8 +9,8 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Tomorrow (Mon) | 13:00 | [City](/about#City) | [Community and Protective Services Committee - March 18, 2024](https://london.ca/government/calendar/community-protective-services-committee-march-18-2024) |
-| Tue Mar 19 |  | [RBCP](/about#RBCP) | [Grain Farmers of Ontario 2024 March Classic](https://www.rbcplacelondon.com/events/grain-farmers-ontario-2024-march-classic-march-19) |
+| Today (Mon) | 13:00 | [City](/about#City) | [Community and Protective Services Committee - March 18, 2024](https://london.ca/government/calendar/community-protective-services-committee-march-18-2024) |
+| Tomorrow (Tue) |  | [RBCP](/about#RBCP) | [Grain Farmers of Ontario 2024 March Classic](https://www.rbcplacelondon.com/events/grain-farmers-ontario-2024-march-classic-march-19) |
 |  | 09:30 | [City](/about#City) | [Civic Works Committee - March 19, 2024](https://london.ca/government/calendar/civic-works-committee-march-19-2024) |
 |  | 12:00 | [Maker](/about#Maker) | [Crochet 101: Mastering Stitches, Colors, and Finishing Touches](https://www.hellomaker.ca/events/crochet101) |
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - March 19, 2024](https://london.ca/government/calendar/planning-environment-committee-march-19-2024) |

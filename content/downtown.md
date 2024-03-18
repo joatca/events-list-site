@@ -1,6 +1,6 @@
 ---
 title: "Events - downtown"
-date: 2024-03-17T00:00:49-04:00
+date: 2024-03-18T00:00:36-04:00
 draft: false
 ---
 
@@ -9,16 +9,8 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Sun) |  | [BudG](/about#BudG) | [London Lightning vs. KW Titans](https://www.budweisergardens.com/events/detail/london-lightning-vs-kw-titans-19) |
-|  |  | [Grand](/about#Grand) | [Clue](https://www.grandtheatre.com/event/clue) |
-|  |  | [Grand](/about#Grand) | [Maggie's Wake](https://www.grandtheatre.com/event/maggies-wake) |
-|  | 09:00 | [CGM](/about#CGM) | [Morning Yoga](https://coventmarket.com/event/yoga-class-2-2-3/) |
-|  | 11:00 | [CMus](/about#CMus) | [STEAM: Engineering Madness](https://www.londonchildrensmuseum.ca/event/steam-engineering-madness) |
-|  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Wonderful Weaving](https://museumlondon.ca/programs-events/event/10763/2024/03/17) |
-|  | 14:00 | [Museum](/about#Museum) | [Sunday Exhibition Tours](https://museumlondon.ca/programs-events/event/9394/2024/03/17) |
-|  | 14:30 | [CMus](/about#CMus) | [STEAM: Engineering Madness](https://www.londonchildrensmuseum.ca/event/steam-engineering-madness) |
-|  | 19:00 | [LMH](/about#LMH) | [CORB LUND: THE EL VIEJO RELEASE TOUR](http://londonmusichall.com/events/corb-lund-the-el-viejo-release-tour/) |
-| Tue Mar 19 |  | [BudG](/about#BudG) | [London Lightning vs. Kokomo Bobkats](https://www.budweisergardens.com/events/detail/london-lightning-vs-kokomo-bobkats) |
+| Today (Mon) |  | [Grand](/about#Grand) | [Clue](https://www.grandtheatre.com/event/clue) |
+| Tomorrow (Tue) |  | [BudG](/about#BudG) | [London Lightning vs. Kokomo Bobkats](https://www.budweisergardens.com/events/detail/london-lightning-vs-kokomo-bobkats) |
 |  | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
 |  | 17:00 | [CMus](/about#CMus) | [Sensory Friendly Evening](https://www.londonchildrensmuseum.ca/event/sensory-friendly-evening) |
 |  | 18:00 | [LMH](/about#LMH) | [KOYO, One Step Closer, & Anxious](http://londonmusichall.com/events/koyo-one-step-closer-anxious-stateside/) |
@@ -111,7 +103,7 @@ View only a category:
 | Fri Apr 05 | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
 |  | 19:00 | [LMH](/about#LMH) | [Girlschool](http://londonmusichall.com/events/girlschool/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [It’s Too Late To Stop Now: The Music of Van Morrison				](https://aeolianhall.ca/events/its-too-late-to-stop-now-the-music-of-van-morrison-3/) |
-| Sat Apr 06 | 11:00 | [CGM](/about#CGM) | [Soca Dance Fitness Class](https://coventmarket.com/event/soca-dance-fitness-class-4/) |
+| Sat Apr 06 | 11:00 | [CGM](/about#CGM) | [Soca Dance Fitness Class](https://coventmarket.com/event/soca-dance-fitness-class-3/) |
 |  | 11:00 | [CMus](/about#CMus) | [STEAM: Solar Eclipse Viewer](https://www.londonchildrensmuseum.ca/event/steam-solar-eclipse-viewer) |
 |  | 12:00 | [Museum](/about#Museum) | [Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10906/) |
 |  | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
@@ -121,7 +113,8 @@ View only a category:
 |  | 20:00 | [Aeol](/about#Aeol) | [A’Court, Spiegel & Vinnick				](https://aeolianhall.ca/events/acourt-spiegel-vinnick/) |
 |  | 21:00 | [LMH](/about#LMH) | [The Taylor Party – TAYLOR SWIFT DANCE PARTY](http://londonmusichall.com/events/the-taylor-party/) |
 |  | 22:00 | [LMH](/about#LMH) | [Omnom @ System Saturdays](http://londonmusichall.com/events/omnom-system-saturdays/) |
-| Sun Apr 07 |  | [Grand](/about#Grand) | [Calidore String Quartet](https://www.grandtheatre.com/event/calidore-string-quartet) |
+| Sun Apr 07 |  | [BudG](/about#BudG) | [Noah Kahan](https://www.budweisergardens.com/events/detail/noah-kahan) |
+|  |  | [Grand](/about#Grand) | [Calidore String Quartet](https://www.grandtheatre.com/event/calidore-string-quartet) |
 |  | 11:00 | [CMus](/about#CMus) | [STEAM: Solar Eclipse Viewer](https://www.londonchildrensmuseum.ca/event/steam-solar-eclipse-viewer) |
 |  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Stamp Champ](https://museumlondon.ca/programs-events/event/11004/2024/04/07) |
 |  | 14:00 | [Museum](/about#Museum) | [Sunday Exhibition Tours](https://museumlondon.ca/programs-events/event/9394/2024/04/07) |
