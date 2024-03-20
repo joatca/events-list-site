@@ -1,6 +1,6 @@
 ---
 title: "Events - culture"
-date: 2024-03-18T00:00:36-04:00
+date: 2024-03-20T00:00:39-04:00
 draft: false
 ---
 
@@ -9,8 +9,8 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Wed Mar 20 | 14:30 | [Museum](/about#Museum) | [Culture Club with Dan Ebbs and Diane Morrow, Crazy Beautiful People](https://museumlondon.ca/programs-events/event/11024/) |
-| Thu Mar 21 | 18:00 | [Museum](/about#Museum) | [ML Youth](https://museumlondon.ca/programs-events/event/10974/2024/03/21) |
+| Today (Wed) | 14:30 | [Museum](/about#Museum) | [CANCELLED - Culture Club with Dan Ebbs and Diane Morrow, Crazy Beautiful People](https://museumlondon.ca/programs-events/event/11024/) |
+| Tomorrow (Thu) | 18:00 | [Museum](/about#Museum) | [ML Youth](https://museumlondon.ca/programs-events/event/10974/2024/03/21) |
 | Sat Mar 23 |  | [PSFTOff](/about#PSFTOff) | [Green River Revival](https://psft.ca/event/green-river-revival/) |
 | Sun Mar 24 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Wonderful Weaving](https://museumlondon.ca/programs-events/event/10763/2024/03/24) |
 |  | 14:00 | [Museum](/about#Museum) | [Sunday Exhibition Tours](https://museumlondon.ca/programs-events/event/9394/2024/03/24) |

@@ -1,6 +1,6 @@
 ---
 title: "Events - community"
-date: 2024-03-18T00:00:36-04:00
+date: 2024-03-20T00:00:39-04:00
 draft: false
 ---
 
@@ -9,15 +9,10 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Mon) | 13:00 | [City](/about#City) | [Community and Protective Services Committee - March 18, 2024](https://london.ca/government/calendar/community-protective-services-committee-march-18-2024) |
-| Tomorrow (Tue) |  | [RBCP](/about#RBCP) | [Grain Farmers of Ontario 2024 March Classic](https://www.rbcplacelondon.com/events/grain-farmers-ontario-2024-march-classic-march-19) |
-|  | 09:30 | [City](/about#City) | [Civic Works Committee - March 19, 2024](https://london.ca/government/calendar/civic-works-committee-march-19-2024) |
-|  | 12:00 | [Maker](/about#Maker) | [Crochet 101: Mastering Stitches, Colors, and Finishing Touches](https://www.hellomaker.ca/events/crochet101) |
-|  | 13:00 | [City](/about#City) | [Planning and Environment Committee - March 19, 2024](https://london.ca/government/calendar/planning-environment-committee-march-19-2024) |
-|  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-03-19) |
-|  | 19:30 | [Maker](/about#Maker) | [Floral Resin Jewlery](https://www.hellomaker.ca/events/waxmeltworkshop-d3wr2-rt83p-tghwl-y5h35) |
-| Wed Mar 20 | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-03-20) |
-| Thu Mar 21 | 13:30 | [City](/about#City) | [Committee of Adjustment  - March 21, 2024](https://london.ca/government/calendar/committee-adjustment-march-21-2024) |
+| Today (Wed) |  | [Maker](/about#Maker) | [Crochet 101: Mastering Stitches, Colors, and Finishing Touches](https://www.hellomaker.ca/events/crochet101) |
+|  |  | [Maker](/about#Maker) | [Floral Resin Jewlery](https://www.hellomaker.ca/events/waxmeltworkshop-d3wr2-rt83p-tghwl-y5h35) |
+|  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-03-20) |
+| Tomorrow (Thu) | 13:30 | [City](/about#City) | [Committee of Adjustment  - March 21, 2024](https://london.ca/government/calendar/committee-adjustment-march-21-2024) |
 |  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-03-21) |
 | Fri Mar 22 | 18:30 | [Info](/about#Info) | [Free Drop-In Basketball for Youth](https://www.informationlondon.ca/Event/Detail/49394/Free_Drop-In_Basketball_for_Youth?date=2024-03-22) |
 | Sat Mar 23 |  | [PSFTOff](/about#PSFTOff) | [Green River Revival](https://psft.ca/event/green-river-revival/) |
@@ -54,6 +49,7 @@ View only a category:
 |  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-04-09) |
 | Wed Apr 10 |  | [RBCP](/about#RBCP) | [Green Leader Awards](https://www.rbcplacelondon.com/events/green-leader-awards-april-10) |
 | Thu Apr 11 | 12:00 | [Maker](/about#Maker) | [Candle Making Workshop ](https://www.hellomaker.ca/events/candleworkshop-8rmrf-s93a6-fzeyt-jaxrs) |
+|  | 13:30 | [City](/about#City) | [Committee of Adjustment  - April 11, 2024](https://london.ca/government/calendar/committee-adjustment-april-11-2024) |
 |  | 13:30 | [Maker](/about#Maker) | [Polymer Clay Earring Workshop ](https://www.hellomaker.ca/events/polymer-clay-earring-workshop-7m6jk-db26w-b42sc-c7l7d-m8rbg-yxm5r-a48nk-xggm8-mdblt-9z7h6-e36fb-tpnml-xrs5b-gp3yh) |
 |  | 17:00 | [Maker](/about#Maker) | [Wax Melt workshop](https://www.hellomaker.ca/events/waxmeltworkshop-d3wr2-rt83p) |
 |  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-04-11) |
@@ -69,6 +65,7 @@ View only a category:
 |  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-04-18) |
 |  | 19:30 | [Maker](/about#Maker) | [Floral Resin Jewlery ](https://www.hellomaker.ca/events/waxmeltworkshop-d3wr2-rt83p-tghwl-y5h35-nx3xn) |
 | Sat Apr 20 |  | [PSFTOff](/about#PSFTOff) | [British Beat 66](https://psft.ca/event/british-beat-66/) |
+|  |  | [RBCP](/about#RBCP) | [Evening of HOPE London Film Premiere](https://www.rbcplacelondon.com/events/evening-hope-london-film-premiere-april-20) |
 | Mon Apr 22 | 13:00 | [City](/about#City) | [Corporate Services Committee - April 22, 2024](https://london.ca/government/calendar/corporate-services-committee-april-22-2024) |
 | Tue Apr 23 | 13:00 | [City](/about#City) | [Council - April 23, 2024](https://london.ca/government/calendar/council-april-23-2024) |
 |  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-04-23) |
@@ -95,6 +92,7 @@ View only a category:
 |  | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - May 07, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-may-07-2024) |
 |  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-05-07) |
 |  | 19:30 | [Maker](/about#Maker) | [Collage Art Notebook ](https://www.hellomaker.ca/events/irqu905qi77vqjbol00gy0uc19ja68-gns73-fhhpr-najh8-yc3gg-6bcww-pjpfr-nfd4a-xy52p-b6wsn-le4b7-kxxh7) |
+| Wed May 08 |  | [RBCP](/about#RBCP) | [29th Annual Manufacturers' Scholarship Awards & Recognition Night](https://www.rbcplacelondon.com/events/29th-annual-manufacturers-scholarship-awards-recognition-night-may-8) |
 | Thu May 09 | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-05-09) |
 | Mon May 13 | 10:00 | [City](/about#City) | [Governance Working Group - May 13, 2024](https://london.ca/government/calendar/governance-working-group-may-13-2024) |
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - May 13, 2024](https://london.ca/government/calendar/planning-environment-committee-may-13-2024) |
