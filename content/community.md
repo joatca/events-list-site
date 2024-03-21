@@ -1,6 +1,6 @@
 ---
 title: "Events - community"
-date: 2024-03-20T00:00:39-04:00
+date: 2024-03-21T00:00:32-04:00
 draft: false
 ---
 
@@ -9,12 +9,11 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Wed) |  | [Maker](/about#Maker) | [Crochet 101: Mastering Stitches, Colors, and Finishing Touches](https://www.hellomaker.ca/events/crochet101) |
+| Today (Thu) |  | [Maker](/about#Maker) | [Crochet 101: Mastering Stitches, Colors, and Finishing Touches](https://www.hellomaker.ca/events/crochet101) |
 |  |  | [Maker](/about#Maker) | [Floral Resin Jewlery](https://www.hellomaker.ca/events/waxmeltworkshop-d3wr2-rt83p-tghwl-y5h35) |
-|  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-03-20) |
-| Tomorrow (Thu) | 13:30 | [City](/about#City) | [Committee of Adjustment  - March 21, 2024](https://london.ca/government/calendar/committee-adjustment-march-21-2024) |
+|  | 13:30 | [City](/about#City) | [Committee of Adjustment  - March 21, 2024](https://london.ca/government/calendar/committee-adjustment-march-21-2024) |
 |  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-03-21) |
-| Fri Mar 22 | 18:30 | [Info](/about#Info) | [Free Drop-In Basketball for Youth](https://www.informationlondon.ca/Event/Detail/49394/Free_Drop-In_Basketball_for_Youth?date=2024-03-22) |
+| Tomorrow (Fri) | 18:30 | [Info](/about#Info) | [Free Drop-In Basketball for Youth](https://www.informationlondon.ca/Event/Detail/49394/Free_Drop-In_Basketball_for_Youth?date=2024-03-22) |
 | Sat Mar 23 |  | [PSFTOff](/about#PSFTOff) | [Green River Revival](https://psft.ca/event/green-river-revival/) |
 | Mon Mar 25 | 10:00 | [City](/about#City) | [Governance Working Group - March 25, 2024](https://london.ca/government/calendar/governance-working-group-march-25-2024) |
 |  | 13:00 | [City](/about#City) | [Corporate Services Committee - March 25, 2024](https://london.ca/government/calendar/corporate-services-committee-march-25-2024) |
@@ -31,6 +30,7 @@ View only a category:
 |  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-03-28) |
 |  | 18:30 | [Maker](/about#Maker) | [Mini Weaving workshop](https://www.hellomaker.ca/events/irqu905qi77vqjbol00gy0uc19ja68-gns73-fhhpr-najh8-yc3gg-6bcww-pjpfr-nfd4a-xspb5-har8x-r9jds) |
 | Fri Mar 29 | 10:00 | [Info](/about#Info) | [26th Annual Easter Egg Hunt for Dogs](https://www.informationlondon.ca/Event/Detail/49639/26th_Annual_Easter_Egg_Hunt_for_Dogs?date=2024-03-29) |
+|  | 12:00 | [City](/about#City) | [Free Good Friday recreation activities - March 29, 2024](https://london.ca/government/calendar/free-good-friday-recreation-activities-march-29-2024) |
 | Sat Mar 30 |  | [PSFTOff](/about#PSFTOff) | [How We Got to Jersey: A Tale of Two Frankies](https://psft.ca/event/how-we-got-to-jersey-a-tale-of-two-frankies/) |
 | Tue Apr 02 | 12:00 | [Maker](/about#Maker) | [Punch Needle Workshop ](https://www.hellomaker.ca/events/zfvpxsej5j9u9z39dn0cn9q7v6q0nk-22x5e-fjxkf-d3gmb-5w3kx-9mnfb-wpp2w-rz2z2-343nh-zs6pt-ewwxe-ksahp-menef-dm93d-ypxsp-rcc5e-zmxbp-zwhtx-trff9-7sbzh-5e67z-tte7w-39x2s-bkc5m-7abfj) |
 |  | 13:00 | [City](/about#City) | [Council - April 02, 2024](https://london.ca/government/calendar/council-april-02-2024) |
@@ -143,3 +143,4 @@ View only a category:
 | Mon Sep 09 | 13:00 | [City](/about#City) | [Community and Protective Services Committee - September 09, 2024](https://london.ca/government/calendar/community-protective-services-committee-september-09-2024) |
 | Tue Sep 10 | 09:30 | [City](/about#City) | [Civic Works Committee - September 10, 2024](https://london.ca/government/calendar/civic-works-committee-september-10-2024) |
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - September 10, 2024](https://london.ca/government/calendar/planning-environment-committee-september-10-2024) |
+| Mon Sep 16 | 13:00 | [City](/about#City) | [Corporate Services Committee - September 16, 2024](https://london.ca/government/calendar/corporate-services-committee-september-16-2024) |
