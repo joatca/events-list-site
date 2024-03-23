@@ -1,6 +1,6 @@
 ---
 title: "Events - community"
-date: 2024-03-22T00:00:24-04:00
+date: 2024-03-23T00:00:43-04:00
 draft: false
 ---
 
@@ -9,10 +9,7 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Fri) |  | [Maker](/about#Maker) | [Crochet 101: Mastering Stitches, Colors, and Finishing Touches](https://www.hellomaker.ca/events/crochet101) |
-|  |  | [Maker](/about#Maker) | [Floral Resin Jewlery](https://www.hellomaker.ca/events/waxmeltworkshop-d3wr2-rt83p-tghwl-y5h35) |
-|  | 18:30 | [Info](/about#Info) | [Free Drop-In Basketball for Youth](https://www.informationlondon.ca/Event/Detail/49394/Free_Drop-In_Basketball_for_Youth?date=2024-03-22) |
-| Tomorrow (Sat) |  | [PSFTOff](/about#PSFTOff) | [Green River Revival](https://psft.ca/event/green-river-revival/) |
+| Today (Sat) |  | [PSFTOff](/about#PSFTOff) | [Green River Revival](https://psft.ca/event/green-river-revival/) |
 | Mon Mar 25 | 10:00 | [City](/about#City) | [Governance Working Group - March 25, 2024](https://london.ca/government/calendar/governance-working-group-march-25-2024) |
 |  | 13:00 | [City](/about#City) | [Corporate Services Committee - March 25, 2024](https://london.ca/government/calendar/corporate-services-committee-march-25-2024) |
 | Tue Mar 26 | 12:00 | [Maker](/about#Maker) | [Wax Melt workshop ](https://www.hellomaker.ca/events/waxmeltworkshop-d3wr2) |
@@ -144,3 +141,4 @@ View only a category:
 | Mon Sep 16 | 13:00 | [City](/about#City) | [Corporate Services Committee - September 16, 2024](https://london.ca/government/calendar/corporate-services-committee-september-16-2024) |
 | Tue Sep 17 | 09:30 | [City](/about#City) | [Dearness Home Committee of Management - September 17, 2024](https://london.ca/government/calendar/dearness-home-committee-management-september-17-2024) |
 |  | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - September 17, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-september-17-2024) |
+| Wed Sep 18 | 12:00 | [City](/about#City) | [Audit Committee - September 18, 2024](https://london.ca/government/calendar/audit-committee-september-18-2024) |
