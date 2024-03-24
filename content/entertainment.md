@@ -1,6 +1,6 @@
 ---
 title: "Events - entertainment"
-date: 2024-03-23T00:00:43-04:00
+date: 2024-03-24T00:00:39-04:00
 draft: false
 ---
 
@@ -9,20 +9,13 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Sat) |  | [Grand](/about#Grand) | [Clue](https://www.grandtheatre.com/event/clue) |
-|  | 14:00 | [FMus](/about#FMus) | [Doctoral Recital - Erica Simone, voice - DEFERRED](http://www.events.westernu.ca/events/music/2024-03/student-recital-erica-simone.html) |
-|  | 16:00 | [FMus](/about#FMus) | [Doctoral Recital - Sunjoo Han, piano - DEFERRED](http://www.events.westernu.ca/events/music/2024-03/student-recital-sunjoo-han.html) |
-|  | 18:00 | [FMus](/about#FMus) | [Master's Recital - Kevin Allen Weiss, clarinet](http://www.events.westernu.ca/events/music/2024-03/student-recital-kevin-allen-weiss.html) |
-|  | 19:30 | [FMus](/about#FMus) | [Chorale/Western University Singers/London Gospel Collective](http://www.events.westernu.ca/events/music/2024-03/chorale-wus-lgc.html) |
-|  | 20:00 | [Aeol](/about#Aeol) | [Elvis – One Night With You				](https://aeolianhall.ca/events/elvis-one-night-with-you/) |
-|  | 20:00 | [FMus](/about#FMus) | [Master's Recital - Natalia Maria Jordan-Rozwadowski, voice](http://www.events.westernu.ca/events/music/2024-03/student-recital-rozwadowski.html) |
-|  | 22:00 | [LMH](/about#LMH) | [ARTIX! and HUKAE “Brainstorm Tour” @ System Saturdays](http://londonmusichall.com/events/artix-and-hukae-brainstorm-tour-system-saturdays/) |
-| Tomorrow (Sun) |  | [BudG](/about#BudG) | [LONDON KNIGHTS VS. GUELPH STORM](https://www.budweisergardens.com/events/detail/london-knights-mar24) |
+| Today (Sun) |  | [BudG](/about#BudG) | [LONDON KNIGHTS VS. GUELPH STORM](https://www.budweisergardens.com/events/detail/london-knights-mar24) |
+|  |  | [Grand](/about#Grand) | [Clue](https://www.grandtheatre.com/event/clue) |
 |  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Wonderful Weaving](https://museumlondon.ca/programs-events/event/10763/2024/03/24) |
 |  | 14:00 | [Museum](/about#Museum) | [Sunday Exhibition Tours](https://museumlondon.ca/programs-events/event/9394/2024/03/24) |
 |  | 14:00 | [FMus](/about#FMus) | [Studio Recital: James Hibbard and Tina Yanchus (piano)](http://www.events.westernu.ca/events/music/2024-03/studio-recital-yanchus-hibbard.html) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Chrome Horse – The Bob Dylan Tribute (CANCELLED)				](https://aeolianhall.ca/events/chrome-horse-the-bob-dylan-tribute/) |
-| Mon Mar 25 | 19:30 | [FMus](/about#FMus) | [Early Music Studio, final season concert](http://www.events.westernu.ca/events/music/2024-03/early-music-studio.html) |
+| Tomorrow (Mon) | 19:30 | [FMus](/about#FMus) | [Early Music Studio, final season concert](http://www.events.westernu.ca/events/music/2024-03/early-music-studio.html) |
 | Tue Mar 26 | 12:30 | [FMus](/about#FMus) | [Master's Recital - Jing Wang, flute](http://www.events.westernu.ca/events/music/2024-03/student-recital-jing-wang.html) |
 |  | 16:00 | [FMus](/about#FMus) | [Master's Recital - Kaiming Liu, piano](http://www.events.westernu.ca/events/music/2024-03/student-recital-kaiming-liu.html) |
 |  | 18:00 | [FMus](/about#FMus) | [Master's Recital - Jiajing Zhou, voice](http://www.events.westernu.ca/events/music/2024-03/student-recital-jiajing-zhou.html) |
