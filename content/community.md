@@ -1,6 +1,6 @@
 ---
 title: "Events - community"
-date: 2024-03-24T00:00:39-04:00
+date: 2024-03-25T00:00:25-04:00
 draft: false
 ---
 
@@ -9,9 +9,9 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Tomorrow (Mon) | 10:00 | [City](/about#City) | [Governance Working Group - March 25, 2024](https://london.ca/government/calendar/governance-working-group-march-25-2024) |
+| Today (Mon) | 10:00 | [City](/about#City) | [Governance Working Group - March 25, 2024](https://london.ca/government/calendar/governance-working-group-march-25-2024) |
 |  | 13:00 | [City](/about#City) | [Corporate Services Committee - March 25, 2024](https://london.ca/government/calendar/corporate-services-committee-march-25-2024) |
-| Tue Mar 26 | 12:00 | [Maker](/about#Maker) | [Wax Melt workshop ](https://www.hellomaker.ca/events/waxmeltworkshop-d3wr2) |
+| Tomorrow (Tue) | 12:00 | [Maker](/about#Maker) | [Wax Melt workshop ](https://www.hellomaker.ca/events/waxmeltworkshop-d3wr2) |
 |  | 13:00 | [City](/about#City) | [Council - CANCELLED - March 26, 2024](https://london.ca/government/calendar/council-cancelled-march-26-2024) |
 |  | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - March 26, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-march-26-2024) |
 |  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-03-26) |
