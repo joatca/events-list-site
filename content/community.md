@@ -1,6 +1,6 @@
 ---
 title: "Events - community"
-date: 2024-03-25T00:00:25-04:00
+date: 2024-03-26T00:00:24-04:00
 draft: false
 ---
 
@@ -9,14 +9,12 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Mon) | 10:00 | [City](/about#City) | [Governance Working Group - March 25, 2024](https://london.ca/government/calendar/governance-working-group-march-25-2024) |
-|  | 13:00 | [City](/about#City) | [Corporate Services Committee - March 25, 2024](https://london.ca/government/calendar/corporate-services-committee-march-25-2024) |
-| Tomorrow (Tue) | 12:00 | [Maker](/about#Maker) | [Wax Melt workshop ](https://www.hellomaker.ca/events/waxmeltworkshop-d3wr2) |
-|  | 13:00 | [City](/about#City) | [Council - CANCELLED - March 26, 2024](https://london.ca/government/calendar/council-cancelled-march-26-2024) |
+| Today (Tue) | 12:00 | [Maker](/about#Maker) | [Wax Melt workshop ](https://www.hellomaker.ca/events/waxmeltworkshop-d3wr2) |
 |  | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - March 26, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-march-26-2024) |
+|  | 13:00 | [City](/about#City) | [Council - CANCELLED - March 26, 2024](https://london.ca/government/calendar/council-cancelled-march-26-2024) |
 |  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-03-26) |
 |  | 19:30 | [Maker](/about#Maker) | [Polymer Clay Earring Workshop](https://www.hellomaker.ca/events/polymer-clay-earring-workshop-7m6jk-db26w-b42sc-c7l7d-m8rbg-yxm5r-a48nk-xggm8-mdblt-9z7h6-e36fb-tpnml-xrs5b) |
-| Wed Mar 27 |  | [PSFTOff](/about#PSFTOff) | [Studio Style Fashion Show](https://psft.ca/event/studio-style-fashion-show/) |
+| Tomorrow (Wed) |  | [PSFTOff](/about#PSFTOff) | [Studio Style Fashion Show](https://psft.ca/event/studio-style-fashion-show/) |
 |  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-03-27) |
 | Thu Mar 28 | 12:00 | [Maker](/about#Maker) | [Candle Making Workshop ](https://www.hellomaker.ca/events/candleworkshop-8rmrf-s93a6-fzeyt) |
 |  | 13:30 | [City](/about#City) | [Committee of Adjustment - March 28, 2024](https://london.ca/government/calendar/committee-adjustment-march-28-2024) |
@@ -97,11 +95,13 @@ View only a category:
 | Tue May 21 |  | [PSFT](/about#PSFT) | [The Beaver Club](https://psft.ca/event/the-beaver-club/) |
 |  | 13:00 | [City](/about#City) | [Community and Protective Services Committee - May 21, 2024](https://london.ca/government/calendar/community-protective-services-committee-may-21-2024) |
 |  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-05-21) |
-| Wed May 22 | 09:30 | [City](/about#City) | [Civic Works Committee - May 22, 2024](https://london.ca/government/calendar/civic-works-committee-may-22-2024) |
+| Wed May 22 |  | [RBCP](/about#RBCP) | [LHSF Donor of Distinction Societies President's Dinner](https://www.rbcplacelondon.com/events/lhsf-donor-distinction-societies-presidents-dinner-may-22) |
+|  | 09:30 | [City](/about#City) | [Civic Works Committee - May 22, 2024](https://london.ca/government/calendar/civic-works-committee-may-22-2024) |
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - May 22, 2024](https://london.ca/government/calendar/planning-environment-committee-may-22-2024) |
 | Thu May 23 | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-05-23) |
 | Mon May 27 | 13:00 | [City](/about#City) | [Corporate Services Committee - May 27, 2024](https://london.ca/government/calendar/corporate-services-committee-may-27-2024) |
-| Tue May 28 | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - May 28, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-may-28-2024) |
+| Tue May 28 |  | [RBCP](/about#RBCP) | [Schulich Medicine & Dentistry Awards of Excellence Dinner](https://www.rbcplacelondon.com/events/schulich-medicine-dentistry-awards-excellence-dinner-may-28) |
+|  | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - May 28, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-may-28-2024) |
 |  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-05-28) |
 | Thu May 30 | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-05-30) |
 | Mon Jun 03 | 13:00 | [City](/about#City) | [Planning and Environment Committee - June 03, 2024](https://london.ca/government/calendar/planning-environment-committee-june-03-2024) |
