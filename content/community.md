@@ -1,6 +1,6 @@
 ---
 title: "Events - community"
-date: 2024-03-26T00:00:24-04:00
+date: 2024-03-27T00:00:42-04:00
 draft: false
 ---
 
@@ -9,18 +9,10 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Tue) | 12:00 | [Maker](/about#Maker) | [Wax Melt workshop ](https://www.hellomaker.ca/events/waxmeltworkshop-d3wr2) |
-|  | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - March 26, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-march-26-2024) |
-|  | 13:00 | [City](/about#City) | [Council - CANCELLED - March 26, 2024](https://london.ca/government/calendar/council-cancelled-march-26-2024) |
-|  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-03-26) |
-|  | 19:30 | [Maker](/about#Maker) | [Polymer Clay Earring Workshop](https://www.hellomaker.ca/events/polymer-clay-earring-workshop-7m6jk-db26w-b42sc-c7l7d-m8rbg-yxm5r-a48nk-xggm8-mdblt-9z7h6-e36fb-tpnml-xrs5b) |
-| Tomorrow (Wed) |  | [PSFTOff](/about#PSFTOff) | [Studio Style Fashion Show](https://psft.ca/event/studio-style-fashion-show/) |
+| Today (Wed) |  | [PSFTOff](/about#PSFTOff) | [Studio Style Fashion Show](https://psft.ca/event/studio-style-fashion-show/) |
 |  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/49392/Friendship_Circle?date=2024-03-27) |
-| Thu Mar 28 | 12:00 | [Maker](/about#Maker) | [Candle Making Workshop ](https://www.hellomaker.ca/events/candleworkshop-8rmrf-s93a6-fzeyt) |
-|  | 13:30 | [City](/about#City) | [Committee of Adjustment - March 28, 2024](https://london.ca/government/calendar/committee-adjustment-march-28-2024) |
-|  | 13:30 | [Maker](/about#Maker) | [Embroidery 101: Custom Portrait ](https://www.hellomaker.ca/events/irqu905qi77vqjbol00gy0uc19ja68-gns73-fhhpr-najh8-yc3gg-6bcww-pjpfr-nfd4a-xy52p-b6wsn) |
+| Tomorrow (Thu) | 13:30 | [City](/about#City) | [Committee of Adjustment - March 28, 2024](https://london.ca/government/calendar/committee-adjustment-march-28-2024) |
 |  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-03-28) |
-|  | 18:30 | [Maker](/about#Maker) | [Mini Weaving workshop](https://www.hellomaker.ca/events/irqu905qi77vqjbol00gy0uc19ja68-gns73-fhhpr-najh8-yc3gg-6bcww-pjpfr-nfd4a-xspb5-har8x-r9jds) |
 | Fri Mar 29 | 10:00 | [Info](/about#Info) | [26th Annual Easter Egg Hunt for Dogs](https://www.informationlondon.ca/Event/Detail/49639/26th_Annual_Easter_Egg_Hunt_for_Dogs?date=2024-03-29) |
 |  | 12:00 | [City](/about#City) | [Free Good Friday recreation activities - March 29, 2024](https://london.ca/government/calendar/free-good-friday-recreation-activities-march-29-2024) |
 | Sat Mar 30 |  | [PSFTOff](/about#PSFTOff) | [How We Got to Jersey: A Tale of Two Frankies](https://psft.ca/event/how-we-got-to-jersey-a-tale-of-two-frankies/) |
@@ -99,6 +91,7 @@ View only a category:
 |  | 09:30 | [City](/about#City) | [Civic Works Committee - May 22, 2024](https://london.ca/government/calendar/civic-works-committee-may-22-2024) |
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - May 22, 2024](https://london.ca/government/calendar/planning-environment-committee-may-22-2024) |
 | Thu May 23 | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-05-23) |
+| Sat May 25 | 13:00 | [Info](/about#Info) | [TAKE-A-SHOT TVCC Para Sport Day](https://www.informationlondon.ca/Event/Detail/49968/TAKE-A-SHOT_TVCC_Para_Sport_Day?date=2024-05-25) |
 | Mon May 27 | 13:00 | [City](/about#City) | [Corporate Services Committee - May 27, 2024](https://london.ca/government/calendar/corporate-services-committee-may-27-2024) |
 | Tue May 28 |  | [RBCP](/about#RBCP) | [Schulich Medicine & Dentistry Awards of Excellence Dinner](https://www.rbcplacelondon.com/events/schulich-medicine-dentistry-awards-excellence-dinner-may-28) |
 |  | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - May 28, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-may-28-2024) |

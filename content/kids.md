@@ -1,6 +1,6 @@
 ---
 title: "Events - kids"
-date: 2024-03-26T00:00:24-04:00
+date: 2024-03-27T00:00:42-04:00
 draft: false
 ---
 
@@ -9,16 +9,16 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Tue) | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
-| Tomorrow (Wed) | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
+| Today (Wed) | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
 |  | 10:00 | [CMus](/about#CMus) | [OUTREACH: Nshwaasnangong Early Years](https://www.londonchildrensmuseum.ca/event/outreach-nshwaasnangong-early-years) |
 |  | 15:00 | [CMus](/about#CMus) | [Early Closure](https://www.londonchildrensmuseum.ca/event/early-closure) |
 |  | 17:00 | [CMus](/about#CMus) | [Spring Bunny Hop](https://www.londonchildrensmuseum.ca/event/spring-bunny-hop) |
-| Thu Mar 28 | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
+| Tomorrow (Thu) | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
 |  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
 |  | 18:00 | [CMus](/about#CMus) | [STEAM: Egg Drop](https://www.londonchildrensmuseum.ca/event/steam-egg-drop) |
 | Fri Mar 29 | 09:30 | [CMus](/about#CMus) | [OPEN](https://www.londonchildrensmuseum.ca/event/open) |
 |  | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Egg Drop](https://www.londonchildrensmuseum.ca/event/steam-egg-drop) |
 | Sat Mar 30 | 11:00 | [CMus](/about#CMus) | [STEAM: Egg Drop](https://www.londonchildrensmuseum.ca/event/steam-egg-drop) |
 |  | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Egg Drop](https://www.londonchildrensmuseum.ca/event/steam-egg-drop) |
@@ -79,12 +79,12 @@ View only a category:
 | Fri Jun 28 | 09:00 | [CMus](/about#CMus) | [PA Day Camp](https://www.londonchildrensmuseum.ca/event/pa-day-camp) |
 | Tue Jul 02 | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
 | Mon Jul 08 | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
-| Mon Jul 15 | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
-|  | 09:00 | [CMus](/about#CMus) | [Tween Summer Day Camp](https://www.londonchildrensmuseum.ca/event/tween-summer-day-camp) |
+| Mon Jul 15 | 09:00 | [CMus](/about#CMus) | [Tween Summer Day Camp](https://www.londonchildrensmuseum.ca/event/tween-summer-day-camp) |
+|  | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
 | Mon Jul 22 | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
 | Mon Jul 29 | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
 | Tue Aug 06 | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
 | Mon Aug 12 | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
-| Mon Aug 19 | 09:00 | [CMus](/about#CMus) | [Tween Summer Day Camp](https://www.londonchildrensmuseum.ca/event/tween-summer-day-camp) |
-|  | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
+| Mon Aug 19 | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
+|  | 09:00 | [CMus](/about#CMus) | [Tween Summer Day Camp](https://www.londonchildrensmuseum.ca/event/tween-summer-day-camp) |
 | Mon Aug 26 | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |

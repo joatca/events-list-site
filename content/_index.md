@@ -1,6 +1,6 @@
 ---
 title: "Events"
-date: 2024-03-26T00:00:24-04:00
+date: 2024-03-27T00:00:42-04:00
 draft: false
 ---
 
@@ -9,21 +9,9 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Tue) |  | [Grand](/about#Grand) | [Clue](https://www.grandtheatre.com/event/clue) |
-|  |  | [Tour](/about#Tour) | [Aitken \| Ladd \| Peacock - Improvisations](https://www.londontourism.ca/events/aitken-ladd-peacock-improvisations) |
+| Today (Wed) |  | [Grand](/about#Grand) | [Clue](https://www.grandtheatre.com/event/clue) |
+|  |  | [Tour](/about#Tour) | [Uncle Jimmy's Jamborette](https://www.londontourism.ca/events/uncle-jimmys-jamborette) |
 |  |  | [Tour](/about#Tour) | [Clue](https://www.londontourism.ca/events/clue) |
-|  | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
-|  | 12:00 | [Maker](/about#Maker) | [Wax Melt workshop ](https://www.hellomaker.ca/events/waxmeltworkshop-d3wr2) |
-|  | 12:30 | [FMus](/about#FMus) | [Master's Recital - Jing Wang, flute](http://www.events.westernu.ca/events/music/2024-03/student-recital-jing-wang.html) |
-|  | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - March 26, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-march-26-2024) |
-|  | 13:00 | [City](/about#City) | [Council - CANCELLED - March 26, 2024](https://london.ca/government/calendar/council-cancelled-march-26-2024) |
-|  | 16:00 | [FMus](/about#FMus) | [Master's Recital - Kaiming Liu, piano](http://www.events.westernu.ca/events/music/2024-03/student-recital-kaiming-liu.html) |
-|  | 18:00 | [FMus](/about#FMus) | [Master's Recital - Jiajing Zhou, voice](http://www.events.westernu.ca/events/music/2024-03/student-recital-jiajing-zhou.html) |
-|  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-03-26) |
-|  | 19:30 | [Maker](/about#Maker) | [Polymer Clay Earring Workshop](https://www.hellomaker.ca/events/polymer-clay-earring-workshop-7m6jk-db26w-b42sc-c7l7d-m8rbg-yxm5r-a48nk-xggm8-mdblt-9z7h6-e36fb-tpnml-xrs5b) |
-|  | 20:00 | [FMus](/about#FMus) | [Undergraduate Recital - Aidan Andrew Hawkins, piano](http://www.events.westernu.ca/events/music/2024-03/student-recital-aidan-andrew-hawkins.html) |
-|  | 20:00 | [FMus](/about#FMus) | [Doctoral Lecture Recital - Bing Jillian Yang, violin](http://www.events.westernu.ca/events/music/2024-03/student-recital-bing-jillian-yang.html) |
-| Tomorrow (Wed) |  | [Tour](/about#Tour) | [Uncle Jimmy's Jamborette](https://www.londontourism.ca/events/uncle-jimmys-jamborette) |
 |  |  | [PSFTOff](/about#PSFTOff) | [Studio Style Fashion Show](https://psft.ca/event/studio-style-fashion-show/) |
 |  | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
 |  | 10:00 | [CMus](/about#CMus) | [OUTREACH: Nshwaasnangong Early Years](https://www.londonchildrensmuseum.ca/event/outreach-nshwaasnangong-early-years) |
@@ -37,38 +25,37 @@ View only a category:
 |  | 20:00 | [Aeol](/about#Aeol) | [Kevin Drew – Aging				](https://aeolianhall.ca/events/kevin-drew-aging/) |
 |  | 20:00 | [FMus](/about#FMus) | [Undergraduate Recital - Yuye Ma, violin](http://www.events.westernu.ca/events/music/2024-03/student-recital-yuye-ma.html) |
 |  | 20:00 | [FMus](/about#FMus) | [Master's Recital - Feiyang Yu, piano](http://www.events.westernu.ca/events/music/2024-03/student-recital-feiyang-yu.html) |
-| Thu Mar 28 |  | [Tour](/about#Tour) | [Wink Wink Comedy](https://www.londontourism.ca/events/wink-wink-comedy) |
+| Tomorrow (Thu) |  | [Tour](/about#Tour) | [Wink Wink Comedy](https://www.londontourism.ca/events/wink-wink-comedy) |
+|  |  | [Tour](/about#Tour) | [Bobnoxious Bad Thursday @ Eastside Bar & Grill](https://www.londontourism.ca/events/bobnoxious-bad-thursday-eastside-bar-and-grill) |
 |  |  | [Tour](/about#Tour) | [Embark on a cycling adventure with Randonneuring!](https://www.londontourism.ca/events/embark-on-a-cycling-adventure-with-randonneuring) |
 |  | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
-|  | 12:00 | [Maker](/about#Maker) | [Candle Making Workshop ](https://www.hellomaker.ca/events/candleworkshop-8rmrf-s93a6-fzeyt) |
-|  | 12:30 | [FMus](/about#FMus) | [Master's Recital - Xue Li, piano](http://www.events.westernu.ca/events/music/2024-03/student-recital-xue-li.html) |
+|  | 12:30 | [FMus](/about#FMus) | [Master's Recital - Snow Xue Li, piano](http://www.events.westernu.ca/events/music/2024-03/student-recital-xue-li.html) |
 |  | 13:30 | [City](/about#City) | [Committee of Adjustment - March 28, 2024](https://london.ca/government/calendar/committee-adjustment-march-28-2024) |
-|  | 13:30 | [Maker](/about#Maker) | [Embroidery 101: Custom Portrait ](https://www.hellomaker.ca/events/irqu905qi77vqjbol00gy0uc19ja68-gns73-fhhpr-najh8-yc3gg-6bcww-pjpfr-nfd4a-xy52p-b6wsn) |
 |  | 16:00 | [FMus](/about#FMus) | [Master's Recital - Chun Hin (Eric) Chan, piano](http://www.events.westernu.ca/events/music/2024-03/student-recital-eric-chan.html) |
 |  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
 |  | 18:00 | [Museum](/about#Museum) | [London Architecture Series: The Pursuit of Evidence-Based Design](https://museumlondon.ca/programs-events/event/11460/) |
-|  | 18:00 | [FMus](/about#FMus) | [Undergraduate Recital - Elizabeth Dawn Tucker, oboe](http://www.events.westernu.ca/events/music/2024-03/student-recital-elizabeth-tucker.html) |
 |  | 18:00 | [FMus](/about#FMus) | [Master's Recital - ZiYi Zack Guo, viola](http://www.events.westernu.ca/events/music/2024-03/student-recital-zack-guo.html) |
+|  | 18:00 | [FMus](/about#FMus) | [Undergraduate Recital - Elizabeth Dawn Tucker, oboe](http://www.events.westernu.ca/events/music/2024-03/student-recital-elizabeth-tucker.html) |
 |  | 18:00 | [CMus](/about#CMus) | [STEAM: Egg Drop](https://www.londonchildrensmuseum.ca/event/steam-egg-drop) |
 |  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-03-28) |
-|  | 18:30 | [Maker](/about#Maker) | [Mini Weaving workshop](https://www.hellomaker.ca/events/irqu905qi77vqjbol00gy0uc19ja68-gns73-fhhpr-najh8-yc3gg-6bcww-pjpfr-nfd4a-xspb5-har8x-r9jds) |
 |  | 19:00 | [LMH](/about#LMH) | [*SOLD OUT* Warren Zeiders](http://londonmusichall.com/events/warren-zeiders/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Ariel Posen				](https://aeolianhall.ca/events/ariel-posen/) |
 |  | 20:00 | [FMus](/about#FMus) | [Studio Recital: Annette-Barbara Vogel (violin)](http://www.events.westernu.ca/events/music/2024-03/studio-recital-vogel3.html) |
 |  | 22:00 | [LMH](/about#LMH) | [Raygun: Retro Night](http://londonmusichall.com/events/raygun-retro-night-9/) |
 | Fri Mar 29 |  | [BudG](/about#BudG) | [London Knights Playoffs - Round 1 Home Game 1](https://www.budweisergardens.com/events/detail/london-knights-playoff-round-1-game-1) |
-|  |  | [Tour](/about#Tour) | [The Lookout Service, Stone Free + Mental State](https://www.londontourism.ca/events/the-lookout-service-stone-free-mental-state) |
 |  |  | [Tour](/about#Tour) | [PORTAL: Into The Heart \| Intentional Dance and Sound Experience \| Alcohol-Free](https://www.londontourism.ca/events/portal-into-the-heart-intentional-dance-and-sound-experience-alcohol-free) |
-|  |  | [Tour](/about#Tour) | [London Toy & Collectibles Expo](https://www.londontourism.ca/events/london-toy-and-collectibles-expo) |
 |  | 09:30 | [CMus](/about#CMus) | [OPEN](https://www.londonchildrensmuseum.ca/event/open) |
 |  | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
 |  | 10:00 | [Info](/about#Info) | [26th Annual Easter Egg Hunt for Dogs](https://www.informationlondon.ca/Event/Detail/49639/26th_Annual_Easter_Egg_Hunt_for_Dogs?date=2024-03-29) |
 |  | 12:00 | [City](/about#City) | [Free Good Friday recreation activities - March 29, 2024](https://london.ca/government/calendar/free-good-friday-recreation-activities-march-29-2024) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Egg Drop](https://www.londonchildrensmuseum.ca/event/steam-egg-drop) |
 | Sat Mar 30 |  | [BudG](/about#BudG) | [AEW COLLISION](https://www.budweisergardens.com/events/detail/aew-collision) |
+|  |  | [Tour](/about#Tour) | [The Wabi Sabis, All But Six, Johnny Terrien & The Bad Lieutenants](https://www.londontourism.ca/events/the-wabi-sabis-all-but-six-johnny-terrien-and-the-bad-lieutenants) |
+|  |  | [Tour](/about#Tour) | [AXL/DC @ Eastside Bar & Grill](https://www.londontourism.ca/events/axl-dc-eastside-bar-and-grill) |
+|  |  | [Tour](/about#Tour) | [The Rec Room's Easter EGGstravaganza Brunch](https://www.londontourism.ca/events/the-rec-rooms-easter-eggstravaganza-brunch) |
+|  |  | [Tour](/about#Tour) | [Easter Egg Hunt](https://www.londontourism.ca/events/easter-egg-hunt) |
 |  |  | [Tour](/about#Tour) | [AEW - All Elite Wrestling - Collision](https://www.londontourism.ca/events/aew-all-elite-wrestling-collision) |
 |  |  | [Tour](/about#Tour) | [Classic Albums Live: Eagles - Greatest Hits](https://www.londontourism.ca/events/classic-albums-live-eagles-greatest-hits) |
-|  |  | [Tour](/about#Tour) | [Easter Egg Hunt](https://www.londontourism.ca/events/easter-egg-hunt) |
-|  |  | [Tour](/about#Tour) | [The Wabi Sabis, All But Six, Johnny Terrien & The Bad Lieutenants](https://www.londontourism.ca/events/the-wabi-sabis-all-but-six-johnny-terrien-and-the-bad-lieutenants) |
 |  |  | [PSFTOff](/about#PSFTOff) | [How We Got to Jersey: A Tale of Two Frankies](https://psft.ca/event/how-we-got-to-jersey-a-tale-of-two-frankies/) |
 |  | 08:00 | [CGM](/about#CGM) | [Outdoor Easter Market](https://coventmarket.com/event/4032/) |
 |  | 09:30 | [CGM](/about#CGM) | [Free Kids Zone](https://coventmarket.com/event/free-kids-zone-2/) |
@@ -80,8 +67,8 @@ View only a category:
 |  | 14:00 | [FMus](/about#FMus) | [Master's Recital - Kalie KaHyun Foxwell, piano](http://www.events.westernu.ca/events/music/2024-03/student-recital-kalie-foxwell.html) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Egg Drop](https://www.londonchildrensmuseum.ca/event/steam-egg-drop) |
 |  | 16:00 | [FMus](/about#FMus) | [Master's Recital - Jing Tao, violin](http://www.events.westernu.ca/events/music/2024-03/student-recital-jing-tao.html) |
-|  | 18:00 | [CGM](/about#CGM) | [Evening Yoga with Zoë](https://coventmarket.com/event/yoga-class-2-2-3-3-2/) |
 |  | 18:00 | [FMus](/about#FMus) | [Master's Recital - Daryn Imani Nowlin, voice](http://www.events.westernu.ca/events/music/2024-03/student-recital-daryn-nowlin.html) |
+|  | 19:15 | [CGM](/about#CGM) | [Evening Yoga with Zoë](https://coventmarket.com/event/yoga-class-2-2-3-3-2/) |
 |  | 20:00 | [FMus](/about#FMus) | [Master's Recital - Johnny Tan, clarinet](http://www.events.westernu.ca/events/music/2024-03/student-recital-johnny-tan.html) |
 |  | 22:00 | [LMH](/about#LMH) | [Le Youth @ System Saturdays](http://londonmusichall.com/events/le-youth-system-saturdays/) |
 | Sun Mar 31 |  | [BudG](/about#BudG) | [London Knights Playoffs - Round 1 Home Game 2](https://www.budweisergardens.com/events/detail/london-knights-palyoffs-round-1-game-2) |
@@ -96,8 +83,8 @@ View only a category:
 |  | 16:00 | [FMus](/about#FMus) | [Undergraduate Recital - Elinor Mary Ho Smallman, violin](http://www.events.westernu.ca/events/music/2024-04/student-recital-elinor-smallman.html) |
 |  | 16:00 | [FMus](/about#FMus) | [Doctoral Recital - Zhengwen (Simon) Zhang, piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-simon-zhang.html) |
 |  | 18:00 | [FMus](/about#FMus) | [Undergraduate Recital - Liam Bird, saxophone - DEFERRED](http://www.events.westernu.ca/events/music/2024-04/student-recital-liam-bird.html) |
-|  | 18:00 | [FMus](/about#FMus) | [Master's Recital - Ran Bi, collaborative piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-ran-bi.html) |
 |  | 18:00 | [FMus](/about#FMus) | [Doctoral Recital - Shuwei Zhang, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-shuwei-zhang.html) |
+|  | 18:00 | [FMus](/about#FMus) | [Master's Recital - Ran Bi, collaborative piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-ran-bi.html) |
 |  | 19:30 | [FMus](/about#FMus) | [Salsa Band: Spring Concert](http://www.events.westernu.ca/events/music/2024-04/salsa-band-fall.html) |
 |  | 20:00 | [FMus](/about#FMus) | [Undergraduate Recital - Meika Sonntag, viola](http://www.events.westernu.ca/events/music/2024-04/student-recital-meika-sonntag.html) |
 | Tue Apr 02 |  | [Tour](/about#Tour) | [DZ Deathrays](https://www.londontourism.ca/events/dz-deathrays) |
@@ -132,8 +119,8 @@ View only a category:
 |  | 12:30 | [FMus](/about#FMus) | [Doctoral Recital - Menelaos Menelaou, violin](http://www.events.westernu.ca/events/music/2024-04/student-recital-menelaos-menelaou.html) |
 |  | 13:30 | [City](/about#City) | [Committee of Adjustment  - April 04, 2024](https://london.ca/government/calendar/committee-adjustment-april-04-2024) |
 |  | 15:00 | [Maker](/about#Maker) | [Collage Art Notebook](https://www.hellomaker.ca/events/irqu905qi77vqjbol00gy0uc19ja68-gns73-fhhpr-najh8-yc3gg-6bcww-pjpfr-nfd4a-xy52p-b6wsn-le4b7) |
-|  | 16:00 | [FMus](/about#FMus) | [Doctoral Recital - Ludmilla Kraneck, viola](http://www.events.westernu.ca/events/music/2024-04/student-recital-ludmilla-kraneck.html) |
 |  | 16:00 | [FMus](/about#FMus) | [Undergraduate Recital - Diane Mihaella Gorun, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-diane-gorun.html) |
+|  | 16:00 | [FMus](/about#FMus) | [Doctoral Recital - Ludmilla Kraneck, viola](http://www.events.westernu.ca/events/music/2024-04/student-recital-ludmilla-kraneck.html) |
 |  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
 |  | 18:00 | [FMus](/about#FMus) | [Master's Recital - Chelsie Boccongelle, voice ](http://www.events.westernu.ca/events/music/2024-04/student-recital-boccongelle.html) |
 |  | 18:00 | [FMus](/about#FMus) | [Undergraduate Recital - Ethan Lee Nolin, flute ](http://www.events.westernu.ca/events/music/2024-04/student-recital-ethan-lee-nolin.html) |
@@ -155,10 +142,9 @@ View only a category:
 |  | 19:00 | [LMH](/about#LMH) | [Girlschool](http://londonmusichall.com/events/girlschool/) |
 |  | 19:30 | [FMus](/about#FMus) | [Wind Ensemble Concert: To Amuse and Beguile](http://www.events.westernu.ca/events/music/2024-04/wind-ensemble.html) |
 |  | 20:00 | [Aeol](/about#Aeol) | [It’s Too Late To Stop Now: The Music of Van Morrison				](https://aeolianhall.ca/events/its-too-late-to-stop-now-the-music-of-van-morrison-3/) |
-|  | 20:00 | [FMus](/about#FMus) | [Master's Recital - Janaki Butterworth, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-janaki-butterworth.html) |
 |  | 20:00 | [FMus](/about#FMus) | [Undergraduate Recital - Iris Janssen, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-iris-janssen.html) |
-| Sat Apr 06 |  | [Tour](/about#Tour) | [Abandoned Souls wsg Aces Wild & Treading Zero - April 6](https://www.londontourism.ca/events/abandoned-souls-wsg-aces-wild-and-treading-zero-april-6) |
-|  |  | [Tour](/about#Tour) | [Youth Discoveries: The Road To Summerfolk](https://www.londontourism.ca/events/youth-discoveries-the-road-to-summerfolk) |
+|  | 20:00 | [FMus](/about#FMus) | [Master's Recital - Janaki Butterworth, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-janaki-butterworth.html) |
+| Sat Apr 06 |  | [Tour](/about#Tour) | [Youth Discoveries: The Road To Summerfolk](https://www.londontourism.ca/events/youth-discoveries-the-road-to-summerfolk) |
 |  |  | [Tour](/about#Tour) | [Symphonic Band Concert: Emblems of Spring](https://www.londontourism.ca/events/symphonic-band-concert-emblems-of-spring) |
 |  |  | [Tour](/about#Tour) | [Unbound 2024 - Immersive Fashion Event](https://www.londontourism.ca/events/unbound-2024-immersive-fashion-event) |
 |  |  | [Tour](/about#Tour) | [Voices of Broadway Outreach Concert for ELUCO](https://www.londontourism.ca/events/voices-of-broadway-outreach-concert-for-eluco) |
@@ -167,10 +153,12 @@ View only a category:
 |  |  | [Tour](/about#Tour) | [Springbank Sprint](https://www.londontourism.ca/events/springbank-sprint) |
 |  |  | [PSFTOff](/about#PSFTOff) | [Matilda The Musical JR.](https://psft.ca/event/matilda-the-musical-jr/) |
 |  | 08:00 | [CGM](/about#CGM) | [Outdoor Farmers Market](https://coventmarket.com/event/outdoor-farmers-market/) |
+|  | 10:00 | [FMus](/about#FMus) | [Young Winds Program - Final Concert](http://www.events.westernu.ca/events/music/2024-04/young-winds-program-final-concert.html) |
 |  | 11:00 | [CGM](/about#CGM) | [Soca Dance Fitness Class](https://coventmarket.com/event/soca-dance-fitness-class-3/) |
 |  | 11:00 | [CMus](/about#CMus) | [STEAM: Solar Eclipse Viewer](https://www.londonchildrensmuseum.ca/event/steam-solar-eclipse-viewer) |
 |  | 12:00 | [Museum](/about#Museum) | [Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10906/) |
 |  | 12:00 | [FMus](/about#FMus) | [Master's Recital - Oskar Martinez, bassoon](http://www.events.westernu.ca/events/music/2024-04/student-recital-kevin-oskar-martinez.html) |
+|  | 13:00 | [FMus](/about#FMus) | [Western Youth Wind Ensemble - Final Concert](http://www.events.westernu.ca/events/music/2024-04/western-youth-wind-ensemble-final-concert.html) |
 |  | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
 |  | 14:00 | [FMus](/about#FMus) | [Doctoral Recital - Sunhwa Her, collaborative piano NEW DATE](http://www.events.westernu.ca/events/music/2024-03/student-recital-sunhwa-her.html) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Solar Eclipse Viewer](https://www.londonchildrensmuseum.ca/event/steam-solar-eclipse-viewer) |
@@ -183,7 +171,7 @@ View only a category:
 |  | 22:00 | [LMH](/about#LMH) | [Omnom @ System Saturdays](http://londonmusichall.com/events/omnom-system-saturdays/) |
 | Sun Apr 07 |  | [BudG](/about#BudG) | [Noah Kahan](https://www.budweisergardens.com/events/detail/noah-kahan) |
 |  |  | [Grand](/about#Grand) | [Calidore String Quartet](https://www.grandtheatre.com/event/calidore-string-quartet) |
-|  |  | [Tour](/about#Tour) | [London Jazz Festival: Rob Stone Quartet](https://www.londontourism.ca/events/london-jazz-festival-rob-stone-quartet) |
+|  |  | [Tour](/about#Tour) | [Calidore String Quartet](https://www.londontourism.ca/events/calidore-string-quartet) |
 |  | 11:00 | [CMus](/about#CMus) | [STEAM: Solar Eclipse Viewer](https://www.londonchildrensmuseum.ca/event/steam-solar-eclipse-viewer) |
 |  | 12:00 | [FMus](/about#FMus) | [Master's Recital - Joseph Cantarutti, percussion - NEW TIME](http://www.events.westernu.ca/events/music/2024-04/student-recital-cantarutti.html) |
 |  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Stamp Champ](https://museumlondon.ca/programs-events/event/11004/2024/04/07) |
@@ -231,16 +219,17 @@ View only a category:
 |  | 17:00 | [Maker](/about#Maker) | [Wax Melt workshop](https://www.hellomaker.ca/events/waxmeltworkshop-d3wr2-rt83p) |
 |  | 18:00 | [CMus](/about#CMus) | [STEAM: Stop and Go Sprinkler](https://www.londonchildrensmuseum.ca/event/steam-stop-and-go-sprinkler) |
 |  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-04-11) |
-| Fri Apr 12 |  | [RBCP](/about#RBCP) | [OAO Symposium and InfoMart 2024](https://www.rbcplacelondon.com/events/oao-symposium-and-infomart-2024-april-12-14) |
+| Fri Apr 12 |  | [Tour](/about#Tour) | [London Lightning vs Los Angeles Ignite](https://www.londontourism.ca/events/london-lightning-vs-los-angeles-ignite) |
+|  |  | [RBCP](/about#RBCP) | [OAO Symposium and InfoMart 2024](https://www.rbcplacelondon.com/events/oao-symposium-and-infomart-2024-april-12-14) |
 |  | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
 |  | 19:00 | [LMH](/about#LMH) | [ZEUS](http://londonmusichall.com/events/zeus/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Don Ross				](https://aeolianhall.ca/events/don-ross/) |
-| Sat Apr 13 |  | [Tour](/about#Tour) | [Pot Is Drugs, SRC & Hyde Park](https://www.londontourism.ca/events/pot-is-drugs-src-and-hyde-park) |
-|  |  | [Tour](/about#Tour) | [Bill Welychka: 'A Happy Has-Been' Book Signing](https://www.londontourism.ca/events/bill-welychka-a-happy-has-been-book-signing) |
-|  |  | [Tour](/about#Tour) | [Amanda Martinez - Sunfest Concert Series](https://www.londontourism.ca/events/amanda-martinez-sunfest-concert-series) |
-|  |  | [Tour](/about#Tour) | [The Fish Are Back at Eastsides!!](https://www.londontourism.ca/events/the-fish-are-back-at-eastsides) |
+| Sat Apr 13 |  | [Tour](/about#Tour) | [The Fish Are Back at Eastsides!!](https://www.londontourism.ca/events/the-fish-are-back-at-eastsides) |
 |  |  | [Tour](/about#Tour) | [Golden Feather with Brent Jackson + Anddre Mafra](https://www.londontourism.ca/events/golden-feather-with-brent-jackson-anddre-mafra) |
 |  |  | [Tour](/about#Tour) | [London Jazz Festival: Nicole Tan Combo](https://www.londontourism.ca/events/london-jazz-festival-nicole-tan-combo) |
+|  |  | [Tour](/about#Tour) | [Pot Is Drugs, SRC & Hyde Park](https://www.londontourism.ca/events/pot-is-drugs-src-and-hyde-park) |
+|  |  | [Tour](/about#Tour) | [Bill Welychka: 'A Happy Has-Been' Book Signing](https://www.londontourism.ca/events/bill-welychka-a-happy-has-been-book-signing) |
+|  |  | [Tour](/about#Tour) | [Amanda Martinez - Sunfest Concert Series](https://www.londontourism.ca/events/amanda-martinez-sunfest-concert-series) |
 |  |  | [PSFTOff](/about#PSFTOff) | [Mudmen](https://psft.ca/event/mudmen/) |
 |  | 11:00 | [CMus](/about#CMus) | [STEAM: Stop and Go Sprinkler](https://www.londonchildrensmuseum.ca/event/steam-stop-and-go-sprinkler) |
 |  | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
@@ -262,7 +251,6 @@ View only a category:
 |  | 12:00 | [FMus](/about#FMus) | [Undergraduate Recital - Reta Eve Thompson, cello - NEW DATE](http://www.events.westernu.ca/events/music/2024-03/student-recital-rita-thompson.html) |
 |  | 12:00 | [Maker](/about#Maker) | [Embroidery 101: Custom Portrait ](https://www.hellomaker.ca/events/irqu905qi77vqjbol00gy0uc19ja68-gns73-fhhpr-najh8-yc3gg-6bcww-pjpfr-nfd4a-xy52p-b6wsn-8a9ra) |
 |  | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - April 16, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-april-16-2024) |
-|  | 13:30 | [FMus](/about#FMus) | [WDSS Introduction to Python Workshop](http://www.events.westernu.ca/events/science/2024-04/wdss-introduction-to-python.html) |
 |  | 14:00 | [FMus](/about#FMus) | [Undergraduate Recital - Yu-Xi Jacquelin Huang, violin](http://www.events.westernu.ca/events/music/2024-04/student-recital-jacquelin-huang.html) |
 |  | 16:00 | [FMus](/about#FMus) | [Undergraduate Recital - Sage Patricia Gilliland, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-sage-patricia-gilliland.html) |
 |  | 17:00 | [CMus](/about#CMus) | [Sensory Friendly Evening](https://www.londonchildrensmuseum.ca/event/sensory-friendly-evening) |
@@ -276,13 +264,11 @@ View only a category:
 |  | 16:00 | [FMus](/about#FMus) | [Undergraduate Recital - Nathalie Burden, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-nathalie-burden.html) |
 |  | 18:00 | [FMus](/about#FMus) | [Undergraduate Recital - Andrew Noel Brooks, trombone](http://www.events.westernu.ca/events/music/2024-04/student-recital-andrew-noel-brooks.html) |
 |  | 19:00 | [LMH](/about#LMH) | [Matthew Good & HIS BAND](http://londonmusichall.com/events/matthew-good-band/) |
-| Thu Apr 18 |  | [Tour](/about#Tour) | [London Jazz Orchestra - April 18](https://www.londontourism.ca/events/london-jazz-orchestra-april-18) |
-|  |  | [Tour](/about#Tour) | [25th Annual Salute to Laudable Londoners](https://www.londontourism.ca/events/25th-annual-salute-to-laudable-londoners) |
+| Thu Apr 18 |  | [Tour](/about#Tour) | [25th Annual Salute to Laudable Londoners](https://www.londontourism.ca/events/25th-annual-salute-to-laudable-londoners) |
 |  |  | [Tour](/about#Tour) | [The Brush and Palette Club - Art Show & Sale](https://www.londontourism.ca/events/the-brush-and-palette-club-art-show-and-sale) |
 |  | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
 |  | 12:00 | [FMus](/about#FMus) | [Master's Recital - Charmaine Marie Rana Iormetti, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-iormetti.html) |
 |  | 12:00 | [Maker](/about#Maker) | [Mini Weaving workshop ](https://www.hellomaker.ca/events/irqu905qi77vqjbol00gy0uc19ja68-gns73-fhhpr-najh8-yc3gg-6bcww-pjpfr-nfd4a-xspb5-hf56l) |
-|  | 13:30 | [FMus](/about#FMus) | [WDSS Intermediate Python Workshop](http://www.events.westernu.ca/events/science/2024-04/wdss-intermediate-python.html) |
 |  | 14:00 | [FMus](/about#FMus) | [Doctoral Recital - Yixuan Ran, piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-yixuan-ran.html) |
 |  | 16:00 | [FMus](/about#FMus) | [Doctoral Recital - Yu Zhang, piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-yu-zhang.html) |
 |  | 16:00 | [FMus](/about#FMus) | [Undergraduate Recital - Madeline Ruth Berman, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-madeline-berman.html) |
@@ -297,9 +283,9 @@ View only a category:
 |  | 20:00 | [FMus](/about#FMus) | [Master's Recital - Qianying Li, piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-qianying-li.html) |
 | Fri Apr 19 |  | [Tour](/about#Tour) | [Colin Fowlie @ Forked River Brewing Company](https://www.londontourism.ca/events/colin-fowlie-forked-river-brewing-company) |
 |  |  | [Tour](/about#Tour) | [Le Vent du Nord & London Symphonia](https://www.londontourism.ca/events/le-vent-du-nord-and-london-symphonia) |
+|  |  | [Tour](/about#Tour) | [Forest City Singers' Spring concert](https://www.londontourism.ca/events/forest-city-singers-spring-concert) |
 |  |  | [Tour](/about#Tour) | [London Jazz Festival: Cool Shoes Trio](https://www.londontourism.ca/events/london-jazz-festival-cool-shoes-trio) |
 |  |  | [Tour](/about#Tour) | [SNAPSHOTS: April 19-20](https://www.londontourism.ca/events/snapshots-april-19-20) |
-|  | 09:30 | [FMus](/about#FMus) | [WDSS Introduction to R Workshop](http://www.events.westernu.ca/events/science/2024-04/wdss-introduction-to-r.html) |
 |  | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
 |  | 12:00 | [FMus](/about#FMus) | [Doctoral Recital - Catalina Teican, collaborative piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-catalin-teican.html) |
 |  | 14:00 | [FMus](/about#FMus) | [Doctoral Recital - Zhiqi Guo, piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-zhiqi-guo.html) |
@@ -309,9 +295,9 @@ View only a category:
 |  | 19:00 | [LMH](/about#LMH) | [Queen : It’s A Kinda Magic (RENOWNED TRIBUTE ACT)](http://londonmusichall.com/events/queen-its-a-kinda-magic-renowned-tribute-act/) |
 |  | 20:00 | [FMus](/about#FMus) | [Undergraduate Recital - Michael Meilleur, trumpet](http://www.events.westernu.ca/events/music/2024-04/student-recital-michael-meilleur.html) |
 |  | 20:00 | [FMus](/about#FMus) | [Master's Recital - Andrew Wolf, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-andrew-wolf.html) |
-| Sat Apr 20 |  | [Tour](/about#Tour) | [London Mystic Market](https://www.londontourism.ca/events/london-mystic-market) |
-|  |  | [Tour](/about#Tour) | [EarthFest London](https://www.londontourism.ca/events/earthfest-london) |
+| Sat Apr 20 |  | [Tour](/about#Tour) | [Rapid Tension/G.F.U./Bad Words/Mental State](https://www.londontourism.ca/events/rapid-tension-gfu-bad-words-mental-state) |
 |  |  | [Tour](/about#Tour) | [London Spring Vintage Camera Show](https://www.londontourism.ca/events/london-spring-vintage-camera-show) |
+|  |  | [Tour](/about#Tour) | [EarthFest London](https://www.londontourism.ca/events/earthfest-london) |
 |  |  | [PSFTOff](/about#PSFTOff) | [British Beat 66](https://psft.ca/event/british-beat-66/) |
 |  |  | [RBCP](/about#RBCP) | [Evening of HOPE London Film Premiere](https://www.rbcplacelondon.com/events/evening-hope-london-film-premiere-april-20) |
 |  | 11:00 | [CMus](/about#CMus) | [STEAM: Travelling Vibrations](https://www.londonchildrensmuseum.ca/event/steam-travelling-vibrations) |
@@ -321,21 +307,21 @@ View only a category:
 |  | 14:00 | [FMus](/about#FMus) | [Undergraduate Recital - Antonia Sidiropoulos, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-sidiropoulos.html) |
 |  | 14:00 | [FMus](/about#FMus) | [Doctoral Recital - Hayoon Kim, collaborative piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-hayoon-kim.html) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Travelling Vibrations](https://www.londonchildrensmuseum.ca/event/steam-travelling-vibrations) |
-|  | 16:00 | [FMus](/about#FMus) | [Undergraduate Recital - Isabella Elfina Lauer, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-isabella-lauer.html) |
 |  | 16:00 | [FMus](/about#FMus) | [Doctoral Recital - Catherine Birt, collaborative piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-catherine-birt.html) |
+|  | 16:00 | [FMus](/about#FMus) | [Undergraduate Recital - Isabella Elfina Lauer, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-isabella-lauer.html) |
 |  | 18:00 | [FMus](/about#FMus) | [Undergraduate Recital - Tung Xuan Ngo, piano - NEW DATE](http://www.events.westernu.ca/events/music/2024-03/student-recital-tung-ngo.html) |
 |  | 18:00 | [FMus](/about#FMus) | [Master's Recital - Emma Daves, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-emma-daves.html) |
 |  | 19:30 | [Aeol](/about#Aeol) | [Shantero Productions Presents: The Stampeders – One More Time!				](https://aeolianhall.ca/events/shantero-productions-presents-the-stampeders-one-more-time/) |
-|  | 20:00 | [FMus](/about#FMus) | [Master's Recital - Xinyi (Peony) Lin, voice - NEW DATE](http://www.events.westernu.ca/events/music/2024-04/student-recital-xinyi-lin.html) |
 |  | 20:00 | [FMus](/about#FMus) | [Undergraduate Recital - Patricia Olivia Wrigglesworth, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-patricia-wrigglesworth.html) |
+|  | 20:00 | [FMus](/about#FMus) | [Master's Recital - Xinyi (Peony) Lin, voice - NEW DATE](http://www.events.westernu.ca/events/music/2024-04/student-recital-xinyi-lin.html) |
 |  | 22:00 | [LMH](/about#LMH) | [Sydney Blu @ System Saturdays](http://londonmusichall.com/events/sydney-blu-system-saturdays/) |
 | Sun Apr 21 |  | [Grand](/about#Grand) | [London Gospel Collective 2023/24 Series](https://www.grandtheatre.com/event/london-gospel-collective-2324) |
-|  |  | [Tour](/about#Tour) | [Ontario Hooking Craft Guild Annual Conference](https://www.londontourism.ca/events/ontario-hooking-craft-guild-annual-conference) |
 |  |  | [Tour](/about#Tour) | [Joe Crookston](https://www.londontourism.ca/events/joe-crookston) |
-|  |  | [Tour](/about#Tour) | [SNAPSHOTS: April 21](https://www.londontourism.ca/events/snapshots-april-21) |
 |  |  | [Tour](/about#Tour) | [From Iowa to Ontario - folk music at The Root Cellar](https://www.londontourism.ca/events/from-iowa-to-ontario-folk-music-at-the-root-cellar) |
 |  |  | [Tour](/about#Tour) | [London Jazz Festival: Ariel Kasler Trio](https://www.londontourism.ca/events/london-jazz-festival-ariel-kasler-trio) |
 |  |  | [Tour](/about#Tour) | [Considering Matthew Shepard](https://www.londontourism.ca/events/considering-matthew-shepard) |
+|  |  | [Tour](/about#Tour) | [Forest City Singers' Spring Concert - Siloam United Church](https://www.londontourism.ca/events/forest-city-singers-spring-concert-siloam-united-church) |
+|  |  | [Tour](/about#Tour) | [Ontario Hooking Craft Guild Annual Conference](https://www.londontourism.ca/events/ontario-hooking-craft-guild-annual-conference) |
 |  | 11:00 | [CMus](/about#CMus) | [STEAM: Travelling Vibrations](https://www.londonchildrensmuseum.ca/event/steam-travelling-vibrations) |
 |  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Stamp Champ](https://museumlondon.ca/programs-events/event/11004/2024/04/21) |
 |  | 14:00 | [Museum](/about#Museum) | [Sunday Exhibition Tours](https://museumlondon.ca/programs-events/event/9394/2024/04/21) |
@@ -343,7 +329,6 @@ View only a category:
 |  | 19:30 | [Aeol](/about#Aeol) | [Shantero Productions Presents: The Stampeders – One More Time!				](https://aeolianhall.ca/events/shantero-productions-presents-the-stampeders-one-more-time-2/) |
 | Mon Apr 22 | 12:00 | [FMus](/about#FMus) | [Master's Recital - Felix Stueckmann, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-stueckmann.html) |
 |  | 13:00 | [City](/about#City) | [Corporate Services Committee - April 22, 2024](https://london.ca/government/calendar/corporate-services-committee-april-22-2024) |
-|  | 13:30 | [FMus](/about#FMus) | [WDSS Intermediate R Workshop](http://www.events.westernu.ca/events/science/2024-04/wdss-intermediate-r-workshop.html) |
 |  | 14:00 | [FMus](/about#FMus) | [Master's Recital - Gabrielle De Grandmont, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-gabrille-de-grandmont.html) |
 |  | 16:00 | [FMus](/about#FMus) | [Doctoral Recital - Zhiyuan Luo, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-zhiyuan-luo.html) |
 |  | 18:00 | [FMus](/about#FMus) | [Master's Recital - Julia Andrea LoRusso, voice - NEW DATE](http://www.events.westernu.ca/events/music/2024-04/student-recital-julia-lorusso.html) |
@@ -352,14 +337,14 @@ View only a category:
 |  | 12:00 | [FMus](/about#FMus) | [Doctoral Recital - Ryan Baxter, piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-ryan-baxter.html) |
 |  | 13:00 | [City](/about#City) | [Council - April 23, 2024](https://london.ca/government/calendar/council-april-23-2024) |
 |  | 14:00 | [FMus](/about#FMus) | [Undergraduate Recital - Adam MacNeil, piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-adam-macneil.html) |
-|  | 16:00 | [FMus](/about#FMus) | [Master's Recital - Lezhuo (Rachel) Liu, piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-rachel-liu.html) |
 |  | 16:00 | [FMus](/about#FMus) | [Master's Recital - Dayesl Kim, voice - NEW DATE](http://www.events.westernu.ca/events/music/2024-03/student-recital-dayesl-kim.html) |
+|  | 16:00 | [FMus](/about#FMus) | [Master's Recital - Lezhuo (Rachel) Liu, piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-rachel-liu.html) |
 |  | 18:00 | [FMus](/about#FMus) | [Master's Recital - Evan Williams, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-evan-williams.html) |
 |  | 18:00 | [FMus](/about#FMus) | [Doctoral Recital - ChanJoo Ahn, piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-chanjoo-ahn.html) |
 |  | 18:00 | [FMus](/about#FMus) | [Undergraduate Recital - Erin Johnston, voice - DEFERRED](http://www.events.westernu.ca/events/music/2024-04/student-recital-erin-johnston.html) |
 |  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-04-23) |
-|  | 20:00 | [FMus](/about#FMus) | [Master's Recital - Ellis Yuen-Rapati, viola](http://www.events.westernu.ca/events/music/2024-04/student-recital-ellis-yuen-rapati.html) |
 |  | 20:00 | [FMus](/about#FMus) | [Master's Recital - Matthew John Bermudez, voice - NEW DATE](http://www.events.westernu.ca/events/music/2024-04/student-recital-matthew-bermudez.html) |
+|  | 20:00 | [FMus](/about#FMus) | [Master's Recital - Ellis Yuen-Rapati, viola](http://www.events.westernu.ca/events/music/2024-04/student-recital-ellis-yuen-rapati.html) |
 | Wed Apr 24 | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
 |  | 12:00 | [FMus](/about#FMus) | [Master's Recital - Chunju Tsai, collaborative piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-chunju-tsai.html) |
 |  | 16:00 | [FMus](/about#FMus) | [Doctoral Recital - Mijin Kim, piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-mijin-kim.html) |
@@ -367,15 +352,21 @@ View only a category:
 |  | 20:00 | [FMus](/about#FMus) | [Master's Recital - Ashley Giles, viola](http://www.events.westernu.ca/events/music/2024-04/student-recital-ashley-giles.html) |
 | Thu Apr 25 |  | [RBCP](/about#RBCP) | [33rd Canadian Conference on HIV/Aids Research](https://www.rbcplacelondon.com/events/33rd-canadian-conference-hivaids-research-april-25-28) |
 |  | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
+|  | 12:00 | [FMus](/about#FMus) | [Undergraduate Recital - Meagan Kathryn Foster, percussion](http://www.events.westernu.ca/events/music/2024-04/student-recital-meagan-foster.html) |
 |  | 12:00 | [Maker](/about#Maker) | [Wax Melt workshop ](https://www.hellomaker.ca/events/waxmeltworkshop-d3wr2-rt83p-tghwl) |
+|  | 14:00 | [FMus](/about#FMus) | [Master's Recital - Angela Myshkowsky, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-angela-myshkowsky.html) |
+|  | 16:00 | [FMus](/about#FMus) | [Master's Recital - Tracy Guo, collaborative piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-tracy-guo.html) |
 |  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
 |  | 17:30 | [Maker](/about#Maker) | [Candle Making Workshop ](https://www.hellomaker.ca/events/candleworkshop-8rmrf-s93a6-fzeyt-jaxrs-7w7k8) |
+|  | 18:00 | [FMus](/about#FMus) | [Master's Recital - Leon Fei, piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-leon-fei.html) |
 |  | 18:00 | [CMus](/about#CMus) | [STEAM: Pinwheels](https://www.londonchildrensmuseum.ca/event/steam-pinwheels) |
 |  | 18:30 | [Aeol](/about#Aeol) | [Aeolian Jazz Series – Peter Karle (Southen Lounge)				](https://aeolianhall.ca/events/aeolian-jazz-series-peter-karle-southen-lounge-2/) |
 |  | 18:30 | [LMH](/about#LMH) | [Green Jelly](http://londonmusichall.com/events/green-jelly/) |
 |  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-04-25) |
 |  | 19:00 | [Maker](/about#Maker) | [Polymer Clay Earring Workshop ](https://www.hellomaker.ca/events/polymer-clay-earring-workshop-7m6jk-db26w-b42sc-c7l7d-m8rbg-yxm5r-a48nk-xggm8-mdblt-9z7h6-e36fb-tpnml-xrs5b-gp3yh-aw87b) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Connie Kaldor				](https://aeolianhall.ca/events/connie-kaldor/) |
+|  | 20:00 | [FMus](/about#FMus) | [Master's Recital - Eliza Celis Correa, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-eliza-celis-correa.html) |
+|  | 20:00 | [FMus](/about#FMus) | [Doctoral Recital - Xi Li, piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-xi-li.html) |
 | Fri Apr 26 | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
 |  | 19:00 | [LMH](/about#LMH) | [TALK – LORD OF THE FLIES & BIRDS & BEES TOUR](http://londonmusichall.com/events/talk-lord-of-the-flies-birds-bees-tour/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [The Woodstock Experience				](https://aeolianhall.ca/events/the-woodstock-experience-2/) |
@@ -390,6 +381,7 @@ View only a category:
 |  | 14:00 | [Aeol](/about#Aeol) | [From Susan & Marion With Love				](https://aeolianhall.ca/events/from-susan-marion-with-love/) |
 |  | 14:00 | [Museum](/about#Museum) | [Sunday Exhibition Tours](https://museumlondon.ca/programs-events/event/9394/2024/04/28) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Pinwheels](https://www.londonchildrensmuseum.ca/event/steam-pinwheels) |
+|  | 19:00 | [LMH](/about#LMH) | [Gatecreeper](http://londonmusichall.com/events/gatecreeper/) |
 | Mon Apr 29 | 13:00 | [City](/about#City) | [Community and Protective Services Committee - April 29, 2024](https://london.ca/government/calendar/community-protective-services-committee-april-29-2024) |
 | Tue Apr 30 | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
 |  | 09:30 | [City](/about#City) | [Civic Works Committee - April 30, 2024](https://london.ca/government/calendar/civic-works-committee-april-30-2024) |
@@ -422,6 +414,7 @@ View only a category:
 | Fri May 10 | 20:00 | [Aeol](/about#Aeol) | [Daniel Champagne				](https://aeolianhall.ca/events/daniel-champagne-3/) |
 | Sat May 11 | 12:00 | [Museum](/about#Museum) | [Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10910/) |
 |  | 19:00 | [Aeol](/about#Aeol) | [Whiskey Jack – Stories & Songs of Stompin’ Tom				](https://aeolianhall.ca/events/whiskey-jack-stories-songs-of-stompin-tom/) |
+|  | 22:00 | [LMH](/about#LMH) | [Apollo / ZAZA / Monark @ System Saturdays](http://londonmusichall.com/events/apollo-zaza-monark-system-saturdays/) |
 | Sun May 12 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Whimsical Watercolour Resist](https://museumlondon.ca/programs-events/event/11011/2024/05/12) |
 | Mon May 13 | 10:00 | [City](/about#City) | [Governance Working Group - May 13, 2024](https://london.ca/government/calendar/governance-working-group-may-13-2024) |
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - May 13, 2024](https://london.ca/government/calendar/planning-environment-committee-may-13-2024) |
@@ -446,6 +439,7 @@ View only a category:
 |  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-05-23) |
 |  | 19:30 | [Aeol](/about#Aeol) | [Good Lovelies – We Will Never Be The Same Tour				](https://aeolianhall.ca/events/good-lovelies-we-will-never-be-the-same-tour/) |
 | Sat May 25 | 12:00 | [Museum](/about#Museum) | [Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10912/) |
+|  | 13:00 | [Info](/about#Info) | [TAKE-A-SHOT TVCC Para Sport Day](https://www.informationlondon.ca/Event/Detail/49968/TAKE-A-SHOT_TVCC_Para_Sport_Day?date=2024-05-25) |
 |  | 20:00 | [CMus](/about#CMus) | [Retro Recess](https://www.londonchildrensmuseum.ca/event/retro-recess) |
 | Sun May 26 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Whimsical Watercolour Resist](https://museumlondon.ca/programs-events/event/11011/2024/05/26) |
 |  | 19:00 | [LMH](/about#LMH) | [CHRIS WEBBY – THE LAST WEDNESDAY TOUR PART 2](http://londonmusichall.com/events/the-last-wednesday-tour-part-2/) |
@@ -489,8 +483,8 @@ View only a category:
 | Mon Jul 08 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: STEAMpunks Futuristic Fabricators](https://museumlondon.ca/programs-events/event/11418/) |
 |  | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
 | Mon Jul 15 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Enchanted Realms and Mythical Creatures](https://museumlondon.ca/programs-events/event/11419/) |
-|  | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
 |  | 09:00 | [CMus](/about#CMus) | [Tween Summer Day Camp](https://www.londonchildrensmuseum.ca/event/tween-summer-day-camp) |
+|  | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
 |  | 13:00 | [City](/about#City) | [Community and Protective Services Committee - July 15, 2024](https://london.ca/government/calendar/community-protective-services-committee-july-15-2024) |
 | Tue Jul 16 | 09:30 | [City](/about#City) | [Civic Works Committee - July 16, 2024](https://london.ca/government/calendar/civic-works-committee-july-16-2024) |
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - July 16, 2024](https://london.ca/government/calendar/planning-environment-committee-july-16-2024) |
@@ -516,8 +510,8 @@ View only a category:
 |  | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - August 15, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-august-15-2024) |
 | Fri Aug 16 | 19:00 | [LMH](/about#LMH) | [The Michael Jackson History Show](http://londonmusichall.com/events/the-michael-jackson-history-show/) |
 | Mon Aug 19 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Weaving Wonders and Fiber Fun](https://museumlondon.ca/programs-events/event/11424/) |
-|  | 09:00 | [CMus](/about#CMus) | [Tween Summer Day Camp](https://www.londonchildrensmuseum.ca/event/tween-summer-day-camp) |
 |  | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
+|  | 09:00 | [CMus](/about#CMus) | [Tween Summer Day Camp](https://www.londonchildrensmuseum.ca/event/tween-summer-day-camp) |
 | Mon Aug 26 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Heroes and Villains](https://museumlondon.ca/programs-events/event/11425/) |
 |  | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - August 26, 2024](https://london.ca/government/calendar/planning-environment-committee-august-26-2024) |
