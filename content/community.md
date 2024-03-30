@@ -1,6 +1,6 @@
 ---
 title: "Events - community"
-date: 2024-03-29T00:00:35-04:00
+date: 2024-03-30T00:00:38-04:00
 draft: false
 ---
 
@@ -9,9 +9,7 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Fri) | 10:00 | [Info](/about#Info) | [26th Annual Easter Egg Hunt for Dogs](https://www.informationlondon.ca/Event/Detail/49639/26th_Annual_Easter_Egg_Hunt_for_Dogs?date=2024-03-29) |
-|  | 12:00 | [City](/about#City) | [Free Good Friday recreation activities - March 29, 2024](https://london.ca/government/calendar/free-good-friday-recreation-activities-march-29-2024) |
-| Tomorrow (Sat) |  | [PSFTOff](/about#PSFTOff) | [How We Got to Jersey: A Tale of Two Frankies](https://psft.ca/event/how-we-got-to-jersey-a-tale-of-two-frankies/) |
+| Today (Sat) |  | [PSFTOff](/about#PSFTOff) | [How We Got to Jersey: A Tale of Two Frankies](https://psft.ca/event/how-we-got-to-jersey-a-tale-of-two-frankies/) |
 | Tue Apr 02 | 12:00 | [Maker](/about#Maker) | [Punch Needle Workshop ](https://www.hellomaker.ca/events/zfvpxsej5j9u9z39dn0cn9q7v6q0nk-22x5e-fjxkf-d3gmb-5w3kx-9mnfb-wpp2w-rz2z2-343nh-zs6pt-ewwxe-ksahp-menef-dm93d-ypxsp-rcc5e-zmxbp-zwhtx-trff9-7sbzh-5e67z-tte7w-39x2s-bkc5m-7abfj) |
 |  | 13:00 | [City](/about#City) | [Council - April 02, 2024](https://london.ca/government/calendar/council-april-02-2024) |
 |  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-04-02) |
@@ -67,7 +65,6 @@ View only a category:
 | Tue May 14 | 13:00 | [City](/about#City) | [Council - May 14, 2024](https://london.ca/government/calendar/council-may-14-2024) |
 | Thu May 16 | 12:00 | [Maker](/about#Maker) | [Flower pressing ](https://www.hellomaker.ca/events/flowerpressingworkshop-s537b) |
 | Tue May 21 |  | [PSFT](/about#PSFT) | [The Beaver Club](https://psft.ca/event/the-beaver-club/) |
-|  | 13:00 | [City](/about#City) | [Community and Protective Services Committee - May 21, 2024](https://london.ca/government/calendar/community-protective-services-committee-may-21-2024) |
 | Wed May 22 |  | [RBCP](/about#RBCP) | [LHSF Donor of Distinction Societies President's Dinner](https://www.rbcplacelondon.com/events/lhsf-donor-distinction-societies-presidents-dinner-may-22) |
 |  | 09:30 | [City](/about#City) | [Civic Works Committee - May 22, 2024](https://london.ca/government/calendar/civic-works-committee-may-22-2024) |
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - May 22, 2024](https://london.ca/government/calendar/planning-environment-committee-may-22-2024) |
@@ -95,24 +92,7 @@ View only a category:
 | Wed Jul 17 |  | [PSFT](/about#PSFT) | [Hurry Hard](https://psft.ca/event/hurry-hard/) |
 |  | 13:00 | [City](/about#City) | [Corporate Services Committee - July 17, 2024](https://london.ca/government/calendar/corporate-services-committee-july-17-2024) |
 | Thu Jul 18 | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - July 18, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-july-18-2024) |
-| Tue Jul 23 | 13:00 | [City](/about#City) | [Council - July 23, 2024](https://london.ca/government/calendar/council-july-23-2024) |
 | Wed Aug 07 |  | [PSFT](/about#PSFT) | [Bigfoot!](https://psft.ca/event/bigfoot/) |
-| Mon Aug 12 | 13:00 | [City](/about#City) | [Community and Protective Services Committee - August 12, 2024](https://london.ca/government/calendar/community-protective-services-committee-august-12-2024) |
-| Tue Aug 13 | 09:30 | [City](/about#City) | [Civic Works Committee - August 13, 2024](https://london.ca/government/calendar/civic-works-committee-august-13-2024) |
-|  | 13:00 | [City](/about#City) | [Planning and Environment Committee - August 13, 2024](https://london.ca/government/calendar/planning-environment-committee-august-13-2024) |
-| Wed Aug 14 | 13:00 | [City](/about#City) | [Corporate Services Committee - August 14, 2024](https://london.ca/government/calendar/corporate-services-committee-august-14-2024) |
-| Thu Aug 15 | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - August 15, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-august-15-2024) |
-| Mon Aug 26 | 13:00 | [City](/about#City) | [Planning and Environment Committee - August 26, 2024](https://london.ca/government/calendar/planning-environment-committee-august-26-2024) |
-| Tue Aug 27 | 13:00 | [City](/about#City) | [Council - August 27, 2024](https://london.ca/government/calendar/council-august-27-2024) |
-|  | 19:00 | [Maker](/about#Maker) | [Hand-Tied Bouquet Workshop ](https://www.hellomaker.ca/events/zfvpxsej5j9u9z39dn0cn9q7v6q0nk-22x5e-fjxkf-d3gmb-5w3kx-9mnfb-wpp2w-rz2z2-343nh-zs6pt-ewwxe-ksahp-menef-dm93d-ypxsp-y9gx3-9lhpc) |
+| Tue Aug 27 | 19:00 | [Maker](/about#Maker) | [Hand-Tied Bouquet Workshop ](https://www.hellomaker.ca/events/zfvpxsej5j9u9z39dn0cn9q7v6q0nk-22x5e-fjxkf-d3gmb-5w3kx-9mnfb-wpp2w-rz2z2-343nh-zs6pt-ewwxe-ksahp-menef-dm93d-ypxsp-y9gx3-9lhpc) |
 | Wed Aug 28 |  | [PSFT](/about#PSFT) | [The Perils Of Persephone](https://psft.ca/event/perils-of-persephone/) |
-| Mon Sep 09 | 13:00 | [City](/about#City) | [Community and Protective Services Committee - September 09, 2024](https://london.ca/government/calendar/community-protective-services-committee-september-09-2024) |
-| Tue Sep 10 | 09:30 | [City](/about#City) | [Civic Works Committee - September 10, 2024](https://london.ca/government/calendar/civic-works-committee-september-10-2024) |
-|  | 13:00 | [City](/about#City) | [Planning and Environment Committee - September 10, 2024](https://london.ca/government/calendar/planning-environment-committee-september-10-2024) |
-| Mon Sep 16 | 13:00 | [City](/about#City) | [Corporate Services Committee - September 16, 2024](https://london.ca/government/calendar/corporate-services-committee-september-16-2024) |
-| Tue Sep 17 | 09:30 | [City](/about#City) | [Dearness Home Committee of Management - September 17, 2024](https://london.ca/government/calendar/dearness-home-committee-management-september-17-2024) |
-|  | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - September 17, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-september-17-2024) |
-|  | 19:00 | [Maker](/about#Maker) | [Floral Arranement Workshop ](https://www.hellomaker.ca/events/zfvpxsej5j9u9z39dn0cn9q7v6q0nk-22x5e-fjxkf-d3gmb-5w3kx-9mnfb-wpp2w-rz2z2-343nh-zs6pt-ewwxe-ksahp-menef-dm93d-ypxsp-fzfbc-xjntk) |
-| Wed Sep 18 | 12:00 | [City](/about#City) | [Audit Committee - September 18, 2024](https://london.ca/government/calendar/audit-committee-september-18-2024) |
-| Mon Sep 23 | 10:00 | [City](/about#City) | [Governance Working Group - September 23, 2024](https://london.ca/government/calendar/governance-working-group-september-23-2024) |
-| Tue Sep 24 | 13:00 | [City](/about#City) | [Council - September 24, 2024](https://london.ca/government/calendar/council-september-24-2024) |
+| Tue Sep 17 | 19:00 | [Maker](/about#Maker) | [Floral Arranement Workshop ](https://www.hellomaker.ca/events/zfvpxsej5j9u9z39dn0cn9q7v6q0nk-22x5e-fjxkf-d3gmb-5w3kx-9mnfb-wpp2w-rz2z2-343nh-zs6pt-ewwxe-ksahp-menef-dm93d-ypxsp-fzfbc-xjntk) |

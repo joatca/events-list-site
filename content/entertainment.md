@@ -1,6 +1,6 @@
 ---
 title: "Events - entertainment"
-date: 2024-03-29T00:00:35-04:00
+date: 2024-03-30T00:00:38-04:00
 draft: false
 ---
 
@@ -9,16 +9,15 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Fri) |  | [BudG](/about#BudG) | [London Knights Playoffs - Round 1 Home Game 1](https://www.budweisergardens.com/events/detail/london-knights-playoff-round-1-game-1) |
+| Today (Sat) |  | [BudG](/about#BudG) | [AEW COLLISION](https://www.budweisergardens.com/events/detail/aew-collision) |
 |  |  | [Grand](/about#Grand) | [Clue](https://www.grandtheatre.com/event/clue) |
-| Tomorrow (Sat) |  | [BudG](/about#BudG) | [AEW COLLISION](https://www.budweisergardens.com/events/detail/aew-collision) |
 |  | 14:00 | [FMus](/about#FMus) | [Master's Recital - Kalie KaHyun Foxwell, piano](http://www.events.westernu.ca/events/music/2024-03/student-recital-kalie-foxwell.html) |
 |  | 14:00 | [FMus](/about#FMus) | [Symphony Orchestra Concert](http://www.events.westernu.ca/events/music/2024-03/symphony-orchestra-concert.html) |
 |  | 16:00 | [FMus](/about#FMus) | [Master's Recital - Jing Tao, violin](http://www.events.westernu.ca/events/music/2024-03/student-recital-jing-tao.html) |
 |  | 18:00 | [FMus](/about#FMus) | [Master's Recital - Daryn Imani Nowlin, voice](http://www.events.westernu.ca/events/music/2024-03/student-recital-daryn-nowlin.html) |
 |  | 20:00 | [FMus](/about#FMus) | [Master's Recital - Johnny Tan, clarinet](http://www.events.westernu.ca/events/music/2024-03/student-recital-johnny-tan.html) |
 |  | 22:00 | [LMH](/about#LMH) | [Le Youth @ System Saturdays](http://londonmusichall.com/events/le-youth-system-saturdays/) |
-| Sun Mar 31 |  | [BudG](/about#BudG) | [London Knights Playoffs - Round 1 Home Game 2](https://www.budweisergardens.com/events/detail/london-knights-palyoffs-round-1-game-2) |
+| Tomorrow (Sun) |  | [BudG](/about#BudG) | [London Knights Playoffs - Round 1 Home Game 2](https://www.budweisergardens.com/events/detail/london-knights-palyoffs-round-1-game-2) |
 |  | 14:00 | [Museum](/about#Museum) | [Sunday Exhibition Tours](https://museumlondon.ca/programs-events/event/9394/2024/03/31) |
 | Mon Apr 01 |  | [BudG](/about#BudG) | [London Lightning vs. Newfoundland Rogues](https://www.budweisergardens.com/events/detail/london-lightning-vs-newfoundland-rogue-1) |
 |  | 12:30 | [FMus](/about#FMus) | [Undergraduate Recital - McKenna Lynne Mellon, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-mckenna-mellon.html) |
@@ -39,7 +38,7 @@ View only a category:
 |  | 16:00 | [FMus](/about#FMus) | [Undergraduate Recital - Mary Elysa Gonsalves, violin](http://www.events.westernu.ca/events/music/2024-04/student-recital-gonsalves.html) |
 |  | 18:00 | [FMus](/about#FMus) | [Undergraduate Recital - Katie Aryn Grace Kirkpatrick, flute](http://www.events.westernu.ca/events/music/2024-04/student-recital-katie-kirkpatrick.html) |
 |  | 18:30 | [Aeol](/about#Aeol) | [Aeolian Pride Social Series – Heather Bambrick				](https://aeolianhall.ca/events/aeolian-pride-social-series-heather-bambrick/) |
-|  | 19:00 | [LMH](/about#LMH) | [Lil Xan – The Return Tour](http://londonmusichall.com/events/lil-xan/) |
+|  | 19:00 | [LMH](/about#LMH) | [* Cancelled * Lil Xan – The Return Tour](http://londonmusichall.com/events/lil-xan/) |
 |  | 19:30 | [FMus](/about#FMus) | [Chamber Music Gala Concert with new Student Composer works  ](http://www.events.westernu.ca/events/music/2024-04/student-composer-gala.html) |
 |  | 20:00 | [FMus](/about#FMus) | [Doctoral Recital - Tasman Tantasawat, viola - NEW DATE](http://www.events.westernu.ca/events/music/2024-04/student-recital-tasman-tantasawat.html) |
 | Thu Apr 04 |  | [Grand](/about#Grand) | [Jeans 'n Classics 2023/24 Series](https://www.grandtheatre.com/event/jeans-n-classics-2324) |
@@ -100,7 +99,8 @@ View only a category:
 |  | 19:00 | [LMH](/about#LMH) | [The Northern](http://londonmusichall.com/events/the-northern/) |
 |  | 19:30 | [Aeol](/about#Aeol) | [The Aeolian’s Curtain Call Fundraiser				](https://aeolianhall.ca/events/the-aeolians-curtain-call-fundraiser/) |
 |  | 20:00 | [FMus](/about#FMus) | [Doctoral Recital - Anthony Rodrigues, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-anthony-rodrigues.html) |
-| Fri Apr 12 | 19:00 | [LMH](/about#LMH) | [ZEUS](http://londonmusichall.com/events/zeus/) |
+| Fri Apr 12 |  | [BudG](/about#BudG) | [London Lightning vs. St. Louis Griffins](https://www.budweisergardens.com/events/detail/london-lightning-vs-la-ignite) |
+|  | 19:00 | [LMH](/about#LMH) | [ZEUS](http://londonmusichall.com/events/zeus/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Don Ross				](https://aeolianhall.ca/events/don-ross/) |
 | Sat Apr 13 | 15:30 | [Museum](/about#Museum) | [Giving Back: with Ruth Douthwright](https://museumlondon.ca/programs-events/event/11049/) |
 |  | 18:00 | [LMH](/about#LMH) | [Thy Art Is Murder](http://londonmusichall.com/events/thy-art-is-murder/) |
