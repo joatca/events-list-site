@@ -1,6 +1,6 @@
 ---
 title: "Events - downtown"
-date: 2024-04-02T00:00:29-04:00
+date: 2024-04-03T00:00:42-04:00
 draft: false
 ---
 
@@ -9,16 +9,16 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Tue) | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
-|  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-04-02) |
-| Tomorrow (Wed) | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
+| Today (Wed) | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
 |  | 14:30 | [Museum](/about#Museum) | [Culture Club with Dr. Amber Lloydlangston, Causing a Ferment](https://museumlondon.ca/programs-events/event/11027/) |
+|  | 18:00 | [Info](/about#Info) | [Helmets on Kids Trivia Night](https://www.informationlondon.ca/Event/Detail/49882/Helmets_on_Kids_Trivia_Night?date=2024-04-03) |
 |  | 18:30 | [Aeol](/about#Aeol) | [Aeolian Pride Social Series – Heather Bambrick				](https://aeolianhall.ca/events/aeolian-pride-social-series-heather-bambrick/) |
 |  | 19:00 | [LMH](/about#LMH) | [* Cancelled * Lil Xan – The Return Tour](http://londonmusichall.com/events/lil-xan/) |
-| Thu Apr 04 |  | [Grand](/about#Grand) | [Jeans 'n Classics 2023/24 Series](https://www.grandtheatre.com/event/jeans-n-classics-2324) |
+| Tomorrow (Thu) |  | [Grand](/about#Grand) | [Jeans 'n Classics 2023/24 Series](https://www.grandtheatre.com/event/jeans-n-classics-2324) |
 |  | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
 |  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
 |  | 18:00 | [CMus](/about#CMus) | [STEAM: Solar Eclipse Viewer](https://www.londonchildrensmuseum.ca/event/steam-solar-eclipse-viewer) |
+|  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/50041/Skills_for_Success?date=2024-04-04) |
 |  | 19:00 | [LMH](/about#LMH) | [Dave Hause](http://londonmusichall.com/events/dave-hause-the-drew-thomson-foundation/) |
 | Fri Apr 05 |  | [BudG](/about#BudG) | [London Knights Playoffs - Round 1 Home Game 3*](https://www.budweisergardens.com/events/detail/london-knights-palyoffs-round-1-game-3) |
 |  | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
@@ -26,7 +26,7 @@ View only a category:
 |  | 20:00 | [Aeol](/about#Aeol) | [It’s Too Late To Stop Now: The Music of Van Morrison				](https://aeolianhall.ca/events/its-too-late-to-stop-now-the-music-of-van-morrison-3/) |
 | Sat Apr 06 | 11:00 | [CGM](/about#CGM) | [Soca Dance Fitness Class](https://coventmarket.com/event/soca-dance-fitness-class-3/) |
 |  | 11:00 | [CMus](/about#CMus) | [STEAM: Solar Eclipse Viewer](https://www.londonchildrensmuseum.ca/event/steam-solar-eclipse-viewer) |
-|  | 12:00 | [Museum](/about#Museum) | [Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10906/) |
+|  | 12:00 | [Museum](/about#Museum) | [*SOLD OUT* Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10906/) |
 |  | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Solar Eclipse Viewer](https://www.londonchildrensmuseum.ca/event/steam-solar-eclipse-viewer) |
 |  | 15:30 | [Museum](/about#Museum) | [Muscle and Hustle: with Ruth Douthwright](https://museumlondon.ca/programs-events/event/11047/) |
@@ -48,7 +48,8 @@ View only a category:
 |  | 14:30 | [Museum](/about#Museum) | [Culture Club with Cassie Getty, New Days and New Ways](https://museumlondon.ca/programs-events/event/11031/) |
 |  | 19:00 | [LMH](/about#LMH) | [The Northern](http://londonmusichall.com/events/the-northern/) |
 |  | 19:30 | [Aeol](/about#Aeol) | [The Aeolian’s Curtain Call Fundraiser				](https://aeolianhall.ca/events/the-aeolians-curtain-call-fundraiser/) |
-| Thu Apr 11 | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
+| Thu Apr 11 | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
+|  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
 |  | 18:00 | [CMus](/about#CMus) | [STEAM: Stop and Go Sprinkler](https://www.londonchildrensmuseum.ca/event/steam-stop-and-go-sprinkler) |
 | Fri Apr 12 |  | [BudG](/about#BudG) | [London Lightning vs. St. Louis Griffins](https://www.budweisergardens.com/events/detail/london-lightning-vs-la-ignite) |
 |  | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
@@ -65,6 +66,7 @@ View only a category:
 |  | 14:00 | [Aeol](/about#Aeol) | [Aeolian Classical Series – Clark Bryan				](https://aeolianhall.ca/events/aeolian-classical-series-clark-bryan/) |
 |  | 14:00 | [Museum](/about#Museum) | [Sunday Exhibition Tours](https://museumlondon.ca/programs-events/event/9394/2024/04/14) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Stop and Go Sprinkler](https://www.londonchildrensmuseum.ca/event/steam-stop-and-go-sprinkler) |
+|  | 15:00 | [Museum](/about#Museum) | [Magisterra at the Museum: The Glorious Voice of Russell Braun](https://museumlondon.ca/programs-events/event/11472/) |
 |  | 19:00 | [LMH](/about#LMH) | [ENDLESS BUMMER: A Musical Collaboration With Motive](http://londonmusichall.com/events/endless-bummer-a-musical-collaboration-with-motive/) |
 | Tue Apr 16 |  | [Grand](/about#Grand) | [Million Dollar Quartet](https://www.grandtheatre.com/event/million-dollar-quartet) |
 |  | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
@@ -75,7 +77,6 @@ View only a category:
 |  | 19:00 | [LMH](/about#LMH) | [Matthew Good & HIS BAND](http://londonmusichall.com/events/matthew-good-band/) |
 | Thu Apr 18 | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
 |  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
-|  | 17:30 | [CMus](/about#CMus) | [Special Guest: Western Engineering](https://www.londonchildrensmuseum.ca/event/special-guest-western-engineering) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Caity Gyorgy				](https://aeolianhall.ca/events/caity-gyorgy/) |
 | Fri Apr 19 | 19:00 | [LMH](/about#LMH) | [Queen : It’s A Kinda Magic (RENOWNED TRIBUTE ACT)](http://londonmusichall.com/events/queen-its-a-kinda-magic-renowned-tribute-act/) |
 | Sat Apr 20 |  | [Eldon](/about#Eldon) | [London Clean and Green 2024](https://eldonhouse.ca/product/london-clean-and-green-2024/) |
