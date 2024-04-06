@@ -1,6 +1,6 @@
 ---
 title: "Events - entertainment"
-date: 2024-04-05T00:00:29-04:00
+date: 2024-04-06T00:00:40-04:00
 draft: false
 ---
 
@@ -9,19 +9,7 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Fri) |  | [Grand](/about#Grand) | [Jeans 'n Classics 2023/24 Series](https://www.grandtheatre.com/event/jeans-n-classics-2324) |
-|  | 12:30 | [FMus](/about#FMus) | [Master's Recital - Songlee Kim, piano ](http://www.events.westernu.ca/events/music/2024-04/student-recital-songlee-kim.html) |
-|  | 12:30 | [FMus](/about#FMus) | [Undergraduate Recital - Harry Zheng, clarinet ](http://www.events.westernu.ca/events/music/2024-04/student-recital-harry-zheng.html) |
-|  | 16:00 | [FMus](/about#FMus) | [Doctoral Recital - Juhee Park, piano ](http://www.events.westernu.ca/events/music/2024-04/student-recital-juhee-park.html) |
-|  | 16:00 | [FMus](/about#FMus) | [Undergraduate Recital - Sarah Elizabeth Hu-A-Kam, voice ](http://www.events.westernu.ca/events/music/2024-04/student-recital-hu-a-kam.html) |
-|  | 18:00 | [FMus](/about#FMus) | [Undergraduate Recital - Olivia Renee Akilah Mc Koy, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-mckoy.html) |
-|  | 18:00 | [FMus](/about#FMus) | [Master's Recital - Jian Qi, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-jian-qi.html) |
-|  | 19:00 | [LMH](/about#LMH) | [Girlschool](http://londonmusichall.com/events/girlschool/) |
-|  | 19:30 | [FMus](/about#FMus) | [Wind Ensemble Concert: To Amuse and Beguile](http://www.events.westernu.ca/events/music/2024-04/wind-ensemble.html) |
-|  | 20:00 | [Aeol](/about#Aeol) | [It’s Too Late To Stop Now: The Music of Van Morrison				](https://aeolianhall.ca/events/its-too-late-to-stop-now-the-music-of-van-morrison-3/) |
-|  | 20:00 | [FMus](/about#FMus) | [Undergraduate Recital - Iris Janssen, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-iris-janssen.html) |
-|  | 20:00 | [FMus](/about#FMus) | [Master's Recital - Janaki Butterworth, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-janaki-butterworth.html) |
-| Tomorrow (Sat) | 10:00 | [FMus](/about#FMus) | [Young Winds Program - Final Concert](http://www.events.westernu.ca/events/music/2024-04/young-winds-program-final-concert.html) |
+| Today (Sat) | 10:00 | [FMus](/about#FMus) | [Young Winds Program - Final Concert](http://www.events.westernu.ca/events/music/2024-04/young-winds-program-final-concert.html) |
 |  | 12:00 | [Museum](/about#Museum) | [*SOLD OUT* Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10906/) |
 |  | 12:00 | [FMus](/about#FMus) | [Master's Recital - Oskar Martinez, bassoon](http://www.events.westernu.ca/events/music/2024-04/student-recital-kevin-oskar-martinez.html) |
 |  | 13:00 | [FMus](/about#FMus) | [Western Youth Wind Ensemble - Final Concert](http://www.events.westernu.ca/events/music/2024-04/western-youth-wind-ensemble-final-concert.html) |
@@ -32,7 +20,7 @@ View only a category:
 |  | 20:00 | [Aeol](/about#Aeol) | [A’Court, Spiegel & Vinnick				](https://aeolianhall.ca/events/acourt-spiegel-vinnick/) |
 |  | 21:00 | [LMH](/about#LMH) | [The Taylor Party – TAYLOR SWIFT DANCE PARTY](http://londonmusichall.com/events/the-taylor-party/) |
 |  | 22:00 | [LMH](/about#LMH) | [Omnom @ System Saturdays](http://londonmusichall.com/events/omnom-system-saturdays/) |
-| Sun Apr 07 |  | [BudG](/about#BudG) | [Noah Kahan](https://www.budweisergardens.com/events/detail/noah-kahan) |
+| Tomorrow (Sun) |  | [BudG](/about#BudG) | [Noah Kahan](https://www.budweisergardens.com/events/detail/noah-kahan) |
 |  |  | [Grand](/about#Grand) | [Calidore String Quartet](https://www.grandtheatre.com/event/calidore-string-quartet) |
 |  | 12:00 | [FMus](/about#FMus) | [Master's Recital - Joseph Cantarutti, percussion - NEW TIME](http://www.events.westernu.ca/events/music/2024-04/student-recital-cantarutti.html) |
 |  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Stamp Champ](https://museumlondon.ca/programs-events/event/11004/2024/04/07) |
@@ -68,6 +56,7 @@ View only a category:
 |  | 15:00 | [Museum](/about#Museum) | [Magisterra at the Museum: The Glorious Voice of Russell Braun](https://museumlondon.ca/programs-events/event/11472/) |
 |  | 15:00 | [FMus](/about#FMus) | [VRS Guest Artists: Ema Nikolovksa & Charles Richard-Hamelin](http://www.events.westernu.ca/events/music/2024-04/nikolovska-richard-hamelin.html) |
 |  | 19:00 | [LMH](/about#LMH) | [ENDLESS BUMMER: A Musical Collaboration With Motive](http://londonmusichall.com/events/endless-bummer-a-musical-collaboration-with-motive/) |
+| Mon Apr 15 | 10:00 | [FMus](/about#FMus) | [Masterclass Ema Nikolovksa, mezzo-soprano](http://www.events.westernu.ca/events/music/2024-04/nikolovska-masterclass.html) |
 | Tue Apr 16 |  | [Grand](/about#Grand) | [Million Dollar Quartet](https://www.grandtheatre.com/event/million-dollar-quartet) |
 |  | 12:00 | [FMus](/about#FMus) | [Undergraduate Recital - Reta Eve Thompson, cello - NEW DATE](http://www.events.westernu.ca/events/music/2024-03/student-recital-rita-thompson.html) |
 |  | 14:00 | [FMus](/about#FMus) | [Undergraduate Recital - Yu-Xi Jacquelin Huang, violin](http://www.events.westernu.ca/events/music/2024-04/student-recital-jacquelin-huang.html) |
@@ -150,6 +139,7 @@ View only a category:
 |  | 19:00 | [LMH](/about#LMH) | [TALK – LORD OF THE FLIES & BIRDS & BEES TOUR](http://londonmusichall.com/events/talk-lord-of-the-flies-birds-bees-tour/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [The Woodstock Experience				](https://aeolianhall.ca/events/the-woodstock-experience-2/) |
 |  | 20:00 | [FMus](/about#FMus) | [Undergraduate Recital - Madeline Elizabeth Hall, guitar](http://www.events.westernu.ca/events/music/2024-04/student-recital-madeline-hall.html) |
+|  | 22:00 | [LMH](/about#LMH) | [Emo night: London](http://londonmusichall.com/events/emo-night-london-14/) |
 | Sat Apr 27 |  | [Grand](/about#Grand) | [Jaeden Izik-Dzurko, piano](https://www.grandtheatre.com/event/jaeden-izik-dzurko-piano) |
 |  | 10:00 | [FMus](/about#FMus) | [Undergraduate Recital - Aining Wu, piano - NEW DATE](http://www.events.westernu.ca/events/music/2024-03/student-recital-aining-wu.html) |
 |  | 12:00 | [FMus](/about#FMus) | [Undergraduate Recital - E. Von Hafenbradl, piano - NEW DATE](http://www.events.westernu.ca/events/music/2024-03/student-recital-Elis-Hafenbradl.html) |
@@ -167,6 +157,7 @@ View only a category:
 | Sun May 05 |  | [BudG](/about#BudG) | [Stars on Ice 2024](https://www.budweisergardens.com/events/detail/stars-on-ice-2024) |
 |  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Whimsical Watercolour Resist](https://museumlondon.ca/programs-events/event/11011/2024/05/05) |
 |  | 19:30 | [Aeol](/about#Aeol) | [Shantero Productions Presents: Marc Jordan & Amy Sky				](https://aeolianhall.ca/events/shantero-productions-presents-marc-jordan-amy-sky/) |
+| Mon May 06 | 19:00 | [LMH](/about#LMH) | [PUNK ROCK FACTORY – Stick To The Covers Tour](http://londonmusichall.com/events/punk-rock-factory-stick-to-the-covers-tour/) |
 | Tue May 07 |  | [BudG](/about#BudG) | [Ice Cube](https://www.budweisergardens.com/events/detail/ice-cube) |
 |  | 20:00 | [Aeol](/about#Aeol) | [The Once				](https://aeolianhall.ca/events/the-once-3/) |
 | Thu May 09 | 09:00 | [LMH](/about#LMH) | [City of Music Conference](http://londonmusichall.com/events/city-of-music-conference/) |
@@ -191,6 +182,7 @@ View only a category:
 |  | 19:00 | [LMH](/about#LMH) | [CHRIS WEBBY – THE LAST WEDNESDAY TOUR PART 2](http://londonmusichall.com/events/the-last-wednesday-tour-part-2/) |
 | Tue May 28 |  | [Grand](/about#Grand) | [Bruce Cockburn](https://www.grandtheatre.com/event/bruce-cockburn) |
 | Wed May 29 | 18:30 | [Aeol](/about#Aeol) | [Aeolian Pride Social Series – Mathew V				](https://aeolianhall.ca/events/aeolian-pride-social-series-mathew-v/) |
+| Thu May 30 |  | [Grand](/about#Grand) | [Jeans 'n Classics 2023/24 Series](https://www.grandtheatre.com/event/jeans-n-classics-2324) |
 | Fri May 31 |  | [Grand](/about#Grand) | [The Last Five Years](https://www.grandtheatre.com/event/last-five-years) |
 |  | 09:00 | [Museum](/about#Museum) | [ML Kids Day Camp: Art Detective and History Mystery](https://museumlondon.ca/programs-events/event/11438/) |
 | Sat Jun 01 | 19:00 | [LMH](/about#LMH) | [Death to All](http://londonmusichall.com/events/death-to-all/) |
@@ -219,3 +211,4 @@ View only a category:
 | Mon Aug 26 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Heroes and Villains](https://museumlondon.ca/programs-events/event/11425/) |
 | Sat Sep 14 | 19:00 | [LMH](/about#LMH) | [Marcus King – Mood Swings The World Tour](http://londonmusichall.com/events/marcus-king-mood-swings-the-world-tour/) |
 | Tue Sep 17 |  | [Grand](/about#Grand) | [Matilda The Musical](https://www.grandtheatre.com/event/matilda-musical) |
+| Thu Sep 26 | 19:00 | [LMH](/about#LMH) | [BENIGHTED & COGNITIVE](http://londonmusichall.com/events/benighted-cognitive/) |

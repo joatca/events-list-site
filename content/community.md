@@ -1,6 +1,6 @@
 ---
 title: "Events - community"
-date: 2024-04-05T00:00:29-04:00
+date: 2024-04-06T00:00:40-04:00
 draft: false
 ---
 
@@ -9,9 +9,9 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Fri) |  | [Maker](/about#Maker) | [Mini Weaving workshop ](https://www.hellomaker.ca/events/irqu905qi77vqjbol00gy0uc19ja68-gns73-fhhpr-najh8-yc3gg-6bcww-pjpfr-nfd4a-xspb5-har8x-r9jds-rm9nl) |
+| Today (Sat) |  | [PSFTOff](/about#PSFTOff) | [Matilda The Musical JR.](https://psft.ca/event/matilda-the-musical-jr/) |
+|  |  | [Maker](/about#Maker) | [Mini Weaving workshop ](https://www.hellomaker.ca/events/irqu905qi77vqjbol00gy0uc19ja68-gns73-fhhpr-najh8-yc3gg-6bcww-pjpfr-nfd4a-xspb5-har8x-r9jds-rm9nl) |
 |  |  | [Maker](/about#Maker) | [Collage Art Notebook](https://www.hellomaker.ca/events/irqu905qi77vqjbol00gy0uc19ja68-gns73-fhhpr-najh8-yc3gg-6bcww-pjpfr-nfd4a-xy52p-b6wsn-le4b7) |
-| Tomorrow (Sat) |  | [PSFTOff](/about#PSFTOff) | [Matilda The Musical JR.](https://psft.ca/event/matilda-the-musical-jr/) |
 |  | 19:00 | [Info](/about#Info) | [Unbound 2024 - Immersive Fashion Event](https://www.informationlondon.ca/Event/Detail/49860/Unbound_2024_-_Immersive_Fashion_Event?date=2024-04-06) |
 | Mon Apr 08 | 10:00 | [City](/about#City) | [Community and Protective Services Committee - CANCELLED - April 08, 2024](https://london.ca/government/calendar/community-protective-services-committee-cancelled-april-08-2024) |
 | Tue Apr 09 | 09:30 | [City](/about#City) | [Civic Works Committee - April 09, 2024](https://london.ca/government/calendar/civic-works-committee-april-09-2024) |
@@ -113,3 +113,5 @@ View only a category:
 | Mon Sep 23 | 10:00 | [City](/about#City) | [Governance Working Group - September 23, 2024](https://london.ca/government/calendar/governance-working-group-september-23-2024) |
 | Tue Sep 24 | 13:00 | [City](/about#City) | [Council - September 24, 2024](https://london.ca/government/calendar/council-september-24-2024) |
 | Tue Oct 01 | 13:00 | [City](/about#City) | [Community and Protective Services Committee - October 01, 2024](https://london.ca/government/calendar/community-protective-services-committee-october-01-2024) |
+| Wed Oct 02 | 09:30 | [City](/about#City) | [Civic Works Committee - October 02, 2024](https://london.ca/government/calendar/civic-works-committee-october-02-2024) |
+|  | 13:00 | [City](/about#City) | [Planning and Environment Committee - October 02, 2024](https://london.ca/government/calendar/planning-environment-committee-october-02-2024) |
