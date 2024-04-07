@@ -1,6 +1,6 @@
 ---
 title: "Events - entertainment"
-date: 2024-04-06T00:00:40-04:00
+date: 2024-04-07T00:00:49-04:00
 draft: false
 ---
 
@@ -9,18 +9,7 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Sat) | 10:00 | [FMus](/about#FMus) | [Young Winds Program - Final Concert](http://www.events.westernu.ca/events/music/2024-04/young-winds-program-final-concert.html) |
-|  | 12:00 | [Museum](/about#Museum) | [*SOLD OUT* Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10906/) |
-|  | 12:00 | [FMus](/about#FMus) | [Master's Recital - Oskar Martinez, bassoon](http://www.events.westernu.ca/events/music/2024-04/student-recital-kevin-oskar-martinez.html) |
-|  | 13:00 | [FMus](/about#FMus) | [Western Youth Wind Ensemble - Final Concert](http://www.events.westernu.ca/events/music/2024-04/western-youth-wind-ensemble-final-concert.html) |
-|  | 14:00 | [FMus](/about#FMus) | [Doctoral Recital - Sunhwa Her, collaborative piano NEW DATE](http://www.events.westernu.ca/events/music/2024-03/student-recital-sunhwa-her.html) |
-|  | 15:00 | [FMus](/about#FMus) | [Symphonic Band Concert: Emblems of Spring](http://www.events.westernu.ca/events/music/2024-04/symphonic-band-emblems-of-spring.html) |
-|  | 15:30 | [Museum](/about#Museum) | [Muscle and Hustle: with Ruth Douthwright](https://museumlondon.ca/programs-events/event/11047/) |
-|  | 19:30 | [FMus](/about#FMus) | [Western University Singers: Part(ing) Songs](http://www.events.westernu.ca/events/music/2024-04/western-university-singers.html) |
-|  | 20:00 | [Aeol](/about#Aeol) | [A’Court, Spiegel & Vinnick				](https://aeolianhall.ca/events/acourt-spiegel-vinnick/) |
-|  | 21:00 | [LMH](/about#LMH) | [The Taylor Party – TAYLOR SWIFT DANCE PARTY](http://londonmusichall.com/events/the-taylor-party/) |
-|  | 22:00 | [LMH](/about#LMH) | [Omnom @ System Saturdays](http://londonmusichall.com/events/omnom-system-saturdays/) |
-| Tomorrow (Sun) |  | [BudG](/about#BudG) | [Noah Kahan](https://www.budweisergardens.com/events/detail/noah-kahan) |
+| Today (Sun) |  | [BudG](/about#BudG) | [Noah Kahan](https://www.budweisergardens.com/events/detail/noah-kahan) |
 |  |  | [Grand](/about#Grand) | [Calidore String Quartet](https://www.grandtheatre.com/event/calidore-string-quartet) |
 |  | 12:00 | [FMus](/about#FMus) | [Master's Recital - Joseph Cantarutti, percussion - NEW TIME](http://www.events.westernu.ca/events/music/2024-04/student-recital-cantarutti.html) |
 |  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Stamp Champ](https://museumlondon.ca/programs-events/event/11004/2024/04/07) |
@@ -28,7 +17,7 @@ View only a category:
 |  | 14:00 | [FMus](/about#FMus) | [Chamber Music Recital Series: Woodwind Quintet - NEW DATE](http://www.events.westernu.ca/events/music/2024-03/chamber-music-woodwind-quintet-1.html) |
 |  | 16:00 | [FMus](/about#FMus) | [Undergraduate Recital - Ryan James Breen, percussion](http://www.events.westernu.ca/events/music/2024-04/student-recital-ryan-breen.html) |
 |  | 19:00 | [LMH](/about#LMH) | [LADYSMITH BLACK MAMBAZO](http://londonmusichall.com/events/ladysmith-black-mamboza/) |
-| Mon Apr 08 | 09:00 | [Museum](/about#Museum) | [ML Kids Day Camp: Optical Odyssey](https://museumlondon.ca/programs-events/event/11436/) |
+| Tomorrow (Mon) | 09:00 | [Museum](/about#Museum) | [ML Kids Day Camp: Optical Odyssey](https://museumlondon.ca/programs-events/event/11436/) |
 |  | 12:30 | [FMus](/about#FMus) | [Undergraduate Recital - Amy Liliana Dimitrov, clarinet](http://www.events.westernu.ca/events/music/2024-04/student-recital-amy-dimitrov.html) |
 |  | 16:00 | [FMus](/about#FMus) | [Undergraduate Recital - Chantel Bennett, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-cantel-bennett.html) |
 |  | 18:00 | [FMus](/about#FMus) | [Undergraduate Recital - Mira Alydia Saito, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-mira-saito.html) |
