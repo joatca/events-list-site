@@ -1,6 +1,6 @@
 ---
 title: "Events - culture"
-date: 2024-04-08T00:00:39-04:00
+date: 2024-04-09T00:00:38-04:00
 draft: false
 ---
 
@@ -9,8 +9,7 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Mon) | 09:00 | [Museum](/about#Museum) | [ML Kids Day Camp: Optical Odyssey](https://museumlondon.ca/programs-events/event/11436/) |
-| Wed Apr 10 | 14:30 | [Museum](/about#Museum) | [Culture Club with Cassie Getty: New Days and New Ways](https://museumlondon.ca/programs-events/event/11031/) |
+| Tomorrow (Wed) | 14:30 | [Museum](/about#Museum) | [Culture Club with Cassie Getty: New Days and New Ways](https://museumlondon.ca/programs-events/event/11031/) |
 | Sat Apr 13 |  | [PSFTOff](/about#PSFTOff) | [Mudmen](https://psft.ca/event/mudmen/) |
 |  | 15:30 | [Museum](/about#Museum) | [Giving Back: with Ruth Douthwright](https://museumlondon.ca/programs-events/event/11049/) |
 | Sun Apr 14 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Stamp Champ](https://museumlondon.ca/programs-events/event/11004/2024/04/14) |

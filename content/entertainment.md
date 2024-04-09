@@ -1,6 +1,6 @@
 ---
 title: "Events - entertainment"
-date: 2024-04-08T00:00:39-04:00
+date: 2024-04-09T00:00:38-04:00
 draft: false
 ---
 
@@ -9,17 +9,9 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Mon) | 09:00 | [Museum](/about#Museum) | [ML Kids Day Camp: Optical Odyssey](https://museumlondon.ca/programs-events/event/11436/) |
-|  | 12:30 | [FMus](/about#FMus) | [Undergraduate Recital - Amy Liliana Dimitrov, clarinet](http://www.events.westernu.ca/events/music/2024-04/student-recital-amy-dimitrov.html) |
-|  | 16:00 | [FMus](/about#FMus) | [Undergraduate Recital - Chantel Bennett, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-cantel-bennett.html) |
-|  | 18:00 | [FMus](/about#FMus) | [Undergraduate Recital - Mira Alydia Saito, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-mira-saito.html) |
-|  | 19:00 | [LMH](/about#LMH) | [Connor Price](http://londonmusichall.com/events/connor-price/) |
-|  | 19:30 | [FMus](/about#FMus) | [Contemporary Music Studio: Con Certo](http://www.events.westernu.ca/events/music/2024-04/contemporary-music-studio-con-certo.html) |
-|  | 20:00 | [FMus](/about#FMus) | [Undergraduate Recital - Zoe Helen Boonstra, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-zoe-boonstra.html) |
-|  | 20:00 | [FMus](/about#FMus) | [Pop Music Studies Songwriting Showcase concert - NEW VENUE](http://www.events.westernu.ca/events/music/2024-04/pop-music-studies-showcase.html) |
-| Tomorrow (Tue) |  | [Grand](/about#Grand) | [One Step at a Time](https://www.grandtheatre.com/event/one-step-at-a-time) |
+| Today (Tue) |  | [Grand](/about#Grand) | [One Step at a Time](https://www.grandtheatre.com/event/one-step-at-a-time) |
 |  | 20:00 | [FMus](/about#FMus) | [Master's Recital - Shu Chen, piano - NEW DATE](http://www.events.westernu.ca/events/music/2024-03/student-recital-shu-chen.html) |
-| Wed Apr 10 |  | [BudG](/about#BudG) | [Queens of the Stone Age - The End is Nero](https://www.budweisergardens.com/events/detail/queens-of-the-stone-age-the-end-is-nero) |
+| Tomorrow (Wed) |  | [BudG](/about#BudG) | [Queens of the Stone Age - The End is Nero](https://www.budweisergardens.com/events/detail/queens-of-the-stone-age-the-end-is-nero) |
 |  | 14:30 | [Museum](/about#Museum) | [Culture Club with Cassie Getty: New Days and New Ways](https://museumlondon.ca/programs-events/event/11031/) |
 |  | 18:00 | [FMus](/about#FMus) | [Undergraduate Recital - Erin Van Dyke, violin - NEW DATE](http://www.events.westernu.ca/events/music/2024-03/student-recital-erin-van-dyke.html) |
 |  | 19:00 | [LMH](/about#LMH) | [The Northern](http://londonmusichall.com/events/the-northern/) |
@@ -136,6 +128,7 @@ View only a category:
 | Fri May 03 | 18:00 | [LMH](/about#LMH) | [Dying Fetus](http://londonmusichall.com/events/dying-fetus-2/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Tommy Youngsteen – Fleetwood Mac “Rumours”				](https://aeolianhall.ca/events/tommy-youngsteen-fleetwood-mac-rumours/) |
 | Sat May 04 | 20:00 | [Aeol](/about#Aeol) | [Grace, 2 – Celebrating The Tragically Hip				](https://aeolianhall.ca/events/grace-2-celebrating-the-tragically-hip/) |
+|  | 22:00 | [LMH](/about#LMH) | [All systems glow @ System Saturday](http://londonmusichall.com/events/all-systems-glow-system-saturday/) |
 | Sun May 05 |  | [BudG](/about#BudG) | [Stars on Ice 2024](https://www.budweisergardens.com/events/detail/stars-on-ice-2024) |
 |  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Whimsical Watercolour Resist](https://museumlondon.ca/programs-events/event/11011/2024/05/05) |
 |  | 19:30 | [Aeol](/about#Aeol) | [Shantero Productions Presents: Marc Jordan & Amy Sky				](https://aeolianhall.ca/events/shantero-productions-presents-marc-jordan-amy-sky/) |

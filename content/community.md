@@ -1,6 +1,6 @@
 ---
 title: "Events - community"
-date: 2024-04-08T00:00:39-04:00
+date: 2024-04-09T00:00:38-04:00
 draft: false
 ---
 
@@ -9,11 +9,10 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Mon) | 10:00 | [City](/about#City) | [Community and Protective Services Committee - CANCELLED - April 08, 2024](https://london.ca/government/calendar/community-protective-services-committee-cancelled-april-08-2024) |
-| Tomorrow (Tue) | 09:30 | [City](/about#City) | [Civic Works Committee - April 09, 2024](https://london.ca/government/calendar/civic-works-committee-april-09-2024) |
+| Today (Tue) | 09:30 | [City](/about#City) | [Civic Works Committee - April 09, 2024](https://london.ca/government/calendar/civic-works-committee-april-09-2024) |
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - April 09, 2024](https://london.ca/government/calendar/planning-environment-committee-april-09-2024) |
 |  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-04-09) |
-| Wed Apr 10 |  | [RBCP](/about#RBCP) | [Green Leader Awards](https://www.rbcplacelondon.com/events/green-leader-awards-april-10) |
+| Tomorrow (Wed) |  | [RBCP](/about#RBCP) | [Green Leader Awards](https://www.rbcplacelondon.com/events/green-leader-awards-april-10) |
 | Thu Apr 11 | 12:00 | [Maker](/about#Maker) | [Candle Making Workshop ](https://www.hellomaker.ca/events/candleworkshop-8rmrf-s93a6-fzeyt-jaxrs) |
 |  | 13:30 | [City](/about#City) | [Committee of Adjustment - April 11, 2024](https://london.ca/government/calendar/committee-adjustment-april-11-2024) |
 |  | 13:30 | [Maker](/about#Maker) | [Polymer Clay Earring Workshop ](https://www.hellomaker.ca/events/polymer-clay-earring-workshop-7m6jk-db26w-b42sc-c7l7d-m8rbg-yxm5r-a48nk-xggm8-mdblt-9z7h6-e36fb-tpnml-xrs5b-gp3yh) |
@@ -45,6 +44,7 @@ View only a category:
 | Sat May 04 |  | [PSFTOff](/about#PSFTOff) | [The Music Man JR.](https://psft.ca/event/the-music-man-jr/) |
 | Mon May 06 | 13:00 | [City](/about#City) | [Corporate Services Committee - May 06, 2024](https://london.ca/government/calendar/corporate-services-committee-may-06-2024) |
 |  | 16:00 | [Maker](/about#Maker) | [Mini Makers (Age 3-6) May Session: Celebrate Spring!](https://www.hellomaker.ca/events/minimakersmay) |
+|  | 19:00 | [Maker](/about#Maker) | [Painted Plant Pot & Gardening workshop with Andrea](https://www.hellomaker.ca/events/zfvpxsej5j9u9z39dn0cn9q7v6q0nk-22x5e-fjxkf-d3gmb-5w3kx-9mnfb-wpp2w-rz2z2-343nh-zs6pt-ewwxe-ksahp-menef-dm93d-ypxsp-rcc5e-zmxbp-zwhtx-trff9-7sbzh-5e67z-tte7w-39x2s-bkc5m-7abfj-56y82-8fbh7-cp5kj) |
 | Tue May 07 |  | [RBCP](/about#RBCP) | [St. Joseph's Healthcare Foundation Breakfast of Champions](https://www.rbcplacelondon.com/events/st-josephs-healthcare-foundation-breakfast-champions-may-7) |
 |  | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - May 07, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-may-07-2024) |
 |  | 19:30 | [Maker](/about#Maker) | [Collage Art Notebook ](https://www.hellomaker.ca/events/irqu905qi77vqjbol00gy0uc19ja68-gns73-fhhpr-najh8-yc3gg-6bcww-pjpfr-nfd4a-xy52p-b6wsn-le4b7-kxxh7) |
