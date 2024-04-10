@@ -1,6 +1,6 @@
 ---
 title: "Events - community"
-date: 2024-04-09T00:00:38-04:00
+date: 2024-04-10T00:00:29-04:00
 draft: false
 ---
 
@@ -9,13 +9,11 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Tue) | 09:30 | [City](/about#City) | [Civic Works Committee - April 09, 2024](https://london.ca/government/calendar/civic-works-committee-april-09-2024) |
-|  | 13:00 | [City](/about#City) | [Planning and Environment Committee - April 09, 2024](https://london.ca/government/calendar/planning-environment-committee-april-09-2024) |
-|  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-04-09) |
-| Tomorrow (Wed) |  | [RBCP](/about#RBCP) | [Green Leader Awards](https://www.rbcplacelondon.com/events/green-leader-awards-april-10) |
-| Thu Apr 11 | 12:00 | [Maker](/about#Maker) | [Candle Making Workshop ](https://www.hellomaker.ca/events/candleworkshop-8rmrf-s93a6-fzeyt-jaxrs) |
+| Today (Wed) |  | [RBCP](/about#RBCP) | [Green Leader Awards](https://www.rbcplacelondon.com/events/green-leader-awards-april-10) |
+| Tomorrow (Thu) | 12:00 | [Maker](/about#Maker) | [Candle Making Workshop ](https://www.hellomaker.ca/events/candleworkshop-8rmrf-s93a6-fzeyt-jaxrs) |
 |  | 13:30 | [City](/about#City) | [Committee of Adjustment - April 11, 2024](https://london.ca/government/calendar/committee-adjustment-april-11-2024) |
 |  | 13:30 | [Maker](/about#Maker) | [Polymer Clay Earring Workshop ](https://www.hellomaker.ca/events/polymer-clay-earring-workshop-7m6jk-db26w-b42sc-c7l7d-m8rbg-yxm5r-a48nk-xggm8-mdblt-9z7h6-e36fb-tpnml-xrs5b-gp3yh) |
+|  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-04-11) |
 | Fri Apr 12 |  | [RBCP](/about#RBCP) | [OAO Symposium and InfoMart 2024](https://www.rbcplacelondon.com/events/oao-symposium-and-infomart-2024-april-12-14) |
 | Sat Apr 13 |  | [Eldon](/about#Eldon) | [If Walls Could Talk](https://eldonhouse.ca/product/if-walls-could-talk/) |
 |  |  | [PSFTOff](/about#PSFTOff) | [Mudmen](https://psft.ca/event/mudmen/) |

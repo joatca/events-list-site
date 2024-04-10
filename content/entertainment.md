@@ -1,6 +1,6 @@
 ---
 title: "Events - entertainment"
-date: 2024-04-09T00:00:38-04:00
+date: 2024-04-10T00:00:29-04:00
 draft: false
 ---
 
@@ -9,9 +9,8 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Tue) |  | [Grand](/about#Grand) | [One Step at a Time](https://www.grandtheatre.com/event/one-step-at-a-time) |
-|  | 20:00 | [FMus](/about#FMus) | [Master's Recital - Shu Chen, piano - NEW DATE](http://www.events.westernu.ca/events/music/2024-03/student-recital-shu-chen.html) |
-| Tomorrow (Wed) |  | [BudG](/about#BudG) | [Queens of the Stone Age - The End is Nero](https://www.budweisergardens.com/events/detail/queens-of-the-stone-age-the-end-is-nero) |
+| Today (Wed) |  | [BudG](/about#BudG) | [Queens of the Stone Age - The End is Nero](https://www.budweisergardens.com/events/detail/queens-of-the-stone-age-the-end-is-nero) |
+|  |  | [Grand](/about#Grand) | [One Step at a Time](https://www.grandtheatre.com/event/one-step-at-a-time) |
 |  | 14:30 | [Museum](/about#Museum) | [Culture Club with Cassie Getty: New Days and New Ways](https://museumlondon.ca/programs-events/event/11031/) |
 |  | 18:00 | [FMus](/about#FMus) | [Undergraduate Recital - Erin Van Dyke, violin - NEW DATE](http://www.events.westernu.ca/events/music/2024-03/student-recital-erin-van-dyke.html) |
 |  | 19:00 | [LMH](/about#LMH) | [The Northern](http://londonmusichall.com/events/the-northern/) |
@@ -29,7 +28,7 @@ View only a category:
 |  | 15:00 | [Museum](/about#Museum) | [Magisterra at the Museum: The Glorious Voice of Russell Braun](https://museumlondon.ca/programs-events/event/11472/) |
 |  | 15:00 | [FMus](/about#FMus) | [VRS Guest Artists: Ema Nikolovska & Charles Richard-Hamelin](http://www.events.westernu.ca/events/music/2024-04/nikolovska-richard-hamelin.html) |
 |  | 19:00 | [LMH](/about#LMH) | [ENDLESS BUMMER: A Musical Collaboration With Motive](http://londonmusichall.com/events/endless-bummer-a-musical-collaboration-with-motive/) |
-| Mon Apr 15 | 10:00 | [FMus](/about#FMus) | [Masterclass Ema Nikolovksa, mezzo-soprano](http://www.events.westernu.ca/events/music/2024-04/nikolovska-masterclass.html) |
+| Mon Apr 15 | 10:00 | [FMus](/about#FMus) | [Masterclass Ema Nikolovska, mezzo-soprano](http://www.events.westernu.ca/events/music/2024-04/nikolovska-masterclass.html) |
 | Tue Apr 16 |  | [Grand](/about#Grand) | [Million Dollar Quartet](https://www.grandtheatre.com/event/million-dollar-quartet) |
 |  | 12:00 | [FMus](/about#FMus) | [Undergraduate Recital - Reta Eve Thompson, cello - NEW DATE](http://www.events.westernu.ca/events/music/2024-03/student-recital-rita-thompson.html) |
 |  | 14:00 | [FMus](/about#FMus) | [Undergraduate Recital - Yu-Xi Jacquelin Huang, violin](http://www.events.westernu.ca/events/music/2024-04/student-recital-jacquelin-huang.html) |
@@ -47,18 +46,18 @@ View only a category:
 |  | 14:00 | [FMus](/about#FMus) | [Doctoral Recital - Yixuan Ran, piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-yixuan-ran.html) |
 |  | 16:00 | [FMus](/about#FMus) | [Undergraduate Recital - Madeline Ruth Berman, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-madeline-berman.html) |
 |  | 16:00 | [FMus](/about#FMus) | [Doctoral Recital - Yu Zhang, piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-yu-zhang.html) |
-|  | 18:00 | [FMus](/about#FMus) | [Undergraduate Recital - Hayley Durand Festeryga, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-festeryga.html) |
 |  | 18:00 | [FMus](/about#FMus) | [Doctoral Recital - Jiazhi Sun, piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-jiazhi-sun.html) |
+|  | 18:00 | [FMus](/about#FMus) | [Undergraduate Recital - Hayley Durand Festeryga, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-festeryga.html) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Caity Gyorgy				](https://aeolianhall.ca/events/caity-gyorgy/) |
-|  | 20:00 | [FMus](/about#FMus) | [Master's Recital - Qianying Li, piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-qianying-li.html) |
+|  | 20:00 | [FMus](/about#FMus) | [Master's Recital - Qianying Rosalia Li, piano - DEFERRED](http://www.events.westernu.ca/events/music/2024-04/student-recital-qianying-li.html) |
 | Fri Apr 19 | 12:00 | [FMus](/about#FMus) | [Doctoral Recital - Catalina Teican, collaborative piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-catalin-teican.html) |
 |  | 14:00 | [FMus](/about#FMus) | [Doctoral Recital - Zhiqi Guo, piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-zhiqi-guo.html) |
 |  | 16:00 | [FMus](/about#FMus) | [Doctoral Recital - Tigran Saakyan, piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-tigran-saakyan.html) |
 |  | 18:00 | [FMus](/about#FMus) | [Undergraduate Recital - Olivia Murphy Smart, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-olivia-murphy-smart.html) |
 |  | 18:00 | [FMus](/about#FMus) | [Doctoral Recital - Theodore Chow, piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-theodore-chow.html) |
 |  | 19:00 | [LMH](/about#LMH) | [Queen : It’s A Kinda Magic (RENOWNED TRIBUTE ACT)](http://londonmusichall.com/events/queen-its-a-kinda-magic-renowned-tribute-act/) |
-|  | 20:00 | [FMus](/about#FMus) | [Undergraduate Recital - Michael Meilleur, trumpet](http://www.events.westernu.ca/events/music/2024-04/student-recital-michael-meilleur.html) |
 |  | 20:00 | [FMus](/about#FMus) | [Master's Recital - Andrew Wolf, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-andrew-wolf.html) |
+|  | 20:00 | [FMus](/about#FMus) | [Undergraduate Recital - Michael Meilleur, trumpet](http://www.events.westernu.ca/events/music/2024-04/student-recital-michael-meilleur.html) |
 | Sat Apr 20 | 12:00 | [Museum](/about#Museum) | [Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10908/) |
 |  | 12:00 | [FMus](/about#FMus) | [Master's Recital - Leah Dianne Bondy, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-leah-dianne-bondy.html) |
 |  | 14:00 | [FMus](/about#FMus) | [Doctoral Recital - Hayoon Kim, collaborative piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-hayoon-kim.html) |
@@ -85,11 +84,11 @@ View only a category:
 |  | 14:00 | [FMus](/about#FMus) | [Undergraduate Recital - Adam MacNeil, piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-adam-macneil.html) |
 |  | 16:00 | [FMus](/about#FMus) | [Master's Recital - Dayesl Kim, voice - NEW DATE](http://www.events.westernu.ca/events/music/2024-03/student-recital-dayesl-kim.html) |
 |  | 16:00 | [FMus](/about#FMus) | [Master's Recital - Lezhuo (Rachel) Liu, piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-rachel-liu.html) |
-|  | 18:00 | [FMus](/about#FMus) | [Undergraduate Recital - Erin Johnston, voice - DEFERRED](http://www.events.westernu.ca/events/music/2024-04/student-recital-erin-johnston.html) |
 |  | 18:00 | [FMus](/about#FMus) | [Doctoral Recital - ChanJoo Ahn, piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-chanjoo-ahn.html) |
+|  | 18:00 | [FMus](/about#FMus) | [Undergraduate Recital - Erin Johnston, voice - DEFERRED](http://www.events.westernu.ca/events/music/2024-04/student-recital-erin-johnston.html) |
 |  | 18:00 | [FMus](/about#FMus) | [Master's Recital - Evan Williams, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-evan-williams.html) |
-|  | 20:00 | [FMus](/about#FMus) | [Master's Recital - Matthew John Bermudez, voice - NEW DATE](http://www.events.westernu.ca/events/music/2024-04/student-recital-matthew-bermudez.html) |
 |  | 20:00 | [FMus](/about#FMus) | [Master's Recital - Ellis Yuen-Rapati, viola - DEFERRED](http://www.events.westernu.ca/events/music/2024-04/student-recital-ellis-yuen-rapati.html) |
+|  | 20:00 | [FMus](/about#FMus) | [Master's Recital - Matthew John Bermudez, voice - NEW DATE](http://www.events.westernu.ca/events/music/2024-04/student-recital-matthew-bermudez.html) |
 | Wed Apr 24 |  | [BudG](/about#BudG) | [London Lightning vs. West Virginia Grind](https://www.budweisergardens.com/events/detail/london-lightning-vs-west-virginia-grind) |
 |  | 12:00 | [FMus](/about#FMus) | [Master's Recital - Chunju Tsai, collaborative piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-chunju-tsai.html) |
 |  | 14:00 | [FMus](/about#FMus) | [Undergraduate Recital - Miriam Elsawi, viola - NEW DATE](http://www.events.westernu.ca/events/music/2024-04/student-recital-miriam-elsawi.html) |
@@ -100,13 +99,13 @@ View only a category:
 |  | 12:00 | [FMus](/about#FMus) | [Undergraduate Recital - Meagan Kathryn Foster, percussion](http://www.events.westernu.ca/events/music/2024-04/student-recital-meagan-foster.html) |
 |  | 14:00 | [FMus](/about#FMus) | [Master's Recital - Angela Myshkowsky, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-angela-myshkowsky.html) |
 |  | 16:00 | [FMus](/about#FMus) | [Master's Recital - Tracy Guo, collaborative piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-tracy-guo.html) |
-|  | 18:00 | [FMus](/about#FMus) | [Master's Recital - Leon Fei, piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-leon-fei.html) |
 |  | 18:00 | [FMus](/about#FMus) | [Master's Recital - Madeleine David, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-madeleine-david.html) |
+|  | 18:00 | [FMus](/about#FMus) | [Master's Recital - Leon Fei, piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-leon-fei.html) |
 |  | 18:30 | [Aeol](/about#Aeol) | [Aeolian Jazz Series – Peter Karle (Southen Lounge)				](https://aeolianhall.ca/events/aeolian-jazz-series-peter-karle-southen-lounge-2/) |
 |  | 18:30 | [LMH](/about#LMH) | [Green Jelly](http://londonmusichall.com/events/green-jelly/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Connie Kaldor				](https://aeolianhall.ca/events/connie-kaldor/) |
-|  | 20:00 | [FMus](/about#FMus) | [Master's Recital - Eliza Celis Correa, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-eliza-celis-correa.html) |
 |  | 20:00 | [FMus](/about#FMus) | [Doctoral Recital - Xi Li, piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-xi-li.html) |
+|  | 20:00 | [FMus](/about#FMus) | [Master's Recital - Eliza Celis Correa, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-eliza-celis-correa.html) |
 | Fri Apr 26 | 12:00 | [FMus](/about#FMus) | [Undergraduate Recital - Yong-Wen (Frank) Su, violin NEW DATE](http://www.events.westernu.ca/events/music/2024-03/student-recital-frank-su.html) |
 |  | 16:00 | [FMus](/about#FMus) | [Undergraduate Recital - Nicholas Lawrence Gryniewski, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-nicholas-gryniewski.html) |
 |  | 18:00 | [FMus](/about#FMus) | [Undergraduate Recital - Amy Elizabeth Godin, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-amy-elizabeth-godin.html) |
@@ -123,6 +122,7 @@ View only a category:
 |  | 14:00 | [Museum](/about#Museum) | [Sunday Exhibition Tours](https://museumlondon.ca/programs-events/event/9394/2024/04/28) |
 |  | 19:00 | [LMH](/about#LMH) | [Gatecreeper](http://londonmusichall.com/events/gatecreeper/) |
 | Mon Apr 29 |  | [BudG](/about#BudG) | [Little Women](https://www.budweisergardens.com/events/detail/little-women) |
+|  | 01:00 | [FMus](/about#FMus) | [Student Recitals: Ongoing until end of April](http://www.events.westernu.ca/events/music/2024-04/student-recitals-ongoing.html) |
 |  | 14:00 | [FMus](/about#FMus) | [Undergraduate Recital - Albert Xia, voice - NEW DATE](http://www.events.westernu.ca/events/music/2024-04/student-recital-albert-xia.html) |
 | Thu May 02 | 19:00 | [LMH](/about#LMH) | [Pouya](http://londonmusichall.com/events/pouya/) |
 | Fri May 03 | 18:00 | [LMH](/about#LMH) | [Dying Fetus](http://londonmusichall.com/events/dying-fetus-2/) |
@@ -161,6 +161,7 @@ View only a category:
 | Fri May 31 |  | [Grand](/about#Grand) | [The Last Five Years](https://www.grandtheatre.com/event/last-five-years) |
 |  | 09:00 | [Museum](/about#Museum) | [ML Kids Day Camp: Art Detective and History Mystery](https://museumlondon.ca/programs-events/event/11438/) |
 | Sat Jun 01 | 19:00 | [LMH](/about#LMH) | [Death to All](http://londonmusichall.com/events/death-to-all/) |
+| Tue Jun 04 | 19:00 | [LMH](/about#LMH) | [Randy (Trailer Park Boys) Cheeseburger Picnic Comedy Tour](http://londonmusichall.com/events/randy-trailer-park-boys-cheeseburger-picnic-comedy-tour/) |
 | Fri Jun 07 | 19:30 | [Aeol](/about#Aeol) | [SOS – The ABBA Experience				](https://aeolianhall.ca/events/sos-the-abba-experience-3/) |
 | Sat Jun 08 | 19:30 | [Aeol](/about#Aeol) | [SOS – The ABBA Experience				](https://aeolianhall.ca/events/sos-the-abba-experience-4/) |
 | Mon Jun 10 | 19:00 | [LMH](/about#LMH) | [Heathen](http://londonmusichall.com/events/heathen/) |

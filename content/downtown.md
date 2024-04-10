@@ -1,6 +1,6 @@
 ---
 title: "Events - downtown"
-date: 2024-04-09T00:00:38-04:00
+date: 2024-04-10T00:00:29-04:00
 draft: false
 ---
 
@@ -9,17 +9,16 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Tue) |  | [Grand](/about#Grand) | [One Step at a Time](https://www.grandtheatre.com/event/one-step-at-a-time) |
-|  | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
-|  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-04-09) |
-| Tomorrow (Wed) |  | [BudG](/about#BudG) | [Queens of the Stone Age - The End is Nero](https://www.budweisergardens.com/events/detail/queens-of-the-stone-age-the-end-is-nero) |
+| Today (Wed) |  | [BudG](/about#BudG) | [Queens of the Stone Age - The End is Nero](https://www.budweisergardens.com/events/detail/queens-of-the-stone-age-the-end-is-nero) |
+|  |  | [Grand](/about#Grand) | [One Step at a Time](https://www.grandtheatre.com/event/one-step-at-a-time) |
 |  | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
 |  | 14:30 | [Museum](/about#Museum) | [Culture Club with Cassie Getty: New Days and New Ways](https://museumlondon.ca/programs-events/event/11031/) |
 |  | 19:00 | [LMH](/about#LMH) | [The Northern](http://londonmusichall.com/events/the-northern/) |
 |  | 19:30 | [Aeol](/about#Aeol) | [The Aeolian’s Curtain Call Fundraiser				](https://aeolianhall.ca/events/the-aeolians-curtain-call-fundraiser/) |
-| Thu Apr 11 | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
+| Tomorrow (Thu) | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
 |  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
 |  | 18:00 | [CMus](/about#CMus) | [STEAM: Stop and Go Sprinkler](https://www.londonchildrensmuseum.ca/event/steam-stop-and-go-sprinkler) |
+|  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-04-11) |
 | Fri Apr 12 |  | [BudG](/about#BudG) | [London Lightning vs. St. Louis Griffins](https://www.budweisergardens.com/events/detail/london-lightning-vs-la-ignite) |
 |  | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
 |  | 17:30 | [CGM](/about#CGM) | [Sourdough Workshop for Beginners](https://coventmarket.com/event/sourdough-workshop/) |
@@ -42,6 +41,8 @@ View only a category:
 |  | 19:00 | [LMH](/about#LMH) | [ENDLESS BUMMER: A Musical Collaboration With Motive](http://londonmusichall.com/events/endless-bummer-a-musical-collaboration-with-motive/) |
 | Mon Apr 15 | 10:00 | [CGM](/about#CGM) | [Culinary Armchair Travel Program with JJRT](https://coventmarket.com/event/culinary-armchair-travel-program-with-jjrt/) |
 | Tue Apr 16 |  | [Grand](/about#Grand) | [Million Dollar Quartet](https://www.grandtheatre.com/event/million-dollar-quartet) |
+|  | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
+|  | 17:00 | [CMus](/about#CMus) | [Sensory Friendly Evening](https://www.londonchildrensmuseum.ca/event/sensory-friendly-evening) |
 |  | 19:00 | [LMH](/about#LMH) | [X Ambassadors – TOWNIE: NORTH AMERICAN TOUR](http://londonmusichall.com/events/x-ambassadors-townie-north-american-tour/) |
 | Wed Apr 17 |  | [BudG](/about#BudG) | [Noah Kahan](https://www.budweisergardens.com/events/detail/noah-kahan) |
 |  | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
@@ -108,8 +109,7 @@ View only a category:
 | Fri May 03 | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
 |  | 18:00 | [LMH](/about#LMH) | [Dying Fetus](http://londonmusichall.com/events/dying-fetus-2/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Tommy Youngsteen – Fleetwood Mac “Rumours”				](https://aeolianhall.ca/events/tommy-youngsteen-fleetwood-mac-rumours/) |
-| Sat May 04 | 09:30 | [CMus](/about#CMus) | [OUTREACH: Go Wild Grow Wild Green Expo](https://www.londonchildrensmuseum.ca/event/outreach-go-wild-grow-wild-green-expo) |
-|  | 20:00 | [Aeol](/about#Aeol) | [Grace, 2 – Celebrating The Tragically Hip				](https://aeolianhall.ca/events/grace-2-celebrating-the-tragically-hip/) |
+| Sat May 04 | 20:00 | [Aeol](/about#Aeol) | [Grace, 2 – Celebrating The Tragically Hip				](https://aeolianhall.ca/events/grace-2-celebrating-the-tragically-hip/) |
 |  | 22:00 | [LMH](/about#LMH) | [All systems glow @ System Saturday](http://londonmusichall.com/events/all-systems-glow-system-saturday/) |
 | Sun May 05 |  | [BudG](/about#BudG) | [Stars on Ice 2024](https://www.budweisergardens.com/events/detail/stars-on-ice-2024) |
 |  | 09:30 | [CMus](/about#CMus) | [Riverview Public School History Celebration](https://www.londonchildrensmuseum.ca/event/riverview-public-school-history-celebration) |
@@ -159,17 +159,47 @@ View only a category:
 |  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Whimsical Watercolour Resist](https://museumlondon.ca/programs-events/event/11011/2024/05/19) |
 |  | 14:00 | [Aeol](/about#Aeol) | [Aeolian Classical Series – Andy Cloutier				](https://aeolianhall.ca/events/aeolian-classical-series-andy-cloutier/) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Hydrophobic Sand](https://www.londonchildrensmuseum.ca/event/steam-hydrophobic-sand) |
-| Thu May 23 | 18:00 | [LMH](/about#LMH) | [Sentiment Dissolve – ‘The Orwellian Dream’ Release Party](http://londonmusichall.com/events/sentiment-dissolve-the-orwellian-dream-release-party/) |
+| Mon May 20 | 09:30 | [CMus](/about#CMus) | [OPEN](https://www.londonchildrensmuseum.ca/event/open) |
+|  | 11:00 | [CMus](/about#CMus) | [STEAM: Hydrophobic Sand](https://www.londonchildrensmuseum.ca/event/steam-hydrophobic-sand) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Hydrophobic Sand](https://www.londonchildrensmuseum.ca/event/steam-hydrophobic-sand) |
+| Tue May 21 | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
+|  | 17:00 | [CMus](/about#CMus) | [Sensory Friendly Evening](https://www.londonchildrensmuseum.ca/event/sensory-friendly-evening) |
+| Wed May 22 | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
+| Thu May 23 | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
+|  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
+|  | 18:00 | [LMH](/about#LMH) | [Sentiment Dissolve – ‘The Orwellian Dream’ Release Party](http://londonmusichall.com/events/sentiment-dissolve-the-orwellian-dream-release-party/) |
+|  | 18:00 | [CMus](/about#CMus) | [STEAM: DIY Window Cling](https://www.londonchildrensmuseum.ca/event/steam-diy-window-cling) |
 |  | 19:30 | [Aeol](/about#Aeol) | [Good Lovelies – We Will Never Be The Same Tour				](https://aeolianhall.ca/events/good-lovelies-we-will-never-be-the-same-tour/) |
-| Sat May 25 | 12:00 | [Museum](/about#Museum) | [Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10912/) |
-| Sun May 26 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Whimsical Watercolour Resist](https://museumlondon.ca/programs-events/event/11011/2024/05/26) |
+| Fri May 24 | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
+| Sat May 25 | 11:00 | [CMus](/about#CMus) | [STEAM: DIY Window Cling](https://www.londonchildrensmuseum.ca/event/steam-diy-window-cling) |
+|  | 12:00 | [Museum](/about#Museum) | [Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10912/) |
+|  | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: DIY Window Cling](https://www.londonchildrensmuseum.ca/event/steam-diy-window-cling) |
+|  | 20:00 | [CMus](/about#CMus) | [Retro Recess](https://www.londonchildrensmuseum.ca/event/retro-recess) |
+| Sun May 26 | 11:00 | [CMus](/about#CMus) | [STEAM: DIY Window Cling](https://www.londonchildrensmuseum.ca/event/steam-diy-window-cling) |
+|  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Whimsical Watercolour Resist](https://museumlondon.ca/programs-events/event/11011/2024/05/26) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: DIY Window Cling](https://www.londonchildrensmuseum.ca/event/steam-diy-window-cling) |
 |  | 19:00 | [LMH](/about#LMH) | [CHRIS WEBBY – THE LAST WEDNESDAY TOUR PART 2](http://londonmusichall.com/events/the-last-wednesday-tour-part-2/) |
 | Tue May 28 |  | [Grand](/about#Grand) | [Bruce Cockburn](https://www.grandtheatre.com/event/bruce-cockburn) |
-| Wed May 29 | 18:30 | [Aeol](/about#Aeol) | [Aeolian Pride Social Series – Mathew V				](https://aeolianhall.ca/events/aeolian-pride-social-series-mathew-v/) |
+|  | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
+| Wed May 29 | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
+|  | 18:30 | [Aeol](/about#Aeol) | [Aeolian Pride Social Series – Mathew V				](https://aeolianhall.ca/events/aeolian-pride-social-series-mathew-v/) |
 | Thu May 30 |  | [Grand](/about#Grand) | [Jeans 'n Classics 2023/24 Series](https://www.grandtheatre.com/event/jeans-n-classics-2324) |
+|  | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
+|  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
+|  | 18:00 | [CMus](/about#CMus) | [STEAM: Pompom Launcher](https://www.londonchildrensmuseum.ca/event/steam-pompom-launcher) |
 | Fri May 31 |  | [Grand](/about#Grand) | [The Last Five Years](https://www.grandtheatre.com/event/last-five-years) |
 |  | 09:00 | [Museum](/about#Museum) | [ML Kids Day Camp: Art Detective and History Mystery](https://museumlondon.ca/programs-events/event/11438/) |
-| Sat Jun 01 | 19:00 | [LMH](/about#LMH) | [Death to All](http://londonmusichall.com/events/death-to-all/) |
+|  | 09:00 | [CMus](/about#CMus) | [PA Day Camp](https://www.londonchildrensmuseum.ca/event/pa-day-camp) |
+|  | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
+|  | 17:00 | [CMus](/about#CMus) | [Kids 1st Day](https://www.londonchildrensmuseum.ca/event/kids-1st-day) |
+| Sat Jun 01 | 10:00 | [CMus](/about#CMus) | [OUTREACH: Gathering on the Green](https://www.londonchildrensmuseum.ca/event/outreach-gathering-green) |
+|  | 11:00 | [CMus](/about#CMus) | [STEAM: Pompom Launcher](https://www.londonchildrensmuseum.ca/event/steam-pompom-launcher) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Pompom Launcher](https://www.londonchildrensmuseum.ca/event/steam-pompom-launcher) |
+|  | 19:00 | [LMH](/about#LMH) | [Death to All](http://londonmusichall.com/events/death-to-all/) |
+| Sun Jun 02 | 11:00 | [CMus](/about#CMus) | [STEAM: Pompom Launcher](https://www.londonchildrensmuseum.ca/event/steam-pompom-launcher) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Pompom Launcher](https://www.londonchildrensmuseum.ca/event/steam-pompom-launcher) |
+| Tue Jun 04 | 19:00 | [LMH](/about#LMH) | [Randy (Trailer Park Boys) Cheeseburger Picnic Comedy Tour](http://londonmusichall.com/events/randy-trailer-park-boys-cheeseburger-picnic-comedy-tour/) |
 | Fri Jun 07 | 19:30 | [Aeol](/about#Aeol) | [SOS – The ABBA Experience				](https://aeolianhall.ca/events/sos-the-abba-experience-3/) |
 | Sat Jun 08 | 19:30 | [Aeol](/about#Aeol) | [SOS – The ABBA Experience				](https://aeolianhall.ca/events/sos-the-abba-experience-4/) |
 | Mon Jun 10 | 19:00 | [LMH](/about#LMH) | [Heathen](http://londonmusichall.com/events/heathen/) |
@@ -178,21 +208,33 @@ View only a category:
 | Sat Jun 22 | 19:00 | [LMH](/about#LMH) | [TWO CROWN KING](http://londonmusichall.com/events/two-crown-king/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [A Night In Vegas (Featuring Micah Barnes & Billy Newton-Davis)				](https://aeolianhall.ca/events/a-night-in-vegas-featuring-micah-barnes-billy-newton-davis/) |
 | Wed Jun 26 | 18:30 | [Aeol](/about#Aeol) | [Aeolian Pride Social Series – Jordan Baldwin				](https://aeolianhall.ca/events/aeolian-pride-social-series-jordan-baldwin/) |
+| Fri Jun 28 | 09:00 | [CMus](/about#CMus) | [PA Day Camp](https://www.londonchildrensmuseum.ca/event/pa-day-camp) |
 | Sat Jun 29 |  | [Grand](/about#Grand) | [Decades of Bond - The Ultimate Tribute to the Music of James Bond](https://www.grandtheatre.com/event/decades-of-bond) |
 | Tue Jul 02 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Paint and Splash Bash](https://museumlondon.ca/programs-events/event/11415/) |
+|  | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
 | Sun Jul 07 | 14:00 | [LMH](/about#LMH) | [Punch Out MS](http://londonmusichall.com/events/punch-out-ms/) |
 | Mon Jul 08 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: STEAMpunks Futuristic Fabricators](https://museumlondon.ca/programs-events/event/11418/) |
+|  | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
 | Mon Jul 15 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Enchanted Realms and Mythical Creatures](https://museumlondon.ca/programs-events/event/11419/) |
+|  | 09:00 | [CMus](/about#CMus) | [Tween Summer Day Camp](https://www.londonchildrensmuseum.ca/event/tween-summer-day-camp) |
+|  | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
 | Mon Jul 22 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Bug Out!](https://museumlondon.ca/programs-events/event/11420/) |
+|  | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
 | Sat Jul 27 | 21:00 | [LMH](/about#LMH) | [Thunder from Down Under – Untamed 2024 Tour](http://londonmusichall.com/events/thunder-from-down-under-untamed-2024-tour/) |
 | Mon Jul 29 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Press Play](https://museumlondon.ca/programs-events/event/11421/) |
+|  | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
 | Thu Aug 01 |  | [Grand](/about#Grand) | [Tango in the Dark](https://www.grandtheatre.com/event/tango-in-the-dark) |
 | Tue Aug 06 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Collective Creators](https://museumlondon.ca/programs-events/event/11422/) |
+|  | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
 | Mon Aug 12 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Magic, Illusion & Trickery!](https://museumlondon.ca/programs-events/event/11423/) |
+|  | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
 | Thu Aug 15 |  | [Grand](/about#Grand) | [Jeans 'n Classics 2024/25 Series](https://www.grandtheatre.com/event/jeans-n-classics-2425) |
 | Sat Aug 17 | 19:00 | [LMH](/about#LMH) | [The Michael Jackson History Show](http://londonmusichall.com/events/the-michael-jackson-history-show/) |
 | Mon Aug 19 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Weaving Wonders and Fiber Fun](https://museumlondon.ca/programs-events/event/11424/) |
+|  | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
+|  | 09:00 | [CMus](/about#CMus) | [Tween Summer Day Camp](https://www.londonchildrensmuseum.ca/event/tween-summer-day-camp) |
 | Mon Aug 26 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Heroes and Villains](https://museumlondon.ca/programs-events/event/11425/) |
+|  | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
 | Sat Sep 14 | 19:00 | [LMH](/about#LMH) | [Marcus King – Mood Swings The World Tour](http://londonmusichall.com/events/marcus-king-mood-swings-the-world-tour/) |
 | Tue Sep 17 |  | [Grand](/about#Grand) | [Matilda The Musical](https://www.grandtheatre.com/event/matilda-musical) |
 | Thu Sep 26 | 19:00 | [LMH](/about#LMH) | [BENIGHTED & COGNITIVE](http://londonmusichall.com/events/benighted-cognitive/) |
