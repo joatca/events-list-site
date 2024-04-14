@@ -1,6 +1,6 @@
 ---
 title: "Events - adult"
-date: 2024-04-13T00:00:37-04:00
+date: 2024-04-14T00:00:34-04:00
 draft: false
 ---
 
@@ -9,23 +9,12 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Sat) |  | [BudG](/about#BudG) | [London Knights Playoff - Round 2 Game 2](https://www.budweisergardens.com/events/detail/knights-playoffs-r2g2) |
-|  |  | [Grand](/about#Grand) | [One Step at a Time](https://www.grandtheatre.com/event/one-step-at-a-time) |
-|  |  | [Tour](/about#Tour) | [Amanda Martinez - Sunfest Concert Series](https://www.londontourism.ca/events/amanda-martinez-sunfest-concert-series) |
-|  |  | [Tour](/about#Tour) | [Bill Welychka: 'A Happy Has-Been' Book Signing](https://www.londontourism.ca/events/bill-welychka-a-happy-has-been-book-signing) |
-|  |  | [Tour](/about#Tour) | [Pot Is Drugs, SRC & Hyde Park](https://www.londontourism.ca/events/pot-is-drugs-src-and-hyde-park) |
-|  |  | [Tour](/about#Tour) | [Golden Feather with Brent Jackson + Anddre Mafra](https://www.londontourism.ca/events/golden-feather-with-brent-jackson-anddre-mafra) |
-|  |  | [Tour](/about#Tour) | [The Fish Are Back at Eastsides!!](https://www.londontourism.ca/events/the-fish-are-back-at-eastsides) |
-|  |  | [Tour](/about#Tour) | [London Jazz Festival: Nicole Tan Combo](https://www.londontourism.ca/events/london-jazz-festival-nicole-tan-combo) |
-|  |  | [Tour](/about#Tour) | [The Thespian Ball](https://www.londontourism.ca/events/the-thespian-ball) |
-|  |  | [Tour](/about#Tour) | [Rent: The Musical by Jonathon Larson](https://www.londontourism.ca/events/rent-the-musical-by-jonathon-larson) |
-|  |  | [Tour](/about#Tour) | [One Step at a Time](https://www.londontourism.ca/events/one-step-at-a-time) |
-|  |  | [PSFTOff](/about#PSFTOff) | [Mudmen](https://psft.ca/event/mudmen/) |
+| Today (Sun) |  | [Grand](/about#Grand) | [One Step at a Time](https://www.grandtheatre.com/event/one-step-at-a-time) |
+|  |  | [Tour](/about#Tour) | [London Jazz Festival: Hilary Welch Quintet](https://www.londontourism.ca/events/london-jazz-festival-hilary-welch-quintet) |
+|  |  | [Tour](/about#Tour) | [Dr. Strangelove - 60th Anniversary](https://www.londontourism.ca/events/dr-strangelove-60th-anniversary) |
+|  |  | [Tour](/about#Tour) | [The Old Oak](https://www.londontourism.ca/events/the-old-oak) |
+|  |  | [Tour](/about#Tour) | [One Life](https://www.londontourism.ca/events/one-life) |
 |  |  | [RBCP](/about#RBCP) | [OAO Symposium and InfoMart 2024](https://www.rbcplacelondon.com/events/oao-symposium-and-infomart-2024-april-12-14) |
-|  | 08:00 | [CGM](/about#CGM) | [Outdoor Farmers Market](https://coventmarket.com/event/outdoor-farmers-market-2/) |
-|  | 15:30 | [Museum](/about#Museum) | [*CANCELLED* Giving Back: with Ruth Douthwright](https://museumlondon.ca/programs-events/event/11049/) |
-|  | 18:00 | [LMH](/about#LMH) | [Thy Art Is Murder](http://londonmusichall.com/events/thy-art-is-murder/) |
-| Tomorrow (Sun) |  | [Tour](/about#Tour) | [London Jazz Festival: Hilary Welch Quintet](https://www.londontourism.ca/events/london-jazz-festival-hilary-welch-quintet) |
 |  |  | [RBCP](/about#RBCP) | [Making Space for Meaning: CASC/ACSS National Conference](https://www.rbcplacelondon.com/events/making-space-meaning-cascacss-national-conference-april-14-16) |
 |  | 09:00 | [CGM](/about#CGM) | [Morning Yoga with Zoë](https://coventmarket.com/event/evening-yoga-with-zoe-3/) |
 |  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Stamp Champ](https://museumlondon.ca/programs-events/event/11004/2024/04/14) |
@@ -34,11 +23,11 @@ View only a category:
 |  | 15:00 | [Museum](/about#Museum) | [Magisterra at the Museum: The Glorious Voice of Russell Braun](https://museumlondon.ca/programs-events/event/11472/) |
 |  | 15:00 | [FMus](/about#FMus) | [VRS Guest Artists: Ema Nikolovska & Charles Richard-Hamelin](http://www.events.westernu.ca/events/music/2024-04/nikolovska-richard-hamelin.html) |
 |  | 19:00 | [LMH](/about#LMH) | [ENDLESS BUMMER: A Musical Collaboration With Motive](http://londonmusichall.com/events/endless-bummer-a-musical-collaboration-with-motive/) |
-| Mon Apr 15 |  | [Tour](/about#Tour) | [London Jazz Festival: The Jazz Collective / The Nine](https://www.londontourism.ca/events/london-jazz-festival-the-jazz-collective-the-nine) |
+| Tomorrow (Mon) |  | [Tour](/about#Tour) | [The Issue With Tissue](https://www.londontourism.ca/events/the-issue-with-tissue) |
+|  |  | [Tour](/about#Tour) | [London Jazz Festival: The Jazz Collective / The Nine](https://www.londontourism.ca/events/london-jazz-festival-the-jazz-collective-the-nine) |
 |  | 10:00 | [FMus](/about#FMus) | [Masterclass Ema Nikolovska, mezzo-soprano](http://www.events.westernu.ca/events/music/2024-04/nikolovska-masterclass.html) |
 |  | 13:00 | [City](/about#City) | [Corporate Services Committee - April 15, 2024](https://london.ca/government/calendar/corporate-services-committee-april-15-2024) |
 | Tue Apr 16 |  | [Grand](/about#Grand) | [Million Dollar Quartet](https://www.grandtheatre.com/event/million-dollar-quartet) |
-|  |  | [Tour](/about#Tour) | [Million Dollar Quartet](https://www.londontourism.ca/events/million-dollar-quartet) |
 |  |  | [Tour](/about#Tour) | [2024 Ting Comic and Graphic Arts Festival](https://www.londontourism.ca/events/2024-ting-comic-and-graphic-arts-festival) |
 |  | 12:00 | [FMus](/about#FMus) | [Undergraduate Recital - Reta Eve Thompson, cello - NEW DATE](http://www.events.westernu.ca/events/music/2024-03/student-recital-rita-thompson.html) |
 |  | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - April 16, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-april-16-2024) |
@@ -49,8 +38,6 @@ View only a category:
 |  | 19:00 | [LMH](/about#LMH) | [X Ambassadors – TOWNIE: NORTH AMERICAN TOUR](http://londonmusichall.com/events/x-ambassadors-townie-north-american-tour/) |
 |  | 20:00 | [FMus](/about#FMus) | [Undergraduate Recital - Matthew Lee Usher, trumpet](http://www.events.westernu.ca/events/music/2024-04/student-recital-matthew-lee-usher.html) |
 | Wed Apr 17 |  | [BudG](/about#BudG) | [Noah Kahan](https://www.budweisergardens.com/events/detail/noah-kahan) |
-|  |  | [Tour](/about#Tour) | [National Canadian Film Day -Free Forest City Film Festival Screening](https://www.londontourism.ca/events/national-canadian-film-day-free-forest-city-film-festival-screening) |
-|  |  | [Tour](/about#Tour) | [Noah Kahan: We'll All Be Here Forever Tour](https://www.londontourism.ca/events/noah-kahan-well-all-be-here-forever-tour) |
 |  | 11:30 | [FMus](/about#FMus) | [Doctoral Public Lecture \| Lydia Wilton](http://www.events.westernu.ca/events/grad-postdoc-studies/2024-04/doctoral-public-lecture-lydia-wilton.html) |
 |  | 14:30 | [Museum](/about#Museum) | [Culture Club with Dr. Alissa Centivany: The Right to Repair](https://museumlondon.ca/programs-events/event/11034/) |
 |  | 16:00 | [FMus](/about#FMus) | [Undergraduate Recital - Nathalie Burden, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-nathalie-burden.html) |
@@ -58,7 +45,8 @@ View only a category:
 |  | 18:00 | [FMus](/about#FMus) | [Undergraduate Recital - Andrew Noel Brooks, trombone](http://www.events.westernu.ca/events/music/2024-04/student-recital-andrew-noel-brooks.html) |
 |  | 19:00 | [LMH](/about#LMH) | [Matthew Good & HIS BAND](http://londonmusichall.com/events/matthew-good-band/) |
 | Thu Apr 18 |  | [Tour](/about#Tour) | [London Jazz Orchestra - April 18](https://www.londontourism.ca/events/london-jazz-orchestra-april-18) |
-|  |  | [Tour](/about#Tour) | [25th Annual Salute to Laudable Londoners](https://www.londontourism.ca/events/25th-annual-salute-to-laudable-londoners) |
+|  |  | [Tour](/about#Tour) | [The Brush and Palette Club - Art Show & Sale](https://www.londontourism.ca/events/the-brush-and-palette-club-art-show-and-sale) |
+|  |  | [Tour](/about#Tour) | [The Art of Banksy](https://www.londontourism.ca/events/the-art-of-banksy) |
 |  | 12:00 | [FMus](/about#FMus) | [Master's Recital - Charmaine Marie Rana Iormetti, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-iormetti.html) |
 |  | 13:30 | [City](/about#City) | [Committee of Adjustment  - April 18, 2024](https://london.ca/government/calendar/committee-adjustment-april-18-2024) |
 |  | 14:00 | [FMus](/about#FMus) | [Doctoral Recital - Yixuan Ran, piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-yixuan-ran.html) |
@@ -69,10 +57,13 @@ View only a category:
 |  | 20:00 | [Aeol](/about#Aeol) | [Caity Gyorgy				](https://aeolianhall.ca/events/caity-gyorgy/) |
 |  | 20:00 | [FMus](/about#FMus) | [Master's Recital - Qianying Rosalia Li, piano - DEFERRED](http://www.events.westernu.ca/events/music/2024-04/student-recital-qianying-li.html) |
 | Fri Apr 19 |  | [BudG](/about#BudG) | [London Knights Playoff - Round 2 Game 5](https://www.budweisergardens.com/events/detail/knights-playoff-r2g5) |
+|  |  | [Tour](/about#Tour) | [Tortured Poets Department Vinyl Night Launch Party](https://www.londontourism.ca/events/tortured-poets-department-vinyl-night-launch-party) |
+|  |  | [Tour](/about#Tour) | [London Jazz Festival: Cool Shoes Trio](https://www.londontourism.ca/events/london-jazz-festival-cool-shoes-trio) |
+|  |  | [Tour](/about#Tour) | [Forest City Singers' Spring Concert - Rowntree Memorial United Church](https://www.londontourism.ca/events/forest-city-singers-spring-concert-rowntree-memorial-united-church) |
+|  |  | [Tour](/about#Tour) | [Magnolia](https://www.londontourism.ca/events/magnolia) |
 |  |  | [Tour](/about#Tour) | [Colin Fowlie @ Forked River Brewing Company](https://www.londontourism.ca/events/colin-fowlie-forked-river-brewing-company) |
 |  |  | [Tour](/about#Tour) | [Le Vent du Nord & London Symphonia](https://www.londontourism.ca/events/le-vent-du-nord-and-london-symphonia) |
 |  |  | [Tour](/about#Tour) | [SNAPSHOTS: April 19-20](https://www.londontourism.ca/events/snapshots-april-19-20) |
-|  |  | [Tour](/about#Tour) | [Slate Sisters - AlvegoRoot Theatre](https://www.londontourism.ca/events/slate-sisters-alvegoroot-theatre) |
 |  | 12:00 | [FMus](/about#FMus) | [Doctoral Recital - Catalina Teican, collaborative piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-catalin-teican.html) |
 |  | 14:00 | [FMus](/about#FMus) | [Doctoral Recital - Zhiqi Guo, piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-zhiqi-guo.html) |
 |  | 16:00 | [FMus](/about#FMus) | [Doctoral Recital - Tigran Saakyan, piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-tigran-saakyan.html) |
@@ -81,13 +72,16 @@ View only a category:
 |  | 19:00 | [LMH](/about#LMH) | [Queen : It’s A Kinda Magic (RENOWNED TRIBUTE ACT)](http://londonmusichall.com/events/queen-its-a-kinda-magic-renowned-tribute-act/) |
 |  | 20:00 | [FMus](/about#FMus) | [Master's Recital - Andrew Wolf, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-andrew-wolf.html) |
 |  | 20:00 | [FMus](/about#FMus) | [Undergraduate Recital - Michael Meilleur, trumpet](http://www.events.westernu.ca/events/music/2024-04/student-recital-michael-meilleur.html) |
-| Sat Apr 20 |  | [Tour](/about#Tour) | [Hysteria - Montreal's Tribute To Def Leppard @ Eastside Bar & Grill](https://www.londontourism.ca/events/hysteria-montreals-tribute-to-def-leppard-eastside-bar-and-grill) |
+|  | 22:00 | [LMH](/about#LMH) | [RAYGUN: RETRO NIGHT](http://londonmusichall.com/events/raygun-retro-night-10/) |
+| Sat Apr 20 |  | [Tour](/about#Tour) | [London Mystic Market](https://www.londontourism.ca/events/london-mystic-market) |
+|  |  | [Tour](/about#Tour) | [London Spring Vintage Camera Show](https://www.londontourism.ca/events/london-spring-vintage-camera-show) |
+|  |  | [Tour](/about#Tour) | [Hysteria - Montreal's Tribute To Def Leppard @ Eastside Bar & Grill](https://www.londontourism.ca/events/hysteria-montreals-tribute-to-def-leppard-eastside-bar-and-grill) |
+|  |  | [Tour](/about#Tour) | [The Big Lebowski](https://www.londontourism.ca/events/the-big-lebowski) |
 |  |  | [Tour](/about#Tour) | [Songwriter Night at The Rosewood Room](https://www.londontourism.ca/events/songwriter-night-at-the-rosewood-room) |
 |  |  | [Tour](/about#Tour) | [London Jazz Festival: Denise Pelley Trio](https://www.londontourism.ca/events/london-jazz-festival-denise-pelley-trio) |
 |  |  | [Tour](/about#Tour) | [Festivus Games, Hosted by Forest City CrossFit](https://www.londontourism.ca/events/festivus-games-hosted-by-forest-city-crossfit) |
-|  |  | [Tour](/about#Tour) | [The Big Lebowski](https://www.londontourism.ca/events/the-big-lebowski) |
-|  |  | [Tour](/about#Tour) | [EarthFest London](https://www.londontourism.ca/events/earthfest-london) |
-|  |  | [Tour](/about#Tour) | [London Spring Vintage Camera Show](https://www.londontourism.ca/events/london-spring-vintage-camera-show) |
+|  |  | [Tour](/about#Tour) | [Bach Elgar Choir Space Journey](https://www.londontourism.ca/events/bach-elgar-choir-space-journey) |
+|  |  | [Tour](/about#Tour) | [Punk Rock Flea Market London - Spring Market](https://www.londontourism.ca/events/punk-rock-flea-market-london-spring-market) |
 |  |  | [Eldon](/about#Eldon) | [London Clean and Green 2024](https://eldonhouse.ca/product/london-clean-and-green-2024/) |
 |  |  | [PSFTOff](/about#PSFTOff) | [British Beat 66](https://psft.ca/event/british-beat-66/) |
 |  |  | [RBCP](/about#RBCP) | [Evening of HOPE London Film Premiere](https://www.rbcplacelondon.com/events/evening-hope-london-film-premiere-april-20) |
@@ -107,7 +101,7 @@ View only a category:
 |  | 20:00 | [FMus](/about#FMus) | [Master's Recital - Xinyi (Peony) Lin, voice - NEW DATE](http://www.events.westernu.ca/events/music/2024-04/student-recital-xinyi-lin.html) |
 |  | 22:00 | [LMH](/about#LMH) | [Sydney Blu @ System Saturdays](http://londonmusichall.com/events/sydney-blu-system-saturdays/) |
 | Sun Apr 21 |  | [Grand](/about#Grand) | [London Gospel Collective 2023/24 Series](https://www.grandtheatre.com/event/london-gospel-collective-2324) |
-|  |  | [Tour](/about#Tour) | [Ontario Hooking Craft Guild Annual Conference](https://www.londontourism.ca/events/ontario-hooking-craft-guild-annual-conference) |
+|  |  | [Tour](/about#Tour) | [Brews & Ballads: A Local Songwriter Showcase](https://www.londontourism.ca/events/brews-and-ballads-a-local-songwriter-showcase) |
 |  |  | [Tour](/about#Tour) | [Joe Crookston](https://www.londontourism.ca/events/joe-crookston) |
 |  | 09:00 | [CGM](/about#CGM) | [Morning Yoga with Zoë](https://coventmarket.com/event/evening-yoga-with-zoe-4/) |
 |  | 11:00 | [CGM](/about#CGM) | [Upper Thames Military Re-enactment Society](https://coventmarket.com/event/upper-thames-military-re-enactment-society/) |
@@ -163,7 +157,6 @@ View only a category:
 |  | 10:00 | [FMus](/about#FMus) | [Undergraduate Recital - Aining Wu, piano - DEFERRED](http://www.events.westernu.ca/events/music/2024-03/student-recital-aining-wu.html) |
 |  | 11:00 | [CGM](/about#CGM) | [New Horizons Band – Lost at C Performance](https://coventmarket.com/event/new-horizons-band-lost-at-sea-performance/) |
 |  | 12:00 | [FMus](/about#FMus) | [Undergraduate Recital - E. Von Hafenbradl, piano - NEW DATE](http://www.events.westernu.ca/events/music/2024-03/student-recital-Elis-Hafenbradl.html) |
-|  | 19:15 | [CGM](/about#CGM) | [Evening Yoga with Zoë](https://coventmarket.com/event/evening-yoga-with/) |
 |  | 19:30 | [Aeol](/about#Aeol) | [The Last Waltz Live				](https://aeolianhall.ca/events/the-last-waltz-live/) |
 |  | 22:00 | [LMH](/about#LMH) | [Vampa “Bad Bodies” tour @ System Saturdays](http://londonmusichall.com/events/vampa-bad-bodies-tour-system-saturdays-2/) |
 | Sun Apr 28 | 14:00 | [Aeol](/about#Aeol) | [From Susan & Marion With Love				](https://aeolianhall.ca/events/from-susan-marion-with-love/) |
@@ -215,7 +208,8 @@ View only a category:
 |  | 16:00 | [Maker](/about#Maker) | [Mini Makers (Age 3-6) May Session: Celebrate Spring! ](https://www.hellomaker.ca/events/minimakersmay-bnp4f) |
 | Tue May 14 | 13:00 | [City](/about#City) | [Council - May 14, 2024](https://london.ca/government/calendar/council-may-14-2024) |
 | Wed May 15 | 19:30 | [Aeol](/about#Aeol) | [The Songs of Peter Gabriel and Sting				](https://aeolianhall.ca/events/the-songs-of-peter-gabriel-and-sting/) |
-| Thu May 16 | 12:00 | [Maker](/about#Maker) | [Flower pressing ](https://www.hellomaker.ca/events/flowerpressingworkshop-s537b) |
+| Thu May 16 |  | [BudG](/about#BudG) | [Cole Swindell](https://www.budweisergardens.com/events/detail/cole-swindell) |
+|  | 12:00 | [Maker](/about#Maker) | [Flower pressing ](https://www.hellomaker.ca/events/flowerpressingworkshop-s537b) |
 |  | 18:00 | [LMH](/about#LMH) | [Better Lovers](http://londonmusichall.com/events/better-lovers/) |
 |  | 18:30 | [Aeol](/about#Aeol) | [Aeolian Jazz Series – Sonja Gustafson (Southen Lounge)				](https://aeolianhall.ca/events/aeolian-jazz-series-sonja-gustafson-southen-lounge/) |
 | Fri May 17 |  | [Grand](/about#Grand) | [Grease](https://www.grandtheatre.com/event/grease) |
