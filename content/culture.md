@@ -1,6 +1,6 @@
 ---
 title: "Events - culture"
-date: 2024-04-16T00:00:35-04:00
+date: 2024-04-17T00:00:22-04:00
 draft: false
 ---
 
@@ -9,16 +9,16 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Tomorrow (Wed) | 14:30 | [Museum](/about#Museum) | [Culture Club with Dr. Alissa Centivany: The Right to Repair](https://museumlondon.ca/programs-events/event/11034/) |
+| Today (Wed) | 14:30 | [Museum](/about#Museum) | [Culture Club with Dr. Alissa Centivany: The Right to Repair](https://museumlondon.ca/programs-events/event/11034/) |
 | Sat Apr 20 |  | [PSFTOff](/about#PSFTOff) | [British Beat 66](https://psft.ca/event/british-beat-66/) |
 |  | 12:00 | [Museum](/about#Museum) | [Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10908/) |
 | Sun Apr 21 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Stamp Champ](https://museumlondon.ca/programs-events/event/11004/2024/04/21) |
 |  | 14:00 | [Museum](/about#Museum) | [Sunday Exhibition Tours](https://museumlondon.ca/programs-events/event/9394/2024/04/21) |
+| Fri Apr 26 | 12:00 | [Museum](/about#Museum) | [Canadian Art Hop:  UPwithART Exhibition Tour with Andrew Kear Head of Programs at Museum London](https://museumlondon.ca/programs-events/event/11522/) |
 | Sat Apr 27 |  | [PSFTOff](/about#PSFTOff) | [Solitary Man: A Tribute to Neil Diamond](https://psft.ca/event/solitary-man-a-tribute-to-neil-diamond/) |
 | Sun Apr 28 | 14:00 | [Museum](/about#Museum) | [Sunday Exhibition Tours](https://museumlondon.ca/programs-events/event/9394/2024/04/28) |
 | Sat May 04 |  | [PSFTOff](/about#PSFTOff) | [The Music Man JR.](https://psft.ca/event/the-music-man-jr/) |
 | Sun May 05 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Whimsical Watercolour Resist](https://museumlondon.ca/programs-events/event/11011/2024/05/05) |
-| Sat May 11 | 12:00 | [Museum](/about#Museum) | [Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10910/) |
 | Sun May 12 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Whimsical Watercolour Resist](https://museumlondon.ca/programs-events/event/11011/2024/05/12) |
 | Sun May 19 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Whimsical Watercolour Resist](https://museumlondon.ca/programs-events/event/11011/2024/05/19) |
 | Tue May 21 |  | [PSFT](/about#PSFT) | [The Beaver Club](https://psft.ca/event/the-beaver-club/) |

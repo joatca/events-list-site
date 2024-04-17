@@ -1,6 +1,6 @@
 ---
 title: "Events - community"
-date: 2024-04-16T00:00:35-04:00
+date: 2024-04-17T00:00:22-04:00
 draft: false
 ---
 
@@ -9,12 +9,10 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Tue) |  | [RBCP](/about#RBCP) | [Making Space for Meaning: CASC/ACSS National Conference](https://www.rbcplacelondon.com/events/making-space-meaning-cascacss-national-conference-april-14-16) |
-|  | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - April 16, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-april-16-2024) |
-|  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-04-16) |
-| Tomorrow (Wed) | 17:00 | [City](/about#City) | [Special Council Meeting - April 17, 2024](https://london.ca/government/calendar/special-council-meeting-april-17-2024) |
-| Thu Apr 18 |  | [RBCP](/about#RBCP) | [London Regional Employment Services Information Event](https://www.rbcplacelondon.com/events/london-regional-employment-services-information-event-april-18) |
+| Today (Wed) | 17:00 | [City](/about#City) | [Special Council Meeting - April 17, 2024](https://london.ca/government/calendar/special-council-meeting-april-17-2024) |
+| Tomorrow (Thu) |  | [RBCP](/about#RBCP) | [London Regional Employment Services Information Event](https://www.rbcplacelondon.com/events/london-regional-employment-services-information-event-april-18) |
 |  | 13:30 | [City](/about#City) | [Committee of Adjustment  - April 18, 2024](https://london.ca/government/calendar/committee-adjustment-april-18-2024) |
+|  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-04-18) |
 | Sat Apr 20 |  | [Eldon](/about#Eldon) | [London Clean and Green 2024](https://eldonhouse.ca/product/london-clean-and-green-2024/) |
 |  |  | [PSFTOff](/about#PSFTOff) | [British Beat 66](https://psft.ca/event/british-beat-66/) |
 |  |  | [RBCP](/about#RBCP) | [Evening of HOPE London Film Premiere](https://www.rbcplacelondon.com/events/evening-hope-london-film-premiere-april-20) |
@@ -43,6 +41,7 @@ View only a category:
 | Thu May 09 | 17:30 | [Maker](/about#Maker) | [Candle Making Workshop ](https://www.hellomaker.ca/events/candleworkshop-8rmrf-s93a6-fzeyt-jaxrs-7w7k8) |
 |  | 19:00 | [Maker](/about#Maker) | [Polymer Clay Earring Workshop ](https://www.hellomaker.ca/events/polymer-clay-earring-workshop-7m6jk-db26w-b42sc-c7l7d-m8rbg-yxm5r-a48nk-xggm8-mdblt-9z7h6-e36fb-tpnml-xrs5b-gp3yh-aw87b) |
 | Sat May 11 |  | [RBCP](/about#RBCP) | [London Pickle Fiesta](https://www.rbcplacelondon.com/events/london-pickle-fiesta-may-11) |
+|  | 09:00 | [City](/about#City) | [Emergency Preparedness Open House - May 11, 2024](https://london.ca/government/calendar/emergency-preparedness-open-house-may-11-2024-0) |
 | Mon May 13 | 10:00 | [City](/about#City) | [Governance Working Group - May 13, 2024](https://london.ca/government/calendar/governance-working-group-may-13-2024) |
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - May 13, 2024](https://london.ca/government/calendar/planning-environment-committee-may-13-2024) |
 |  | 16:00 | [Maker](/about#Maker) | [Mini Makers (Age 3-6) May Session: Celebrate Spring! ](https://www.hellomaker.ca/events/minimakersmay-bnp4f) |
