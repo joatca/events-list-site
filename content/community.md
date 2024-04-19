@@ -1,6 +1,6 @@
 ---
 title: "Events - community"
-date: 2024-04-18T00:00:22-04:00
+date: 2024-04-19T00:00:26-04:00
 draft: false
 ---
 
@@ -9,14 +9,13 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Thu) |  | [RBCP](/about#RBCP) | [London Regional Employment Services Information Event](https://www.rbcplacelondon.com/events/london-regional-employment-services-information-event-april-18) |
-|  | 13:30 | [City](/about#City) | [Committee of Adjustment  - April 18, 2024](https://london.ca/government/calendar/committee-adjustment-april-18-2024) |
-|  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-04-18) |
-| Sat Apr 20 |  | [Eldon](/about#Eldon) | [London Clean and Green 2024](https://eldonhouse.ca/product/london-clean-and-green-2024/) |
+| Today (Fri) | 16:30 | [Info](/about#Info) | [Diabetes Fit ](https://www.informationlondon.ca/Event/Detail/50154/Diabetes_Fit_?date=2024-04-19) |
+| Tomorrow (Sat) |  | [Eldon](/about#Eldon) | [London Clean and Green 2024](https://eldonhouse.ca/product/london-clean-and-green-2024/) |
 |  |  | [PSFTOff](/about#PSFTOff) | [British Beat 66](https://psft.ca/event/british-beat-66/) |
 |  |  | [RBCP](/about#RBCP) | [Evening of HOPE London Film Premiere](https://www.rbcplacelondon.com/events/evening-hope-london-film-premiere-april-20) |
 | Mon Apr 22 | 13:00 | [City](/about#City) | [Corporate Services Committee - April 22, 2024](https://london.ca/government/calendar/corporate-services-committee-april-22-2024) |
 | Tue Apr 23 | 13:00 | [City](/about#City) | [Council - April 23, 2024](https://london.ca/government/calendar/council-april-23-2024) |
+|  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-04-23) |
 | Thu Apr 25 |  | [RBCP](/about#RBCP) | [33rd Canadian Conference on HIV/Aids Research](https://www.rbcplacelondon.com/events/33rd-canadian-conference-hivaids-research-april-25-28) |
 | Fri Apr 26 | 19:00 | [Maker](/about#Maker) | [Crafty Queen](https://www.hellomaker.ca/events/crafty-queen) |
 | Sat Apr 27 |  | [PSFTOff](/about#PSFTOff) | [Solitary Man: A Tribute to Neil Diamond](https://psft.ca/event/solitary-man-a-tribute-to-neil-diamond/) |
@@ -104,3 +103,4 @@ View only a category:
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - October 02, 2024](https://london.ca/government/calendar/planning-environment-committee-october-02-2024) |
 | Mon Oct 07 | 13:00 | [City](/about#City) | [Corporate Services Committee - October 07, 2024](https://london.ca/government/calendar/corporate-services-committee-october-07-2024) |
 | Tue Oct 08 | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - October 08, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-october-08-2024) |
+| Tue Oct 15 | 13:00 | [City](/about#City) | [Council - October 15, 2024](https://london.ca/government/calendar/council-october-15-2024) |
