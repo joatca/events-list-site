@@ -1,6 +1,6 @@
 ---
 title: "Events - downtown"
-date: 2024-04-23T00:00:32-04:00
+date: 2024-04-24T00:00:32-04:00
 draft: false
 ---
 
@@ -9,18 +9,17 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Tue) |  | [Grand](/about#Grand) | [Million Dollar Quartet](https://www.grandtheatre.com/event/million-dollar-quartet) |
-|  | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
-|  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-04-23) |
-| Tomorrow (Wed) |  | [BudG](/about#BudG) | [London Lightning vs. West Virginia Grind](https://www.budweisergardens.com/events/detail/london-lightning-vs-west-virginia-grind) |
+| Today (Wed) |  | [BudG](/about#BudG) | [London Lightning vs. West Virginia Grind](https://www.budweisergardens.com/events/detail/london-lightning-vs-west-virginia-grind) |
+|  |  | [Grand](/about#Grand) | [Million Dollar Quartet](https://www.grandtheatre.com/event/million-dollar-quartet) |
 |  | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
-| Thu Apr 25 |  | [BudG](/about#BudG) | [TVDSB Variety Is...](https://www.budweisergardens.com/events/detail/variety-is) |
+| Tomorrow (Thu) |  | [BudG](/about#BudG) | [TVDSB Variety Is...](https://www.budweisergardens.com/events/detail/variety-is) |
 |  |  | [Grand](/about#Grand) | [Cinderella](https://www.grandtheatre.com/event/cinderella) |
 |  | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
 |  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
 |  | 18:00 | [CMus](/about#CMus) | [STEAM: Pinwheels](https://www.londonchildrensmuseum.ca/event/steam-pinwheels) |
 |  | 18:30 | [Aeol](/about#Aeol) | [Aeolian Jazz Series – Peter Karle (Southen Lounge)				](https://aeolianhall.ca/events/aeolian-jazz-series-peter-karle-southen-lounge-2/) |
 |  | 18:30 | [LMH](/about#LMH) | [Green Jelly](http://londonmusichall.com/events/green-jelly/) |
+|  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-04-25) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Connie Kaldor				](https://aeolianhall.ca/events/connie-kaldor/) |
 | Fri Apr 26 |  | [BudG](/about#BudG) | [London Knights Playoffs - Round 3 Home Game 1](https://www.budweisergardens.com/events/detail/knights-playoff-r3g1) |
 |  | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
@@ -33,7 +32,6 @@ View only a category:
 |  | 11:00 | [CMus](/about#CMus) | [STEAM: Pinwheels](https://www.londonchildrensmuseum.ca/event/steam-pinwheels) |
 |  | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Pinwheels](https://www.londonchildrensmuseum.ca/event/steam-pinwheels) |
-|  | 19:15 | [CGM](/about#CGM) | [Evening Yoga with Zoë](https://coventmarket.com/event/evening-yoga-with/) |
 |  | 19:30 | [Aeol](/about#Aeol) | [The Last Waltz Live				](https://aeolianhall.ca/events/the-last-waltz-live/) |
 |  | 22:00 | [LMH](/about#LMH) | [Vampa “Bad Bodies” tour @ System Saturdays](http://londonmusichall.com/events/vampa-bad-bodies-tour-system-saturdays-2/) |
 | Sun Apr 28 |  | [BudG](/about#BudG) | [London Knights Playoffs - Round 3 Home Game 2](https://www.budweisergardens.com/events/detail/knights-playoffs-r3g2) |
@@ -226,4 +224,5 @@ View only a category:
 | Tue Sep 17 |  | [Grand](/about#Grand) | [Matilda The Musical](https://www.grandtheatre.com/event/matilda-musical) |
 | Fri Sep 20 | 20:00 | [Aeol](/about#Aeol) | [Martha Wainwright				](https://aeolianhall.ca/events/martha-wainwright-3/) |
 | Thu Sep 26 | 19:00 | [LMH](/about#LMH) | [BENIGHTED & COGNITIVE](http://londonmusichall.com/events/benighted-cognitive/) |
+| Sat Oct 05 | 19:00 | [LMH](/about#LMH) | [Death From Above 1979](http://londonmusichall.com/events/death-from-above-1979/) |
 | Tue Oct 15 |  | [Grand](/about#Grand) | [As You Like It](https://www.grandtheatre.com/event/as-you-like-it) |

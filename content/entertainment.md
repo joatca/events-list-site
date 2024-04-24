@@ -1,6 +1,6 @@
 ---
 title: "Events - entertainment"
-date: 2024-04-23T00:00:32-04:00
+date: 2024-04-24T00:00:32-04:00
 draft: false
 ---
 
@@ -9,29 +9,21 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Tue) |  | [Grand](/about#Grand) | [Million Dollar Quartet](https://www.grandtheatre.com/event/million-dollar-quartet) |
-|  | 12:00 | [FMus](/about#FMus) | [Doctoral Recital - Ryan Baxter, piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-ryan-baxter.html) |
-|  | 14:00 | [FMus](/about#FMus) | [Undergraduate Recital - Adam MacNeil, piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-adam-macneil.html) |
-|  | 16:00 | [FMus](/about#FMus) | [Master's Recital - Dayesl Kim, voice - NEW DATE](http://www.events.westernu.ca/events/music/2024-03/student-recital-dayesl-kim.html) |
-|  | 16:00 | [FMus](/about#FMus) | [Master's Recital - Lezhuo (Rachel) Liu, piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-rachel-liu.html) |
-|  | 18:00 | [FMus](/about#FMus) | [Undergraduate Recital - Erin Johnston, voice - DEFERRED](http://www.events.westernu.ca/events/music/2024-04/student-recital-erin-johnston.html) |
-|  | 18:00 | [FMus](/about#FMus) | [Doctoral Recital - ChanJoo Ahn, piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-chanjoo-ahn.html) |
-|  | 20:00 | [FMus](/about#FMus) | [Master's Recital - Matthew John Bermudez, voice - NEW DATE](http://www.events.westernu.ca/events/music/2024-04/student-recital-matthew-bermudez.html) |
-|  | 20:00 | [FMus](/about#FMus) | [Master's Recital - Ellis Yuen-Rapati, viola - DEFERRED](http://www.events.westernu.ca/events/music/2024-04/student-recital-ellis-yuen-rapati.html) |
-| Tomorrow (Wed) |  | [BudG](/about#BudG) | [London Lightning vs. West Virginia Grind](https://www.budweisergardens.com/events/detail/london-lightning-vs-west-virginia-grind) |
+| Today (Wed) |  | [BudG](/about#BudG) | [London Lightning vs. West Virginia Grind](https://www.budweisergardens.com/events/detail/london-lightning-vs-west-virginia-grind) |
+|  |  | [Grand](/about#Grand) | [Million Dollar Quartet](https://www.grandtheatre.com/event/million-dollar-quartet) |
 |  | 12:00 | [FMus](/about#FMus) | [Master's Recital - Chunju Tsai, collaborative piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-chunju-tsai.html) |
 |  | 14:00 | [FMus](/about#FMus) | [Undergraduate Recital - Miriam Elsawi, viola - NEW DATE](http://www.events.westernu.ca/events/music/2024-04/student-recital-miriam-elsawi.html) |
 |  | 16:00 | [FMus](/about#FMus) | [Doctoral Recital - Jin (Mijin) Kim, piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-mijin-kim.html) |
 |  | 16:00 | [FMus](/about#FMus) | [Undergraduate Recital - Sage Gilliland, voice - NEW DATE](http://www.events.westernu.ca/events/music/2024-04/student-recital-sage-patricia-gilliland.html) |
 |  | 18:00 | [FMus](/about#FMus) | [Master's Recital - Abigail Takenaka, piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-abigail-takenaka.html) |
 |  | 20:00 | [FMus](/about#FMus) | [Master's Recital - Ashley Giles, viola - DEFERRED](http://www.events.westernu.ca/events/music/2024-04/student-recital-ashley-giles.html) |
-| Thu Apr 25 |  | [BudG](/about#BudG) | [TVDSB Variety Is...](https://www.budweisergardens.com/events/detail/variety-is) |
+| Tomorrow (Thu) |  | [BudG](/about#BudG) | [TVDSB Variety Is...](https://www.budweisergardens.com/events/detail/variety-is) |
 |  |  | [Grand](/about#Grand) | [Cinderella](https://www.grandtheatre.com/event/cinderella) |
 |  | 12:00 | [FMus](/about#FMus) | [Undergraduate Recital - Meagan Kathryn Foster, percussion](http://www.events.westernu.ca/events/music/2024-04/student-recital-meagan-foster.html) |
 |  | 14:00 | [FMus](/about#FMus) | [Master's Recital - Angela Myshkowsky, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-angela-myshkowsky.html) |
 |  | 16:00 | [FMus](/about#FMus) | [Master's Recital - Tracy Guo, collaborative piano - DEFERRED](http://www.events.westernu.ca/events/music/2024-04/student-recital-tracy-guo.html) |
+|  | 18:00 | [FMus](/about#FMus) | [Master's Recital - Madeleine David, voice - DEFERRED](http://www.events.westernu.ca/events/music/2024-04/student-recital-madeleine-david.html) |
 |  | 18:00 | [FMus](/about#FMus) | [Master's Recital - Leon Fei, piano](http://www.events.westernu.ca/events/music/2024-04/student-recital-leon-fei.html) |
-|  | 18:00 | [FMus](/about#FMus) | [Master's Recital - Madeleine David, voice](http://www.events.westernu.ca/events/music/2024-04/student-recital-madeleine-david.html) |
 |  | 18:30 | [Aeol](/about#Aeol) | [Aeolian Jazz Series – Peter Karle (Southen Lounge)				](https://aeolianhall.ca/events/aeolian-jazz-series-peter-karle-southen-lounge-2/) |
 |  | 18:30 | [LMH](/about#LMH) | [Green Jelly](http://londonmusichall.com/events/green-jelly/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Connie Kaldor				](https://aeolianhall.ca/events/connie-kaldor/) |
@@ -94,6 +86,7 @@ View only a category:
 | Sat May 18 | 09:00 | [LMH](/about#LMH) | [STEPHANIE WORSFOLD CLASSIC 2024](http://londonmusichall.com/events/stephanie-worsfold-classic-2024/) |
 | Sun May 19 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Whimsical Watercolour Resist](https://museumlondon.ca/programs-events/event/11011/2024/05/19) |
 |  | 14:00 | [Aeol](/about#Aeol) | [Aeolian Classical Series – Andy Cloutier				](https://aeolianhall.ca/events/aeolian-classical-series-andy-cloutier/) |
+| Tue May 21 | 20:00 | [FMus](/about#FMus) | [Doctoral Recital - Xinyao (Sylvie) Luo, voice](http://www.events.westernu.ca/events/music/2024-05/student-recital-xinyao-luo.html) |
 | Thu May 23 | 18:00 | [LMH](/about#LMH) | [Sentiment Dissolve – ‘The Orwellian Dream’ Release Party](http://londonmusichall.com/events/sentiment-dissolve-the-orwellian-dream-release-party/) |
 |  | 19:30 | [Aeol](/about#Aeol) | [Good Lovelies – We Will Never Be The Same Tour				](https://aeolianhall.ca/events/good-lovelies-we-will-never-be-the-same-tour/) |
 | Fri May 24 | 20:00 | [LMH](/about#LMH) | [Wing Night: The Band](http://londonmusichall.com/events/wing-night-the-band-6/) |
@@ -143,4 +136,5 @@ View only a category:
 | Tue Sep 17 |  | [Grand](/about#Grand) | [Matilda The Musical](https://www.grandtheatre.com/event/matilda-musical) |
 | Fri Sep 20 | 20:00 | [Aeol](/about#Aeol) | [Martha Wainwright				](https://aeolianhall.ca/events/martha-wainwright-3/) |
 | Thu Sep 26 | 19:00 | [LMH](/about#LMH) | [BENIGHTED & COGNITIVE](http://londonmusichall.com/events/benighted-cognitive/) |
+| Sat Oct 05 | 19:00 | [LMH](/about#LMH) | [Death From Above 1979](http://londonmusichall.com/events/death-from-above-1979/) |
 | Tue Oct 15 |  | [Grand](/about#Grand) | [As You Like It](https://www.grandtheatre.com/event/as-you-like-it) |
