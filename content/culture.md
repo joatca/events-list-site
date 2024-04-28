@@ -1,6 +1,6 @@
 ---
 title: "Events - culture"
-date: 2024-04-27T00:00:35-04:00
+date: 2024-04-28T00:01:03-04:00
 draft: false
 ---
 
@@ -9,8 +9,7 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Sat) |  | [PSFTOff](/about#PSFTOff) | [Solitary Man: A Tribute to Neil Diamond](https://psft.ca/event/solitary-man-a-tribute-to-neil-diamond/) |
-| Tomorrow (Sun) | 14:00 | [Museum](/about#Museum) | [Sunday Exhibition Tours](https://museumlondon.ca/programs-events/event/9394/2024/04/28) |
+| Today (Sun) | 14:00 | [Museum](/about#Museum) | [Sunday Exhibition Tours](https://museumlondon.ca/programs-events/event/9394/2024/04/28) |
 | Sat May 04 |  | [PSFTOff](/about#PSFTOff) | [The Music Man JR.](https://psft.ca/event/the-music-man-jr/) |
 |  | 18:30 | [Museum](/about#Museum) | [UPwithART](https://museumlondon.ca/programs-events/event/11529/) |
 | Sun May 05 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Whimsical Watercolour Resist](https://museumlondon.ca/programs-events/event/11011/2024/05/05) |

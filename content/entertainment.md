@@ -1,6 +1,6 @@
 ---
 title: "Events - entertainment"
-date: 2024-04-27T00:00:35-04:00
+date: 2024-04-28T00:01:03-04:00
 draft: false
 ---
 
@@ -9,19 +9,12 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Sat) |  | [Grand](/about#Grand) | [Million Dollar Quartet](https://www.grandtheatre.com/event/million-dollar-quartet) |
-|  |  | [Grand](/about#Grand) | [Cinderella](https://www.grandtheatre.com/event/cinderella) |
-|  |  | [Grand](/about#Grand) | [Jaeden Izik-Dzurko, piano](https://www.grandtheatre.com/event/jaeden-izik-dzurko-piano) |
-|  | 10:00 | [FMus](/about#FMus) | [Undergraduate Recital - Aining Wu, piano - DEFERRED](http://www.events.westernu.ca/events/music/2024-03/student-recital-aining-wu.html) |
-|  | 12:00 | [FMus](/about#FMus) | [Undergraduate Recital - E. Von Hafenbradl, piano - NEW DATE](http://www.events.westernu.ca/events/music/2024-03/student-recital-Elis-Hafenbradl.html) |
-|  | 14:00 | [FMus](/about#FMus) | [Undergraduate Recital - Tung Ngo, piano - NEW DATE & VENUE](http://www.events.westernu.ca/events/music/2024-03/student-recital-tung-ngo.html) |
-|  | 19:30 | [Aeol](/about#Aeol) | [The Last Waltz Live				](https://aeolianhall.ca/events/the-last-waltz-live/) |
-|  | 22:00 | [LMH](/about#LMH) | [Vampa “Bad Bodies” tour @ System Saturdays](http://londonmusichall.com/events/vampa-bad-bodies-tour-system-saturdays-2/) |
-| Tomorrow (Sun) |  | [BudG](/about#BudG) | [London Knights Playoffs - Round 3 Home Game 2](https://www.budweisergardens.com/events/detail/knights-playoffs-r3g2) |
+| Today (Sun) |  | [BudG](/about#BudG) | [London Knights Playoffs - Round 3 Home Game 2](https://www.budweisergardens.com/events/detail/knights-playoffs-r3g2) |
+|  |  | [Grand](/about#Grand) | [Million Dollar Quartet](https://www.grandtheatre.com/event/million-dollar-quartet) |
 |  | 14:00 | [Aeol](/about#Aeol) | [From Susan & Marion With Love				](https://aeolianhall.ca/events/from-susan-marion-with-love/) |
 |  | 14:00 | [Museum](/about#Museum) | [Sunday Exhibition Tours](https://museumlondon.ca/programs-events/event/9394/2024/04/28) |
 |  | 19:00 | [LMH](/about#LMH) | [Gatecreeper](http://londonmusichall.com/events/gatecreeper/) |
-| Mon Apr 29 |  | [BudG](/about#BudG) | [Little Women](https://www.budweisergardens.com/events/detail/little-women) |
+| Tomorrow (Mon) |  | [BudG](/about#BudG) | [Little Women](https://www.budweisergardens.com/events/detail/little-women) |
 |  | 01:00 | [FMus](/about#FMus) | [Student Recitals: Ongoing until end of April](http://www.events.westernu.ca/events/music/2024-04/student-recitals-ongoing.html) |
 |  | 14:00 | [FMus](/about#FMus) | [Undergraduate Recital - Albert Xia, voice - NEW DATE](http://www.events.westernu.ca/events/music/2024-04/student-recital-albert-xia.html) |
 |  | 18:00 | [FMus](/about#FMus) | [Master's Recital - Evan Williams, voice - NEW DATE](http://www.events.westernu.ca/events/music/2024-04/student-recital-evan-williams.html) |
