@@ -1,6 +1,6 @@
 ---
 title: "Events - entertainment"
-date: 2024-04-28T00:01:03-04:00
+date: 2024-04-29T00:00:32-04:00
 draft: false
 ---
 
@@ -9,12 +9,8 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Sun) |  | [BudG](/about#BudG) | [London Knights Playoffs - Round 3 Home Game 2](https://www.budweisergardens.com/events/detail/knights-playoffs-r3g2) |
+| Today (Mon) |  | [BudG](/about#BudG) | [Little Women](https://www.budweisergardens.com/events/detail/little-women) |
 |  |  | [Grand](/about#Grand) | [Million Dollar Quartet](https://www.grandtheatre.com/event/million-dollar-quartet) |
-|  | 14:00 | [Aeol](/about#Aeol) | [From Susan & Marion With Love				](https://aeolianhall.ca/events/from-susan-marion-with-love/) |
-|  | 14:00 | [Museum](/about#Museum) | [Sunday Exhibition Tours](https://museumlondon.ca/programs-events/event/9394/2024/04/28) |
-|  | 19:00 | [LMH](/about#LMH) | [Gatecreeper](http://londonmusichall.com/events/gatecreeper/) |
-| Tomorrow (Mon) |  | [BudG](/about#BudG) | [Little Women](https://www.budweisergardens.com/events/detail/little-women) |
 |  | 01:00 | [FMus](/about#FMus) | [Student Recitals: Ongoing until end of April](http://www.events.westernu.ca/events/music/2024-04/student-recitals-ongoing.html) |
 |  | 14:00 | [FMus](/about#FMus) | [Undergraduate Recital - Albert Xia, voice - NEW DATE](http://www.events.westernu.ca/events/music/2024-04/student-recital-albert-xia.html) |
 |  | 18:00 | [FMus](/about#FMus) | [Master's Recital - Evan Williams, voice - NEW DATE](http://www.events.westernu.ca/events/music/2024-04/student-recital-evan-williams.html) |
@@ -70,7 +66,8 @@ View only a category:
 | Sat Jun 01 |  | [BudG](/about#BudG) | [Professional Bull Riders](https://www.budweisergardens.com/events/detail/professional-bull-riders-4) |
 |  | 19:00 | [LMH](/about#LMH) | [Death to All](http://londonmusichall.com/events/death-to-all/) |
 | Tue Jun 04 | 19:00 | [LMH](/about#LMH) | [Randy (Trailer Park Boys) Cheeseburger Picnic Comedy Tour](http://londonmusichall.com/events/randy-trailer-park-boys-cheeseburger-picnic-comedy-tour/) |
-| Fri Jun 07 | 19:30 | [Aeol](/about#Aeol) | [SOS – The ABBA Experience				](https://aeolianhall.ca/events/sos-the-abba-experience-3/) |
+| Fri Jun 07 |  | [BudG](/about#BudG) | [Blippi: The Wonderful World Tour](https://www.budweisergardens.com/events/detail/blippi-the-wonderful-world-tour-1) |
+|  | 19:30 | [Aeol](/about#Aeol) | [SOS – The ABBA Experience				](https://aeolianhall.ca/events/sos-the-abba-experience-3/) |
 | Sat Jun 08 | 14:00 | [Aeol](/about#Aeol) | [SOS – The ABBA Experience (Saturday Matinee)				](https://aeolianhall.ca/events/sos-the-abba-experience-5/) |
 |  | 19:30 | [Aeol](/about#Aeol) | [SOS – The ABBA Experience				](https://aeolianhall.ca/events/sos-the-abba-experience-4/) |
 | Mon Jun 10 | 19:00 | [LMH](/about#LMH) | [Heathen](http://londonmusichall.com/events/heathen/) |
@@ -109,3 +106,4 @@ View only a category:
 | Sun Sep 29 | 20:00 | [Aeol](/about#Aeol) | [Ruzz Guitar’s Blues Revue				](https://aeolianhall.ca/events/ruzz-guitars-blues-revue-2/) |
 | Sat Oct 05 | 19:00 | [LMH](/about#LMH) | [Death From Above 1979](http://londonmusichall.com/events/death-from-above-1979/) |
 | Tue Oct 15 |  | [Grand](/about#Grand) | [As You Like It](https://www.grandtheatre.com/event/as-you-like-it) |
+| Fri Oct 25 | 20:00 | [Aeol](/about#Aeol) | [Ben Caplan Presents Hold On!				](https://aeolianhall.ca/events/ben-caplan-presents-hold-on/) |
