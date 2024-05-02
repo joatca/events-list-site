@@ -1,6 +1,6 @@
 ---
 title: "Events - downtown"
-date: 2024-05-01T00:00:43-04:00
+date: 2024-05-02T00:00:39-04:00
 draft: false
 ---
 
@@ -9,14 +9,13 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Wed) |  | [Grand](/about#Grand) | [Million Dollar Quartet](https://www.grandtheatre.com/event/million-dollar-quartet) |
-|  | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
-| Tomorrow (Thu) | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
+| Today (Thu) |  | [Grand](/about#Grand) | [Million Dollar Quartet](https://www.grandtheatre.com/event/million-dollar-quartet) |
+|  | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
 |  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
 |  | 18:00 | [CMus](/about#CMus) | [STEAM: Petri Dish Art](https://www.londonchildrensmuseum.ca/event/steam-petri-dish-art) |
 |  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-05-02) |
 |  | 19:00 | [LMH](/about#LMH) | [Pouya](http://londonmusichall.com/events/pouya/) |
-| Fri May 03 |  | [BudG](/about#BudG) | [London Knights Playoffs - Round 3 Home Game 3](https://www.budweisergardens.com/events/detail/knights-playoffs-r3g2-1) |
+| Tomorrow (Fri) |  | [BudG](/about#BudG) | [London Knights Playoffs - Round 3 Home Game 3](https://www.budweisergardens.com/events/detail/knights-playoffs-r3g2-1) |
 |  | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
 |  | 16:30 | [Info](/about#Info) | [Diabetes Fit ](https://www.informationlondon.ca/Event/Detail/50154/Diabetes_Fit_?date=2024-05-03) |
 |  | 18:00 | [LMH](/about#LMH) | [Dying Fetus](http://londonmusichall.com/events/dying-fetus-2/) |
@@ -27,7 +26,8 @@ View only a category:
 |  | 10:00 | [CGM](/about#CGM) | [Polish Heritage Month](https://coventmarket.com/event/polish-heritage-month/) |
 |  | 11:00 | [CGM](/about#CGM) | [Soca Dance Fitness Class](https://coventmarket.com/event/soca-dance-fitness-class-6/) |
 |  | 11:00 | [CGM](/about#CGM) | [Kids Craft Corner](https://coventmarket.com/event/kids-craft-corner/) |
-|  | 12:00 | [CGM](/about#CGM) | [Spring Weekend Market](https://coventmarket.com/event/spring-launch-market/) |
+|  | 11:00 | [CGM](/about#CGM) | [Spring Weekend Market](https://coventmarket.com/event/spring-launch-market/) |
+|  | 11:00 | [CGM](/about#CGM) | [Saturday Cooking Demo](https://coventmarket.com/event/saturday-cooking-classes-2/) |
 |  | 18:30 | [Museum](/about#Museum) | [UPwithART](https://museumlondon.ca/programs-events/event/11529/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Grace, 2 – Celebrating The Tragically Hip				](https://aeolianhall.ca/events/grace-2-celebrating-the-tragically-hip/) |
 |  | 22:00 | [LMH](/about#LMH) | [All systems glow @ System Saturday](http://londonmusichall.com/events/all-systems-glow-system-saturday/) |
@@ -52,7 +52,6 @@ View only a category:
 |  | 17:00 | [Museum](/about#Museum) | [Annual General Meeting](https://museumlondon.ca/programs-events/event/11539/) |
 | Thu May 09 | 09:00 | [LMH](/about#LMH) | [City of Music Conference](http://londonmusichall.com/events/city-of-music-conference/) |
 |  | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
-|  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
 |  | 18:00 | [LMH](/about#LMH) | [Cowboy Junkies Acoustic Trio](http://londonmusichall.com/events/london-city-of-music-expo/) |
 |  | 18:00 | [CMus](/about#CMus) | [STEAM: Sun Catchers](https://www.londonchildrensmuseum.ca/event/steam-sun-catchers) |
 |  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-05-09) |
@@ -133,7 +132,7 @@ View only a category:
 |  | 11:00 | [CGM](/about#CGM) | [Soca Dance Fitness Class](https://coventmarket.com/event/soca-dance-fitness-class-6-3/) |
 |  | 11:00 | [CMus](/about#CMus) | [STEAM: DIY Window Cling](https://www.londonchildrensmuseum.ca/event/steam-diy-window-cling) |
 |  | 12:00 | [Aeol](/about#Aeol) | [TEDx Dundas Place Youth: Harmony				](https://aeolianhall.ca/events/tedx-dundas-place-youth-harmony/) |
-|  | 12:00 | [Museum](/about#Museum) | [Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10912/) |
+|  | 12:00 | [Museum](/about#Museum) | [*SOLD OUT* Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10912/) |
 |  | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
 |  | 13:00 | [Info](/about#Info) | [Take-A-Shot Para Sport Day](https://www.informationlondon.ca/Event/Detail/49968/Take-A-Shot_Para_Sport_Day?date=2024-05-25) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: DIY Window Cling](https://www.londonchildrensmuseum.ca/event/steam-diy-window-cling) |
@@ -165,7 +164,7 @@ View only a category:
 |  | 16:30 | [Info](/about#Info) | [Diabetes Fit ](https://www.informationlondon.ca/Event/Detail/50154/Diabetes_Fit_?date=2024-05-31) |
 |  | 17:00 | [CMus](/about#CMus) | [Kids 1st Day](https://www.londonchildrensmuseum.ca/event/kids-1st-day) |
 |  | 18:00 | [CMus](/about#CMus) | [STEAM: Pompom Launcher](https://www.londonchildrensmuseum.ca/event/steam-pompom-launcher) |
-| Sat Jun 01 | 08:00 | [CGM](/about#CGM) | [Outdoor Farmers Market](https://coventmarket.com/event/outdoor-farmers-market-2-2-2-2-3-3/) |
+| Sat Jun 01 | 08:00 | [CGM](/about#CGM) | [Outdoor Farmers Market](https://coventmarket.com/event/outdoor-farmers-market-2-2-2-2-3-2/) |
 |  | 10:00 | [CMus](/about#CMus) | [OUTREACH: Gathering on the Green](https://www.londonchildrensmuseum.ca/event/outreach-gathering-green) |
 |  | 11:00 | [CMus](/about#CMus) | [STEAM: Pompom Launcher](https://www.londonchildrensmuseum.ca/event/steam-pompom-launcher) |
 |  | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
@@ -206,10 +205,10 @@ View only a category:
 |  | 11:00 | [CMus](/about#CMus) | [OUTREACH: London Children's Festival](https://www.londonchildrensmuseum.ca/event/outreach-london-childrens-festival) |
 |  | 16:30 | [Info](/about#Info) | [Diabetes Fit ](https://www.informationlondon.ca/Event/Detail/50154/Diabetes_Fit_?date=2024-06-14) |
 |  | 20:00 | [Aeol](/about#Aeol) | [AJAMAF 2024: Carol Welsman				](https://aeolianhall.ca/events/ajamaf-2024-carol-welsman/) |
-| Sat Jun 15 | 11:00 | [CMus](/about#CMus) | [STEAM: Take Flight!](https://www.londonchildrensmuseum.ca/event/steam-take-flight) |
-|  | 11:00 | [CMus](/about#CMus) | [OUTREACH: London Children's Festival](https://www.londonchildrensmuseum.ca/event/outreach-london-childrens-festival) |
-|  | 13:00 | [CMus](/about#CMus) | [OUTREACH: Ward 12 Community Day](https://www.londonchildrensmuseum.ca/event/outreach-ward-12-community-day) |
+| Sat Jun 15 | 11:00 | [CMus](/about#CMus) | [OUTREACH: London Children's Festival](https://www.londonchildrensmuseum.ca/event/outreach-london-childrens-festival) |
+|  | 11:00 | [CMus](/about#CMus) | [STEAM: Take Flight!](https://www.londonchildrensmuseum.ca/event/steam-take-flight) |
 |  | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
+|  | 13:00 | [CMus](/about#CMus) | [OUTREACH: Ward 12 Community Day](https://www.londonchildrensmuseum.ca/event/outreach-ward-12-community-day) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Take Flight!](https://www.londonchildrensmuseum.ca/event/steam-take-flight) |
 |  | 20:00 | [Aeol](/about#Aeol) | [AJAMAF 2024: Holly Cole – Dark Moon Tour				](https://aeolianhall.ca/events/ajamaf-2024-holly-cole-dark-moon-tour/) |
 | Sun Jun 16 | 11:00 | [CMus](/about#CMus) | [STEAM: Take Flight!](https://www.londonchildrensmuseum.ca/event/steam-take-flight) |
@@ -253,7 +252,7 @@ View only a category:
 | Sun Jul 07 | 14:00 | [LMH](/about#LMH) | [Punch Out MS](http://londonmusichall.com/events/punch-out-ms/) |
 | Mon Jul 08 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: STEAMpunks Futuristic Fabricators](https://museumlondon.ca/programs-events/event/11418/) |
 |  | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
-| Mon Jul 15 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Enchanted Realms and Mythical Creatures](https://museumlondon.ca/programs-events/event/11419/) |
+| Mon Jul 15 | 09:00 | [Museum](/about#Museum) | [*SOLD OUT* ML Kids Summer Camp: Enchanted Realms and Mythical Creatures](https://museumlondon.ca/programs-events/event/11419/) |
 |  | 09:00 | [CMus](/about#CMus) | [Tween Summer Day Camp](https://www.londonchildrensmuseum.ca/event/tween-summer-day-camp) |
 |  | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
 | Mon Jul 22 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Bug Out!](https://museumlondon.ca/programs-events/event/11420/) |
@@ -271,6 +270,7 @@ View only a category:
 | Sat Aug 17 | 19:00 | [LMH](/about#LMH) | [The Michael Jackson History Show](http://londonmusichall.com/events/the-michael-jackson-history-show/) |
 | Mon Aug 19 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Weaving Wonders and Fiber Fun](https://museumlondon.ca/programs-events/event/11424/) |
 |  | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
+|  | 09:00 | [CMus](/about#CMus) | [Tween Summer Day Camp](https://www.londonchildrensmuseum.ca/event/tween-summer-day-camp) |
 | Mon Aug 26 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Heroes and Villains](https://museumlondon.ca/programs-events/event/11425/) |
 | Sat Sep 14 | 19:00 | [LMH](/about#LMH) | [Marcus King – Mood Swings The World Tour](http://londonmusichall.com/events/marcus-king-mood-swings-the-world-tour/) |
 | Tue Sep 17 |  | [Grand](/about#Grand) | [Matilda The Musical](https://www.grandtheatre.com/event/matilda-musical) |

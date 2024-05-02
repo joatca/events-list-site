@@ -1,6 +1,6 @@
 ---
 title: "Events - entertainment"
-date: 2024-05-01T00:00:43-04:00
+date: 2024-05-02T00:00:39-04:00
 draft: false
 ---
 
@@ -9,11 +9,10 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Wed) |  | [Grand](/about#Grand) | [Million Dollar Quartet](https://www.grandtheatre.com/event/million-dollar-quartet) |
-|  | 12:00 | [FMus](/about#FMus) | [Doctoral Recital - C Teican, collaborative piano - NEW DATE](http://www.events.westernu.ca/events/music/2024-04/student-recital-catalin-teican.html) |
-| Tomorrow (Thu) | 10:00 | [FMus](/about#FMus) | [Research Forum in Music: Ryan Baxter, DMA Solo Piano](http://www.events.westernu.ca/events/music/2024-05/research-forum-in-music-ryan-baxter.html) |
+| Today (Thu) |  | [Grand](/about#Grand) | [Million Dollar Quartet](https://www.grandtheatre.com/event/million-dollar-quartet) |
+|  | 10:00 | [FMus](/about#FMus) | [Research Forum in Music: Ryan Baxter, DMA Solo Piano](http://www.events.westernu.ca/events/music/2024-05/research-forum-in-music-ryan-baxter.html) |
 |  | 19:00 | [LMH](/about#LMH) | [Pouya](http://londonmusichall.com/events/pouya/) |
-| Fri May 03 |  | [BudG](/about#BudG) | [London Knights Playoffs - Round 3 Home Game 3](https://www.budweisergardens.com/events/detail/knights-playoffs-r3g2-1) |
+| Tomorrow (Fri) |  | [BudG](/about#BudG) | [London Knights Playoffs - Round 3 Home Game 3](https://www.budweisergardens.com/events/detail/knights-playoffs-r3g2-1) |
 |  | 18:00 | [LMH](/about#LMH) | [Dying Fetus](http://londonmusichall.com/events/dying-fetus-2/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Tommy Youngsteen – Fleetwood Mac “Rumours”				](https://aeolianhall.ca/events/tommy-youngsteen-fleetwood-mac-rumours/) |
 | Sat May 04 |  | [BudG](/about#BudG) | [London Lightning Playoffs - Round 1 Home Game 1](https://www.budweisergardens.com/events/detail/london-lightning-playoffs-r1g1) |
@@ -56,7 +55,7 @@ View only a category:
 |  | 19:30 | [Aeol](/about#Aeol) | [Good Lovelies – We Will Never Be The Same Tour				](https://aeolianhall.ca/events/good-lovelies-we-will-never-be-the-same-tour/) |
 | Fri May 24 | 20:00 | [LMH](/about#LMH) | [Wing Night: The Band](http://londonmusichall.com/events/wing-night-the-band-6/) |
 | Sat May 25 | 12:00 | [Aeol](/about#Aeol) | [TEDx Dundas Place Youth: Harmony				](https://aeolianhall.ca/events/tedx-dundas-place-youth-harmony/) |
-|  | 12:00 | [Museum](/about#Museum) | [Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10912/) |
+|  | 12:00 | [Museum](/about#Museum) | [*SOLD OUT* Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10912/) |
 | Sun May 26 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Whimsical Watercolour Resist](https://museumlondon.ca/programs-events/event/11011/2024/05/26) |
 |  | 19:00 | [LMH](/about#LMH) | [CHRIS WEBBY – THE LAST WEDNESDAY TOUR PART 2](http://londonmusichall.com/events/the-last-wednesday-tour-part-2/) |
 | Tue May 28 |  | [Grand](/about#Grand) | [Bruce Cockburn](https://www.grandtheatre.com/event/bruce-cockburn) |
@@ -86,7 +85,7 @@ View only a category:
 | Thu Jul 04 | 18:00 | [LMH](/about#LMH) | [NORTHLANE – Mirror’s Edge Tour](http://londonmusichall.com/events/northlane-mirrors-edge-tour/) |
 | Sun Jul 07 | 14:00 | [LMH](/about#LMH) | [Punch Out MS](http://londonmusichall.com/events/punch-out-ms/) |
 | Mon Jul 08 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: STEAMpunks Futuristic Fabricators](https://museumlondon.ca/programs-events/event/11418/) |
-| Mon Jul 15 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Enchanted Realms and Mythical Creatures](https://museumlondon.ca/programs-events/event/11419/) |
+| Mon Jul 15 | 09:00 | [Museum](/about#Museum) | [*SOLD OUT* ML Kids Summer Camp: Enchanted Realms and Mythical Creatures](https://museumlondon.ca/programs-events/event/11419/) |
 | Mon Jul 22 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Bug Out!](https://museumlondon.ca/programs-events/event/11420/) |
 | Sat Jul 27 | 21:00 | [LMH](/about#LMH) | [Thunder from Down Under – Untamed 2024 Tour](http://londonmusichall.com/events/thunder-from-down-under-untamed-2024-tour/) |
 | Mon Jul 29 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Press Play](https://museumlondon.ca/programs-events/event/11421/) |
