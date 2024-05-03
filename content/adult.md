@@ -1,6 +1,6 @@
 ---
 title: "Events - adult"
-date: 2024-05-02T00:00:39-04:00
+date: 2024-05-03T00:00:40-04:00
 draft: false
 ---
 
@@ -9,29 +9,24 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Thu) |  | [Grand](/about#Grand) | [Million Dollar Quartet](https://www.grandtheatre.com/event/million-dollar-quartet) |
-|  |  | [Tour](/about#Tour) | [Live from the Underground](https://www.londontourism.ca/events/live-from-the-underground) |
-|  |  | [Tour](/about#Tour) | [Shock Stock 2024](https://www.londontourism.ca/events/shock-stock-2024) |
-|  |  | [RBCP](/about#RBCP) | [2024 CUBA Annual Conference and Professional Development Day](https://www.rbcplacelondon.com/events/2024-cuba-annual-conference-and-professional-development-day-may-2-4) |
-|  | 10:00 | [FMus](/about#FMus) | [Research Forum in Music: Ryan Baxter, DMA Solo Piano](http://www.events.westernu.ca/events/music/2024-05/research-forum-in-music-ryan-baxter.html) |
-|  | 13:30 | [City](/about#City) | [Committee of Adjustment - May 02, 2024](https://london.ca/government/calendar/committee-adjustment-may-02-2024) |
-|  | 17:30 | [Maker](/about#Maker) | [Flower pressing](https://www.hellomaker.ca/events/flowerpressingworkshop) |
-|  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-05-02) |
-|  | 19:00 | [LMH](/about#LMH) | [Pouya](http://londonmusichall.com/events/pouya/) |
-|  | 19:30 | [Maker](/about#Maker) | [Floral Resin Jewlery ](https://www.hellomaker.ca/events/waxmeltworkshop-d3wr2-rt83p-tghwl-y5h35-nx3xn-w3l69) |
-| Tomorrow (Fri) |  | [BudG](/about#BudG) | [London Knights Playoffs - Round 3 Home Game 3](https://www.budweisergardens.com/events/detail/knights-playoffs-r3g2-1) |
+| Today (Fri) |  | [BudG](/about#BudG) | [London Knights Playoffs - Round 3 Home Game 3](https://www.budweisergardens.com/events/detail/knights-playoffs-r3g2-1) |
+|  |  | [Grand](/about#Grand) | [Million Dollar Quartet](https://www.grandtheatre.com/event/million-dollar-quartet) |
 |  |  | [Tour](/about#Tour) | [Unscripted: The Film Series with Joe Haidar and Rob McCallum](https://www.londontourism.ca/events/unscripted-the-film-series-with-joe-haidar-and-rob-mccallum) |
 |  |  | [Tour](/about#Tour) | [Street Salsa Fridays at Market Lane](https://www.londontourism.ca/events/street-salsa-fridays-at-market-lane) |
+|  |  | [Tour](/about#Tour) | [Shock Stock 2024](https://www.londontourism.ca/events/shock-stock-2024) |
+|  |  | [Maker](/about#Maker) | [Flower pressing](https://www.hellomaker.ca/events/flowerpressingworkshop) |
+|  |  | [Maker](/about#Maker) | [Floral Resin Jewlery ](https://www.hellomaker.ca/events/waxmeltworkshop-d3wr2-rt83p-tghwl-y5h35-nx3xn-w3l69) |
 |  | 16:30 | [Info](/about#Info) | [Diabetes Fit ](https://www.informationlondon.ca/Event/Detail/50154/Diabetes_Fit_?date=2024-05-03) |
 |  | 18:00 | [LMH](/about#LMH) | [Dying Fetus](http://londonmusichall.com/events/dying-fetus-2/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Tommy Youngsteen – Fleetwood Mac “Rumours”				](https://aeolianhall.ca/events/tommy-youngsteen-fleetwood-mac-rumours/) |
-| Sat May 04 |  | [BudG](/about#BudG) | [London Lightning Playoffs - Round 1 Home Game 1](https://www.budweisergardens.com/events/detail/london-lightning-playoffs-r1g1) |
+| Tomorrow (Sat) |  | [BudG](/about#BudG) | [London Lightning Playoffs - Round 1 Home Game 1](https://www.budweisergardens.com/events/detail/london-lightning-playoffs-r1g1) |
 |  |  | [Tour](/about#Tour) | [Kentucky Derby Day & Racing Rendezvous!](https://www.londontourism.ca/events/kentucky-derby-day-and-racing-rendezvous) |
 |  |  | [Tour](/about#Tour) | [Go Wild Grow Wild Green Expo](https://www.londontourism.ca/events/go-wild-grow-wild-green-expo) |
 |  |  | [Tour](/about#Tour) | [Live Mural Painting & Single Release Show \| Corduroy Colab at XUUX](https://www.londontourism.ca/events/live-mural-painting-and-single-release-show-corduroy-colab-at-xuux) |
 |  |  | [Tour](/about#Tour) | [Do it for Her - Botanical & Artisan Expo](https://www.londontourism.ca/events/do-it-for-her-botanical-and-artisan-expo) |
-|  |  | [Tour](/about#Tour) | [Battle of Longwoods](https://www.londontourism.ca/events/battle-of-longwoods) |
-|  |  | [Tour](/about#Tour) | [For Mom, For Women: A Mother’s Day Meal Supporting Women in London](https://www.londontourism.ca/events/all-events/page/2) |
+|  |  | [Tour](/about#Tour) | [London Symphonia: An Elegant Fire](https://www.londontourism.ca/events/london-symphonia-an-elegant-fire) |
+|  |  | [Tour](/about#Tour) | [RCAF 100th Anniversary](https://www.londontourism.ca/events/rcaf-100th-anniversary) |
+|  |  | [Tour](/about#Tour) | [Karen Schuessler Singers presents Secrets of Old South](https://www.londontourism.ca/events/karen-schuessler-singers-presents-secrets-of-old-south) |
 |  |  | [PSFTOff](/about#PSFTOff) | [The Music Man JR.](https://psft.ca/event/the-music-man-jr/) |
 |  | 08:00 | [CGM](/about#CGM) | [Outdoor Farmers Market](https://coventmarket.com/event/outdoor-farmers-market-2-2-2-2-2/) |
 |  | 10:00 | [CGM](/about#CGM) | [Polish Heritage Month](https://coventmarket.com/event/polish-heritage-month/) |
@@ -59,7 +54,6 @@ View only a category:
 | Tue May 07 |  | [BudG](/about#BudG) | [Ice Cube](https://www.budweisergardens.com/events/detail/ice-cube) |
 |  |  | [Tour](/about#Tour) | [Ice Cube: Straight Into Canada Tour](https://www.londontourism.ca/events/ice-cube-straight-into-canada-tour) |
 |  |  | [Tour](/about#Tour) | [LMRG Monthly Open House - May 7](https://www.londontourism.ca/events/lmrg-monthly-open-house-may-7) |
-|  |  | [RBCP](/about#RBCP) | [St. Joseph's Healthcare Foundation Breakfast of Champions](https://www.rbcplacelondon.com/events/st-josephs-healthcare-foundation-breakfast-champions-may-7) |
 |  | 13:00 | [Info](/about#Info) | [The Art and Science of Survey Design  2024](https://www.informationlondon.ca/Event/Detail/49241/The_Art_and_Science_of_Survey_Design_2024?date=2024-05-07) |
 |  | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - May 07, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-may-07-2024) |
 |  | 15:00 | [Maker](/about#Maker) | [Open Studio](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-pal4b) |
@@ -67,10 +61,10 @@ View only a category:
 |  | 19:30 | [Maker](/about#Maker) | [Collage Art Notebook ](https://www.hellomaker.ca/events/irqu905qi77vqjbol00gy0uc19ja68-gns73-fhhpr-najh8-yc3gg-6bcww-pjpfr-nfd4a-xy52p-b6wsn-le4b7-kxxh7) |
 |  | 20:00 | [Aeol](/about#Aeol) | [The Once				](https://aeolianhall.ca/events/the-once-3/) |
 | Wed May 08 |  | [BudG](/about#BudG) | [London Lightning Playoffs - Round 1 Home Game 2](https://www.budweisergardens.com/events/detail/lightning-possible-playoffs-r1g2) |
-|  |  | [RBCP](/about#RBCP) | [29th Annual Manufacturers' Scholarship Awards & Recognition Night](https://www.rbcplacelondon.com/events/29th-annual-manufacturers-scholarship-awards-recognition-night-may-8) |
+|  |  | [Tour](/about#Tour) | [Small Press Spotlight with RAID Press](https://www.londontourism.ca/events/small-press-spotlight-with-raid-press) |
+|  |  | [Tour](/about#Tour) | [Disney's Beauty and the Beast – Drama Production](https://www.londontourism.ca/events/disneys-beauty-and-the-beast-drama-production) |
 |  | 17:00 | [Museum](/about#Museum) | [Annual General Meeting](https://museumlondon.ca/programs-events/event/11539/) |
-| Thu May 09 |  | [Tour](/about#Tour) | [Kathy Griffin: My Life On The PTSD List](https://www.londontourism.ca/events/kathy-griffin-my-life-on-the-ptsd-list) |
-|  | 09:00 | [LMH](/about#LMH) | [City of Music Conference](http://londonmusichall.com/events/city-of-music-conference/) |
+| Thu May 09 | 09:00 | [LMH](/about#LMH) | [City of Music Conference](http://londonmusichall.com/events/city-of-music-conference/) |
 |  | 13:30 | [City](/about#City) | [Committee of Adjustment  - May 09, 2024](https://london.ca/government/calendar/committee-adjustment-may-09-2024) |
 |  | 17:30 | [Maker](/about#Maker) | [Candle Making Workshop ](https://www.hellomaker.ca/events/candleworkshop-8rmrf-s93a6-fzeyt-jaxrs-7w7k8) |
 |  | 18:00 | [LMH](/about#LMH) | [Cowboy Junkies Acoustic Trio](http://londonmusichall.com/events/london-city-of-music-expo/) |
@@ -80,7 +74,12 @@ View only a category:
 | Fri May 10 | 16:30 | [Info](/about#Info) | [Diabetes Fit ](https://www.informationlondon.ca/Event/Detail/50154/Diabetes_Fit_?date=2024-05-10) |
 |  | 19:00 | [LMH](/about#LMH) | [Bologna Colorado](http://londonmusichall.com/events/bologna-colorado/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Daniel Champagne				](https://aeolianhall.ca/events/daniel-champagne-3/) |
-| Sat May 11 |  | [RBCP](/about#RBCP) | [London Pickle Fiesta](https://www.rbcplacelondon.com/events/london-pickle-fiesta-may-11) |
+| Sat May 11 |  | [Tour](/about#Tour) | [GLBS presents Shawn Kellerman wsg Lowdown Dirty MOJOs](https://www.londontourism.ca/events/glbs-presents-shawn-kellerman-wsg-lowdown-dirty-mojos) |
+|  |  | [Tour](/about#Tour) | [Said the Leaf with Children’s Book Illustrator Matt James](https://www.londontourism.ca/events/all-events/page/3) |
+|  |  | [Tour](/about#Tour) | [Tantric Dreams - Episode I : A Burlesque Fantasy](https://www.londontourism.ca/events/tantric-dreams-episode-i-a-burlesque-fantasy) |
+|  |  | [Tour](/about#Tour) | [Blooms & Beats Spring Gala](https://www.londontourism.ca/events/blooms-and-beats-spring-gala) |
+|  |  | [Tour](/about#Tour) | [Summer Songs](https://www.londontourism.ca/events/summer-songs) |
+|  |  | [Tour](/about#Tour) | [Science Rendezvous](https://www.londontourism.ca/events/science-rendezvous) |
 |  | 08:00 | [CGM](/about#CGM) | [Outdoor Farmers Market](https://coventmarket.com/event/outdoor-farmers-market-2-2-2-2-2-2/) |
 |  | 09:00 | [City](/about#City) | [Emergency Preparedness Open House - May 11, 2024](https://london.ca/government/calendar/emergency-preparedness-open-house-may-11-2024-0) |
 |  | 11:00 | [CGM](/about#CGM) | [Kids Craft Corner](https://coventmarket.com/event/kids-craft-corner-3/) |
@@ -131,8 +130,7 @@ View only a category:
 |  | 15:00 | [Maker](/about#Maker) | [Open Studio](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-5dtj8) |
 |  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-05-21) |
 |  | 20:00 | [FMus](/about#FMus) | [Doctoral Recital - Xinyao (Sylvie) Luo, voice](http://www.events.westernu.ca/events/music/2024-05/student-recital-xinyao-luo.html) |
-| Wed May 22 |  | [RBCP](/about#RBCP) | [LHSF Donor of Distinction Societies President's Dinner](https://www.rbcplacelondon.com/events/lhsf-donor-distinction-societies-presidents-dinner-may-22) |
-|  | 09:30 | [City](/about#City) | [Civic Works Committee - May 22, 2024](https://london.ca/government/calendar/civic-works-committee-may-22-2024) |
+| Wed May 22 | 09:30 | [City](/about#City) | [Civic Works Committee - May 22, 2024](https://london.ca/government/calendar/civic-works-committee-may-22-2024) |
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - May 22, 2024](https://london.ca/government/calendar/planning-environment-committee-may-22-2024) |
 |  | 18:00 | [CGM](/about#CGM) | [Tarot Flows](https://coventmarket.com/event/tarot-flows-with-lily/) |
 | Thu May 23 | 18:00 | [LMH](/about#LMH) | [Sentiment Dissolve – ‘The Orwellian Dream’ Release Party](http://londonmusichall.com/events/sentiment-dissolve-the-orwellian-dream-release-party/) |
@@ -142,6 +140,7 @@ View only a category:
 | Fri May 24 | 16:30 | [Info](/about#Info) | [Diabetes Fit ](https://www.informationlondon.ca/Event/Detail/50154/Diabetes_Fit_?date=2024-05-24) |
 |  | 20:00 | [LMH](/about#LMH) | [Wing Night: The Band](http://londonmusichall.com/events/wing-night-the-band-6/) |
 | Sat May 25 | 08:00 | [CGM](/about#CGM) | [Outdoor Farmers Market](https://coventmarket.com/event/outdoor-farmers-market-2-2-2-2/) |
+|  | 09:00 | [City](/about#City) | [Touch a Truck event celebrating National Public Works Week - May 25, 2024](https://london.ca/government/calendar/touch-truck-event-celebrating-national-public-works-week-may-25-2024) |
 |  | 10:00 | [CGM](/about#CGM) | [Polish Heritage Month](https://coventmarket.com/event/polish-heritage-month-3/) |
 |  | 10:00 | [City](/about#City) | [Rescue Rendezvous - Cat Adoption Event - May 25, 2024](https://london.ca/government/calendar/rescue-rendezvous-cat-adoption-event-may-25-2024) |
 |  | 11:00 | [CGM](/about#CGM) | [Soca Dance Fitness Class](https://coventmarket.com/event/soca-dance-fitness-class-6-3/) |
@@ -155,7 +154,6 @@ View only a category:
 |  | 14:30 | [Info](/about#Info) | [Mindful Mondays (Young Adults)](https://www.informationlondon.ca/Event/Detail/50260/Mindful_Mondays_Young_Adults?date=2024-05-27) |
 |  | 16:00 | [Maker](/about#Maker) | [Mini Makers (Age 3-6) May Session: Celebrate Spring!](https://www.hellomaker.ca/events/minimakersmay-bnp4f-w94d2-9addp) |
 | Tue May 28 |  | [Grand](/about#Grand) | [Bruce Cockburn](https://www.grandtheatre.com/event/bruce-cockburn) |
-|  |  | [RBCP](/about#RBCP) | [Schulich Medicine & Dentistry Awards of Excellence Dinner](https://www.rbcplacelondon.com/events/schulich-medicine-dentistry-awards-excellence-dinner-may-28) |
 |  | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - May 28, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-may-28-2024) |
 |  | 15:00 | [Maker](/about#Maker) | [Open Studio](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-cheb9) |
 |  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-05-28) |
@@ -283,3 +281,4 @@ View only a category:
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - October 22, 2024](https://london.ca/government/calendar/planning-environment-committee-october-22-2024) |
 | Fri Oct 25 | 20:00 | [Aeol](/about#Aeol) | [Ben Caplan Presents Hold On!				](https://aeolianhall.ca/events/ben-caplan-presents-hold-on/) |
 | Mon Oct 28 | 13:00 | [City](/about#City) | [Corporate Services Committee - October 28, 2024](https://london.ca/government/calendar/corporate-services-committee-october-28-2024) |
+| Tue Oct 29 | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - October 29, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-october-29-2024) |

@@ -1,6 +1,6 @@
 ---
 title: "Events - entertainment"
-date: 2024-05-02T00:00:39-04:00
+date: 2024-05-03T00:00:40-04:00
 draft: false
 ---
 
@@ -9,13 +9,11 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Thu) |  | [Grand](/about#Grand) | [Million Dollar Quartet](https://www.grandtheatre.com/event/million-dollar-quartet) |
-|  | 10:00 | [FMus](/about#FMus) | [Research Forum in Music: Ryan Baxter, DMA Solo Piano](http://www.events.westernu.ca/events/music/2024-05/research-forum-in-music-ryan-baxter.html) |
-|  | 19:00 | [LMH](/about#LMH) | [Pouya](http://londonmusichall.com/events/pouya/) |
-| Tomorrow (Fri) |  | [BudG](/about#BudG) | [London Knights Playoffs - Round 3 Home Game 3](https://www.budweisergardens.com/events/detail/knights-playoffs-r3g2-1) |
+| Today (Fri) |  | [BudG](/about#BudG) | [London Knights Playoffs - Round 3 Home Game 3](https://www.budweisergardens.com/events/detail/knights-playoffs-r3g2-1) |
+|  |  | [Grand](/about#Grand) | [Million Dollar Quartet](https://www.grandtheatre.com/event/million-dollar-quartet) |
 |  | 18:00 | [LMH](/about#LMH) | [Dying Fetus](http://londonmusichall.com/events/dying-fetus-2/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Tommy Youngsteen – Fleetwood Mac “Rumours”				](https://aeolianhall.ca/events/tommy-youngsteen-fleetwood-mac-rumours/) |
-| Sat May 04 |  | [BudG](/about#BudG) | [London Lightning Playoffs - Round 1 Home Game 1](https://www.budweisergardens.com/events/detail/london-lightning-playoffs-r1g1) |
+| Tomorrow (Sat) |  | [BudG](/about#BudG) | [London Lightning Playoffs - Round 1 Home Game 1](https://www.budweisergardens.com/events/detail/london-lightning-playoffs-r1g1) |
 |  | 18:30 | [Museum](/about#Museum) | [UPwithART](https://museumlondon.ca/programs-events/event/11529/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Grace, 2 – Celebrating The Tragically Hip				](https://aeolianhall.ca/events/grace-2-celebrating-the-tragically-hip/) |
 |  | 22:00 | [LMH](/about#LMH) | [All systems glow @ System Saturday](http://londonmusichall.com/events/all-systems-glow-system-saturday/) |
