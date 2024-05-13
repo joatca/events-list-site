@@ -1,6 +1,6 @@
 ---
 title: "Events - downtown"
-date: 2024-05-12T00:00:48-04:00
+date: 2024-05-13T00:00:26-04:00
 draft: false
 ---
 
@@ -9,16 +9,8 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Sun) |  | [Eldon](/about#Eldon) | [Mother’s Day Botanical Market](https://eldonhouse.ca/product/mothers-day-botanical-market/) |
-|  | 11:00 | [CGM](/about#CGM) | [Kids Craft Corner](https://coventmarket.com/event/kids-craft-corner-4/) |
-|  | 11:00 | [CMus](/about#CMus) | [STEAM: Sun Catchers](https://www.londonchildrensmuseum.ca/event/steam-sun-catchers) |
-|  | 12:00 | [CGM](/about#CGM) | [Beginner Bonsai Workshop](https://coventmarket.com/event/beginner-bonsai-workshop-3/) |
-|  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Whimsical Watercolour Resist](https://museumlondon.ca/programs-events/event/11011/2024/05/12) |
-|  | 13:00 | [Museum](/about#Museum) | [Blossoms: A Mother’s Day Showcase at Shop Museum London](https://museumlondon.ca/programs-events/event/11565/) |
-|  | 14:30 | [CMus](/about#CMus) | [STEAM: Sun Catchers](https://www.londonchildrensmuseum.ca/event/steam-sun-catchers) |
-|  | 15:00 | [Aeol](/about#Aeol) | [APC: Lean on Me – Songs of Community				](https://aeolianhall.ca/events/apc-lean-on-me-songs-of-community/) |
-| Tomorrow (Mon) | 14:30 | [Info](/about#Info) | [Mindful Mondays (Young Adults)](https://www.informationlondon.ca/Event/Detail/50260/Mindful_Mondays_Young_Adults?date=2024-05-13) |
-| Tue May 14 | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
+| Today (Mon) | 14:30 | [Info](/about#Info) | [Mindful Mondays (Young Adults)](https://www.informationlondon.ca/Event/Detail/50260/Mindful_Mondays_Young_Adults?date=2024-05-13) |
+| Tomorrow (Tue) | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
 |  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-05-14) |
 | Wed May 15 | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
 |  | 18:00 | [CGM](/about#CGM) | [Tarot Flows](https://coventmarket.com/event/tarot-flows/) |
@@ -110,7 +102,7 @@ View only a category:
 |  | 18:00 | [CMus](/about#CMus) | [STEAM: Pompom Launcher](https://www.londonchildrensmuseum.ca/event/steam-pompom-launcher) |
 |  | 22:00 | [LMH](/about#LMH) | [EMO NIGHT: LONDON](http://londonmusichall.com/events/emo-night-london-15/) |
 | Sat Jun 01 |  | [BudG](/about#BudG) | [Professional Bull Riders](https://www.budweisergardens.com/events/detail/professional-bull-riders-4) |
-|  | 08:00 | [CGM](/about#CGM) | [Outdoor Farmers Market](https://coventmarket.com/event/outdoor-farmers-market-2-2-2-2-3-2/) |
+|  | 08:00 | [CGM](/about#CGM) | [Outdoor Farmers Market](https://coventmarket.com/event/outdoor-farmers-market-2-2-2-2-3-3/) |
 |  | 10:00 | [CMus](/about#CMus) | [OUTREACH: Gathering on the Green](https://www.londonchildrensmuseum.ca/event/outreach-gathering-green) |
 |  | 11:00 | [CGM](/about#CGM) | [The Re-Wear Mrkt](https://coventmarket.com/event/the-re-wear-mrkt/) |
 |  | 11:00 | [CGM](/about#CGM) | [Soca Dance Fitness Class](https://coventmarket.com/event/soca-dance-fitness-class-6-4/) |
@@ -118,7 +110,6 @@ View only a category:
 |  | 13:00 | [CGM](/about#CGM) | [Krazy Kool Kanvas Keychain Workshop](https://coventmarket.com/event/krazy-kool-kanvas-keychain-workshop/) |
 |  | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Pompom Launcher](https://www.londonchildrensmuseum.ca/event/steam-pompom-launcher) |
-|  | 15:00 | [CGM](/about#CGM) | [The Mom Market](https://coventmarket.com/event/the-mom-market-8/) |
 |  | 19:00 | [LMH](/about#LMH) | [Death to All (Gene Hoglan, Steve DiGiorgio, Bobby Koelble, Max Phelps)](http://londonmusichall.com/events/death-to-all/) |
 |  | 22:00 | [LMH](/about#LMH) | [Clomp and Friends @ System Saturdays](http://londonmusichall.com/events/clomp-and-friends-system-saturdays/) |
 | Sun Jun 02 | 11:00 | [CMus](/about#CMus) | [STEAM: Pompom Launcher](https://www.londonchildrensmuseum.ca/event/steam-pompom-launcher) |

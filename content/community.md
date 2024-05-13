@@ -1,6 +1,6 @@
 ---
 title: "Events - community"
-date: 2024-05-12T00:00:48-04:00
+date: 2024-05-13T00:00:26-04:00
 draft: false
 ---
 
@@ -9,12 +9,11 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Sun) |  | [Eldon](/about#Eldon) | [Mother’s Day Botanical Market](https://eldonhouse.ca/product/mothers-day-botanical-market/) |
-| Tomorrow (Mon) | 10:00 | [City](/about#City) | [Governance Working Group - May 13, 2024](https://london.ca/government/calendar/governance-working-group-may-13-2024) |
+| Today (Mon) | 10:00 | [City](/about#City) | [Governance Working Group - May 13, 2024](https://london.ca/government/calendar/governance-working-group-may-13-2024) |
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - CANCELLED - May 13, 2024](https://london.ca/government/calendar/planning-environment-committee-cancelled-may-13-2024) |
 |  | 14:30 | [Info](/about#Info) | [Mindful Mondays (Young Adults)](https://www.informationlondon.ca/Event/Detail/50260/Mindful_Mondays_Young_Adults?date=2024-05-13) |
 |  | 16:00 | [Maker](/about#Maker) | [Mini Makers (Age 3-6) May Session: Celebrate Spring! ](https://www.hellomaker.ca/events/minimakersmay-bnp4f) |
-| Tue May 14 | 13:00 | [City](/about#City) | [Council - May 14, 2024](https://london.ca/government/calendar/council-may-14-2024) |
+| Tomorrow (Tue) | 13:00 | [City](/about#City) | [Council - May 14, 2024](https://london.ca/government/calendar/council-may-14-2024) |
 |  | 15:00 | [Maker](/about#Maker) | [Open Studio ](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-f7yyg) |
 |  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-05-14) |
 | Thu May 16 | 12:00 | [Maker](/about#Maker) | [Flower pressing ](https://www.hellomaker.ca/events/flowerpressingworkshop-s537b) |

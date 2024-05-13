@@ -1,6 +1,6 @@
 ---
 title: "Events - kids"
-date: 2024-05-12T00:00:48-04:00
+date: 2024-05-13T00:00:26-04:00
 draft: false
 ---
 
@@ -9,9 +9,7 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Sun) | 11:00 | [CMus](/about#CMus) | [STEAM: Sun Catchers](https://www.londonchildrensmuseum.ca/event/steam-sun-catchers) |
-|  | 14:30 | [CMus](/about#CMus) | [STEAM: Sun Catchers](https://www.londonchildrensmuseum.ca/event/steam-sun-catchers) |
-| Tue May 14 | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
+| Tomorrow (Tue) | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
 | Wed May 15 | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
 | Thu May 16 | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
 |  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |

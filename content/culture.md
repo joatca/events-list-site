@@ -1,6 +1,6 @@
 ---
 title: "Events - culture"
-date: 2024-05-12T00:00:48-04:00
+date: 2024-05-13T00:00:26-04:00
 draft: false
 ---
 
@@ -9,8 +9,6 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Sun) | 13:00 | [Museum](/about#Museum) | [Imagination Station: Whimsical Watercolour Resist](https://museumlondon.ca/programs-events/event/11011/2024/05/12) |
-|  | 13:00 | [Museum](/about#Museum) | [Blossoms: A Mother’s Day Showcase at Shop Museum London](https://museumlondon.ca/programs-events/event/11565/) |
 | Sun May 19 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Whimsical Watercolour Resist](https://museumlondon.ca/programs-events/event/11011/2024/05/19) |
 | Tue May 21 |  | [PSFT](/about#PSFT) | [The Beaver Club](https://psft.ca/event/the-beaver-club/) |
 | Sat May 25 | 12:00 | [Museum](/about#Museum) | [*SOLD OUT* Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10912/) |

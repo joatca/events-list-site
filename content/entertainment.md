@@ -1,6 +1,6 @@
 ---
 title: "Events - entertainment"
-date: 2024-05-12T00:00:48-04:00
+date: 2024-05-13T00:00:26-04:00
 draft: false
 ---
 
@@ -9,9 +9,6 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Sun) | 13:00 | [Museum](/about#Museum) | [Imagination Station: Whimsical Watercolour Resist](https://museumlondon.ca/programs-events/event/11011/2024/05/12) |
-|  | 13:00 | [Museum](/about#Museum) | [Blossoms: A Mother’s Day Showcase at Shop Museum London](https://museumlondon.ca/programs-events/event/11565/) |
-|  | 15:00 | [Aeol](/about#Aeol) | [APC: Lean on Me – Songs of Community				](https://aeolianhall.ca/events/apc-lean-on-me-songs-of-community/) |
 | Wed May 15 | 18:00 | [FMus](/about#FMus) | [Doctoral Recital - Junmeng (Autumn) Zhao, voice - NEW DATE](http://www.events.westernu.ca/events/music/2024-05/student-recital-autumn-zhao.html) |
 |  | 19:30 | [Aeol](/about#Aeol) | [The Songs of Peter Gabriel and Sting				](https://aeolianhall.ca/events/the-songs-of-peter-gabriel-and-sting/) |
 | Thu May 16 |  | [BudG](/about#BudG) | [Cole Swindell](https://www.budweisergardens.com/events/detail/cole-swindell) |
