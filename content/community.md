@@ -1,6 +1,6 @@
 ---
 title: "Events - community"
-date: 2024-05-15T00:00:32-04:00
+date: 2024-05-16T00:00:25-04:00
 draft: false
 ---
 
@@ -9,12 +9,11 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Wed) |  | [Maker](/about#Maker) | [Open Studio ](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-f7yyg) |
-| Tomorrow (Thu) | 12:00 | [Maker](/about#Maker) | [Flower pressing ](https://www.hellomaker.ca/events/flowerpressingworkshop-s537b) |
+| Today (Thu) | 12:00 | [Maker](/about#Maker) | [Flower pressing ](https://www.hellomaker.ca/events/flowerpressingworkshop-s537b) |
 |  | 13:30 | [City](/about#City) | [Committee of Adjustment - May 16, 2024](https://london.ca/government/calendar/committee-adjustment-may-16-2024) |
 |  | 17:30 | [Maker](/about#Maker) | [Floral Resin Jewlery](https://www.hellomaker.ca/events/waxmeltworkshop-d3wr2-rt83p-tghwl-y5h35-nx3xn-w3l69-cdca5) |
 |  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-05-16) |
-| Fri May 17 | 16:30 | [Info](/about#Info) | [Diabetes Fit ](https://www.informationlondon.ca/Event/Detail/50154/Diabetes_Fit_?date=2024-05-17) |
+| Tomorrow (Fri) | 16:30 | [Info](/about#Info) | [Diabetes Fit ](https://www.informationlondon.ca/Event/Detail/50154/Diabetes_Fit_?date=2024-05-17) |
 | Mon May 20 |  | [Eldon](/about#Eldon) | [Victoria Day at Fanshawe Pioneer Village](https://eldonhouse.ca/product/victoria-day-at-fanshawe-pioneer-village-2/) |
 |  | 12:00 | [City](/about#City) | [Free Victoria recreation activities - May 20, 2024](https://london.ca/government/calendar/free-victoria-recreation-activities-may-20-2024) |
 |  | 14:30 | [Info](/about#Info) | [Mindful Mondays (Young Adults)](https://www.informationlondon.ca/Event/Detail/50260/Mindful_Mondays_Young_Adults?date=2024-05-20) |
@@ -50,6 +49,7 @@ View only a category:
 | Tue Jun 04 |  | [PSFT](/about#PSFT) | [Funny Valentine A Michael Buble Tribute](https://psft.ca/event/funny-valentine-a-michael-buble-tribute/) |
 |  | 13:00 | [City](/about#City) | [Council - June 04, 2024](https://london.ca/government/calendar/council-june-04-2024) |
 |  | 15:00 | [Maker](/about#Maker) | [Open Studio](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-xkyks) |
+| Thu Jun 06 | 13:30 | [City](/about#City) | [Committee of Adjustment - June 06, 2024](https://london.ca/government/calendar/committee-adjustment-june-06-2024) |
 | Fri Jun 07 | 16:30 | [Info](/about#Info) | [Diabetes Fit ](https://www.informationlondon.ca/Event/Detail/50154/Diabetes_Fit_?date=2024-06-07) |
 | Mon Jun 10 | 13:00 | [City](/about#City) | [Community and Protective Services Committee - June 10, 2024](https://london.ca/government/calendar/community-protective-services-committee-june-10-2024) |
 | Tue Jun 11 | 09:30 | [City](/about#City) | [Civic Works Committee - June 11, 2024](https://london.ca/government/calendar/civic-works-committee-june-11-2024) |
@@ -123,3 +123,4 @@ View only a category:
 | Tue Oct 29 | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - October 29, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-october-29-2024) |
 | Mon Nov 04 | 13:00 | [City](/about#City) | [Planning and Environment Committee - November 04, 2024](https://london.ca/government/calendar/planning-environment-committee-november-04-2024) |
 | Tue Nov 05 | 13:00 | [City](/about#City) | [Council - November 05, 2024](https://london.ca/government/calendar/council-november-05-2024) |
+| Mon Nov 11 | 13:00 | [City](/about#City) | [Community and Protective Services Committee - November 11, 2024](https://london.ca/government/calendar/community-protective-services-committee-november-11-2024) |
