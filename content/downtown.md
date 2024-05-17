@@ -1,6 +1,6 @@
 ---
 title: "Events - downtown"
-date: 2024-05-16T00:00:25-04:00
+date: 2024-05-17T00:00:30-04:00
 draft: false
 ---
 
@@ -9,20 +9,13 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Thu) |  | [BudG](/about#BudG) | [Cole Swindell](https://www.budweisergardens.com/events/detail/cole-swindell) |
-|  | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
-|  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
-|  | 18:00 | [LMH](/about#LMH) | [Better Lovers](http://londonmusichall.com/events/better-lovers/) |
-|  | 18:00 | [CMus](/about#CMus) | [STEAM: Hydrophobic Sand](https://www.londonchildrensmuseum.ca/event/steam-hydrophobic-sand) |
-|  | 18:30 | [Aeol](/about#Aeol) | [Aeolian Jazz Series – Sonja Gustafson (Southen Lounge)				](https://aeolianhall.ca/events/aeolian-jazz-series-sonja-gustafson-southen-lounge/) |
-|  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-05-16) |
-| Tomorrow (Fri) |  | [Grand](/about#Grand) | [Grease](https://www.grandtheatre.com/event/grease) |
+| Today (Fri) |  | [Grand](/about#Grand) | [Grease](https://www.grandtheatre.com/event/grease) |
 |  | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
 |  | 16:30 | [Info](/about#Info) | [Diabetes Fit ](https://www.informationlondon.ca/Event/Detail/50154/Diabetes_Fit_?date=2024-05-17) |
 |  | 19:00 | [LMH](/about#LMH) | [Big Shiny Dwayne: Dwayne Gretkzy Does The 90’s](http://londonmusichall.com/events/big-shiny-dwayne-dwayne-gretkzy-does-the-90s/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Conor Gains (POSTPONED)				](https://aeolianhall.ca/events/conor-gains/) |
 |  | 22:00 | [LMH](/about#LMH) | [RAYGUN: RETRO NIGHT](http://londonmusichall.com/events/raygun-retro-night-80s-90s-2000s-video-dance-party/) |
-| Sat May 18 | 08:00 | [CGM](/about#CGM) | [Outdoor Farmers Market](https://coventmarket.com/event/outdoor-farmers-market-2-2-2-2-3/) |
+| Tomorrow (Sat) | 08:00 | [CGM](/about#CGM) | [Outdoor Farmers Market](https://coventmarket.com/event/outdoor-farmers-market-2-2-2-2-3/) |
 |  | 09:00 | [LMH](/about#LMH) | [STEPHANIE WORSFOLD CLASSIC 2024](http://londonmusichall.com/events/stephanie-worsfold-classic-2024/) |
 |  | 09:30 | [CMus](/about#CMus) | [Long Weekend Fun](https://www.londonchildrensmuseum.ca/event/long-weekend-fun-0) |
 |  | 10:00 | [CGM](/about#CGM) | [Polish Heritage Month](https://coventmarket.com/event/polish-heritage-month-2/) |
@@ -40,7 +33,6 @@ View only a category:
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Hydrophobic Sand](https://www.londonchildrensmuseum.ca/event/steam-hydrophobic-sand) |
 |  | 14:30 | [Info](/about#Info) | [Mindful Mondays (Young Adults)](https://www.informationlondon.ca/Event/Detail/50260/Mindful_Mondays_Young_Adults?date=2024-05-20) |
 | Tue May 21 | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
-|  | 17:00 | [CMus](/about#CMus) | [Sensory Friendly Evening](https://www.londonchildrensmuseum.ca/event/sensory-friendly-evening) |
 |  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-05-21) |
 | Wed May 22 | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
 |  | 18:00 | [CGM](/about#CGM) | [Tarot Flows](https://coventmarket.com/event/tarot-flows-with-lily/) |
@@ -129,54 +121,34 @@ View only a category:
 |  | 22:00 | [LMH](/about#LMH) | [FILM @ system Saturday](http://londonmusichall.com/events/film-system-saturday/) |
 | Sun Jun 09 | 11:00 | [CMus](/about#CMus) | [OUTREACH: London Multicultural Festival](https://www.londonchildrensmuseum.ca/event/outreach-london-multicultural-festival) |
 |  | 11:00 | [CMus](/about#CMus) | [STEAM: Floating Drawing](https://www.londonchildrensmuseum.ca/event/steam-floating-drawing) |
+|  | 13:00 | [Museum](/about#Museum) | [Imagination Station : Character Collage](https://museumlondon.ca/programs-events/event/11616/) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Floating Drawing](https://www.londonchildrensmuseum.ca/event/steam-floating-drawing) |
 | Mon Jun 10 | 19:00 | [LMH](/about#LMH) | [Heathen](http://londonmusichall.com/events/heathen/) |
 | Tue Jun 11 | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
 |  | 20:00 | [Aeol](/about#Aeol) | [AJAMAF 2024: Big Bandemic Divas’ Night				](https://aeolianhall.ca/events/ajamaf-2024-big-bandemic-divas-night/) |
-| Wed Jun 12 | 19:00 | [LMH](/about#LMH) | [A Wilhelm Scream](http://londonmusichall.com/events/a-wilhelm-scream-2/) |
+| Wed Jun 12 | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
+|  | 19:00 | [LMH](/about#LMH) | [A Wilhelm Scream](http://londonmusichall.com/events/a-wilhelm-scream-2/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [AJAMAF 2024: An Evening with Sarah Smith				](https://aeolianhall.ca/events/ajamaf-2024-an-evening-with-sarah-smith/) |
 | Thu Jun 13 | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
-|  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
-|  | 18:00 | [CMus](/about#CMus) | [STEAM: Take Flight!](https://www.londonchildrensmuseum.ca/event/steam-take-flight) |
 |  | 19:00 | [LMH](/about#LMH) | [Bleeker](http://londonmusichall.com/events/bleeker/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [AJAMAF 2024: Alex Cuba				](https://aeolianhall.ca/events/ajamaf-2024-alex-cuba/) |
 | Fri Jun 14 |  | [BudG](/about#BudG) | [Snoop Dogg CALI TO CANADA TOUR](https://www.budweisergardens.com/events/detail/snoop-dogg) |
-|  | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
-|  | 11:00 | [CMus](/about#CMus) | [OUTREACH: London Children's Festival](https://www.londonchildrensmuseum.ca/event/outreach-london-childrens-festival) |
 |  | 16:30 | [Info](/about#Info) | [Diabetes Fit ](https://www.informationlondon.ca/Event/Detail/50154/Diabetes_Fit_?date=2024-06-14) |
 |  | 20:00 | [Aeol](/about#Aeol) | [AJAMAF 2024: Carol Welsman				](https://aeolianhall.ca/events/ajamaf-2024-carol-welsman/) |
-| Sat Jun 15 | 11:00 | [CMus](/about#CMus) | [STEAM: Take Flight!](https://www.londonchildrensmuseum.ca/event/steam-take-flight) |
-|  | 11:00 | [CMus](/about#CMus) | [OUTREACH: London Children's Festival](https://www.londonchildrensmuseum.ca/event/outreach-london-childrens-festival) |
-|  | 13:00 | [CMus](/about#CMus) | [OUTREACH: Ward 12 Community Day](https://www.londonchildrensmuseum.ca/event/outreach-ward-12-community-day) |
-|  | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
-|  | 14:30 | [CMus](/about#CMus) | [STEAM: Take Flight!](https://www.londonchildrensmuseum.ca/event/steam-take-flight) |
-|  | 20:00 | [Aeol](/about#Aeol) | [AJAMAF 2024: Holly Cole – Dark Moon Tour				](https://aeolianhall.ca/events/ajamaf-2024-holly-cole-dark-moon-tour/) |
-| Sun Jun 16 | 11:00 | [CMus](/about#CMus) | [OUTREACH: London Children's Festival](https://www.londonchildrensmuseum.ca/event/outreach-london-childrens-festival) |
-|  | 11:00 | [CMus](/about#CMus) | [STEAM: Take Flight!](https://www.londonchildrensmuseum.ca/event/steam-take-flight) |
-|  | 14:30 | [CMus](/about#CMus) | [STEAM: Take Flight!](https://www.londonchildrensmuseum.ca/event/steam-take-flight) |
+| Sat Jun 15 | 20:00 | [Aeol](/about#Aeol) | [AJAMAF 2024: Holly Cole – Dark Moon Tour				](https://aeolianhall.ca/events/ajamaf-2024-holly-cole-dark-moon-tour/) |
+| Sun Jun 16 | 13:00 | [Museum](/about#Museum) | [Imagination Station : Character Collage](https://museumlondon.ca/programs-events/event/11618/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [AJAMAF 2024: Heather Bambrick				](https://aeolianhall.ca/events/ajamaf-2024-heather-bambrick/) |
-| Tue Jun 18 | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
-|  | 17:00 | [CMus](/about#CMus) | [Sensory Friendly Evening](https://www.londonchildrensmuseum.ca/event/sensory-friendly-evening) |
-| Wed Jun 19 | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
-| Thu Jun 20 | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
-|  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
-|  | 18:00 | [CMus](/about#CMus) | [STEAM: Shrink Art](https://www.londonchildrensmuseum.ca/event/steam-shrink-art) |
-| Fri Jun 21 | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
-|  | 16:30 | [Info](/about#Info) | [Diabetes Fit ](https://www.informationlondon.ca/Event/Detail/50154/Diabetes_Fit_?date=2024-06-21) |
+| Thu Jun 20 | 19:00 | [Museum](/about#Museum) | [Summer Launch Party](https://museumlondon.ca/programs-events/event/11594/) |
+| Fri Jun 21 | 16:30 | [Info](/about#Info) | [Diabetes Fit ](https://www.informationlondon.ca/Event/Detail/50154/Diabetes_Fit_?date=2024-06-21) |
 |  | 21:00 | [LMH](/about#LMH) | [EMO NIGHT: LONDON LIVE ft. STRIKE TYSON](http://londonmusichall.com/events/emo-night-london-live-ft-strike-tyson/) |
 | Sat Jun 22 |  | [BudG](/about#BudG) | [Brooks & Dunn - Reboot 2024 Tour](https://www.budweisergardens.com/events/detail/brooks-dunn) |
-|  | 11:00 | [CMus](/about#CMus) | [STEAM: Shrink Art](https://www.londonchildrensmuseum.ca/event/steam-shrink-art) |
-|  | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
-|  | 14:30 | [CMus](/about#CMus) | [STEAM: Shrink Art](https://www.londonchildrensmuseum.ca/event/steam-shrink-art) |
 |  | 19:00 | [LMH](/about#LMH) | [TWO CROWN KING](http://londonmusichall.com/events/two-crown-king/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [A Night In Vegas (Featuring Micah Barnes & Billy Newton-Davis)				](https://aeolianhall.ca/events/a-night-in-vegas-featuring-micah-barnes-billy-newton-davis/) |
 | Sun Jun 23 |  | [Eldon](/about#Eldon) | [Summer Market](https://eldonhouse.ca/product/summer-market-2024/) |
-|  | 11:00 | [CMus](/about#CMus) | [STEAM: Shrink Art](https://www.londonchildrensmuseum.ca/event/steam-shrink-art) |
-|  | 14:30 | [CMus](/about#CMus) | [STEAM: Shrink Art](https://www.londonchildrensmuseum.ca/event/steam-shrink-art) |
-| Tue Jun 25 | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
-| Wed Jun 26 | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
-|  | 18:30 | [Aeol](/about#Aeol) | [Aeolian Pride Social Series – Jordan Baldwin				](https://aeolianhall.ca/events/aeolian-pride-social-series-jordan-baldwin/) |
-| Thu Jun 27 | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
+|  | 13:00 | [Museum](/about#Museum) | [Imagination Station : Character Collage](https://museumlondon.ca/programs-events/event/11620/) |
+| Wed Jun 26 | 18:30 | [Aeol](/about#Aeol) | [Aeolian Pride Social Series – Jordan Baldwin				](https://aeolianhall.ca/events/aeolian-pride-social-series-jordan-baldwin/) |
+| Thu Jun 27 |  | [BudG](/about#BudG) | [Steve Miller Band](https://www.budweisergardens.com/events/detail/steve-miller-band) |
+|  |  | [Grand](/about#Grand) | [Once Upon a Mattress](https://www.grandtheatre.com/event/once-upon-mattress) |
 | Fri Jun 28 | 16:30 | [Info](/about#Info) | [Diabetes Fit ](https://www.informationlondon.ca/Event/Detail/50154/Diabetes_Fit_?date=2024-06-28) |
 |  | 19:00 | [LMH](/about#LMH) | [DJ Sekhar & Fejo](http://londonmusichall.com/events/dj-sekhar-fejo/) |
 | Sat Jun 29 |  | [Grand](/about#Grand) | [Decades of Bond - The Ultimate Tribute to the Music of James Bond](https://www.grandtheatre.com/event/decades-of-bond) |

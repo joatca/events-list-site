@@ -1,6 +1,6 @@
 ---
 title: "Events - entertainment"
-date: 2024-05-16T00:00:25-04:00
+date: 2024-05-17T00:00:30-04:00
 draft: false
 ---
 
@@ -9,14 +9,11 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Thu) |  | [BudG](/about#BudG) | [Cole Swindell](https://www.budweisergardens.com/events/detail/cole-swindell) |
-|  | 18:00 | [LMH](/about#LMH) | [Better Lovers](http://londonmusichall.com/events/better-lovers/) |
-|  | 18:30 | [Aeol](/about#Aeol) | [Aeolian Jazz Series – Sonja Gustafson (Southen Lounge)				](https://aeolianhall.ca/events/aeolian-jazz-series-sonja-gustafson-southen-lounge/) |
-| Tomorrow (Fri) |  | [Grand](/about#Grand) | [Grease](https://www.grandtheatre.com/event/grease) |
+| Today (Fri) |  | [Grand](/about#Grand) | [Grease](https://www.grandtheatre.com/event/grease) |
 |  | 19:00 | [LMH](/about#LMH) | [Big Shiny Dwayne: Dwayne Gretkzy Does The 90’s](http://londonmusichall.com/events/big-shiny-dwayne-dwayne-gretkzy-does-the-90s/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Conor Gains (POSTPONED)				](https://aeolianhall.ca/events/conor-gains/) |
 |  | 22:00 | [LMH](/about#LMH) | [RAYGUN: RETRO NIGHT](http://londonmusichall.com/events/raygun-retro-night-80s-90s-2000s-video-dance-party/) |
-| Sat May 18 | 09:00 | [LMH](/about#LMH) | [STEPHANIE WORSFOLD CLASSIC 2024](http://londonmusichall.com/events/stephanie-worsfold-classic-2024/) |
+| Tomorrow (Sat) | 09:00 | [LMH](/about#LMH) | [STEPHANIE WORSFOLD CLASSIC 2024](http://londonmusichall.com/events/stephanie-worsfold-classic-2024/) |
 | Sun May 19 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Whimsical Watercolour Resist](https://museumlondon.ca/programs-events/event/11011/2024/05/19) |
 |  | 14:00 | [Aeol](/about#Aeol) | [Aeolian Classical Series – Andy Cloutier				](https://aeolianhall.ca/events/aeolian-classical-series-andy-cloutier/) |
 | Tue May 21 | 20:00 | [FMus](/about#FMus) | [Doctoral Recital - Xinyao (Sylvie) Luo, voice](http://www.events.westernu.ca/events/music/2024-05/student-recital-xinyao-luo.html) |
@@ -49,6 +46,7 @@ View only a category:
 |  | 14:00 | [Aeol](/about#Aeol) | [SOS – The ABBA Experience (Saturday Matinee)				](https://aeolianhall.ca/events/sos-the-abba-experience-5/) |
 |  | 19:30 | [Aeol](/about#Aeol) | [SOS – The ABBA Experience				](https://aeolianhall.ca/events/sos-the-abba-experience-4/) |
 |  | 22:00 | [LMH](/about#LMH) | [FILM @ system Saturday](http://londonmusichall.com/events/film-system-saturday/) |
+| Sun Jun 09 | 13:00 | [Museum](/about#Museum) | [Imagination Station : Character Collage](https://museumlondon.ca/programs-events/event/11616/) |
 | Mon Jun 10 | 19:00 | [LMH](/about#LMH) | [Heathen](http://londonmusichall.com/events/heathen/) |
 | Tue Jun 11 | 20:00 | [Aeol](/about#Aeol) | [AJAMAF 2024: Big Bandemic Divas’ Night				](https://aeolianhall.ca/events/ajamaf-2024-big-bandemic-divas-night/) |
 | Wed Jun 12 | 19:00 | [LMH](/about#LMH) | [A Wilhelm Scream](http://londonmusichall.com/events/a-wilhelm-scream-2/) |
@@ -58,12 +56,17 @@ View only a category:
 | Fri Jun 14 |  | [BudG](/about#BudG) | [Snoop Dogg CALI TO CANADA TOUR](https://www.budweisergardens.com/events/detail/snoop-dogg) |
 |  | 20:00 | [Aeol](/about#Aeol) | [AJAMAF 2024: Carol Welsman				](https://aeolianhall.ca/events/ajamaf-2024-carol-welsman/) |
 | Sat Jun 15 | 20:00 | [Aeol](/about#Aeol) | [AJAMAF 2024: Holly Cole – Dark Moon Tour				](https://aeolianhall.ca/events/ajamaf-2024-holly-cole-dark-moon-tour/) |
-| Sun Jun 16 | 20:00 | [Aeol](/about#Aeol) | [AJAMAF 2024: Heather Bambrick				](https://aeolianhall.ca/events/ajamaf-2024-heather-bambrick/) |
+| Sun Jun 16 | 13:00 | [Museum](/about#Museum) | [Imagination Station : Character Collage](https://museumlondon.ca/programs-events/event/11618/) |
+|  | 20:00 | [Aeol](/about#Aeol) | [AJAMAF 2024: Heather Bambrick				](https://aeolianhall.ca/events/ajamaf-2024-heather-bambrick/) |
+| Thu Jun 20 | 19:00 | [Museum](/about#Museum) | [Summer Launch Party](https://museumlondon.ca/programs-events/event/11594/) |
 | Fri Jun 21 | 21:00 | [LMH](/about#LMH) | [EMO NIGHT: LONDON LIVE ft. STRIKE TYSON](http://londonmusichall.com/events/emo-night-london-live-ft-strike-tyson/) |
 | Sat Jun 22 |  | [BudG](/about#BudG) | [Brooks & Dunn - Reboot 2024 Tour](https://www.budweisergardens.com/events/detail/brooks-dunn) |
 |  | 19:00 | [LMH](/about#LMH) | [TWO CROWN KING](http://londonmusichall.com/events/two-crown-king/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [A Night In Vegas (Featuring Micah Barnes & Billy Newton-Davis)				](https://aeolianhall.ca/events/a-night-in-vegas-featuring-micah-barnes-billy-newton-davis/) |
+| Sun Jun 23 | 13:00 | [Museum](/about#Museum) | [Imagination Station : Character Collage](https://museumlondon.ca/programs-events/event/11620/) |
 | Wed Jun 26 | 18:30 | [Aeol](/about#Aeol) | [Aeolian Pride Social Series – Jordan Baldwin				](https://aeolianhall.ca/events/aeolian-pride-social-series-jordan-baldwin/) |
+| Thu Jun 27 |  | [BudG](/about#BudG) | [Steve Miller Band](https://www.budweisergardens.com/events/detail/steve-miller-band) |
+|  |  | [Grand](/about#Grand) | [Once Upon a Mattress](https://www.grandtheatre.com/event/once-upon-mattress) |
 | Fri Jun 28 | 19:00 | [LMH](/about#LMH) | [DJ Sekhar & Fejo](http://londonmusichall.com/events/dj-sekhar-fejo/) |
 | Sat Jun 29 |  | [Grand](/about#Grand) | [Decades of Bond - The Ultimate Tribute to the Music of James Bond](https://www.grandtheatre.com/event/decades-of-bond) |
 | Tue Jul 02 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Paint and Splash Bash](https://museumlondon.ca/programs-events/event/11415/) |

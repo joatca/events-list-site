@@ -1,6 +1,6 @@
 ---
 title: "Events - kids"
-date: 2024-05-16T00:00:25-04:00
+date: 2024-05-17T00:00:30-04:00
 draft: false
 ---
 
@@ -9,11 +9,8 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Thu) | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
-|  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
-|  | 18:00 | [CMus](/about#CMus) | [STEAM: Hydrophobic Sand](https://www.londonchildrensmuseum.ca/event/steam-hydrophobic-sand) |
-| Tomorrow (Fri) | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
-| Sat May 18 | 09:30 | [CMus](/about#CMus) | [Long Weekend Fun](https://www.londonchildrensmuseum.ca/event/long-weekend-fun-0) |
+| Today (Fri) | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
+| Tomorrow (Sat) | 09:30 | [CMus](/about#CMus) | [Long Weekend Fun](https://www.londonchildrensmuseum.ca/event/long-weekend-fun-0) |
 |  | 11:00 | [CMus](/about#CMus) | [STEAM: Hydrophobic Sand](https://www.londonchildrensmuseum.ca/event/steam-hydrophobic-sand) |
 |  | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Hydrophobic Sand](https://www.londonchildrensmuseum.ca/event/steam-hydrophobic-sand) |
@@ -23,7 +20,6 @@ View only a category:
 |  | 11:00 | [CMus](/about#CMus) | [STEAM: Hydrophobic Sand](https://www.londonchildrensmuseum.ca/event/steam-hydrophobic-sand) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Hydrophobic Sand](https://www.londonchildrensmuseum.ca/event/steam-hydrophobic-sand) |
 | Tue May 21 | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
-|  | 17:00 | [CMus](/about#CMus) | [Sensory Friendly Evening](https://www.londonchildrensmuseum.ca/event/sensory-friendly-evening) |
 | Wed May 22 | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
 | Thu May 23 | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
 |  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
@@ -64,31 +60,5 @@ View only a category:
 |  | 11:00 | [CMus](/about#CMus) | [STEAM: Floating Drawing](https://www.londonchildrensmuseum.ca/event/steam-floating-drawing) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Floating Drawing](https://www.londonchildrensmuseum.ca/event/steam-floating-drawing) |
 | Tue Jun 11 | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
+| Wed Jun 12 | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
 | Thu Jun 13 | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
-|  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
-|  | 18:00 | [CMus](/about#CMus) | [STEAM: Take Flight!](https://www.londonchildrensmuseum.ca/event/steam-take-flight) |
-| Fri Jun 14 | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
-|  | 11:00 | [CMus](/about#CMus) | [OUTREACH: London Children's Festival](https://www.londonchildrensmuseum.ca/event/outreach-london-childrens-festival) |
-| Sat Jun 15 | 11:00 | [CMus](/about#CMus) | [STEAM: Take Flight!](https://www.londonchildrensmuseum.ca/event/steam-take-flight) |
-|  | 11:00 | [CMus](/about#CMus) | [OUTREACH: London Children's Festival](https://www.londonchildrensmuseum.ca/event/outreach-london-childrens-festival) |
-|  | 13:00 | [CMus](/about#CMus) | [OUTREACH: Ward 12 Community Day](https://www.londonchildrensmuseum.ca/event/outreach-ward-12-community-day) |
-|  | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
-|  | 14:30 | [CMus](/about#CMus) | [STEAM: Take Flight!](https://www.londonchildrensmuseum.ca/event/steam-take-flight) |
-| Sun Jun 16 | 11:00 | [CMus](/about#CMus) | [OUTREACH: London Children's Festival](https://www.londonchildrensmuseum.ca/event/outreach-london-childrens-festival) |
-|  | 11:00 | [CMus](/about#CMus) | [STEAM: Take Flight!](https://www.londonchildrensmuseum.ca/event/steam-take-flight) |
-|  | 14:30 | [CMus](/about#CMus) | [STEAM: Take Flight!](https://www.londonchildrensmuseum.ca/event/steam-take-flight) |
-| Tue Jun 18 | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
-|  | 17:00 | [CMus](/about#CMus) | [Sensory Friendly Evening](https://www.londonchildrensmuseum.ca/event/sensory-friendly-evening) |
-| Wed Jun 19 | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
-| Thu Jun 20 | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
-|  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
-|  | 18:00 | [CMus](/about#CMus) | [STEAM: Shrink Art](https://www.londonchildrensmuseum.ca/event/steam-shrink-art) |
-| Fri Jun 21 | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
-| Sat Jun 22 | 11:00 | [CMus](/about#CMus) | [STEAM: Shrink Art](https://www.londonchildrensmuseum.ca/event/steam-shrink-art) |
-|  | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
-|  | 14:30 | [CMus](/about#CMus) | [STEAM: Shrink Art](https://www.londonchildrensmuseum.ca/event/steam-shrink-art) |
-| Sun Jun 23 | 11:00 | [CMus](/about#CMus) | [STEAM: Shrink Art](https://www.londonchildrensmuseum.ca/event/steam-shrink-art) |
-|  | 14:30 | [CMus](/about#CMus) | [STEAM: Shrink Art](https://www.londonchildrensmuseum.ca/event/steam-shrink-art) |
-| Tue Jun 25 | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
-| Wed Jun 26 | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
-| Thu Jun 27 | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |

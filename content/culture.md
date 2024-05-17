@@ -1,6 +1,6 @@
 ---
 title: "Events - culture"
-date: 2024-05-16T00:00:25-04:00
+date: 2024-05-17T00:00:30-04:00
 draft: false
 ---
 
@@ -15,7 +15,11 @@ View only a category:
 | Sun May 26 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Whimsical Watercolour Resist](https://museumlondon.ca/programs-events/event/11011/2024/05/26) |
 | Fri May 31 | 09:00 | [Museum](/about#Museum) | [ML Kids Day Camp: Art Detective and History Mystery](https://museumlondon.ca/programs-events/event/11438/) |
 | Tue Jun 04 |  | [PSFT](/about#PSFT) | [Funny Valentine A Michael Buble Tribute](https://psft.ca/event/funny-valentine-a-michael-buble-tribute/) |
+| Sun Jun 09 | 13:00 | [Museum](/about#Museum) | [Imagination Station : Character Collage](https://museumlondon.ca/programs-events/event/11616/) |
+| Sun Jun 16 | 13:00 | [Museum](/about#Museum) | [Imagination Station : Character Collage](https://museumlondon.ca/programs-events/event/11618/) |
 | Wed Jun 19 |  | [PSFT](/about#PSFT) | [They’re Found In Trees](https://psft.ca/event/theyre-found-in-trees/) |
+| Thu Jun 20 | 19:00 | [Museum](/about#Museum) | [Summer Launch Party](https://museumlondon.ca/programs-events/event/11594/) |
+| Sun Jun 23 | 13:00 | [Museum](/about#Museum) | [Imagination Station : Character Collage](https://museumlondon.ca/programs-events/event/11620/) |
 | Tue Jul 02 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Paint and Splash Bash](https://museumlondon.ca/programs-events/event/11415/) |
 | Mon Jul 08 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: STEAMpunks Futuristic Fabricators](https://museumlondon.ca/programs-events/event/11418/) |
 | Mon Jul 15 | 09:00 | [Museum](/about#Museum) | [*SOLD OUT* ML Kids Summer Camp: Enchanted Realms and Mythical Creatures](https://museumlondon.ca/programs-events/event/11419/) |
