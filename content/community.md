@@ -1,6 +1,6 @@
 ---
 title: "Events - community"
-date: 2024-05-19T00:00:40-04:00
+date: 2024-05-20T00:00:28-04:00
 draft: false
 ---
 
@@ -9,11 +9,11 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Tomorrow (Mon) |  | [Eldon](/about#Eldon) | [Victoria Day at Fanshawe Pioneer Village](https://eldonhouse.ca/product/victoria-day-at-fanshawe-pioneer-village-2/) |
+| Today (Mon) |  | [Eldon](/about#Eldon) | [Victoria Day at Fanshawe Pioneer Village](https://eldonhouse.ca/product/victoria-day-at-fanshawe-pioneer-village-2/) |
 |  | 12:00 | [City](/about#City) | [Free Victoria recreation activities - May 20, 2024](https://london.ca/government/calendar/free-victoria-recreation-activities-may-20-2024) |
 |  | 14:30 | [Info](/about#Info) | [Mindful Mondays (Young Adults)](https://www.informationlondon.ca/Event/Detail/50260/Mindful_Mondays_Young_Adults?date=2024-05-20) |
 |  | 16:00 | [Maker](/about#Maker) | [Mini Makers (Age 3-6) May Session: Celebrate Spring! ](https://www.hellomaker.ca/events/minimakersmay-bnp4f-w94d2) |
-| Tue May 21 |  | [PSFT](/about#PSFT) | [The Beaver Club](https://psft.ca/event/the-beaver-club/) |
+| Tomorrow (Tue) |  | [PSFT](/about#PSFT) | [The Beaver Club](https://psft.ca/event/the-beaver-club/) |
 |  | 13:00 | [City](/about#City) | [Community and Protective Services Committee - May 21, 2024](https://london.ca/government/calendar/community-protective-services-committee-may-21-2024) |
 |  | 15:00 | [Maker](/about#Maker) | [Open Studio](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-5dtj8) |
 |  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-05-21) |

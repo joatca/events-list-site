@@ -1,6 +1,6 @@
 ---
 title: "Events - entertainment"
-date: 2024-05-19T00:00:40-04:00
+date: 2024-05-20T00:00:28-04:00
 draft: false
 ---
 
@@ -9,10 +9,8 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Sun) |  | [Grand](/about#Grand) | [Grease](https://www.grandtheatre.com/event/grease) |
-|  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Whimsical Watercolour Resist](https://museumlondon.ca/programs-events/event/11011/2024/05/19) |
-|  | 14:00 | [Aeol](/about#Aeol) | [Aeolian Classical Series – Andy Cloutier				](https://aeolianhall.ca/events/aeolian-classical-series-andy-cloutier/) |
-| Tue May 21 | 20:00 | [FMus](/about#FMus) | [Doctoral Recital - Xinyao (Sylvie) Luo, voice](http://www.events.westernu.ca/events/music/2024-05/student-recital-xinyao-luo.html) |
+| Today (Mon) |  | [Grand](/about#Grand) | [Grease](https://www.grandtheatre.com/event/grease) |
+| Tomorrow (Tue) | 20:00 | [FMus](/about#FMus) | [Doctoral Recital - Xinyao (Sylvie) Luo, voice](http://www.events.westernu.ca/events/music/2024-05/student-recital-xinyao-luo.html) |
 | Thu May 23 |  | [BudG](/about#BudG) | [London Lightning Playoffs - Round 2 Home Game 1](https://www.budweisergardens.com/events/detail/lightning-playoffs-r2g1-1) |
 |  | 18:00 | [LMH](/about#LMH) | [Sentiment Dissolve – ‘The Orwellian Dream’ Release Party](http://londonmusichall.com/events/sentiment-dissolve-the-orwellian-dream-release-party/) |
 |  | 19:30 | [Aeol](/about#Aeol) | [Good Lovelies – We Will Never Be The Same Tour				](https://aeolianhall.ca/events/good-lovelies-we-will-never-be-the-same-tour/) |

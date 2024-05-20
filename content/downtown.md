@@ -1,6 +1,6 @@
 ---
 title: "Events - downtown"
-date: 2024-05-19T00:00:40-04:00
+date: 2024-05-20T00:00:28-04:00
 draft: false
 ---
 
@@ -9,18 +9,14 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Sun) |  | [Grand](/about#Grand) | [Grease](https://www.grandtheatre.com/event/grease) |
+| Today (Mon) |  | [Grand](/about#Grand) | [Grease](https://www.grandtheatre.com/event/grease) |
 |  |  | [CMus](/about#CMus) | [Long Weekend Fun](https://www.londonchildrensmuseum.ca/event/long-weekend-fun-0) |
-|  | 11:00 | [CMus](/about#CMus) | [STEAM: Hydrophobic Sand](https://www.londonchildrensmuseum.ca/event/steam-hydrophobic-sand) |
-|  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Whimsical Watercolour Resist](https://museumlondon.ca/programs-events/event/11011/2024/05/19) |
-|  | 14:00 | [Aeol](/about#Aeol) | [Aeolian Classical Series – Andy Cloutier				](https://aeolianhall.ca/events/aeolian-classical-series-andy-cloutier/) |
-|  | 14:30 | [CMus](/about#CMus) | [STEAM: Hydrophobic Sand](https://www.londonchildrensmuseum.ca/event/steam-hydrophobic-sand) |
-| Tomorrow (Mon) |  | [Eldon](/about#Eldon) | [Victoria Day at Fanshawe Pioneer Village](https://eldonhouse.ca/product/victoria-day-at-fanshawe-pioneer-village-2/) |
+|  |  | [Eldon](/about#Eldon) | [Victoria Day at Fanshawe Pioneer Village](https://eldonhouse.ca/product/victoria-day-at-fanshawe-pioneer-village-2/) |
 |  | 09:30 | [CMus](/about#CMus) | [OPEN](https://www.londonchildrensmuseum.ca/event/open) |
 |  | 11:00 | [CMus](/about#CMus) | [STEAM: Hydrophobic Sand](https://www.londonchildrensmuseum.ca/event/steam-hydrophobic-sand) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Hydrophobic Sand](https://www.londonchildrensmuseum.ca/event/steam-hydrophobic-sand) |
 |  | 14:30 | [Info](/about#Info) | [Mindful Mondays (Young Adults)](https://www.informationlondon.ca/Event/Detail/50260/Mindful_Mondays_Young_Adults?date=2024-05-20) |
-| Tue May 21 | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
+| Tomorrow (Tue) | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
 |  | 17:00 | [CMus](/about#CMus) | [Sensory Friendly Evening](https://www.londonchildrensmuseum.ca/event/sensory-friendly-evening) |
 |  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-05-21) |
 | Wed May 22 | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
