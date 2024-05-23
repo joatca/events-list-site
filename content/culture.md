@@ -1,6 +1,6 @@
 ---
 title: "Events - culture"
-date: 2024-05-22T00:00:26-04:00
+date: 2024-05-23T00:00:22-04:00
 draft: false
 ---
 
@@ -9,7 +9,7 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Wed) |  | [PSFT](/about#PSFT) | [The Beaver Club](https://psft.ca/event/the-beaver-club/) |
+| Today (Thu) |  | [PSFT](/about#PSFT) | [The Beaver Club](https://psft.ca/event/the-beaver-club/) |
 | Sat May 25 | 12:00 | [Museum](/about#Museum) | [*SOLD OUT* Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10912/) |
 | Sun May 26 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Whimsical Watercolour Resist](https://museumlondon.ca/programs-events/event/11011/2024/05/26) |
 | Thu May 30 | 19:00 | [Museum](/about#Museum) | [Magisterra at the Museum: Bohemian Rhapsody](https://museumlondon.ca/programs-events/event/11687/) |
@@ -37,7 +37,7 @@ View only a category:
 | Sat Jul 20 | 10:30 | [Museum](/about#Museum) | [History Walk: Castles to Cottages](https://museumlondon.ca/programs-events/event/11642/) |
 | Mon Jul 22 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Bug Out!](https://museumlondon.ca/programs-events/event/11420/) |
 | Thu Jul 25 | 18:00 | [Museum](/about#Museum) | [Culture Walk: Murals of Downtown](https://museumlondon.ca/programs-events/event/11679/) |
-| Sat Jul 27 | 10:30 | [Museum](/about#Museum) | [Culture Walk: Hidden Secrets of Downtown](https://museumlondon.ca/programs-events/event/11664/) |
+| Sat Jul 27 | 10:30 | [Museum](/about#Museum) | [Culture Walk: Hidden In Plain Sight](https://museumlondon.ca/programs-events/event/11664/) |
 | Mon Jul 29 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Press Play](https://museumlondon.ca/programs-events/event/11421/) |
 | Thu Aug 01 | 18:00 | [Museum](/about#Museum) | [Culture Walk: Hidden Secrets of Downtown](https://museumlondon.ca/programs-events/event/11666/) |
 | Sat Aug 03 | 10:30 | [Museum](/about#Museum) | [History Walk: Bats, Beans, and Bridges](https://museumlondon.ca/programs-events/event/11655/) |
@@ -56,6 +56,7 @@ View only a category:
 | Thu Aug 29 | 18:00 | [Museum](/about#Museum) | [Culture Walk: Hidden Secrets of Downtown](https://museumlondon.ca/programs-events/event/11670/) |
 | Sat Aug 31 | 10:30 | [Museum](/about#Museum) | [History Walk: Hidden in Plain Sight](https://museumlondon.ca/programs-events/event/11650/) |
 | Thu Sep 05 | 18:00 | [Museum](/about#Museum) | [Culture Walk: Hidden Secrets of Downtown](https://museumlondon.ca/programs-events/event/11672/) |
+| Sat Sep 07 | 10:30 | [Museum](/about#Museum) | [History Walks: Heaven and Hell](https://museumlondon.ca/programs-events/event/11725/) |
 | Sat Sep 14 | 10:30 | [Museum](/about#Museum) | [History Walk: Digging Dundas](https://museumlondon.ca/programs-events/event/11637/) |
 | Thu Sep 19 | 18:00 | [Museum](/about#Museum) | [Culture Walk: Murals of Downtown](https://museumlondon.ca/programs-events/event/11685/) |
 | Sat Sep 21 | 10:30 | [Museum](/about#Museum) | [History Walk: Castles to Cottages](https://museumlondon.ca/programs-events/event/11646/) |

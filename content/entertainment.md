@@ -1,6 +1,6 @@
 ---
 title: "Events - entertainment"
-date: 2024-05-22T00:00:26-04:00
+date: 2024-05-23T00:00:22-04:00
 draft: false
 ---
 
@@ -9,11 +9,11 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Wed) |  | [Grand](/about#Grand) | [Grease](https://www.grandtheatre.com/event/grease) |
-| Tomorrow (Thu) |  | [BudG](/about#BudG) | [London Lightning Playoffs - Round 2 Home Game 1](https://www.budweisergardens.com/events/detail/lightning-playoffs-r2g1-1) |
+| Today (Thu) |  | [BudG](/about#BudG) | [London Lightning Playoffs - Round 2 Home Game 1](https://www.budweisergardens.com/events/detail/lightning-playoffs-r2g1-1) |
+|  |  | [Grand](/about#Grand) | [Grease](https://www.grandtheatre.com/event/grease) |
 |  | 18:00 | [LMH](/about#LMH) | [Sentiment Dissolve – ‘The Orwellian Dream’ Release Party](http://londonmusichall.com/events/sentiment-dissolve-the-orwellian-dream-release-party/) |
 |  | 19:30 | [Aeol](/about#Aeol) | [Good Lovelies – We Will Never Be The Same Tour				](https://aeolianhall.ca/events/good-lovelies-we-will-never-be-the-same-tour/) |
-| Fri May 24 | 20:00 | [LMH](/about#LMH) | [Wing Night: The Band](http://londonmusichall.com/events/wing-night-the-band-6/) |
+| Tomorrow (Fri) | 20:00 | [LMH](/about#LMH) | [Wing Night: The Band](http://londonmusichall.com/events/wing-night-the-band-6/) |
 | Sat May 25 |  | [BudG](/about#BudG) | [Lightning Playoffs - Round 2 Home Game 2](https://www.budweisergardens.com/events/detail/lightning-playoffs-r2g2-1) |
 |  | 12:00 | [Aeol](/about#Aeol) | [TEDx Dundas Place Youth: Harmony				](https://aeolianhall.ca/events/tedx-dundas-place-youth-harmony/) |
 |  | 12:00 | [Museum](/about#Museum) | [*SOLD OUT* Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10912/) |
@@ -85,7 +85,7 @@ View only a category:
 | Sat Jul 20 | 10:30 | [Museum](/about#Museum) | [History Walk: Castles to Cottages](https://museumlondon.ca/programs-events/event/11642/) |
 | Mon Jul 22 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Bug Out!](https://museumlondon.ca/programs-events/event/11420/) |
 | Thu Jul 25 | 18:00 | [Museum](/about#Museum) | [Culture Walk: Murals of Downtown](https://museumlondon.ca/programs-events/event/11679/) |
-| Sat Jul 27 | 10:30 | [Museum](/about#Museum) | [Culture Walk: Hidden Secrets of Downtown](https://museumlondon.ca/programs-events/event/11664/) |
+| Sat Jul 27 | 10:30 | [Museum](/about#Museum) | [Culture Walk: Hidden In Plain Sight](https://museumlondon.ca/programs-events/event/11664/) |
 |  | 21:00 | [LMH](/about#LMH) | [Thunder from Down Under – Untamed 2024 Tour](http://londonmusichall.com/events/thunder-from-down-under-untamed-2024-tour/) |
 | Mon Jul 29 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Press Play](https://museumlondon.ca/programs-events/event/11421/) |
 | Tue Jul 30 | 19:00 | [LMH](/about#LMH) | [Jack Botts](http://londonmusichall.com/events/jack-botts/) |
@@ -109,8 +109,10 @@ View only a category:
 |  | 19:00 | [LMH](/about#LMH) | [Gary Gulman](http://londonmusichall.com/events/gary-gulman/) |
 | Sat Aug 31 | 10:30 | [Museum](/about#Museum) | [History Walk: Hidden in Plain Sight](https://museumlondon.ca/programs-events/event/11650/) |
 | Thu Sep 05 | 18:00 | [Museum](/about#Museum) | [Culture Walk: Hidden Secrets of Downtown](https://museumlondon.ca/programs-events/event/11672/) |
+| Sat Sep 07 | 10:30 | [Museum](/about#Museum) | [History Walks: Heaven and Hell](https://museumlondon.ca/programs-events/event/11725/) |
 | Sat Sep 14 | 10:30 | [Museum](/about#Museum) | [History Walk: Digging Dundas](https://museumlondon.ca/programs-events/event/11637/) |
 |  | 19:00 | [LMH](/about#LMH) | [Marcus King – Mood Swings The World Tour](http://londonmusichall.com/events/marcus-king-mood-swings-the-world-tour/) |
+|  | 22:00 | [LMH](/about#LMH) | [CYCLOPS – THE CRYBABY TOUR @ SYSTEM SATURDAY](http://londonmusichall.com/events/cyclops-the-crybaby-tour-system-saturday/) |
 | Tue Sep 17 |  | [Grand](/about#Grand) | [Matilda The Musical](https://www.grandtheatre.com/event/matilda) |
 |  | 19:00 | [LMH](/about#LMH) | [IGNITE & DEATH BY STEREO with The Video Dead](http://londonmusichall.com/events/ignite-death-by-stereo-with-the-video-dead/) |
 | Thu Sep 19 | 18:00 | [Museum](/about#Museum) | [Culture Walk: Murals of Downtown](https://museumlondon.ca/programs-events/event/11685/) |

@@ -1,6 +1,6 @@
 ---
 title: "Events - community"
-date: 2024-05-22T00:00:26-04:00
+date: 2024-05-23T00:00:22-04:00
 draft: false
 ---
 
@@ -9,14 +9,11 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Wed) |  | [PSFT](/about#PSFT) | [The Beaver Club](https://psft.ca/event/the-beaver-club/) |
+| Today (Thu) |  | [PSFT](/about#PSFT) | [The Beaver Club](https://psft.ca/event/the-beaver-club/) |
 |  |  | [Maker](/about#Maker) | [Open Studio](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-5dtj8) |
-|  |  | [RBCP](/about#RBCP) | [LHSF Donor of Distinction Societies President's Dinner](https://www.rbcplacelondon.com/events/lhsf-donor-distinction-societies-presidents-dinner-may-22) |
-|  | 09:30 | [City](/about#City) | [Civic Works Committee - May 22, 2024](https://london.ca/government/calendar/civic-works-committee-may-22-2024) |
-|  | 13:00 | [City](/about#City) | [Planning and Environment Committee - May 22, 2024](https://london.ca/government/calendar/planning-environment-committee-may-22-2024) |
-| Tomorrow (Thu) | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-05-23) |
+|  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-05-23) |
 |  | 19:30 | [Maker](/about#Maker) | [Charcuterie Board Workshop](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-xkyks-ccptd-jfws7-lewm4) |
-| Fri May 24 | 16:30 | [Info](/about#Info) | [Diabetes Fit ](https://www.informationlondon.ca/Event/Detail/50154/Diabetes_Fit_?date=2024-05-24) |
+| Tomorrow (Fri) | 16:30 | [Info](/about#Info) | [Diabetes Fit ](https://www.informationlondon.ca/Event/Detail/50154/Diabetes_Fit_?date=2024-05-24) |
 | Sat May 25 | 09:00 | [City](/about#City) | [Touch a Truck event celebrating National Public Works Week - May 25, 2024](https://london.ca/government/calendar/touch-truck-event-celebrating-national-public-works-week-may-25-2024) |
 |  | 10:00 | [City](/about#City) | [Rescue Rendezvous - Cat Adoption Event - May 25, 2024](https://london.ca/government/calendar/rescue-rendezvous-cat-adoption-event-may-25-2024) |
 |  | 13:00 | [Info](/about#Info) | [Take-A-Shot Para Sport Day](https://www.informationlondon.ca/Event/Detail/49968/Take-A-Shot_Para_Sport_Day?date=2024-05-25) |
@@ -109,3 +106,4 @@ View only a category:
 | Tue Nov 12 | 09:30 | [City](/about#City) | [Civic Works Committee - November 12, 2024](https://london.ca/government/calendar/civic-works-committee-november-12-2024) |
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - November 12, 2024](https://london.ca/government/calendar/planning-environment-committee-november-12-2024) |
 | Wed Nov 13 | 12:00 | [City](/about#City) | [Audit Committee - November 13, 2024](https://london.ca/government/calendar/audit-committee-november-13-2024) |
+| Mon Nov 18 | 13:00 | [City](/about#City) | [Corporate Services Committee - November 18, 2024](https://london.ca/government/calendar/corporate-services-committee-november-18-2024) |

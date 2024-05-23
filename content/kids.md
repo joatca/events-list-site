@@ -1,6 +1,6 @@
 ---
 title: "Events - kids"
-date: 2024-05-22T00:00:26-04:00
+date: 2024-05-23T00:00:22-04:00
 draft: false
 ---
 
@@ -9,16 +9,17 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Wed) | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
-| Tomorrow (Thu) | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
+| Today (Thu) | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
 |  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
 |  | 18:00 | [CMus](/about#CMus) | [STEAM: DIY Window Cling](https://www.londonchildrensmuseum.ca/event/steam-diy-window-cling) |
-| Fri May 24 | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
+| Tomorrow (Fri) | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
 | Sat May 25 | 11:00 | [CMus](/about#CMus) | [STEAM: DIY Window Cling](https://www.londonchildrensmuseum.ca/event/steam-diy-window-cling) |
 |  | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: DIY Window Cling](https://www.londonchildrensmuseum.ca/event/steam-diy-window-cling) |
 |  | 20:00 | [CMus](/about#CMus) | [Retro Recess](https://www.londonchildrensmuseum.ca/event/retro-recess) |
 | Sun May 26 | 11:00 | [CMus](/about#CMus) | [STEAM: DIY Window Cling](https://www.londonchildrensmuseum.ca/event/steam-diy-window-cling) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: DIY Window Cling](https://www.londonchildrensmuseum.ca/event/steam-diy-window-cling) |
+| Tue May 28 | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
 | Wed May 29 | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
 | Thu May 30 | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
 |  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
@@ -34,7 +35,6 @@ View only a category:
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Pompom Launcher](https://www.londonchildrensmuseum.ca/event/steam-pompom-launcher) |
 | Sun Jun 02 | 11:00 | [CMus](/about#CMus) | [STEAM: Pompom Launcher](https://www.londonchildrensmuseum.ca/event/steam-pompom-launcher) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Pompom Launcher](https://www.londonchildrensmuseum.ca/event/steam-pompom-launcher) |
-| Tue Jun 04 | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
 | Wed Jun 05 | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
 | Thu Jun 06 | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
 |  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
@@ -92,16 +92,25 @@ View only a category:
 |  | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Energy Stick](https://www.londonchildrensmuseum.ca/event/daily-demo-energy-stick) |
 | Wed Jul 03 | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Energy Stick](https://www.londonchildrensmuseum.ca/event/daily-demo-energy-stick) |
 | Thu Jul 04 | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Energy Stick](https://www.londonchildrensmuseum.ca/event/daily-demo-energy-stick) |
+|  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
 | Fri Jul 05 | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Energy Stick](https://www.londonchildrensmuseum.ca/event/daily-demo-energy-stick) |
 | Sat Jul 06 | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Energy Stick](https://www.londonchildrensmuseum.ca/event/daily-demo-energy-stick) |
 | Sun Jul 07 | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Energy Stick](https://www.londonchildrensmuseum.ca/event/daily-demo-energy-stick) |
 | Mon Jul 08 | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
-| Mon Jul 15 | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
-|  | 09:00 | [CMus](/about#CMus) | [Tween Summer Day Camp](https://www.londonchildrensmuseum.ca/event/tween-summer-day-camp) |
+| Thu Jul 11 | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
+| Mon Jul 15 | 09:00 | [CMus](/about#CMus) | [Tween Summer Day Camp](https://www.londonchildrensmuseum.ca/event/tween-summer-day-camp) |
+|  | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
+| Thu Jul 18 | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
 | Mon Jul 22 | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
+| Thu Jul 25 | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
 | Mon Jul 29 | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
+| Thu Aug 01 | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
 | Tue Aug 06 | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
+| Thu Aug 08 | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
 | Mon Aug 12 | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
+| Thu Aug 15 | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
 | Mon Aug 19 | 09:00 | [CMus](/about#CMus) | [Tween Summer Day Camp](https://www.londonchildrensmuseum.ca/event/tween-summer-day-camp) |
 |  | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
+| Thu Aug 22 | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
 | Mon Aug 26 | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
+| Thu Aug 29 | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
