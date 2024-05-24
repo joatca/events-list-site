@@ -1,6 +1,6 @@
 ---
 title: "Events - community"
-date: 2024-05-23T00:00:22-04:00
+date: 2024-05-24T00:00:29-04:00
 draft: false
 ---
 
@@ -9,12 +9,10 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Thu) |  | [PSFT](/about#PSFT) | [The Beaver Club](https://psft.ca/event/the-beaver-club/) |
-|  |  | [Maker](/about#Maker) | [Open Studio](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-5dtj8) |
-|  | 18:30 | [Info](/about#Info) | [Skills for Success](https://www.informationlondon.ca/Event/Detail/49750/Skills_for_Success?date=2024-05-23) |
-|  | 19:30 | [Maker](/about#Maker) | [Charcuterie Board Workshop](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-xkyks-ccptd-jfws7-lewm4) |
-| Tomorrow (Fri) | 16:30 | [Info](/about#Info) | [Diabetes Fit ](https://www.informationlondon.ca/Event/Detail/50154/Diabetes_Fit_?date=2024-05-24) |
-| Sat May 25 | 09:00 | [City](/about#City) | [Touch a Truck event celebrating National Public Works Week - May 25, 2024](https://london.ca/government/calendar/touch-truck-event-celebrating-national-public-works-week-may-25-2024) |
+| Today (Fri) |  | [PSFT](/about#PSFT) | [The Beaver Club](https://psft.ca/event/the-beaver-club/) |
+|  |  | [Maker](/about#Maker) | [Charcuterie Board Workshop](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-xkyks-ccptd-jfws7-lewm4) |
+|  | 16:30 | [Info](/about#Info) | [Diabetes Fit ](https://www.informationlondon.ca/Event/Detail/50154/Diabetes_Fit_?date=2024-05-24) |
+| Tomorrow (Sat) | 09:00 | [City](/about#City) | [Touch a Truck event celebrating National Public Works Week - May 25, 2024](https://london.ca/government/calendar/touch-truck-event-celebrating-national-public-works-week-may-25-2024) |
 |  | 10:00 | [City](/about#City) | [Rescue Rendezvous - Cat Adoption Event - May 25, 2024](https://london.ca/government/calendar/rescue-rendezvous-cat-adoption-event-may-25-2024) |
 |  | 13:00 | [Info](/about#Info) | [Take-A-Shot Para Sport Day](https://www.informationlondon.ca/Event/Detail/49968/Take-A-Shot_Para_Sport_Day?date=2024-05-25) |
 | Mon May 27 | 13:00 | [City](/about#City) | [Corporate Services Committee - May 27, 2024](https://london.ca/government/calendar/corporate-services-committee-may-27-2024) |
@@ -27,18 +25,25 @@ View only a category:
 |  | 19:00 | [Maker](/about#Maker) | [Embroidery 101: Custom Portrait ](https://www.hellomaker.ca/events/irqu905qi77vqjbol00gy0uc19ja68-gns73-fhhpr-najh8-yc3gg-6bcww-pjpfr-nfd4a-xy52p-b6wsn-8a9ra-c7hyd-jws82) |
 | Thu May 30 | 13:30 | [City](/about#City) | [Committee of Adjustment  - May 30, 2024](https://london.ca/government/calendar/committee-adjustment-may-30-2024) |
 | Fri May 31 |  | [Eldon](/about#Eldon) | [Kids First Day](https://eldonhouse.ca/product/kids-first-day-2024/) |
+|  | 12:00 | [Maker](/about#Maker) | [Candle Making Workshop](https://www.hellomaker.ca/events/candleworkshop-8rmrf-shhxj) |
 | Mon Jun 03 |  | [RBCP](/about#RBCP) | [Healthy Bodies, Healthy Minds](https://www.rbcplacelondon.com/events/healthy-bodies-healthy-minds-june-3) |
+|  | 12:00 | [Maker](/about#Maker) | [Mini Tapestry Weaving Workshop](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-xkyks-ccptd-jfws7-lewm4-mtlhg) |
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - June 03, 2024](https://london.ca/government/calendar/planning-environment-committee-june-03-2024) |
-| Tue Jun 04 |  | [PSFT](/about#PSFT) | [Funny Valentine A Michael Buble Tribute](https://psft.ca/event/funny-valentine-a-michael-buble-tribute/) |
+|  | 18:00 | [Maker](/about#Maker) | [Hand Lettering & Calligraphy (4 weeks)](https://www.hellomaker.ca/events/q8s1yenla3a6dmjix0wtwkpd2fm3fz-p7g3b-286t3-kk7hk-tdf37-52z5t-h2lwg-z6fm8-zeljm-45ylg-ls9xn) |
+| Tue Jun 04 |  | [PSFT](/about#PSFT) | [A Michael Buble Tribute Show](https://psft.ca/event/funny-valentine-a-michael-buble-tribute/) |
 |  | 13:00 | [City](/about#City) | [Council - June 04, 2024](https://london.ca/government/calendar/council-june-04-2024) |
 |  | 15:00 | [Maker](/about#Maker) | [Open Studio](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-xkyks) |
 | Thu Jun 06 | 13:30 | [City](/about#City) | [Committee of Adjustment - June 06, 2024](https://london.ca/government/calendar/committee-adjustment-june-06-2024) |
-| Mon Jun 10 | 13:00 | [City](/about#City) | [Community and Protective Services Committee - June 10, 2024](https://london.ca/government/calendar/community-protective-services-committee-june-10-2024) |
+| Mon Jun 10 | 12:00 | [Maker](/about#Maker) | [Polymer Clay Earring Workshop](https://www.hellomaker.ca/events/polymer-clay-earring-workshop-7m6jk-db26w-b42sc-c7l7d-m8rbg-yxm5r-a48nk-xggm8-mdblt-9z7h6-e36fb-tpnml-mbm56) |
+|  | 13:00 | [City](/about#City) | [Community and Protective Services Committee - June 10, 2024](https://london.ca/government/calendar/community-protective-services-committee-june-10-2024) |
 | Tue Jun 11 | 09:30 | [City](/about#City) | [Civic Works Committee - June 11, 2024](https://london.ca/government/calendar/civic-works-committee-june-11-2024) |
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - June 11, 2024](https://london.ca/government/calendar/planning-environment-committee-june-11-2024) |
 |  | 15:00 | [Maker](/about#Maker) | [Open Studio ](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-xkyks-ccptd) |
+|  | 19:30 | [Maker](/about#Maker) | [Candle Making Workshop](https://www.hellomaker.ca/events/candleworkshop-8rmrf-shhxj-mb62a) |
 | Wed Jun 12 |  | [RBCP](/about#RBCP) | [Southwestern Ontario Real Estate Forum](https://www.rbcplacelondon.com/events/southwestern-ontario-real-estate-forum-june-12-13) |
 |  | 12:00 | [Maker](/about#Maker) | [Collage Art Notebook ](https://www.hellomaker.ca/events/irqu905qi77vqjbol00gy0uc19ja68-gns73-fhhpr-najh8-yc3gg-6bcww-pjpfr-nfd4a-xy52p-b6wsn-le4b7-p6985) |
+|  | 14:00 | [Maker](/about#Maker) | [Floral Resin Jewlery ](https://www.hellomaker.ca/events/waxmeltworkshop-d3wr2-rt83p-tghwl-y5h35-nx3xn-w3l69-4pj2x) |
+| Thu Jun 13 | 13:30 | [City](/about#City) | [Committee of Adjustment - June 13, 2024](https://london.ca/government/calendar/committee-adjustment-june-13-2024) |
 | Mon Jun 17 | 13:00 | [City](/about#City) | [Corporate Services Committee - June 17, 2024](https://london.ca/government/calendar/corporate-services-committee-june-17-2024) |
 | Tue Jun 18 | 09:30 | [City](/about#City) | [Dearness Home Committee of Management - June 18, 2024](https://london.ca/government/calendar/dearness-home-committee-management-june-18-2024) |
 |  | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - June 18, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-june-18-2024) |
@@ -46,15 +51,23 @@ View only a category:
 |  | 19:00 | [Maker](/about#Maker) | [Floral Arranement Workshop](https://www.hellomaker.ca/events/zfvpxsej5j9u9z39dn0cn9q7v6q0nk-22x5e-fjxkf-d3gmb-5w3kx-9mnfb-wpp2w-rz2z2-343nh-zs6pt-ewwxe-ksahp-menef-dm93d-ypxsp-fzfbc) |
 | Wed Jun 19 |  | [PSFT](/about#PSFT) | [They’re Found In Trees](https://psft.ca/event/theyre-found-in-trees/) |
 |  | 12:00 | [City](/about#City) | [Audit Committee - June 19, 2024](https://london.ca/government/calendar/audit-committee-june-19-2024) |
+|  | 18:00 | [Maker](/about#Maker) | [Mini Tapestry Weaving Workshop](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-xkyks-ccptd-jfws7-lewm4-mtlhg-fmm5x) |
 | Sun Jun 23 |  | [Eldon](/about#Eldon) | [Summer Market](https://eldonhouse.ca/product/summer-market-2024/) |
 | Mon Jun 24 | 10:00 | [City](/about#City) | [Governance Working Group - June 24, 2024](https://london.ca/government/calendar/governance-working-group-june-24-2024) |
 | Tue Jun 25 | 13:00 | [City](/about#City) | [Council - June 25, 2024](https://london.ca/government/calendar/council-june-25-2024) |
 |  | 15:00 | [Maker](/about#Maker) | [Open Studio](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-xkyks-ccptd-jfws7-jg866) |
+|  | 19:30 | [Maker](/about#Maker) | [Embroidery 101: Custom Portrait](https://www.hellomaker.ca/events/irqu905qi77vqjbol00gy0uc19ja68-gns73-fhhpr-najh8-yc3gg-6bcww-pjpfr-nfd4a-xy52p-b6wsn-8a9ra-c7hyd-8afek) |
+| Thu Jun 27 | 18:00 | [Maker](/about#Maker) | [Floral Resin Jewlery](https://www.hellomaker.ca/events/waxmeltworkshop-d3wr2-rt83p-tghwl-y5h35-nx3xn-w3l69-cdca5-r47lj) |
+|  | 20:00 | [Maker](/about#Maker) | [Candle Making Workshop](https://www.hellomaker.ca/events/candleworkshop-8rmrf-shhxj-fzjzc) |
 | Sat Jun 29 |  | [Eldon](/about#Eldon) | [Strawberry Tea at the Museum](https://eldonhouse.ca/product/strawberry-tea-at-the-museum/) |
 | Mon Jul 01 |  | [Eldon](/about#Eldon) | [Canada Day: Celebrating the Communities of Canada](https://eldonhouse.ca/product/canada-day-celebrating-the-communities-of-canada-2024/) |
 | Tue Jul 02 | 15:00 | [Maker](/about#Maker) | [Open Studio ](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-xkyks-ccptd-jfws7-9r8mg) |
+|  | 19:30 | [Maker](/about#Maker) | [Hand Lettering & Calligraphy (4 weeks) ](https://www.hellomaker.ca/events/q8s1yenla3a6dmjix0wtwkpd2fm3fz-p7g3b-286t3-kk7hk-tdf37-52z5t-h2lwg-z6fm8-zeljm-45ylg-sebd4) |
+| Thu Jul 04 | 17:00 | [Maker](/about#Maker) | [Mini Tapestry Weaving Workshop](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-xkyks-ccptd-jfws7-lewm4-mtlhg-wtelg) |
+|  | 19:30 | [Maker](/about#Maker) | [Punch Needle Workshop](https://www.hellomaker.ca/events/zfvpxsej5j9u9z39dn0cn9q7v6q0nk-22x5e-fjxkf-d3gmb-5w3kx-9mnfb-wpp2w-rz2z2-343nh-zs6pt-ewwxe-ksahp-menef-dm93d-ypxsp-rcc5e-zmxbp-zwhtx-trff9-7sbzh-5e67z-tte7w-39x2s-bkc5m-j5few) |
 | Tue Jul 09 | 15:00 | [Maker](/about#Maker) | [Open Studio](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-xkyks-ccptd-jfws7-9r8mg-ce85p) |
-| Mon Jul 15 | 13:00 | [City](/about#City) | [Community and Protective Services Committee - July 15, 2024](https://london.ca/government/calendar/community-protective-services-committee-july-15-2024) |
+| Mon Jul 15 | 12:00 | [Maker](/about#Maker) | [Mini Tapestry Weaving Workshop](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-xkyks-ccptd-jfws7-lewm4-mtlhg-9a5pw) |
+|  | 13:00 | [City](/about#City) | [Community and Protective Services Committee - July 15, 2024](https://london.ca/government/calendar/community-protective-services-committee-july-15-2024) |
 | Tue Jul 16 | 09:30 | [City](/about#City) | [Civic Works Committee - July 16, 2024](https://london.ca/government/calendar/civic-works-committee-july-16-2024) |
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - July 16, 2024](https://london.ca/government/calendar/planning-environment-committee-july-16-2024) |
 |  | 15:00 | [Maker](/about#Maker) | [Open Studio ](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-xkyks-ccptd-jfws7-9r8mg-ce85p-4tgpe) |
@@ -107,3 +120,4 @@ View only a category:
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - November 12, 2024](https://london.ca/government/calendar/planning-environment-committee-november-12-2024) |
 | Wed Nov 13 | 12:00 | [City](/about#City) | [Audit Committee - November 13, 2024](https://london.ca/government/calendar/audit-committee-november-13-2024) |
 | Mon Nov 18 | 13:00 | [City](/about#City) | [Corporate Services Committee - November 18, 2024](https://london.ca/government/calendar/corporate-services-committee-november-18-2024) |
+| Tue Nov 19 | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - November 19, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-november-19-2024) |

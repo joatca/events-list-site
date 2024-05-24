@@ -1,6 +1,6 @@
 ---
 title: "Events - culture"
-date: 2024-05-23T00:00:22-04:00
+date: 2024-05-24T00:00:29-04:00
 draft: false
 ---
 
@@ -9,13 +9,13 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Thu) |  | [PSFT](/about#PSFT) | [The Beaver Club](https://psft.ca/event/the-beaver-club/) |
-| Sat May 25 | 12:00 | [Museum](/about#Museum) | [*SOLD OUT* Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10912/) |
+| Today (Fri) |  | [PSFT](/about#PSFT) | [The Beaver Club](https://psft.ca/event/the-beaver-club/) |
+| Tomorrow (Sat) | 12:00 | [Museum](/about#Museum) | [*SOLD OUT* Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10912/) |
 | Sun May 26 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Whimsical Watercolour Resist](https://museumlondon.ca/programs-events/event/11011/2024/05/26) |
 | Thu May 30 | 19:00 | [Museum](/about#Museum) | [Magisterra at the Museum: Bohemian Rhapsody](https://museumlondon.ca/programs-events/event/11687/) |
 | Fri May 31 | 09:00 | [Museum](/about#Museum) | [ML Kids Day Camp: Art Detective and History Mystery](https://museumlondon.ca/programs-events/event/11438/) |
 | Sat Jun 01 | 10:30 | [Museum](/about#Museum) | [History Walk: Heaven and Hell](https://museumlondon.ca/programs-events/event/11624/) |
-| Tue Jun 04 |  | [PSFT](/about#PSFT) | [Funny Valentine A Michael Buble Tribute](https://psft.ca/event/funny-valentine-a-michael-buble-tribute/) |
+| Tue Jun 04 |  | [PSFT](/about#PSFT) | [A Michael Buble Tribute Show](https://psft.ca/event/funny-valentine-a-michael-buble-tribute/) |
 | Sat Jun 08 | 10:30 | [Museum](/about#Museum) | [History Walk: Digging Dundas](https://museumlondon.ca/programs-events/event/11630/) |
 | Sun Jun 09 | 13:00 | [Museum](/about#Museum) | [Imagination Station : Character Collage](https://museumlondon.ca/programs-events/event/11616/) |
 | Sat Jun 15 | 10:30 | [Museum](/about#Museum) | [History Walk: Castles to Cottages](https://museumlondon.ca/programs-events/event/11640/) |

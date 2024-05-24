@@ -1,6 +1,6 @@
 ---
 title: "Events - entertainment"
-date: 2024-05-23T00:00:22-04:00
+date: 2024-05-24T00:00:29-04:00
 draft: false
 ---
 
@@ -9,17 +9,15 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Thu) |  | [BudG](/about#BudG) | [London Lightning Playoffs - Round 2 Home Game 1](https://www.budweisergardens.com/events/detail/lightning-playoffs-r2g1-1) |
-|  |  | [Grand](/about#Grand) | [Grease](https://www.grandtheatre.com/event/grease) |
-|  | 18:00 | [LMH](/about#LMH) | [Sentiment Dissolve – ‘The Orwellian Dream’ Release Party](http://londonmusichall.com/events/sentiment-dissolve-the-orwellian-dream-release-party/) |
-|  | 19:30 | [Aeol](/about#Aeol) | [Good Lovelies – We Will Never Be The Same Tour				](https://aeolianhall.ca/events/good-lovelies-we-will-never-be-the-same-tour/) |
-| Tomorrow (Fri) | 20:00 | [LMH](/about#LMH) | [Wing Night: The Band](http://londonmusichall.com/events/wing-night-the-band-6/) |
-| Sat May 25 |  | [BudG](/about#BudG) | [Lightning Playoffs - Round 2 Home Game 2](https://www.budweisergardens.com/events/detail/lightning-playoffs-r2g2-1) |
+| Today (Fri) |  | [Grand](/about#Grand) | [Grease](https://www.grandtheatre.com/event/grease) |
+|  | 20:00 | [LMH](/about#LMH) | [Wing Night: The Band](http://londonmusichall.com/events/wing-night-the-band-6/) |
+| Tomorrow (Sat) |  | [BudG](/about#BudG) | [Lightning Playoffs - Round 2 Home Game 2](https://www.budweisergardens.com/events/detail/lightning-playoffs-r2g2-1) |
 |  | 12:00 | [Aeol](/about#Aeol) | [TEDx Dundas Place Youth: Harmony				](https://aeolianhall.ca/events/tedx-dundas-place-youth-harmony/) |
 |  | 12:00 | [Museum](/about#Museum) | [*SOLD OUT* Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10912/) |
 | Sun May 26 | 13:00 | [Museum](/about#Museum) | [Imagination Station: Whimsical Watercolour Resist](https://museumlondon.ca/programs-events/event/11011/2024/05/26) |
 |  | 19:00 | [LMH](/about#LMH) | [CHRIS WEBBY – THE LAST WEDNESDAY TOUR PART 2](http://londonmusichall.com/events/the-last-wednesday-tour-part-2/) |
 | Mon May 27 | 13:30 | [FMus](/about#FMus) | [Doctoral Public Lecture \| Eric Zwicker](http://www.events.westernu.ca/events/grad-postdoc-studies/2024-05/doctoral-public-lecture-eric-zwicker.html) |
+|  | 14:00 | [FMus](/about#FMus) | [Master's Recital - Evan Williams, voice - NEW DATE](http://www.events.westernu.ca/events/music/2024-04/student-recital-evan-williams.html) |
 | Tue May 28 |  | [Grand](/about#Grand) | [Bruce Cockburn](https://www.grandtheatre.com/event/bruce-cockburn) |
 | Wed May 29 | 10:00 | [FMus](/about#FMus) | [Doctoral Public Lecture \| Clare King](http://www.events.westernu.ca/events/grad-postdoc-studies/2024-05/doctoral-public-lecture-clare-king.html) |
 |  | 18:30 | [Aeol](/about#Aeol) | [Aeolian Pride Social Series – Mathew V				](https://aeolianhall.ca/events/aeolian-pride-social-series-mathew-v/) |
@@ -83,6 +81,7 @@ View only a category:
 | Thu Jul 18 | 18:00 | [Museum](/about#Museum) | [Culture Walk: Hidden Secrets of Downtown](https://museumlondon.ca/programs-events/event/11662/) |
 | Fri Jul 19 | 21:00 | [LMH](/about#LMH) | [Roy Wood$](http://londonmusichall.com/events/roy-wood/) |
 | Sat Jul 20 | 10:30 | [Museum](/about#Museum) | [History Walk: Castles to Cottages](https://museumlondon.ca/programs-events/event/11642/) |
+| Sun Jul 21 |  | [BudG](/about#BudG) | [RAIN - A Tribute to The BEATLES](https://www.budweisergardens.com/events/detail/rain-a-tribute-to-the-beatles) |
 | Mon Jul 22 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Bug Out!](https://museumlondon.ca/programs-events/event/11420/) |
 | Thu Jul 25 | 18:00 | [Museum](/about#Museum) | [Culture Walk: Murals of Downtown](https://museumlondon.ca/programs-events/event/11679/) |
 | Sat Jul 27 | 10:30 | [Museum](/about#Museum) | [Culture Walk: Hidden In Plain Sight](https://museumlondon.ca/programs-events/event/11664/) |
@@ -132,3 +131,4 @@ View only a category:
 | Tue Nov 05 | 20:00 | [Aeol](/about#Aeol) | [George Canyon – Solo/Acoustic				](https://aeolianhall.ca/events/george-canyon-solo-acoustic/) |
 | Sun Nov 10 | 20:00 | [Aeol](/about#Aeol) | [Danny Michel & Steve Poltz				](https://aeolianhall.ca/events/danny-michel-steve-poltz-2/) |
 | Sun Nov 17 | 20:00 | [Aeol](/about#Aeol) | [Joel Plaskett – One Real Reveal On Wheels				](https://aeolianhall.ca/events/joel-plaskett-one-real-reveal-on-wheels/) |
+| Tue Nov 19 |  | [Grand](/about#Grand) | [The Sound of Music](https://www.grandtheatre.com/event/sound-of-music) |
