@@ -1,6 +1,6 @@
 ---
 title: "Events - entertainment"
-date: 2024-05-25T00:00:29-04:00
+date: 2024-05-26T00:00:33-04:00
 draft: false
 ---
 
@@ -9,13 +9,10 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Sat) |  | [BudG](/about#BudG) | [Lightning Playoffs - Round 2 Home Game 2](https://www.budweisergardens.com/events/detail/lightning-playoffs-r2g2-1) |
-|  |  | [Grand](/about#Grand) | [Grease](https://www.grandtheatre.com/event/grease) |
-|  | 12:00 | [Aeol](/about#Aeol) | [TEDx Dundas Place Youth: Harmony				](https://aeolianhall.ca/events/tedx-dundas-place-youth-harmony/) |
-|  | 12:00 | [Museum](/about#Museum) | [*SOLD OUT* Watercolour Drawing with Angie Quick](https://museumlondon.ca/programs-events/event/10912/) |
-| Tomorrow (Sun) | 13:00 | [Museum](/about#Museum) | [Imagination Station: Whimsical Watercolour Resist](https://museumlondon.ca/programs-events/event/11011/2024/05/26) |
+| Today (Sun) |  | [Grand](/about#Grand) | [Grease](https://www.grandtheatre.com/event/grease) |
+|  | 13:00 | [Museum](/about#Museum) | [Imagination Station: Whimsical Watercolour Resist](https://museumlondon.ca/programs-events/event/11011/2024/05/26) |
 |  | 19:00 | [LMH](/about#LMH) | [CHRIS WEBBY – THE LAST WEDNESDAY TOUR PART 2](http://londonmusichall.com/events/the-last-wednesday-tour-part-2/) |
-| Mon May 27 | 13:30 | [FMus](/about#FMus) | [Doctoral Public Lecture \| Eric Zwicker](http://www.events.westernu.ca/events/grad-postdoc-studies/2024-05/doctoral-public-lecture-eric-zwicker.html) |
+| Tomorrow (Mon) | 13:30 | [FMus](/about#FMus) | [Doctoral Public Lecture \| Eric Zwicker](http://www.events.westernu.ca/events/grad-postdoc-studies/2024-05/doctoral-public-lecture-eric-zwicker.html) |
 |  | 14:00 | [FMus](/about#FMus) | [Master's Recital - Evan Williams, voice - NEW DATE](http://www.events.westernu.ca/events/music/2024-04/student-recital-evan-williams.html) |
 | Tue May 28 |  | [Grand](/about#Grand) | [Bruce Cockburn](https://www.grandtheatre.com/event/bruce-cockburn) |
 | Wed May 29 | 10:00 | [FMus](/about#FMus) | [Doctoral Public Lecture \| Clare King](http://www.events.westernu.ca/events/grad-postdoc-studies/2024-05/doctoral-public-lecture-clare-king.html) |
@@ -38,7 +35,7 @@ View only a category:
 |  | 10:30 | [Museum](/about#Museum) | [History Walk: Digging Dundas](https://museumlondon.ca/programs-events/event/11630/) |
 |  | 14:00 | [Aeol](/about#Aeol) | [SOS – The ABBA Experience (Saturday Matinee)				](https://aeolianhall.ca/events/sos-the-abba-experience-5/) |
 |  | 19:30 | [Aeol](/about#Aeol) | [SOS – The ABBA Experience				](https://aeolianhall.ca/events/sos-the-abba-experience-4/) |
-|  | 22:00 | [LMH](/about#LMH) | [FILM @ system Saturday](http://londonmusichall.com/events/film-system-saturday/) |
+|  | 22:00 | [LMH](/about#LMH) | [FLIM @ system Saturday](http://londonmusichall.com/events/film-system-saturday/) |
 | Sun Jun 09 | 13:00 | [Museum](/about#Museum) | [Imagination Station : Character Collage](https://museumlondon.ca/programs-events/event/11616/) |
 |  | 19:00 | [Aeol](/about#Aeol) | [FCLMA – Classical, Jazz & World Music Gala				](https://aeolianhall.ca/events/fclma-classical-jazz-world-music-gala/) |
 | Mon Jun 10 | 19:00 | [LMH](/about#LMH) | [Heathen](http://londonmusichall.com/events/heathen/) |
@@ -88,6 +85,7 @@ View only a category:
 |  | 21:00 | [LMH](/about#LMH) | [Thunder from Down Under – Untamed 2024 Tour](http://londonmusichall.com/events/thunder-from-down-under-untamed-2024-tour/) |
 | Mon Jul 29 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Press Play](https://museumlondon.ca/programs-events/event/11421/) |
 | Tue Jul 30 | 19:00 | [LMH](/about#LMH) | [Jack Botts](http://londonmusichall.com/events/jack-botts/) |
+| Wed Jul 31 |  | [BudG](/about#BudG) | [Lamb Of God & Mastodon: ASHES OF LEVIATHAN TOUR](https://www.budweisergardens.com/events/detail/lamb-of-god-mastodon) |
 | Thu Aug 01 |  | [Grand](/about#Grand) | [Tango in the Dark](https://www.grandtheatre.com/event/tango-in-the-dark) |
 |  | 18:00 | [Museum](/about#Museum) | [Culture Walk: Hidden Secrets of Downtown](https://museumlondon.ca/programs-events/event/11666/) |
 | Sat Aug 03 | 10:30 | [Museum](/about#Museum) | [History Walk: Bats, Beans, and Bridges](https://museumlondon.ca/programs-events/event/11655/) |

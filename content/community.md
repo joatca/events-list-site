@@ -1,6 +1,6 @@
 ---
 title: "Events - community"
-date: 2024-05-25T00:00:29-04:00
+date: 2024-05-26T00:00:33-04:00
 draft: false
 ---
 
@@ -9,12 +9,8 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Sat) |  | [PSFT](/about#PSFT) | [The Beaver Club](https://psft.ca/event/the-beaver-club/) |
-|  |  | [Maker](/about#Maker) | [Charcuterie Board Workshop](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-xkyks-ccptd-jfws7-lewm4) |
-|  | 09:00 | [City](/about#City) | [Touch a Truck event celebrating National Public Works Week - May 25, 2024](https://london.ca/government/calendar/touch-truck-event-celebrating-national-public-works-week-may-25-2024) |
-|  | 10:00 | [City](/about#City) | [Rescue Rendezvous - Cat Adoption Event - May 25, 2024](https://london.ca/government/calendar/rescue-rendezvous-cat-adoption-event-may-25-2024) |
-|  | 13:00 | [Info](/about#Info) | [Take-A-Shot Para Sport Day](https://www.informationlondon.ca/Event/Detail/49968/Take-A-Shot_Para_Sport_Day?date=2024-05-25) |
-| Mon May 27 | 13:00 | [City](/about#City) | [Corporate Services Committee - May 27, 2024](https://london.ca/government/calendar/corporate-services-committee-may-27-2024) |
+| Today (Sun) |  | [PSFT](/about#PSFT) | [The Beaver Club](https://psft.ca/event/the-beaver-club/) |
+| Tomorrow (Mon) | 13:00 | [City](/about#City) | [Corporate Services Committee - May 27, 2024](https://london.ca/government/calendar/corporate-services-committee-may-27-2024) |
 |  | 14:30 | [Info](/about#Info) | [Mindful Mondays (Young Adults)](https://www.informationlondon.ca/Event/Detail/50260/Mindful_Mondays_Young_Adults?date=2024-05-27) |
 |  | 16:00 | [Maker](/about#Maker) | [Mini Makers (Age 3-6) May Session: Celebrate Spring!](https://www.hellomaker.ca/events/minimakersmay-bnp4f-w94d2-9addp) |
 | Tue May 28 |  | [RBCP](/about#RBCP) | [Schulich Medicine & Dentistry Awards of Excellence Dinner](https://www.rbcplacelondon.com/events/schulich-medicine-dentistry-awards-excellence-dinner-may-28) |
@@ -42,7 +38,6 @@ View only a category:
 | Wed Jun 12 |  | [RBCP](/about#RBCP) | [Southwestern Ontario Real Estate Forum](https://www.rbcplacelondon.com/events/southwestern-ontario-real-estate-forum-june-12-13) |
 |  | 12:00 | [Maker](/about#Maker) | [Collage Art Notebook ](https://www.hellomaker.ca/events/irqu905qi77vqjbol00gy0uc19ja68-gns73-fhhpr-najh8-yc3gg-6bcww-pjpfr-nfd4a-xy52p-b6wsn-le4b7-p6985) |
 |  | 14:00 | [Maker](/about#Maker) | [Floral Resin Jewlery ](https://www.hellomaker.ca/events/waxmeltworkshop-d3wr2-rt83p-tghwl-y5h35-nx3xn-w3l69-4pj2x) |
-| Thu Jun 13 | 13:30 | [City](/about#City) | [Committee of Adjustment - June 13, 2024](https://london.ca/government/calendar/committee-adjustment-june-13-2024) |
 | Mon Jun 17 | 13:00 | [City](/about#City) | [Corporate Services Committee - June 17, 2024](https://london.ca/government/calendar/corporate-services-committee-june-17-2024) |
 | Tue Jun 18 | 09:30 | [City](/about#City) | [Dearness Home Committee of Management - June 18, 2024](https://london.ca/government/calendar/dearness-home-committee-management-june-18-2024) |
 |  | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - June 18, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-june-18-2024) |
@@ -120,3 +115,4 @@ View only a category:
 | Wed Nov 13 | 12:00 | [City](/about#City) | [Audit Committee - November 13, 2024](https://london.ca/government/calendar/audit-committee-november-13-2024) |
 | Mon Nov 18 | 13:00 | [City](/about#City) | [Corporate Services Committee - November 18, 2024](https://london.ca/government/calendar/corporate-services-committee-november-18-2024) |
 | Tue Nov 19 | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - November 19, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-november-19-2024) |
+| Thu Nov 21 | 09:30 | [City](/about#City) | [BUDGET COMMITTEE - November 21, 2024](https://london.ca/government/calendar/budget-committee-november-21-2024) |
