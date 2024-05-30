@@ -1,6 +1,6 @@
 ---
 title: "Events - entertainment"
-date: 2024-05-29T00:00:26-04:00
+date: 2024-05-30T00:00:25-04:00
 draft: false
 ---
 
@@ -9,11 +9,9 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Wed) | 10:00 | [FMus](/about#FMus) | [Doctoral Public Lecture \| Clare King](http://www.events.westernu.ca/events/grad-postdoc-studies/2024-05/doctoral-public-lecture-clare-king.html) |
-|  | 18:30 | [Aeol](/about#Aeol) | [Aeolian Pride Social Series – Mathew V				](https://aeolianhall.ca/events/aeolian-pride-social-series-mathew-v/) |
-| Tomorrow (Thu) |  | [Grand](/about#Grand) | [Jeans 'n Classics 2023/24 Series](https://www.grandtheatre.com/event/jeans-n-classics-2324) |
+| Today (Thu) |  | [Grand](/about#Grand) | [Jeans 'n Classics 2023/24 Series](https://www.grandtheatre.com/event/jeans-n-classics-2324) |
 |  | 19:00 | [Museum](/about#Museum) | [Magisterra at the Museum: Bohemian Rhapsody](https://museumlondon.ca/programs-events/event/11687/) |
-| Fri May 31 |  | [Grand](/about#Grand) | [The Last Five Years](https://www.grandtheatre.com/event/last-five-years) |
+| Tomorrow (Fri) |  | [Grand](/about#Grand) | [The Last Five Years](https://www.grandtheatre.com/event/last-five-years) |
 |  | 09:00 | [Museum](/about#Museum) | [ML Kids Day Camp: Art Detective and History Mystery](https://museumlondon.ca/programs-events/event/11438/) |
 |  | 22:00 | [LMH](/about#LMH) | [EMO NIGHT: LONDON](http://londonmusichall.com/events/emo-night-london-15/) |
 | Sat Jun 01 |  | [BudG](/about#BudG) | [Professional Bull Riders](https://www.budweisergardens.com/events/detail/professional-bull-riders-4) |
@@ -119,6 +117,8 @@ View only a category:
 | Sun Sep 29 | 20:00 | [Aeol](/about#Aeol) | [Ruzz Guitar’s Blues Revue				](https://aeolianhall.ca/events/ruzz-guitars-blues-revue-2/) |
 | Thu Oct 03 | 19:30 | [Aeol](/about#Aeol) | [Classic Lightfoot Live				](https://aeolianhall.ca/events/classic-lightfoot-live-2/) |
 | Sat Oct 05 | 19:00 | [LMH](/about#LMH) | [Death From Above 1979](http://londonmusichall.com/events/death-from-above-1979/) |
+| Sun Oct 06 | 19:00 | [LMH](/about#LMH) | [Andy Shauf – Fall 2024 Solo Tour](http://londonmusichall.com/events/andy-shauf-fall-2024-solo-tour/) |
+| Wed Oct 09 | 20:00 | [Aeol](/about#Aeol) | [Comedy Here Often? & SXM Comedy Club present: Jon Dore & Dave Merheje				](https://aeolianhall.ca/events/comedy-here-often-siriusxm-comedy-club-present-jon-dore-dave-merheje/) |
 | Fri Oct 11 | 19:00 | [LMH](/about#LMH) | [NERVOSA: The Great American Jailbreak Tour](http://londonmusichall.com/events/nervosa-the-great-american-jailbreak-tour/) |
 | Tue Oct 15 |  | [Grand](/about#Grand) | [As You Like It](https://www.grandtheatre.com/event/as-you-like-it) |
 | Sun Oct 20 | 19:30 | [Aeol](/about#Aeol) | [Shantero Productions Presents: The Comic Strippers (19+)				](https://aeolianhall.ca/events/the-comic-strippers-19/) |
