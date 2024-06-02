@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2024-05-31T00:00:30-04:00
+date: 2024-06-02T12:49:54-04:00
 draft: false
 ---
 
@@ -12,21 +12,21 @@ This page knows about events on these sites.
 | **Aeol** | [Aeolian Hall](https://aeolianhall.ca/events/) | *24 events found*
 | **BudG** | [Budweiser Gardens](https://www.budweisergardens.com/events) | *8 events found*
 | **CCFL** | [Carrefour communautaire francophone de london]() | *Not supported: website not sufficiently structured to process*
-| **CGM** | [Covent Garden Market](https://coventmarket.com/events/) | *6 events found*
-| **CMus** | [London Children's Museum](https://www.londonchildrensmuseum.ca/events) | *161 events found*
+| **CGM** | [Covent Garden Market](https://coventmarket.com/events/) | *63 events found*
+| **CMus** | [London Children's Museum](https://www.londonchildrensmuseum.ca/events) | *86 events found*
 | **Cent** | [Centennial Hall]() | *Not supported: website not sufficiently structured to process*
-| **City** | [London City Government Calendar](https://london.ca/government/calendar) | *59 events found*
-| **Eldon** | [Eldon House](https://eldonhouse.ca/events/) | *4 events found*
+| **City** | [London City Government Calendar](https://london.ca/government/calendar) | *60 events found*
+| **Eldon** | [Eldon House](https://eldonhouse.ca/events/) | *3 events found*
 | **FMus** | [Don Wright Faculty of Music](http://www.events.westernu.ca/events/music/) | *2 events found*
 | **Grand** | [Grand Theatre](https://www.grandtheatre.com/events) | *11 events found*
-| **Info** | [Information London](https://www.informationlondon.ca/Event/List) | *19 events found*
-| **LMH** | [London Music Hall](http://londonmusichall.com/upcoming-events/) | *32 events found*
-| **Maker** | [Hello Maker](https://www.hellomaker.ca/events) | *31 events found*
-| **Museum** | [Museum London](https://museumlondon.ca/programs-events) | *44 events found*
-| **PSFT** | [Post Stanley Festival Theatre - Summer Season](https://psft.ca/schedule/summer-season/) | *6 events found*
+| **Info** | [Information London](https://www.informationlondon.ca/Event/List) | *18 events found*
+| **LMH** | [London Music Hall](http://londonmusichall.com/upcoming-events/) | *30 events found*
+| **Maker** | [Hello Maker](https://www.hellomaker.ca/events) | *Error: unable to fetch any events*
+| **Museum** | [Museum London](https://museumlondon.ca/programs-events) | *42 events found*
+| **PSFT** | [Post Stanley Festival Theatre - Summer Season](https://psft.ca/schedule/summer-season/) | *Error: unable to fetch any events*
 | **PSFTOff** | [Post Stanley Festival Theatre - Off Season](https://psft.ca/schedule/off-season-events/) | *Error: unable to fetch any events*
 | **RBCP** | [RBP Place](https://www.rbcplacelondon.com/events) | *5 events found*
 | **TVDSB** | [Thames Valley District School Board](https://calendar.tvdsb.ca/) | *Error: unable to fetch any events*
-| **Tour** | [Tourism London](https://www.londontourism.ca/events/all-events) | *65 events found*
+| **Tour** | [Tourism London](https://www.londontourism.ca/events/all-events) | *7 events found*
 
-_Last updated 2024-05-31 00:00:30 -0400_
+_Last updated 2024-06-02 12:49:54 -0400_
