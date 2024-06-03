@@ -1,6 +1,6 @@
 ---
 title: "Events - downtown"
-date: 2024-06-02T12:49:54-04:00
+date: 2024-06-03T00:00:00-04:00
 draft: false
 ---
 
@@ -9,12 +9,9 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Sun) |  | [Grand](/about#Grand) | [The Last Five Years](https://www.grandtheatre.com/event/last-five-years) |
-|  | 11:00 | [CMus](/about#CMus) | [STEAM: Pompom Launcher](https://www.londonchildrensmuseum.ca/event/steam-pompom-launcher) |
-|  | 13:00 | [CGM](/about#CGM) | [Lester B. Pearson School Performance](https://coventmarket.com/event/lester-b-pearson-school-performance/) |
-|  | 14:30 | [CMus](/about#CMus) | [STEAM: Pompom Launcher](https://www.londonchildrensmuseum.ca/event/steam-pompom-launcher) |
-| Tomorrow (Mon) | 10:00 | [Info](/about#Info) | [CARP Retirement Lifestyle EXPO ](https://www.informationlondon.ca/Event/Detail/50438/CARP_Retirement_Lifestyle_EXPO_?date=2024-06-03) |
-| Tue Jun 04 | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
+| Today (Mon) |  | [Grand](/about#Grand) | [The Last Five Years](https://www.grandtheatre.com/event/last-five-years) |
+|  | 10:00 | [Info](/about#Info) | [CARP Retirement Lifestyle EXPO ](https://www.informationlondon.ca/Event/Detail/50438/CARP_Retirement_Lifestyle_EXPO_?date=2024-06-03) |
+| Tomorrow (Tue) | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
 |  | 19:00 | [LMH](/about#LMH) | [Randy (Trailer Park Boys) Cheeseburger Picnic Comedy Tour](http://londonmusichall.com/events/randy-trailer-park-boys-cheeseburger-picnic-comedy-tour/) |
 | Wed Jun 05 | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
 |  | 18:00 | [CGM](/about#CGM) | [Tarot Flows](https://coventmarket.com/event/tarot-flows-with-lily-3/) |
@@ -56,6 +53,7 @@ View only a category:
 | Thu Jun 13 | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
 |  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
 |  | 18:00 | [CMus](/about#CMus) | [STEAM: Take Flight!](https://www.londonchildrensmuseum.ca/event/steam-take-flight) |
+|  | 18:30 | [Aeol](/about#Aeol) | [AJAMAF 2024 – Aitken \| Ladd \| Peacock (Southen Lounge)				](https://aeolianhall.ca/events/ajamaf-2024-aitken-ladd-peacock-southen-lounge/) |
 |  | 18:30 | [Aeol](/about#Aeol) | [El Sistema Aeolian Concert				](https://aeolianhall.ca/events/el-sistema-aeolian-concert-3/) |
 |  | 19:00 | [LMH](/about#LMH) | [Bleeker](http://londonmusichall.com/events/bleeker/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [AJAMAF 2024: Alex Cuba				](https://aeolianhall.ca/events/ajamaf-2024-alex-cuba/) |
@@ -63,6 +61,7 @@ View only a category:
 |  | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
 |  | 11:00 | [CMus](/about#CMus) | [OUTREACH: London Children's Festival](https://www.londonchildrensmuseum.ca/event/outreach-london-childrens-festival) |
 |  | 16:30 | [Info](/about#Info) | [Diabetes Fit ](https://www.informationlondon.ca/Event/Detail/50154/Diabetes_Fit_?date=2024-06-14) |
+|  | 18:30 | [Aeol](/about#Aeol) | [AJAMAF 2024 – Jayne Hysen Quartet (Southen Lounge)				](https://aeolianhall.ca/events/ajamaf-2024-jayne-hysen-quartet-southen-lounge/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [AJAMAF 2024: Carol Welsman				](https://aeolianhall.ca/events/ajamaf-2024-carol-welsman/) |
 | Sat Jun 15 | 08:00 | [CGM](/about#CGM) | [Outdoor Farmers Market](https://coventmarket.com/event/outdoor-farmers-market-3/) |
 |  | 10:30 | [Museum](/about#Museum) | [History Walk: Castles to Cottages](https://museumlondon.ca/programs-events/event/11640/) |
@@ -245,8 +244,8 @@ View only a category:
 | Fri Sep 20 | 20:00 | [Aeol](/about#Aeol) | [Martha Wainwright				](https://aeolianhall.ca/events/martha-wainwright-3/) |
 | Sat Sep 21 | 08:00 | [CGM](/about#CGM) | [Outdoor Farmers Market](https://coventmarket.com/event/outdoor-farmers-market-4-4/) |
 |  | 10:30 | [Museum](/about#Museum) | [History Walk: Castles to Cottages](https://museumlondon.ca/programs-events/event/11646/) |
-|  | 15:00 | [CGM](/about#CGM) | [SOKONI Market](https://coventmarket.com/event/sokoni-market-9-4/) |
 |  | 15:00 | [CGM](/about#CGM) | [The Mom Market](https://coventmarket.com/event/the-mom-market-10/) |
+|  | 15:00 | [CGM](/about#CGM) | [SOKONI Market](https://coventmarket.com/event/sokoni-market-9-4/) |
 | Sun Sep 22 |  | [Grand](/about#Grand) | [The Jeffery Concerts](https://www.grandtheatre.com/event/jeffery-concerts) |
 |  | 11:00 | [CGM](/about#CGM) | [Multicultural Sunday at the Market!](https://coventmarket.com/event/multicultural-sundays-at-the-market-6/) |
 | Thu Sep 26 | 18:00 | [Museum](/about#Museum) | [Culture Walk: Hidden Secrets of Downtown](https://museumlondon.ca/programs-events/event/11674/) |

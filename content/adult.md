@@ -1,6 +1,6 @@
 ---
 title: "Events - adult"
-date: 2024-06-02T12:49:54-04:00
+date: 2024-06-03T00:00:00-04:00
 draft: false
 ---
 
@@ -9,26 +9,20 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Sun) |  | [Grand](/about#Grand) | [The Last Five Years](https://www.grandtheatre.com/event/last-five-years) |
-|  |  | [Tour](/about#Tour) | [London Majors vs Chatham-Kent - June 2](https://www.londontourism.ca/events/london-majors-vs-chatham-kent-june-2) |
-|  |  | [Tour](/about#Tour) | [48th Annual Geranium Heritage House Tour - Elmwood Excursion](https://www.londontourism.ca/events/48th-annual-geranium-heritage-house-tour-elmwood-excursion) |
-|  |  | [Tour](/about#Tour) | [80th Anniversary of D-Day - Victoria Park](https://www.londontourism.ca/events/80th-anniversary-of-d-day-victoria-park) |
-|  |  | [Tour](/about#Tour) | [Sunday Jazz in Market Lane: The Jitterbugs](https://www.londontourism.ca/events/sunday-jazz-in-market-lane-the-jitterbugs) |
-|  |  | [Tour](/about#Tour) | [Mary Poppins](https://www.londontourism.ca/events/mary-poppins) |
+| Today (Mon) |  | [Grand](/about#Grand) | [The Last Five Years](https://www.grandtheatre.com/event/last-five-years) |
 |  |  | [Tour](/about#Tour) | [Michael Pszczonak](https://www.londontourism.ca/events/michael-pszczonak) |
-|  |  | [RBCP](/about#RBCP) | [City of London Probationary Firefighter Exam](https://www.rbcplacelondon.com/events/city-london-probationary-firefighter-exam-june-2) |
-|  | 13:00 | [CGM](/about#CGM) | [Lester B. Pearson School Performance](https://coventmarket.com/event/lester-b-pearson-school-performance/) |
-|  | 18:00 | [FMus](/about#FMus) | [Doctoral Recital - Shantanu Thaivalappil, voice ](http://www.events.westernu.ca/events/music/2024-06/student-recital-shantanu-thaivalappil.html) |
-| Tomorrow (Mon) |  | [RBCP](/about#RBCP) | [Healthy Bodies, Healthy Minds](https://www.rbcplacelondon.com/events/healthy-bodies-healthy-minds-june-3) |
+|  |  | [RBCP](/about#RBCP) | [Healthy Bodies, Healthy Minds](https://www.rbcplacelondon.com/events/healthy-bodies-healthy-minds-june-3) |
 |  | 10:00 | [Info](/about#Info) | [CARP Retirement Lifestyle EXPO ](https://www.informationlondon.ca/Event/Detail/50438/CARP_Retirement_Lifestyle_EXPO_?date=2024-06-03) |
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - CANCELLED - June 03, 2024](https://london.ca/government/calendar/planning-environment-committee-cancelled-june-03-2024) |
-| Tue Jun 04 |  | [Tour](/about#Tour) | [LMRG Monthly Open House - June 4](https://www.londontourism.ca/events/lmrg-monthly-open-house-june-4) |
+| Tomorrow (Tue) |  | [Tour](/about#Tour) | [LMRG Monthly Open House - June 4](https://www.londontourism.ca/events/lmrg-monthly-open-house-june-4) |
 |  | 12:00 | [City](/about#City) | [Special Planning and Environment Committee - June 04, 2024](https://london.ca/government/calendar/special-planning-environment-committee-june-04-2024) |
 |  | 13:00 | [City](/about#City) | [Council - June 04, 2024](https://london.ca/government/calendar/council-june-04-2024) |
 |  | 19:00 | [LMH](/about#LMH) | [Randy (Trailer Park Boys) Cheeseburger Picnic Comedy Tour](http://londonmusichall.com/events/randy-trailer-park-boys-cheeseburger-picnic-comedy-tour/) |
 | Wed Jun 05 | 18:00 | [CGM](/about#CGM) | [Tarot Flows](https://coventmarket.com/event/tarot-flows-with-lily-3/) |
 |  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/50456/Friendship_Circle?date=2024-06-05) |
-| Thu Jun 06 | 13:30 | [City](/about#City) | [Committee of Adjustment - June 06, 2024](https://london.ca/government/calendar/committee-adjustment-june-06-2024) |
+| Thu Jun 06 |  | [Tour](/about#Tour) | [Near and Far Opening Reception by Tracy Bultje and Christopher Cape](https://www.londontourism.ca/events/near-and-far-opening-reception-by-tracy-bultje-and-christopher-cape) |
+|  |  | [Tour](/about#Tour) | [City of Music Concerts - June 6](https://www.londontourism.ca/events/city-of-music-concerts-june-6) |
+|  | 13:30 | [City](/about#City) | [Committee of Adjustment - June 06, 2024](https://london.ca/government/calendar/committee-adjustment-june-06-2024) |
 | Fri Jun 07 |  | [BudG](/about#BudG) | [Blippi: The Wonderful World Tour](https://www.budweisergardens.com/events/detail/blippi-the-wonderful-world-tour-1) |
 |  | 16:30 | [Info](/about#Info) | [Diabetes Fit ](https://www.informationlondon.ca/Event/Detail/50154/Diabetes_Fit_?date=2024-06-07) |
 |  | 19:30 | [Aeol](/about#Aeol) | [SOS – The ABBA Experience				](https://aeolianhall.ca/events/sos-the-abba-experience-3/) |
@@ -56,11 +50,13 @@ View only a category:
 |  | 19:00 | [LMH](/about#LMH) | [A Wilhelm Scream](http://londonmusichall.com/events/a-wilhelm-scream-2/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [AJAMAF 2024: An Evening with Sarah Smith				](https://aeolianhall.ca/events/ajamaf-2024-an-evening-with-sarah-smith/) |
 | Thu Jun 13 | 13:30 | [City](/about#City) | [Committee of Adjustment - June 13, 2024](https://london.ca/government/calendar/committee-adjustment-june-13-2024) |
+|  | 18:30 | [Aeol](/about#Aeol) | [AJAMAF 2024 – Aitken \| Ladd \| Peacock (Southen Lounge)				](https://aeolianhall.ca/events/ajamaf-2024-aitken-ladd-peacock-southen-lounge/) |
 |  | 18:30 | [Aeol](/about#Aeol) | [El Sistema Aeolian Concert				](https://aeolianhall.ca/events/el-sistema-aeolian-concert-3/) |
 |  | 19:00 | [LMH](/about#LMH) | [Bleeker](http://londonmusichall.com/events/bleeker/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [AJAMAF 2024: Alex Cuba				](https://aeolianhall.ca/events/ajamaf-2024-alex-cuba/) |
 | Fri Jun 14 |  | [BudG](/about#BudG) | [Snoop Dogg CALI TO CANADA TOUR](https://www.budweisergardens.com/events/detail/snoop-dogg) |
 |  | 16:30 | [Info](/about#Info) | [Diabetes Fit ](https://www.informationlondon.ca/Event/Detail/50154/Diabetes_Fit_?date=2024-06-14) |
+|  | 18:30 | [Aeol](/about#Aeol) | [AJAMAF 2024 – Jayne Hysen Quartet (Southen Lounge)				](https://aeolianhall.ca/events/ajamaf-2024-jayne-hysen-quartet-southen-lounge/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [AJAMAF 2024: Carol Welsman				](https://aeolianhall.ca/events/ajamaf-2024-carol-welsman/) |
 | Sat Jun 15 | 08:00 | [CGM](/about#CGM) | [Outdoor Farmers Market](https://coventmarket.com/event/outdoor-farmers-market-3/) |
 |  | 10:30 | [Museum](/about#Museum) | [History Walk: Castles to Cottages](https://museumlondon.ca/programs-events/event/11640/) |
@@ -220,8 +216,8 @@ View only a category:
 | Fri Sep 20 | 20:00 | [Aeol](/about#Aeol) | [Martha Wainwright				](https://aeolianhall.ca/events/martha-wainwright-3/) |
 | Sat Sep 21 | 08:00 | [CGM](/about#CGM) | [Outdoor Farmers Market](https://coventmarket.com/event/outdoor-farmers-market-4-4/) |
 |  | 10:30 | [Museum](/about#Museum) | [History Walk: Castles to Cottages](https://museumlondon.ca/programs-events/event/11646/) |
-|  | 15:00 | [CGM](/about#CGM) | [SOKONI Market](https://coventmarket.com/event/sokoni-market-9-4/) |
 |  | 15:00 | [CGM](/about#CGM) | [The Mom Market](https://coventmarket.com/event/the-mom-market-10/) |
+|  | 15:00 | [CGM](/about#CGM) | [SOKONI Market](https://coventmarket.com/event/sokoni-market-9-4/) |
 | Sun Sep 22 |  | [Grand](/about#Grand) | [The Jeffery Concerts](https://www.grandtheatre.com/event/jeffery-concerts) |
 |  | 11:00 | [CGM](/about#CGM) | [Multicultural Sunday at the Market!](https://coventmarket.com/event/multicultural-sundays-at-the-market-6/) |
 | Mon Sep 23 | 10:00 | [City](/about#City) | [Governance Working Group - September 23, 2024](https://london.ca/government/calendar/governance-working-group-september-23-2024) |

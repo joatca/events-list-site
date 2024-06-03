@@ -1,6 +1,6 @@
 ---
 title: "Events - community"
-date: 2024-06-02T12:49:54-04:00
+date: 2024-06-03T00:00:00-04:00
 draft: false
 ---
 
@@ -9,11 +9,10 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Sun) |  | [RBCP](/about#RBCP) | [City of London Probationary Firefighter Exam](https://www.rbcplacelondon.com/events/city-london-probationary-firefighter-exam-june-2) |
-| Tomorrow (Mon) |  | [RBCP](/about#RBCP) | [Healthy Bodies, Healthy Minds](https://www.rbcplacelondon.com/events/healthy-bodies-healthy-minds-june-3) |
+| Today (Mon) |  | [RBCP](/about#RBCP) | [Healthy Bodies, Healthy Minds](https://www.rbcplacelondon.com/events/healthy-bodies-healthy-minds-june-3) |
 |  | 10:00 | [Info](/about#Info) | [CARP Retirement Lifestyle EXPO ](https://www.informationlondon.ca/Event/Detail/50438/CARP_Retirement_Lifestyle_EXPO_?date=2024-06-03) |
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - CANCELLED - June 03, 2024](https://london.ca/government/calendar/planning-environment-committee-cancelled-june-03-2024) |
-| Tue Jun 04 | 12:00 | [City](/about#City) | [Special Planning and Environment Committee - June 04, 2024](https://london.ca/government/calendar/special-planning-environment-committee-june-04-2024) |
+| Tomorrow (Tue) | 12:00 | [City](/about#City) | [Special Planning and Environment Committee - June 04, 2024](https://london.ca/government/calendar/special-planning-environment-committee-june-04-2024) |
 |  | 13:00 | [City](/about#City) | [Council - June 04, 2024](https://london.ca/government/calendar/council-june-04-2024) |
 | Wed Jun 05 | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/50456/Friendship_Circle?date=2024-06-05) |
 | Thu Jun 06 | 13:30 | [City](/about#City) | [Committee of Adjustment - June 06, 2024](https://london.ca/government/calendar/committee-adjustment-june-06-2024) |
