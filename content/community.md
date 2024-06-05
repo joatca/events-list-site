@@ -1,6 +1,6 @@
 ---
 title: "Events - community"
-date: 2024-06-04T00:00:00-04:00
+date: 2024-06-05T00:00:00-04:00
 draft: false
 ---
 
@@ -9,15 +9,14 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Tue) |  | [PSFT](/about#PSFT) | [A Michael Buble Tribute Show](https://psft.ca/event/funny-valentine-a-michael-buble-tribute/) |
+| Today (Wed) |  | [PSFT](/about#PSFT) | [A Michael Buble Tribute Show](https://psft.ca/event/funny-valentine-a-michael-buble-tribute/) |
 |  |  | [Maker](/about#Maker) | [Mini Tapestry Weaving Workshop](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-xkyks-ccptd-jfws7-lewm4-mtlhg) |
 |  |  | [Maker](/about#Maker) | [Hand Lettering & Calligraphy (4 weeks)](https://www.hellomaker.ca/events/q8s1yenla3a6dmjix0wtwkpd2fm3fz-p7g3b-286t3-kk7hk-tdf37-52z5t-h2lwg-z6fm8-zeljm-45ylg-ls9xn) |
-|  | 12:00 | [City](/about#City) | [Special Planning and Environment Committee - June 04, 2024](https://london.ca/government/calendar/special-planning-environment-committee-june-04-2024) |
-|  | 13:00 | [City](/about#City) | [Council - June 04, 2024](https://london.ca/government/calendar/council-june-04-2024) |
-|  | 15:00 | [Maker](/about#Maker) | [Open Studio](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-xkyks) |
-| Tomorrow (Wed) | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/50456/Friendship_Circle?date=2024-06-05) |
-| Thu Jun 06 | 13:30 | [City](/about#City) | [Committee of Adjustment - June 06, 2024](https://london.ca/government/calendar/committee-adjustment-june-06-2024) |
-| Fri Jun 07 | 16:30 | [Info](/about#Info) | [Diabetes Fit ](https://www.informationlondon.ca/Event/Detail/50154/Diabetes_Fit_?date=2024-06-07) |
+|  |  | [Maker](/about#Maker) | [Open Studio](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-xkyks) |
+|  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/50456/Friendship_Circle?date=2024-06-05) |
+| Tomorrow (Thu) | 13:30 | [City](/about#City) | [Committee of Adjustment - June 06, 2024](https://london.ca/government/calendar/committee-adjustment-june-06-2024) |
+| Fri Jun 07 | 12:00 | [City](/about#City) | [Governance Working Group Sub-Committee - June 07, 2024](https://london.ca/government/calendar/governance-working-group-sub-committee-june-07-2024) |
+|  | 16:30 | [Info](/about#Info) | [Diabetes Fit ](https://www.informationlondon.ca/Event/Detail/50154/Diabetes_Fit_?date=2024-06-07) |
 | Mon Jun 10 | 12:00 | [Maker](/about#Maker) | [Polymer Clay Earring Workshop](https://www.hellomaker.ca/events/polymer-clay-earring-workshop-7m6jk-db26w-b42sc-c7l7d-m8rbg-yxm5r-a48nk-xggm8-mdblt-9z7h6-e36fb-tpnml-mbm56) |
 |  | 13:00 | [City](/about#City) | [Community and Protective Services Committee - June 10, 2024](https://london.ca/government/calendar/community-protective-services-committee-june-10-2024) |
 |  | 19:30 | [Maker](/about#Maker) | [Candle Making Workshop](https://www.hellomaker.ca/events/candleworkshop-8rmrf-shhxj-mb62a) |
@@ -48,7 +47,8 @@ View only a category:
 |  | 15:00 | [Maker](/about#Maker) | [Open Studio](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-xkyks-ccptd-jfws7-jg866) |
 |  | 19:30 | [Maker](/about#Maker) | [Embroidery 101: Custom Portrait](https://www.hellomaker.ca/events/irqu905qi77vqjbol00gy0uc19ja68-gns73-fhhpr-najh8-yc3gg-6bcww-pjpfr-nfd4a-xy52p-b6wsn-8a9ra-c7hyd-8afek) |
 | Wed Jun 26 | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/50456/Friendship_Circle?date=2024-06-26) |
-| Thu Jun 27 | 18:00 | [Maker](/about#Maker) | [Floral Resin Jewlery](https://www.hellomaker.ca/events/waxmeltworkshop-d3wr2-rt83p-tghwl-y5h35-nx3xn-w3l69-cdca5-r47lj) |
+| Thu Jun 27 | 13:30 | [City](/about#City) | [Committee of Adjustment - June 27, 2024](https://london.ca/government/calendar/committee-adjustment-june-27-2024) |
+|  | 18:00 | [Maker](/about#Maker) | [Floral Resin Jewlery](https://www.hellomaker.ca/events/waxmeltworkshop-d3wr2-rt83p-tghwl-y5h35-nx3xn-w3l69-cdca5-r47lj) |
 |  | 20:00 | [Maker](/about#Maker) | [Candle Making Workshop](https://www.hellomaker.ca/events/candleworkshop-8rmrf-shhxj-fzjzc) |
 | Fri Jun 28 | 16:30 | [Info](/about#Info) | [Diabetes Fit ](https://www.informationlondon.ca/Event/Detail/50154/Diabetes_Fit_?date=2024-06-28) |
 | Sat Jun 29 |  | [Eldon](/about#Eldon) | [Strawberry Tea at the Museum](https://eldonhouse.ca/product/strawberry-tea-at-the-museum/) |
@@ -96,6 +96,7 @@ View only a category:
 | Mon Sep 09 | 13:00 | [City](/about#City) | [Community and Protective Services Committee - September 09, 2024](https://london.ca/government/calendar/community-protective-services-committee-september-09-2024) |
 | Tue Sep 10 | 09:30 | [City](/about#City) | [Civic Works Committee - September 10, 2024](https://london.ca/government/calendar/civic-works-committee-september-10-2024) |
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - September 10, 2024](https://london.ca/government/calendar/planning-environment-committee-september-10-2024) |
+| Sat Sep 14 |  | [RBCP](/about#RBCP) | [London Comic Con 2024](https://www.rbcplacelondon.com/events/london-comic-con-2024-september-14-15) |
 | Mon Sep 16 | 13:00 | [City](/about#City) | [Corporate Services Committee - September 16, 2024](https://london.ca/government/calendar/corporate-services-committee-september-16-2024) |
 | Tue Sep 17 | 09:30 | [City](/about#City) | [Dearness Home Committee of Management - September 17, 2024](https://london.ca/government/calendar/dearness-home-committee-management-september-17-2024) |
 |  | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - September 17, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-september-17-2024) |

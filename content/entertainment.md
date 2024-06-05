@@ -1,6 +1,6 @@
 ---
 title: "Events - entertainment"
-date: 2024-06-04T00:00:00-04:00
+date: 2024-06-05T00:00:00-04:00
 draft: false
 ---
 
@@ -9,8 +9,7 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Tue) |  | [Grand](/about#Grand) | [The Last Five Years](https://www.grandtheatre.com/event/last-five-years) |
-|  | 19:00 | [LMH](/about#LMH) | [Randy (Trailer Park Boys) Cheeseburger Picnic Comedy Tour](http://londonmusichall.com/events/randy-trailer-park-boys-cheeseburger-picnic-comedy-tour/) |
+| Today (Wed) |  | [Grand](/about#Grand) | [The Last Five Years](https://www.grandtheatre.com/event/last-five-years) |
 | Fri Jun 07 |  | [BudG](/about#BudG) | [Blippi: The Wonderful World Tour](https://www.budweisergardens.com/events/detail/blippi-the-wonderful-world-tour-1) |
 |  | 19:30 | [Aeol](/about#Aeol) | [SOS – The ABBA Experience				](https://aeolianhall.ca/events/sos-the-abba-experience-3/) |
 | Sat Jun 08 |  | [BudG](/about#BudG) | [Monster Madness](https://www.budweisergardens.com/events/detail/monster-madness-1) |
@@ -33,8 +32,10 @@ View only a category:
 |  | 18:30 | [Aeol](/about#Aeol) | [AJAMAF 2024: Jayne Hysen Quartet (Southen Lounge)				](https://aeolianhall.ca/events/ajamaf-2024-jayne-hysen-quartet-southen-lounge/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [AJAMAF 2024: Carol Welsman				](https://aeolianhall.ca/events/ajamaf-2024-carol-welsman/) |
 | Sat Jun 15 | 10:30 | [Museum](/about#Museum) | [History Walk: Castles to Cottages](https://museumlondon.ca/programs-events/event/11640/) |
+|  | 11:00 | [Aeol](/about#Aeol) | [AJAMAF 2024 Workshop: Understanding The Music Industry (D&S Lounge)				](https://aeolianhall.ca/events/ajamaf-2024-workshop-understanding-the-music-industry-ds-lounge/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [AJAMAF 2024: Holly Cole – Dark Moon Tour				](https://aeolianhall.ca/events/ajamaf-2024-holly-cole-dark-moon-tour/) |
-| Sun Jun 16 | 13:00 | [Museum](/about#Museum) | [Imagination Station : Character Collage](https://museumlondon.ca/programs-events/event/11618/) |
+| Sun Jun 16 | 11:00 | [Aeol](/about#Aeol) | [AJAMAF 2024 Workshop: Gamelan Session (Rebelheart Lounge)				](https://aeolianhall.ca/events/ajamaf-2024-workshop-gamelan-session-rebelheart-lounge/) |
+|  | 13:00 | [Museum](/about#Museum) | [Imagination Station : Character Collage](https://museumlondon.ca/programs-events/event/11618/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [AJAMAF 2024: Heather Bambrick				](https://aeolianhall.ca/events/ajamaf-2024-heather-bambrick/) |
 | Thu Jun 20 | 19:00 | [Museum](/about#Museum) | [Summer Launch Party](https://museumlondon.ca/programs-events/event/11594/) |
 | Fri Jun 21 | 21:00 | [LMH](/about#LMH) | [EMO NIGHT: LONDON LIVE ft. STRIKE TYSON](http://londonmusichall.com/events/emo-night-london-live-ft-strike-tyson/) |
@@ -50,11 +51,13 @@ View only a category:
 | Fri Jun 28 | 19:00 | [LMH](/about#LMH) | [DJ Sekhar & Fejo](http://londonmusichall.com/events/dj-sekhar-fejo/) |
 | Sat Jun 29 |  | [Grand](/about#Grand) | [Decades of Bond - The Ultimate Tribute to the Music of James Bond](https://www.grandtheatre.com/event/decades-of-bond) |
 |  | 10:30 | [Museum](/about#Museum) | [History Walk: Bats, Beans, and Bridges](https://museumlondon.ca/programs-events/event/11653/) |
-| Tue Jul 02 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Paint and Splash Bash](https://museumlondon.ca/programs-events/event/11415/) |
+| Tue Jul 02 | 08:00 | [FMus](/about#FMus) | [Kodály Certification Program - July 2-12](http://www.events.westernu.ca/events/music/2024-07/kodaly-certification-program.html) |
+|  | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Paint and Splash Bash](https://museumlondon.ca/programs-events/event/11415/) |
 | Thu Jul 04 | 18:00 | [Museum](/about#Museum) | [Culture Walk: Hidden Secrets of Downtown](https://museumlondon.ca/programs-events/event/11660/) |
 |  | 18:00 | [LMH](/about#LMH) | [NORTHLANE – Mirror’s Edge Tour](http://londonmusichall.com/events/northlane-mirrors-edge-tour/) |
 | Fri Jul 05 | 21:00 | [LMH](/about#LMH) | [GIMME GIMME DISCO](http://londonmusichall.com/events/gimme-gimme-disco-2/) |
 | Sat Jul 06 | 10:30 | [Museum](/about#Museum) | [History Walk: Heaven and Hell](https://museumlondon.ca/programs-events/event/11626/) |
+|  | 22:00 | [LMH](/about#LMH) | [HOSTAGE SITUATION at SYSTEM SATURDAY](http://londonmusichall.com/events/hostage-situation-at-system-saturday/) |
 | Sun Jul 07 | 14:00 | [LMH](/about#LMH) | [Punch Out MS](http://londonmusichall.com/events/punch-out-ms/) |
 | Mon Jul 08 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: STEAMpunks Futuristic Fabricators](https://museumlondon.ca/programs-events/event/11418/) |
 | Wed Jul 10 | 18:00 | [LMH](/about#LMH) | [UPON A BURNING BODY – Low Riders & Stage Divers Tour](http://londonmusichall.com/events/upon-a-burning-body-low-riders-stage-divers-tour/) |
@@ -67,9 +70,11 @@ View only a category:
 | Sun Jul 21 |  | [BudG](/about#BudG) | [RAIN - A Tribute to The BEATLES](https://www.budweisergardens.com/events/detail/rain-a-tribute-to-the-beatles) |
 | Mon Jul 22 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Bug Out!](https://museumlondon.ca/programs-events/event/11420/) |
 | Thu Jul 25 | 18:00 | [Museum](/about#Museum) | [Culture Walk: Murals of Downtown](https://museumlondon.ca/programs-events/event/11679/) |
+| Fri Jul 26 | 19:00 | [LMH](/about#LMH) | [Talbotville Gore](http://londonmusichall.com/events/talbotville-gore/) |
 | Sat Jul 27 | 10:30 | [Museum](/about#Museum) | [Culture Walk: Hidden In Plain Sight](https://museumlondon.ca/programs-events/event/11664/) |
 |  | 18:30 | [LMH](/about#LMH) | [Thunder from Down Under – Untamed 2024 Tour](http://londonmusichall.com/events/thunder-from-down-under/) |
 |  | 21:00 | [LMH](/about#LMH) | [*Sold Out* Thunder from Down Under – Untamed 2024 Tour](http://londonmusichall.com/events/thunder-from-down-under-untamed-2024-tour/) |
+| Sun Jul 28 | 18:30 | [LMH](/about#LMH) | [Frozen Soul](http://londonmusichall.com/events/frozen-soul/) |
 | Mon Jul 29 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Press Play](https://museumlondon.ca/programs-events/event/11421/) |
 | Tue Jul 30 | 19:00 | [LMH](/about#LMH) | [Jack Botts](http://londonmusichall.com/events/jack-botts/) |
 | Wed Jul 31 |  | [BudG](/about#BudG) | [Lamb Of God & Mastodon: ASHES OF LEVIATHAN TOUR](https://www.budweisergardens.com/events/detail/lamb-of-god-mastodon) |
@@ -115,10 +120,12 @@ View only a category:
 | Wed Oct 09 | 20:00 | [Aeol](/about#Aeol) | [Comedy Here Often? & SXM Comedy Club present: Jon Dore & Dave Merheje				](https://aeolianhall.ca/events/comedy-here-often-siriusxm-comedy-club-present-jon-dore-dave-merheje/) |
 | Fri Oct 11 | 19:00 | [LMH](/about#LMH) | [NERVOSA: The Great American Jailbreak Tour](http://londonmusichall.com/events/nervosa-the-great-american-jailbreak-tour/) |
 | Tue Oct 15 |  | [Grand](/about#Grand) | [As You Like It](https://www.grandtheatre.com/event/as-you-like-it) |
+| Fri Oct 18 | 19:30 | [Aeol](/about#Aeol) | [Ashley MacIsaac – Ontario Festival of Small Halls				](https://aeolianhall.ca/events/ashley-macisaac-ontario-festival-of-small-halls/) |
 | Sun Oct 20 | 19:30 | [Aeol](/about#Aeol) | [Shantero Productions Presents: The Comic Strippers (19+)				](https://aeolianhall.ca/events/the-comic-strippers-19/) |
 | Fri Oct 25 | 20:00 | [Aeol](/about#Aeol) | [Ben Caplan Presents Hold On!				](https://aeolianhall.ca/events/ben-caplan-presents-hold-on/) |
 | Wed Oct 30 | 19:00 | [LMH](/about#LMH) | [Tenille Townes](http://londonmusichall.com/events/tenille-townes-2/) |
 | Tue Nov 05 | 20:00 | [Aeol](/about#Aeol) | [George Canyon – Solo/Acoustic				](https://aeolianhall.ca/events/george-canyon-solo-acoustic/) |
+| Wed Nov 06 | 19:00 | [LMH](/about#LMH) | [Godspeed You! Black Emperor](http://londonmusichall.com/events/godspeed-you-black-emperor/) |
 | Sun Nov 10 | 20:00 | [Aeol](/about#Aeol) | [Danny Michel & Steve Poltz				](https://aeolianhall.ca/events/danny-michel-steve-poltz-2/) |
 | Wed Nov 13 | 19:00 | [LMH](/about#LMH) | [QUEEN PRIYANKA – The Devastatia Tour](http://londonmusichall.com/events/queen-priyanka/) |
 | Thu Nov 14 | 19:30 | [Aeol](/about#Aeol) | [Shantero Productions Presents: Ron James – Not Nearly Done Yet!				](https://aeolianhall.ca/events/shantero-productions-presents-ron-james-not-nearly-done-yet/) |
@@ -126,5 +133,6 @@ View only a category:
 | Sun Nov 17 | 20:00 | [Aeol](/about#Aeol) | [Joel Plaskett – One Real Reveal On Wheels				](https://aeolianhall.ca/events/joel-plaskett-one-real-reveal-on-wheels/) |
 | Tue Nov 19 |  | [Grand](/about#Grand) | [The Sound of Music](https://www.grandtheatre.com/event/sound-of-music) |
 | Thu Nov 21 | 19:00 | [LMH](/about#LMH) | [JJ WILDE – ALL MY VICES TOUR](http://londonmusichall.com/events/jj-wilde-all-my-vices-tour/) |
+|  | 19:30 | [Aeol](/about#Aeol) | [Shantero Productions Presents: Murray McLauchlan – Hourglass				](https://aeolianhall.ca/events/shantero-productions-presents-murray-mclauchlan-hourglass/) |
 | Fri Nov 22 | 19:00 | [LMH](/about#LMH) | [Chase Matthew](http://londonmusichall.com/events/chase-matthew/) |
 | Sat Nov 30 | 18:30 | [LMH](/about#LMH) | [The Jim Cuddy Band – All The World Tour](http://londonmusichall.com/events/the-jim-cuddy-band-all-the-world-tour/) |

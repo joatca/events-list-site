@@ -1,6 +1,6 @@
 ---
 title: "Events - downtown"
-date: 2024-06-04T00:00:00-04:00
+date: 2024-06-05T00:00:00-04:00
 draft: false
 ---
 
@@ -9,13 +9,11 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Tue) |  | [Grand](/about#Grand) | [The Last Five Years](https://www.grandtheatre.com/event/last-five-years) |
-|  | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
-|  | 19:00 | [LMH](/about#LMH) | [Randy (Trailer Park Boys) Cheeseburger Picnic Comedy Tour](http://londonmusichall.com/events/randy-trailer-park-boys-cheeseburger-picnic-comedy-tour/) |
-| Tomorrow (Wed) | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
+| Today (Wed) |  | [Grand](/about#Grand) | [The Last Five Years](https://www.grandtheatre.com/event/last-five-years) |
+|  | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
 |  | 18:00 | [CGM](/about#CGM) | [Tarot Flows](https://coventmarket.com/event/tarot-flows-with-lily-3/) |
 |  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/50456/Friendship_Circle?date=2024-06-05) |
-| Thu Jun 06 | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
+| Tomorrow (Thu) | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
 |  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
 |  | 18:00 | [CMus](/about#CMus) | [STEAM: Floating Drawing](https://www.londonchildrensmuseum.ca/event/steam-floating-drawing) |
 | Fri Jun 07 |  | [BudG](/about#BudG) | [Blippi: The Wonderful World Tour](https://www.budweisergardens.com/events/detail/blippi-the-wonderful-world-tour-1) |
@@ -67,6 +65,7 @@ View only a category:
 |  | 10:30 | [Museum](/about#Museum) | [History Walk: Castles to Cottages](https://museumlondon.ca/programs-events/event/11640/) |
 |  | 11:00 | [CGM](/about#CGM) | [Kids Craft Corner](https://coventmarket.com/event/kids-craft-corner-5/) |
 |  | 11:00 | [CGM](/about#CGM) | [Soca Dance Fitness Class](https://coventmarket.com/event/soca-dance-fitness-class-6-5/) |
+|  | 11:00 | [Aeol](/about#Aeol) | [AJAMAF 2024 Workshop: Understanding The Music Industry (D&S Lounge)				](https://aeolianhall.ca/events/ajamaf-2024-workshop-understanding-the-music-industry-ds-lounge/) |
 |  | 11:00 | [CMus](/about#CMus) | [STEAM: Take Flight!](https://www.londonchildrensmuseum.ca/event/steam-take-flight) |
 |  | 11:00 | [CMus](/about#CMus) | [OUTREACH: London Children's Festival](https://www.londonchildrensmuseum.ca/event/outreach-london-childrens-festival) |
 |  | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
@@ -75,8 +74,11 @@ View only a category:
 |  | 14:00 | [CGM](/about#CGM) | [El Sistema South London Year End Concert](https://coventmarket.com/event/el-sistema-south-london-year-end-concert/) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Take Flight!](https://www.londonchildrensmuseum.ca/event/steam-take-flight) |
 |  | 20:00 | [Aeol](/about#Aeol) | [AJAMAF 2024: Holly Cole – Dark Moon Tour				](https://aeolianhall.ca/events/ajamaf-2024-holly-cole-dark-moon-tour/) |
-| Sun Jun 16 | 11:00 | [CMus](/about#CMus) | [STEAM: Take Flight!](https://www.londonchildrensmuseum.ca/event/steam-take-flight) |
+| Sun Jun 16 | 11:00 | [Aeol](/about#Aeol) | [AJAMAF 2024 Workshop: Gamelan Session (Rebelheart Lounge)				](https://aeolianhall.ca/events/ajamaf-2024-workshop-gamelan-session-rebelheart-lounge/) |
+|  | 11:00 | [CMus](/about#CMus) | [OUTREACH: London Children's Festival](https://www.londonchildrensmuseum.ca/event/outreach-london-childrens-festival) |
+|  | 11:00 | [CMus](/about#CMus) | [STEAM: Take Flight!](https://www.londonchildrensmuseum.ca/event/steam-take-flight) |
 |  | 13:00 | [Museum](/about#Museum) | [Imagination Station : Character Collage](https://museumlondon.ca/programs-events/event/11618/) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Take Flight!](https://www.londonchildrensmuseum.ca/event/steam-take-flight) |
 |  | 20:00 | [Aeol](/about#Aeol) | [AJAMAF 2024: Heather Bambrick				](https://aeolianhall.ca/events/ajamaf-2024-heather-bambrick/) |
 | Tue Jun 18 | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
 |  | 17:00 | [CMus](/about#CMus) | [Sensory Friendly Evening](https://www.londonchildrensmuseum.ca/event/sensory-friendly-evening) |
@@ -103,6 +105,7 @@ View only a category:
 |  | 20:00 | [Aeol](/about#Aeol) | [A Night In Vegas (Featuring Micah Barnes & Billy Newton-Davis)				](https://aeolianhall.ca/events/a-night-in-vegas-featuring-micah-barnes-billy-newton-davis/) |
 | Sun Jun 23 |  | [Eldon](/about#Eldon) | [Summer Market](https://eldonhouse.ca/product/summer-market-2024/) |
 |  | 11:00 | [CMus](/about#CMus) | [STEAM: Shrink Art](https://www.londonchildrensmuseum.ca/event/steam-shrink-art) |
+|  | 11:30 | [CGM](/about#CGM) | [Sourdough Workshop for Beginners](https://coventmarket.com/event/sourdough-workshop/) |
 |  | 12:00 | [CGM](/about#CGM) | [Celina’s String Studio Student Performance Showcase](https://coventmarket.com/event/celinas-string-studio-student-performance-showcase/) |
 |  | 13:00 | [Museum](/about#Museum) | [Imagination Station : Character Collage](https://museumlondon.ca/programs-events/event/11620/) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Shrink Art](https://www.londonchildrensmuseum.ca/event/steam-shrink-art) |
@@ -113,61 +116,184 @@ View only a category:
 |  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/50456/Friendship_Circle?date=2024-06-26) |
 | Thu Jun 27 |  | [BudG](/about#BudG) | [Steve Miller Band](https://www.budweisergardens.com/events/detail/steve-miller-band) |
 |  |  | [Grand](/about#Grand) | [Once Upon a Mattress](https://www.grandtheatre.com/event/once-upon-mattress) |
-| Fri Jun 28 | 16:30 | [Info](/about#Info) | [Diabetes Fit ](https://www.informationlondon.ca/Event/Detail/50154/Diabetes_Fit_?date=2024-06-28) |
+|  | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
+|  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
+|  | 18:00 | [CMus](/about#CMus) | [STEAM: DIY Ice Cream](https://www.londonchildrensmuseum.ca/event/steam-diy-ice-cream) |
+| Fri Jun 28 | 09:00 | [CMus](/about#CMus) | [PA Day Camp](https://www.londonchildrensmuseum.ca/event/pa-day-camp) |
+|  | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
+|  | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Energy Stick](https://www.londonchildrensmuseum.ca/event/daily-demo-energy-stick) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: DIY Ice Cream](https://www.londonchildrensmuseum.ca/event/steam-diy-ice-cream) |
+|  | 16:30 | [Info](/about#Info) | [Diabetes Fit ](https://www.informationlondon.ca/Event/Detail/50154/Diabetes_Fit_?date=2024-06-28) |
 |  | 19:00 | [LMH](/about#LMH) | [DJ Sekhar & Fejo](http://londonmusichall.com/events/dj-sekhar-fejo/) |
 | Sat Jun 29 |  | [Grand](/about#Grand) | [Decades of Bond - The Ultimate Tribute to the Music of James Bond](https://www.grandtheatre.com/event/decades-of-bond) |
 |  |  | [Eldon](/about#Eldon) | [Strawberry Tea at the Museum](https://eldonhouse.ca/product/strawberry-tea-at-the-museum/) |
 |  | 08:00 | [CGM](/about#CGM) | [Outdoor Farmers Market](https://coventmarket.com/event/outdoor-farmers-market-3-3/) |
 |  | 10:30 | [Museum](/about#Museum) | [History Walk: Bats, Beans, and Bridges](https://museumlondon.ca/programs-events/event/11653/) |
+|  | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Energy Stick](https://www.londonchildrensmuseum.ca/event/daily-demo-energy-stick) |
+|  | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: DIY Ice Cream](https://www.londonchildrensmuseum.ca/event/steam-diy-ice-cream) |
 |  | 15:00 | [CGM](/about#CGM) | [SOKONI Market](https://coventmarket.com/event/sokoni-market-9-3/) |
 | Sun Jun 30 | 08:00 | [CGM](/about#CGM) | [Canada Day London](https://coventmarket.com/event/canada-day-london/) |
+|  | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Energy Stick](https://www.londonchildrensmuseum.ca/event/daily-demo-energy-stick) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: DIY Ice Cream](https://www.londonchildrensmuseum.ca/event/steam-diy-ice-cream) |
 | Mon Jul 01 |  | [CGM](/about#CGM) | [August Events](https://coventmarket.com/event/august-events/) |
 |  |  | [Eldon](/about#Eldon) | [Canada Day: Celebrating the Communities of Canada](https://eldonhouse.ca/product/canada-day-celebrating-the-communities-of-canada-2024/) |
+|  | 09:30 | [CMus](/about#CMus) | [OPEN](https://www.londonchildrensmuseum.ca/event/open) |
+|  | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Energy Stick](https://www.londonchildrensmuseum.ca/event/daily-demo-energy-stick) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Flying Creatures](https://www.londonchildrensmuseum.ca/event/steam-flying-creatures) |
 | Tue Jul 02 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Paint and Splash Bash](https://museumlondon.ca/programs-events/event/11415/) |
-| Wed Jul 03 | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/50456/Friendship_Circle?date=2024-07-03) |
-| Thu Jul 04 | 18:00 | [Museum](/about#Museum) | [Culture Walk: Hidden Secrets of Downtown](https://museumlondon.ca/programs-events/event/11660/) |
+|  | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
+|  | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
+|  | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Energy Stick](https://www.londonchildrensmuseum.ca/event/daily-demo-energy-stick) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Flying Creatures](https://www.londonchildrensmuseum.ca/event/steam-flying-creatures) |
+| Wed Jul 03 | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
+|  | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Energy Stick](https://www.londonchildrensmuseum.ca/event/daily-demo-energy-stick) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Flying Creatures](https://www.londonchildrensmuseum.ca/event/steam-flying-creatures) |
+|  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/50456/Friendship_Circle?date=2024-07-03) |
+| Thu Jul 04 | 09:30 | [CMus](/about#CMus) | [Learning Garden](https://www.londonchildrensmuseum.ca/event/learning-garden) |
+|  | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Energy Stick](https://www.londonchildrensmuseum.ca/event/daily-demo-energy-stick) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Flying Creatures](https://www.londonchildrensmuseum.ca/event/steam-flying-creatures) |
+|  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
+|  | 17:30 | [CMus](/about#CMus) | [Learning Garden](https://www.londonchildrensmuseum.ca/event/learning-garden) |
+|  | 18:00 | [Museum](/about#Museum) | [Culture Walk: Hidden Secrets of Downtown](https://museumlondon.ca/programs-events/event/11660/) |
 |  | 18:00 | [LMH](/about#LMH) | [NORTHLANE – Mirror’s Edge Tour](http://londonmusichall.com/events/northlane-mirrors-edge-tour/) |
-| Fri Jul 05 | 21:00 | [LMH](/about#LMH) | [GIMME GIMME DISCO](http://londonmusichall.com/events/gimme-gimme-disco-2/) |
+| Fri Jul 05 | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Energy Stick](https://www.londonchildrensmuseum.ca/event/daily-demo-energy-stick) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Flying Creatures](https://www.londonchildrensmuseum.ca/event/steam-flying-creatures) |
+|  | 21:00 | [LMH](/about#LMH) | [GIMME GIMME DISCO](http://londonmusichall.com/events/gimme-gimme-disco-2/) |
 | Sat Jul 06 | 08:00 | [CGM](/about#CGM) | [Outdoor Farmers Market](https://coventmarket.com/event/outdoor-farmers-market-3-4/) |
 |  | 10:30 | [Museum](/about#Museum) | [History Walk: Heaven and Hell](https://museumlondon.ca/programs-events/event/11626/) |
 |  | 11:00 | [CGM](/about#CGM) | [Soca Dance Fitness Class](https://coventmarket.com/event/soca-dance-fitness-class-6-6/) |
-| Sun Jul 07 | 14:00 | [LMH](/about#LMH) | [Punch Out MS](http://londonmusichall.com/events/punch-out-ms/) |
+|  | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Energy Stick](https://www.londonchildrensmuseum.ca/event/daily-demo-energy-stick) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Flying Creatures](https://www.londonchildrensmuseum.ca/event/steam-flying-creatures) |
+|  | 22:00 | [LMH](/about#LMH) | [HOSTAGE SITUATION at SYSTEM SATURDAY](http://londonmusichall.com/events/hostage-situation-at-system-saturday/) |
+| Sun Jul 07 | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Energy Stick](https://www.londonchildrensmuseum.ca/event/daily-demo-energy-stick) |
+|  | 14:00 | [LMH](/about#LMH) | [Punch Out MS](http://londonmusichall.com/events/punch-out-ms/) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Flying Creatures](https://www.londonchildrensmuseum.ca/event/steam-flying-creatures) |
 | Mon Jul 08 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: STEAMpunks Futuristic Fabricators](https://museumlondon.ca/programs-events/event/11418/) |
-| Wed Jul 10 | 18:00 | [LMH](/about#LMH) | [UPON A BURNING BODY – Low Riders & Stage Divers Tour](http://londonmusichall.com/events/upon-a-burning-body-low-riders-stage-divers-tour/) |
+|  | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
+|  | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Electric Butterfly](https://www.londonchildrensmuseum.ca/event/daily-demo-electric-butterfly) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Seed Dissection](https://www.londonchildrensmuseum.ca/event/steam-seed-dissection) |
+| Tue Jul 09 | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
+|  | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Electric Butterfly](https://www.londonchildrensmuseum.ca/event/daily-demo-electric-butterfly) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Seed Dissection](https://www.londonchildrensmuseum.ca/event/steam-seed-dissection) |
+| Wed Jul 10 | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
+|  | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Electric Butterfly](https://www.londonchildrensmuseum.ca/event/daily-demo-electric-butterfly) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Seed Dissection](https://www.londonchildrensmuseum.ca/event/steam-seed-dissection) |
+|  | 18:00 | [LMH](/about#LMH) | [UPON A BURNING BODY – Low Riders & Stage Divers Tour](http://londonmusichall.com/events/upon-a-burning-body-low-riders-stage-divers-tour/) |
 |  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/50456/Friendship_Circle?date=2024-07-10) |
-| Thu Jul 11 | 18:00 | [Museum](/about#Museum) | [Culture Walk: Murals of Downtown](https://museumlondon.ca/programs-events/event/11677/) |
+| Thu Jul 11 | 09:30 | [CMus](/about#CMus) | [Learning Garden](https://www.londonchildrensmuseum.ca/event/learning-garden) |
+|  | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Electric Butterfly](https://www.londonchildrensmuseum.ca/event/daily-demo-electric-butterfly) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Seed Dissection](https://www.londonchildrensmuseum.ca/event/steam-seed-dissection) |
+|  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
+|  | 17:30 | [CMus](/about#CMus) | [Learning Garden](https://www.londonchildrensmuseum.ca/event/learning-garden) |
+|  | 18:00 | [Museum](/about#Museum) | [Culture Walk: Murals of Downtown](https://museumlondon.ca/programs-events/event/11677/) |
+| Fri Jul 12 | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Electric Butterfly](https://www.londonchildrensmuseum.ca/event/daily-demo-electric-butterfly) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Seed Dissection](https://www.londonchildrensmuseum.ca/event/steam-seed-dissection) |
 | Sat Jul 13 | 08:00 | [CGM](/about#CGM) | [Outdoor Farmers Market](https://coventmarket.com/event/outdoor-farmers-market-3-5/) |
 |  | 10:30 | [Museum](/about#Museum) | [History Walk: Digging Dundas](https://museumlondon.ca/programs-events/event/11633/) |
 |  | 11:00 | [CGM](/about#CGM) | [Soca Dance Fitness Class](https://coventmarket.com/event/soca-dance-fitness-class-6-7/) |
+|  | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Electric Butterfly](https://www.londonchildrensmuseum.ca/event/daily-demo-electric-butterfly) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Seed Dissection](https://www.londonchildrensmuseum.ca/event/steam-seed-dissection) |
+| Sun Jul 14 | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Electric Butterfly](https://www.londonchildrensmuseum.ca/event/daily-demo-electric-butterfly) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Seed Dissection](https://www.londonchildrensmuseum.ca/event/steam-seed-dissection) |
 | Mon Jul 15 | 09:00 | [Museum](/about#Museum) | [*SOLD OUT* ML Kids Summer Camp: Enchanted Realms and Mythical Creatures](https://museumlondon.ca/programs-events/event/11419/) |
-| Wed Jul 17 | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/50456/Friendship_Circle?date=2024-07-17) |
-| Thu Jul 18 | 18:00 | [Museum](/about#Museum) | [Culture Walk: Hidden Secrets of Downtown](https://museumlondon.ca/programs-events/event/11662/) |
-| Fri Jul 19 | 16:00 | [CGM](/about#CGM) | [Colombian Gastronomy Festival](https://coventmarket.com/event/colombian-gastronomy-festival/) |
+|  | 09:00 | [CMus](/about#CMus) | [Tween Summer Day Camp](https://www.londonchildrensmuseum.ca/event/tween-summer-day-camp) |
+|  | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
+|  | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Elephant Toothpaste](https://www.londonchildrensmuseum.ca/event/daily-demo-elephant-toothpaste) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Giant Catapult](https://www.londonchildrensmuseum.ca/event/steam-giant-catapult) |
+| Tue Jul 16 | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
+|  | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Elephant Toothpaste](https://www.londonchildrensmuseum.ca/event/daily-demo-elephant-toothpaste) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Giant Catapult](https://www.londonchildrensmuseum.ca/event/steam-giant-catapult) |
+|  | 17:00 | [CMus](/about#CMus) | [Sensory Friendly Evening](https://www.londonchildrensmuseum.ca/event/sensory-friendly-evening) |
+| Wed Jul 17 | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
+|  | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Elephant Toothpaste](https://www.londonchildrensmuseum.ca/event/daily-demo-elephant-toothpaste) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Giant Catapult](https://www.londonchildrensmuseum.ca/event/steam-giant-catapult) |
+|  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/50456/Friendship_Circle?date=2024-07-17) |
+| Thu Jul 18 | 09:30 | [CMus](/about#CMus) | [Learning Garden](https://www.londonchildrensmuseum.ca/event/learning-garden) |
+|  | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Elephant Toothpaste](https://www.londonchildrensmuseum.ca/event/daily-demo-elephant-toothpaste) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Giant Catapult](https://www.londonchildrensmuseum.ca/event/steam-giant-catapult) |
+|  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
+|  | 17:30 | [CMus](/about#CMus) | [Learning Garden](https://www.londonchildrensmuseum.ca/event/learning-garden) |
+|  | 18:00 | [Museum](/about#Museum) | [Culture Walk: Hidden Secrets of Downtown](https://museumlondon.ca/programs-events/event/11662/) |
+| Fri Jul 19 | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Elephant Toothpaste](https://www.londonchildrensmuseum.ca/event/daily-demo-elephant-toothpaste) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Giant Catapult](https://www.londonchildrensmuseum.ca/event/steam-giant-catapult) |
+|  | 16:00 | [CGM](/about#CGM) | [Colombian Gastronomy Festival](https://coventmarket.com/event/colombian-gastronomy-festival/) |
 |  | 21:00 | [LMH](/about#LMH) | [Roy Wood$](http://londonmusichall.com/events/roy-wood/) |
 | Sat Jul 20 | 08:00 | [CGM](/about#CGM) | [Outdoor Farmers Market](https://coventmarket.com/event/outdoor-farmers-market-3-5-2/) |
 |  | 10:30 | [Museum](/about#Museum) | [History Walk: Castles to Cottages](https://museumlondon.ca/programs-events/event/11642/) |
 |  | 11:00 | [CGM](/about#CGM) | [Soca Dance Fitness Class](https://coventmarket.com/event/soca-dance-fitness-class-6-8/) |
+|  | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Elephant Toothpaste](https://www.londonchildrensmuseum.ca/event/daily-demo-elephant-toothpaste) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Giant Catapult](https://www.londonchildrensmuseum.ca/event/steam-giant-catapult) |
 | Sun Jul 21 |  | [BudG](/about#BudG) | [RAIN - A Tribute to The BEATLES](https://www.budweisergardens.com/events/detail/rain-a-tribute-to-the-beatles) |
+|  | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Elephant Toothpaste](https://www.londonchildrensmuseum.ca/event/daily-demo-elephant-toothpaste) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Giant Catapult](https://www.londonchildrensmuseum.ca/event/steam-giant-catapult) |
 | Mon Jul 22 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Bug Out!](https://museumlondon.ca/programs-events/event/11420/) |
-| Wed Jul 24 | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/50456/Friendship_Circle?date=2024-07-24) |
-| Thu Jul 25 | 18:00 | [Museum](/about#Museum) | [Culture Walk: Murals of Downtown](https://museumlondon.ca/programs-events/event/11679/) |
-| Fri Jul 26 | 16:00 | [CGM](/about#CGM) | [Island Fest](https://coventmarket.com/event/island-fest/) |
+|  | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
+|  | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Dino Rocket Launch](https://www.londonchildrensmuseum.ca/event/daily-demo-dino-rocket-launch) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Sphero Space Maze](https://www.londonchildrensmuseum.ca/event/steam-sphero-space-maze) |
+| Tue Jul 23 | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
+|  | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Dino Rocket Launch](https://www.londonchildrensmuseum.ca/event/daily-demo-dino-rocket-launch) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Sphero Space Maze](https://www.londonchildrensmuseum.ca/event/steam-sphero-space-maze) |
+| Wed Jul 24 | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
+|  | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Dino Rocket Launch](https://www.londonchildrensmuseum.ca/event/daily-demo-dino-rocket-launch) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Sphero Space Maze](https://www.londonchildrensmuseum.ca/event/steam-sphero-space-maze) |
+|  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/50456/Friendship_Circle?date=2024-07-24) |
+| Thu Jul 25 | 09:30 | [CMus](/about#CMus) | [Learning Garden](https://www.londonchildrensmuseum.ca/event/learning-garden) |
+|  | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Dino Rocket Launch](https://www.londonchildrensmuseum.ca/event/daily-demo-dino-rocket-launch) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Sphero Space Maze](https://www.londonchildrensmuseum.ca/event/steam-sphero-space-maze) |
+|  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
+|  | 17:30 | [CMus](/about#CMus) | [Learning Garden](https://www.londonchildrensmuseum.ca/event/learning-garden) |
+|  | 18:00 | [Museum](/about#Museum) | [Culture Walk: Murals of Downtown](https://museumlondon.ca/programs-events/event/11679/) |
+| Fri Jul 26 | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Dino Rocket Launch](https://www.londonchildrensmuseum.ca/event/daily-demo-dino-rocket-launch) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Sphero Space Maze](https://www.londonchildrensmuseum.ca/event/steam-sphero-space-maze) |
+|  | 16:00 | [CGM](/about#CGM) | [Island Fest](https://coventmarket.com/event/island-fest/) |
+|  | 19:00 | [LMH](/about#LMH) | [Talbotville Gore](http://londonmusichall.com/events/talbotville-gore/) |
 | Sat Jul 27 | 08:00 | [CGM](/about#CGM) | [Outdoor Farmers Market](https://coventmarket.com/event/outdoor-farmers-market-3-5-3/) |
 |  | 10:30 | [Museum](/about#Museum) | [Culture Walk: Hidden In Plain Sight](https://museumlondon.ca/programs-events/event/11664/) |
 |  | 11:00 | [CGM](/about#CGM) | [Soca Dance Fitness Class](https://coventmarket.com/event/soca-dance-fitness-class-6-9/) |
+|  | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Dino Rocket Launch](https://www.londonchildrensmuseum.ca/event/daily-demo-dino-rocket-launch) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Sphero Space Maze](https://www.londonchildrensmuseum.ca/event/steam-sphero-space-maze) |
 |  | 18:30 | [LMH](/about#LMH) | [Thunder from Down Under – Untamed 2024 Tour](http://londonmusichall.com/events/thunder-from-down-under/) |
 |  | 21:00 | [LMH](/about#LMH) | [*Sold Out* Thunder from Down Under – Untamed 2024 Tour](http://londonmusichall.com/events/thunder-from-down-under-untamed-2024-tour/) |
+| Sun Jul 28 | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Dino Rocket Launch](https://www.londonchildrensmuseum.ca/event/daily-demo-dino-rocket-launch) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Sphero Space Maze](https://www.londonchildrensmuseum.ca/event/steam-sphero-space-maze) |
+|  | 18:30 | [LMH](/about#LMH) | [Frozen Soul](http://londonmusichall.com/events/frozen-soul/) |
 | Mon Jul 29 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Press Play](https://museumlondon.ca/programs-events/event/11421/) |
-| Tue Jul 30 | 19:00 | [LMH](/about#LMH) | [Jack Botts](http://londonmusichall.com/events/jack-botts/) |
+|  | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
+|  | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Giant Friendship Bracelet](https://www.londonchildrensmuseum.ca/event/daily-demo-giant-friendship-bracelet) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Chalk Art](https://www.londonchildrensmuseum.ca/event/steam-chalk-art) |
+| Tue Jul 30 | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
+|  | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Giant Friendship Bracelet](https://www.londonchildrensmuseum.ca/event/daily-demo-giant-friendship-bracelet) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Chalk Art](https://www.londonchildrensmuseum.ca/event/steam-chalk-art) |
+|  | 19:00 | [LMH](/about#LMH) | [Jack Botts](http://londonmusichall.com/events/jack-botts/) |
 | Wed Jul 31 |  | [BudG](/about#BudG) | [Lamb Of God & Mastodon: ASHES OF LEVIATHAN TOUR](https://www.budweisergardens.com/events/detail/lamb-of-god-mastodon) |
+|  | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
+|  | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Giant Friendship Bracelet](https://www.londonchildrensmuseum.ca/event/daily-demo-giant-friendship-bracelet) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Chalk Art](https://www.londonchildrensmuseum.ca/event/steam-chalk-art) |
 |  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/50456/Friendship_Circle?date=2024-07-31) |
 | Thu Aug 01 |  | [Grand](/about#Grand) | [Tango in the Dark](https://www.grandtheatre.com/event/tango-in-the-dark) |
 |  | 01:00 | [CGM](/about#CGM) | [September Events](https://coventmarket.com/event/september-events/) |
+|  | 09:30 | [CMus](/about#CMus) | [Learning Garden](https://www.londonchildrensmuseum.ca/event/learning-garden) |
+|  | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Giant Friendship Bracelet](https://www.londonchildrensmuseum.ca/event/daily-demo-giant-friendship-bracelet) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Chalk Art](https://www.londonchildrensmuseum.ca/event/steam-chalk-art) |
+|  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
+|  | 17:30 | [CMus](/about#CMus) | [Learning Garden](https://www.londonchildrensmuseum.ca/event/learning-garden) |
 |  | 18:00 | [Museum](/about#Museum) | [Culture Walk: Hidden Secrets of Downtown](https://museumlondon.ca/programs-events/event/11666/) |
+| Fri Aug 02 | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Giant Friendship Bracelet](https://www.londonchildrensmuseum.ca/event/daily-demo-giant-friendship-bracelet) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Chalk Art](https://www.londonchildrensmuseum.ca/event/steam-chalk-art) |
 | Sat Aug 03 | 08:00 | [CGM](/about#CGM) | [Outdoor Farmers Market](https://coventmarket.com/event/outdoor-farmers-market-3-5-5/) |
 |  | 10:30 | [Museum](/about#Museum) | [History Walk: Bats, Beans, and Bridges](https://museumlondon.ca/programs-events/event/11655/) |
+|  | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Giant Friendship Bracelet](https://www.londonchildrensmuseum.ca/event/daily-demo-giant-friendship-bracelet) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Chalk Art](https://www.londonchildrensmuseum.ca/event/steam-chalk-art) |
 |  | 15:00 | [CGM](/about#CGM) | [The Mom Market](https://coventmarket.com/event/the-mom-market-9/) |
+| Sun Aug 04 | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Giant Friendship Bracelet](https://www.londonchildrensmuseum.ca/event/daily-demo-giant-friendship-bracelet) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Chalk Art](https://www.londonchildrensmuseum.ca/event/steam-chalk-art) |
+| Mon Aug 05 | 09:30 | [CMus](/about#CMus) | [OPEN](https://www.londonchildrensmuseum.ca/event/open) |
+|  | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Rock Pets](https://www.londonchildrensmuseum.ca/event/daily-demo-rock-pets) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Makey Makey](https://www.londonchildrensmuseum.ca/event/steam-makey-makey) |
 | Tue Aug 06 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Collective Creators](https://museumlondon.ca/programs-events/event/11422/) |
+|  | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
+|  | 11:00 | [CMus](/about#CMus) | [DAILY DEMO: Rock Pets](https://www.londonchildrensmuseum.ca/event/daily-demo-rock-pets) |
 | Wed Aug 07 | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/50456/Friendship_Circle?date=2024-08-07) |
 | Thu Aug 08 | 18:00 | [Museum](/about#Museum) | [Culture Walk: Murals of Downtown](https://museumlondon.ca/programs-events/event/11681/) |
 | Fri Aug 09 | 16:00 | [CGM](/about#CGM) | [JJ’s Jerk Fest](https://coventmarket.com/event/jerk-fest-2/) |
@@ -232,12 +358,14 @@ View only a category:
 | Sat Oct 12 | 08:00 | [CGM](/about#CGM) | [Outdoor Farmers Market](https://coventmarket.com/event/outdoor-farmers-market-4-7/) |
 |  | 15:00 | [CGM](/about#CGM) | [The Mom Market](https://coventmarket.com/event/the-mom-market-12/) |
 | Tue Oct 15 |  | [Grand](/about#Grand) | [As You Like It](https://www.grandtheatre.com/event/as-you-like-it) |
+| Fri Oct 18 | 19:30 | [Aeol](/about#Aeol) | [Ashley MacIsaac – Ontario Festival of Small Halls				](https://aeolianhall.ca/events/ashley-macisaac-ontario-festival-of-small-halls/) |
 | Sat Oct 19 | 08:00 | [CGM](/about#CGM) | [Outdoor Farmers Market](https://coventmarket.com/event/outdoor-farmers-market-4-8/) |
 | Sun Oct 20 | 19:30 | [Aeol](/about#Aeol) | [Shantero Productions Presents: The Comic Strippers (19+)				](https://aeolianhall.ca/events/the-comic-strippers-19/) |
 | Fri Oct 25 | 20:00 | [Aeol](/about#Aeol) | [Ben Caplan Presents Hold On!				](https://aeolianhall.ca/events/ben-caplan-presents-hold-on/) |
 | Sat Oct 26 | 08:00 | [CGM](/about#CGM) | [Outdoor Farmers Market](https://coventmarket.com/event/outdoor-farmers-market-4-9/) |
 | Wed Oct 30 | 19:00 | [LMH](/about#LMH) | [Tenille Townes](http://londonmusichall.com/events/tenille-townes-2/) |
 | Tue Nov 05 | 20:00 | [Aeol](/about#Aeol) | [George Canyon – Solo/Acoustic				](https://aeolianhall.ca/events/george-canyon-solo-acoustic/) |
+| Wed Nov 06 | 19:00 | [LMH](/about#LMH) | [Godspeed You! Black Emperor](http://londonmusichall.com/events/godspeed-you-black-emperor/) |
 | Sun Nov 10 | 20:00 | [Aeol](/about#Aeol) | [Danny Michel & Steve Poltz				](https://aeolianhall.ca/events/danny-michel-steve-poltz-2/) |
 | Wed Nov 13 | 19:00 | [LMH](/about#LMH) | [QUEEN PRIYANKA – The Devastatia Tour](http://londonmusichall.com/events/queen-priyanka/) |
 | Thu Nov 14 | 19:30 | [Aeol](/about#Aeol) | [Shantero Productions Presents: Ron James – Not Nearly Done Yet!				](https://aeolianhall.ca/events/shantero-productions-presents-ron-james-not-nearly-done-yet/) |
@@ -246,5 +374,6 @@ View only a category:
 | Sun Nov 17 | 20:00 | [Aeol](/about#Aeol) | [Joel Plaskett – One Real Reveal On Wheels				](https://aeolianhall.ca/events/joel-plaskett-one-real-reveal-on-wheels/) |
 | Tue Nov 19 |  | [Grand](/about#Grand) | [The Sound of Music](https://www.grandtheatre.com/event/sound-of-music) |
 | Thu Nov 21 | 19:00 | [LMH](/about#LMH) | [JJ WILDE – ALL MY VICES TOUR](http://londonmusichall.com/events/jj-wilde-all-my-vices-tour/) |
+|  | 19:30 | [Aeol](/about#Aeol) | [Shantero Productions Presents: Murray McLauchlan – Hourglass				](https://aeolianhall.ca/events/shantero-productions-presents-murray-mclauchlan-hourglass/) |
 | Fri Nov 22 | 19:00 | [LMH](/about#LMH) | [Chase Matthew](http://londonmusichall.com/events/chase-matthew/) |
 | Sat Nov 30 | 18:30 | [LMH](/about#LMH) | [The Jim Cuddy Band – All The World Tour](http://londonmusichall.com/events/the-jim-cuddy-band-all-the-world-tour/) |
