@@ -1,6 +1,6 @@
 ---
 title: "Events - community"
-date: 2024-06-05T00:00:00-04:00
+date: 2024-06-06T00:00:01-04:00
 draft: false
 ---
 
@@ -9,13 +9,9 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Wed) |  | [PSFT](/about#PSFT) | [A Michael Buble Tribute Show](https://psft.ca/event/funny-valentine-a-michael-buble-tribute/) |
-|  |  | [Maker](/about#Maker) | [Mini Tapestry Weaving Workshop](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-xkyks-ccptd-jfws7-lewm4-mtlhg) |
-|  |  | [Maker](/about#Maker) | [Hand Lettering & Calligraphy (4 weeks)](https://www.hellomaker.ca/events/q8s1yenla3a6dmjix0wtwkpd2fm3fz-p7g3b-286t3-kk7hk-tdf37-52z5t-h2lwg-z6fm8-zeljm-45ylg-ls9xn) |
-|  |  | [Maker](/about#Maker) | [Open Studio](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-xkyks) |
-|  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/50456/Friendship_Circle?date=2024-06-05) |
-| Tomorrow (Thu) | 13:30 | [City](/about#City) | [Committee of Adjustment - June 06, 2024](https://london.ca/government/calendar/committee-adjustment-june-06-2024) |
-| Fri Jun 07 | 12:00 | [City](/about#City) | [Governance Working Group Sub-Committee - June 07, 2024](https://london.ca/government/calendar/governance-working-group-sub-committee-june-07-2024) |
+| Today (Thu) |  | [PSFT](/about#PSFT) | [A Michael Buble Tribute Show](https://psft.ca/event/funny-valentine-a-michael-buble-tribute/) |
+|  | 13:30 | [City](/about#City) | [Committee of Adjustment - June 06, 2024](https://london.ca/government/calendar/committee-adjustment-june-06-2024) |
+| Tomorrow (Fri) | 12:00 | [City](/about#City) | [Governance Working Group Sub-Committee - June 07, 2024](https://london.ca/government/calendar/governance-working-group-sub-committee-june-07-2024) |
 |  | 16:30 | [Info](/about#Info) | [Diabetes Fit ](https://www.informationlondon.ca/Event/Detail/50154/Diabetes_Fit_?date=2024-06-07) |
 | Mon Jun 10 | 12:00 | [Maker](/about#Maker) | [Polymer Clay Earring Workshop](https://www.hellomaker.ca/events/polymer-clay-earring-workshop-7m6jk-db26w-b42sc-c7l7d-m8rbg-yxm5r-a48nk-xggm8-mdblt-9z7h6-e36fb-tpnml-mbm56) |
 |  | 13:00 | [City](/about#City) | [Community and Protective Services Committee - June 10, 2024](https://london.ca/government/calendar/community-protective-services-committee-june-10-2024) |
@@ -127,3 +123,4 @@ View only a category:
 | Fri Nov 22 | 09:30 | [City](/about#City) | [BUDGET COMMITTEE - November 22, 2024](https://london.ca/government/calendar/budget-committee-november-22-2024) |
 | Mon Nov 25 | 10:00 | [City](/about#City) | [Governance Working Group - November 25, 2024](https://london.ca/government/calendar/governance-working-group-november-25-2024) |
 | Tue Nov 26 | 13:00 | [City](/about#City) | [Council - November 26, 2024](https://london.ca/government/calendar/council-november-26-2024) |
+| Mon Dec 02 | 13:00 | [City](/about#City) | [Community and Protective Services Committee - December 02, 2024](https://london.ca/government/calendar/community-protective-services-committee-december-02-2024) |
