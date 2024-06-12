@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2024-06-11T00:00:00-04:00
+date: 2024-06-12T00:00:00-04:00
 draft: false
 ---
 
@@ -9,13 +9,13 @@ This page knows about events on these sites.
 |   |       | |
 |:--------------|:------|:--|
 | **100K** | [100 Kellogg Lane]() | *Not supported: no events page*
-| **Aeol** | [Aeolian Hall](https://aeolianhall.ca/events/) | *28 events found*
+| **Aeol** | [Aeolian Hall](https://aeolianhall.ca/events/) | *27 events found*
 | **BudG** | [Budweiser Gardens](https://www.budweisergardens.com/events) | *7 events found*
 | **CCFL** | [Carrefour communautaire francophone de london]() | *Not supported: website not sufficiently structured to process*
 | **CGM** | [Covent Garden Market](https://coventmarket.com/events/) | *58 events found*
-| **CMus** | [London Children's Museum](https://www.londonchildrensmuseum.ca/events) | *118 events found*
+| **CMus** | [London Children's Museum](https://www.londonchildrensmuseum.ca/events) | *163 events found*
 | **Cent** | [Centennial Hall]() | *Not supported: website not sufficiently structured to process*
-| **City** | [London City Government Calendar](https://london.ca/government/calendar) | *60 events found*
+| **City** | [London City Government Calendar](https://london.ca/government/calendar) | *59 events found*
 | **Eldon** | [Eldon House](https://eldonhouse.ca/events/) | *3 events found*
 | **FMus** | [Don Wright Faculty of Music](http://www.events.westernu.ca/events/music/) | *2 events found*
 | **Grand** | [Grand Theatre](https://www.grandtheatre.com/events) | *10 events found*
@@ -27,6 +27,6 @@ This page knows about events on these sites.
 | **PSFTOff** | [Post Stanley Festival Theatre - Off Season](https://psft.ca/schedule/off-season-events/) | *Error: unable to fetch any events*
 | **RBCP** | [RBP Place](https://www.rbcplacelondon.com/events) | *4 events found*
 | **TVDSB** | [Thames Valley District School Board](https://calendar.tvdsb.ca/) | *Error: unable to fetch any events*
-| **Tour** | [Tourism London](https://www.londontourism.ca/events/all-events) | *50 events found*
+| **Tour** | [Tourism London](https://www.londontourism.ca/events/all-events) | *51 events found*
 
-_Last updated 2024-06-11 00:00:00 -0400_
+_Last updated 2024-06-12 00:00:00 -0400_
