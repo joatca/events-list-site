@@ -1,6 +1,6 @@
 ---
 title: "Events - entertainment"
-date: 2024-06-12T00:00:00-04:00
+date: 2024-06-13T00:00:02-04:00
 draft: false
 ---
 
@@ -9,13 +9,11 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Wed) | 19:00 | [LMH](/about#LMH) | [A Wilhelm Scream](http://londonmusichall.com/events/a-wilhelm-scream-2/) |
-|  | 20:00 | [Aeol](/about#Aeol) | [AJAMAF 2024: An Evening with Sarah Smith				](https://aeolianhall.ca/events/ajamaf-2024-an-evening-with-sarah-smith/) |
-| Tomorrow (Thu) | 18:30 | [Aeol](/about#Aeol) | [AJAMAF 2024: Aitken \| Ladd \| Peacock (Southen Lounge)				](https://aeolianhall.ca/events/ajamaf-2024-aitken-ladd-peacock-southen-lounge/) |
+| Today (Thu) | 18:30 | [Aeol](/about#Aeol) | [AJAMAF 2024: Aitken \| Ladd \| Peacock (Southen Lounge)				](https://aeolianhall.ca/events/ajamaf-2024-aitken-ladd-peacock-southen-lounge/) |
 |  | 18:30 | [Aeol](/about#Aeol) | [El Sistema Aeolian Concert				](https://aeolianhall.ca/events/el-sistema-aeolian-concert-3/) |
 |  | 19:00 | [LMH](/about#LMH) | [Bleeker](http://londonmusichall.com/events/bleeker/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [AJAMAF 2024: Alex Cuba				](https://aeolianhall.ca/events/ajamaf-2024-alex-cuba/) |
-| Fri Jun 14 |  | [BudG](/about#BudG) | [Snoop Dogg CALI TO CANADA TOUR](https://www.budweisergardens.com/events/detail/snoop-dogg) |
+| Tomorrow (Fri) |  | [BudG](/about#BudG) | [Snoop Dogg CALI TO CANADA TOUR](https://www.budweisergardens.com/events/detail/snoop-dogg) |
 |  | 18:30 | [Aeol](/about#Aeol) | [AJAMAF 2024: Jayne Hysen Quartet (Southen Lounge)				](https://aeolianhall.ca/events/ajamaf-2024-jayne-hysen-quartet-southen-lounge/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [AJAMAF 2024: Carol Welsman				](https://aeolianhall.ca/events/ajamaf-2024-carol-welsman/) |
 | Sat Jun 15 | 10:30 | [Museum](/about#Museum) | [History Walk: Castles to Cottages](https://museumlondon.ca/programs-events/event/11640/) |
@@ -24,7 +22,7 @@ View only a category:
 | Sun Jun 16 | 11:00 | [Aeol](/about#Aeol) | [AJAMAF 2024 Workshop: Gamelan Session (Rebelheart Lounge)				](https://aeolianhall.ca/events/ajamaf-2024-workshop-gamelan-session-rebelheart-lounge/) |
 |  | 13:00 | [Museum](/about#Museum) | [Imagination Station : Character Collage](https://museumlondon.ca/programs-events/event/11618/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [AJAMAF 2024: Heather Bambrick				](https://aeolianhall.ca/events/ajamaf-2024-heather-bambrick/) |
-| Thu Jun 20 | 19:00 | [Museum](/about#Museum) | [Season Launch Party: Summer Solstice Edition Supported by TD Bank Group](https://museumlondon.ca/programs-events/event/11594/) |
+| Thu Jun 20 | 19:00 | [Museum](/about#Museum) | [Season Launch Party: Summer Solstice Edition](https://museumlondon.ca/programs-events/event/11594/) |
 | Fri Jun 21 | 21:00 | [LMH](/about#LMH) | [EMO NIGHT: LONDON LIVE ft. STRIKE TYSON](http://londonmusichall.com/events/emo-night-london-live-ft-strike-tyson/) |
 | Sat Jun 22 |  | [BudG](/about#BudG) | [Brooks & Dunn - Reboot 2024 Tour](https://www.budweisergardens.com/events/detail/brooks-dunn) |
 |  | 10:30 | [Museum](/about#Museum) | [History Walk: Hidden in Plain Sight](https://museumlondon.ca/programs-events/event/11648/) |
@@ -38,6 +36,7 @@ View only a category:
 | Fri Jun 28 | 19:00 | [LMH](/about#LMH) | [DJ Sekhar & Fejo](http://londonmusichall.com/events/dj-sekhar-fejo/) |
 | Sat Jun 29 |  | [Grand](/about#Grand) | [Decades of Bond - The Ultimate Tribute to the Music of James Bond](https://www.grandtheatre.com/event/decades-of-bond) |
 |  | 10:30 | [Museum](/about#Museum) | [History Walk: Bats, Beans, and Bridges](https://museumlondon.ca/programs-events/event/11653/) |
+| Mon Jul 01 | 12:00 | [Museum](/about#Museum) | [Canada Day at Museum London](https://museumlondon.ca/programs-events/event/11779/) |
 | Tue Jul 02 | 08:00 | [FMus](/about#FMus) | [Kodály Certification Program - July 2-12](http://www.events.westernu.ca/events/music/2024-07/kodaly-certification-program.html) |
 |  | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Paint and Splash Bash](https://museumlondon.ca/programs-events/event/11415/) |
 | Thu Jul 04 | 18:00 | [Museum](/about#Museum) | [Culture Walk: Hidden Secrets of Downtown](https://museumlondon.ca/programs-events/event/11660/) |

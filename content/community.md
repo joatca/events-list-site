@@ -1,6 +1,6 @@
 ---
 title: "Events - community"
-date: 2024-06-12T00:00:00-04:00
+date: 2024-06-13T00:00:02-04:00
 draft: false
 ---
 
@@ -9,17 +9,11 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Wed) |  | [PSFT](/about#PSFT) | [A Michael Buble Tribute Show](https://psft.ca/event/funny-valentine-a-michael-buble-tribute/) |
-|  |  | [Maker](/about#Maker) | [Polymer Clay Earring Workshop](https://www.hellomaker.ca/events/polymer-clay-earring-workshop-7m6jk-db26w-b42sc-c7l7d-m8rbg-yxm5r-a48nk-xggm8-mdblt-9z7h6-e36fb-tpnml-mbm56) |
-|  |  | [Maker](/about#Maker) | [Candle Making Workshop](https://www.hellomaker.ca/events/candleworkshop-8rmrf-shhxj-mb62a) |
-|  |  | [Maker](/about#Maker) | [Open Studio ](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-xkyks-ccptd) |
+| Today (Thu) |  | [PSFT](/about#PSFT) | [A Michael Buble Tribute Show](https://psft.ca/event/funny-valentine-a-michael-buble-tribute/) |
 |  |  | [RBCP](/about#RBCP) | [Southwestern Ontario Real Estate Forum](https://www.rbcplacelondon.com/events/southwestern-ontario-real-estate-forum-june-12-13) |
-|  | 11:00 | [City](/about#City) | [Governance Working Group Sub-Committee - June 12, 2024](https://london.ca/government/calendar/governance-working-group-sub-committee-june-12-2024) |
-|  | 12:00 | [Maker](/about#Maker) | [Collage Art Notebook ](https://www.hellomaker.ca/events/irqu905qi77vqjbol00gy0uc19ja68-gns73-fhhpr-najh8-yc3gg-6bcww-pjpfr-nfd4a-xy52p-b6wsn-le4b7-p6985) |
-|  | 14:00 | [Maker](/about#Maker) | [Floral Resin Jewlery ](https://www.hellomaker.ca/events/waxmeltworkshop-d3wr2-rt83p-tghwl-y5h35-nx3xn-w3l69-4pj2x) |
-|  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/50456/Friendship_Circle?date=2024-06-12) |
-| Tomorrow (Thu) | 13:30 | [City](/about#City) | [Committee of Adjustment - June 13, 2024](https://london.ca/government/calendar/committee-adjustment-june-13-2024) |
-| Fri Jun 14 | 16:30 | [Info](/about#Info) | [Diabetes Fit ](https://www.informationlondon.ca/Event/Detail/50154/Diabetes_Fit_?date=2024-06-14) |
+|  | 13:30 | [City](/about#City) | [Committee of Adjustment - June 13, 2024](https://london.ca/government/calendar/committee-adjustment-june-13-2024) |
+| Tomorrow (Fri) | 11:00 | [City](/about#City) | [Governance Working Group Sub-Committee - June 14, 2024](https://london.ca/government/calendar/governance-working-group-sub-committee-june-14-2024) |
+|  | 16:30 | [Info](/about#Info) | [Diabetes Fit ](https://www.informationlondon.ca/Event/Detail/50154/Diabetes_Fit_?date=2024-06-14) |
 | Mon Jun 17 | 13:00 | [City](/about#City) | [Corporate Services Committee - June 17, 2024](https://london.ca/government/calendar/corporate-services-committee-june-17-2024) |
 | Tue Jun 18 |  | [RBCP](/about#RBCP) | [ORCA Spring Roadshow](https://www.rbcplacelondon.com/events/orca-spring-roadshow-june-18) |
 |  | 09:30 | [City](/about#City) | [Dearness Home Committee of Management - June 18, 2024](https://london.ca/government/calendar/dearness-home-committee-management-june-18-2024) |
@@ -37,7 +31,8 @@ View only a category:
 | Tue Jun 25 | 13:00 | [City](/about#City) | [Council - June 25, 2024](https://london.ca/government/calendar/council-june-25-2024) |
 |  | 15:00 | [Maker](/about#Maker) | [Open Studio](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-xkyks-ccptd-jfws7-jg866) |
 |  | 19:30 | [Maker](/about#Maker) | [Embroidery 101: Custom Portrait](https://www.hellomaker.ca/events/irqu905qi77vqjbol00gy0uc19ja68-gns73-fhhpr-najh8-yc3gg-6bcww-pjpfr-nfd4a-xy52p-b6wsn-8a9ra-c7hyd-8afek) |
-| Wed Jun 26 | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/50456/Friendship_Circle?date=2024-06-26) |
+| Wed Jun 26 | 14:00 | [City](/about#City) | [Strategic Opportunities Review Working Group - June 26, 2024](https://london.ca/government/calendar/strategic-opportunities-review-working-group-june-26-2024) |
+|  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/50456/Friendship_Circle?date=2024-06-26) |
 | Thu Jun 27 | 13:30 | [City](/about#City) | [Committee of Adjustment - June 27, 2024](https://london.ca/government/calendar/committee-adjustment-june-27-2024) |
 |  | 18:00 | [Maker](/about#Maker) | [Floral Resin Jewlery](https://www.hellomaker.ca/events/waxmeltworkshop-d3wr2-rt83p-tghwl-y5h35-nx3xn-w3l69-cdca5-r47lj) |
 |  | 20:00 | [Maker](/about#Maker) | [Candle Making Workshop](https://www.hellomaker.ca/events/candleworkshop-8rmrf-shhxj-fzjzc) |
@@ -122,3 +117,4 @@ View only a category:
 | Mon Dec 02 | 13:00 | [City](/about#City) | [Community and Protective Services Committee - December 02, 2024](https://london.ca/government/calendar/community-protective-services-committee-december-02-2024) |
 | Tue Dec 03 | 09:30 | [City](/about#City) | [Civic Works Committee - December 03, 2024](https://london.ca/government/calendar/civic-works-committee-december-03-2024) |
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - December 03, 2024](https://london.ca/government/calendar/planning-environment-committee-december-03-2024) |
+| Mon Dec 09 | 13:00 | [City](/about#City) | [Corporate Services Committee - December 09, 2024](https://london.ca/government/calendar/corporate-services-committee-december-09-2024) |
