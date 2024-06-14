@@ -1,6 +1,6 @@
 ---
 title: "Events - downtown"
-date: 2024-06-13T00:00:02-04:00
+date: 2024-06-14T00:00:00-04:00
 draft: false
 ---
 
@@ -9,20 +9,13 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Thu) | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
-|  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
-|  | 18:00 | [CMus](/about#CMus) | [STEAM: Take Flight!](https://www.londonchildrensmuseum.ca/event/steam-take-flight) |
-|  | 18:30 | [Aeol](/about#Aeol) | [AJAMAF 2024: Aitken \| Ladd \| Peacock (Southen Lounge)				](https://aeolianhall.ca/events/ajamaf-2024-aitken-ladd-peacock-southen-lounge/) |
-|  | 18:30 | [Aeol](/about#Aeol) | [El Sistema Aeolian Concert				](https://aeolianhall.ca/events/el-sistema-aeolian-concert-3/) |
-|  | 19:00 | [LMH](/about#LMH) | [Bleeker](http://londonmusichall.com/events/bleeker/) |
-|  | 20:00 | [Aeol](/about#Aeol) | [AJAMAF 2024: Alex Cuba				](https://aeolianhall.ca/events/ajamaf-2024-alex-cuba/) |
-| Tomorrow (Fri) |  | [BudG](/about#BudG) | [Snoop Dogg CALI TO CANADA TOUR](https://www.budweisergardens.com/events/detail/snoop-dogg) |
+| Today (Fri) |  | [BudG](/about#BudG) | [Snoop Dogg CALI TO CANADA TOUR](https://www.budweisergardens.com/events/detail/snoop-dogg) |
 |  | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
 |  | 11:00 | [CMus](/about#CMus) | [OUTREACH: London Children's Festival](https://www.londonchildrensmuseum.ca/event/outreach-london-childrens-festival) |
 |  | 16:30 | [Info](/about#Info) | [Diabetes Fit ](https://www.informationlondon.ca/Event/Detail/50154/Diabetes_Fit_?date=2024-06-14) |
 |  | 18:30 | [Aeol](/about#Aeol) | [AJAMAF 2024: Jayne Hysen Quartet (Southen Lounge)				](https://aeolianhall.ca/events/ajamaf-2024-jayne-hysen-quartet-southen-lounge/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [AJAMAF 2024: Carol Welsman				](https://aeolianhall.ca/events/ajamaf-2024-carol-welsman/) |
-| Sat Jun 15 | 08:00 | [CGM](/about#CGM) | [Outdoor Farmers Market](https://coventmarket.com/event/outdoor-farmers-market-3/) |
+| Tomorrow (Sat) | 08:00 | [CGM](/about#CGM) | [Outdoor Farmers Market](https://coventmarket.com/event/outdoor-farmers-market-3/) |
 |  | 10:30 | [Museum](/about#Museum) | [History Walk: Castles to Cottages](https://museumlondon.ca/programs-events/event/11640/) |
 |  | 11:00 | [CGM](/about#CGM) | [Kids Craft Corner](https://coventmarket.com/event/kids-craft-corner-5/) |
 |  | 11:00 | [CGM](/about#CGM) | [Soca Dance Fitness Class](https://coventmarket.com/event/soca-dance-fitness-class-6-5/) |
@@ -205,7 +198,8 @@ View only a category:
 |  | 22:00 | [LMH](/about#LMH) | [CYCLOPS – THE CRYBABY TOUR @ SYSTEM SATURDAY](http://londonmusichall.com/events/cyclops-the-crybaby-tour-system-saturday/) |
 | Sun Sep 15 | 18:00 | [LMH](/about#LMH) | [MOVEMENTS](http://londonmusichall.com/events/movements/) |
 | Tue Sep 17 |  | [Grand](/about#Grand) | [Matilda The Musical](https://www.grandtheatre.com/event/matilda) |
-|  | 19:00 | [LMH](/about#LMH) | [IGNITE & DEATH BY STEREO with The Video Dead](http://londonmusichall.com/events/ignite-death-by-stereo-with-the-video-dead/) |
+|  | 19:00 | [LMH](/about#LMH) | [IGNITE & DEATH BY STEREO](http://londonmusichall.com/events/ignite-death-by-stereo-with-the-video-dead/) |
+| Wed Sep 18 | 19:00 | [LMH](/about#LMH) | [Belvedere & Authority Zero](http://londonmusichall.com/events/belvedere-authority-zero/) |
 | Thu Sep 19 | 18:00 | [Museum](/about#Museum) | [Culture Walk: Murals of Downtown](https://museumlondon.ca/programs-events/event/11685/) |
 | Fri Sep 20 | 20:00 | [Aeol](/about#Aeol) | [Martha Wainwright				](https://aeolianhall.ca/events/martha-wainwright-3/) |
 | Sat Sep 21 | 10:30 | [Museum](/about#Museum) | [History Walk: Castles to Cottages](https://museumlondon.ca/programs-events/event/11646/) |
