@@ -1,6 +1,6 @@
 ---
 title: "Events - downtown"
-date: 2024-06-15T00:00:01-04:00
+date: 2024-06-16T00:00:00-04:00
 draft: false
 ---
 
@@ -9,20 +9,7 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Sat) | 08:00 | [CGM](/about#CGM) | [Outdoor Farmers Market](https://coventmarket.com/event/outdoor-farmers-market-3/) |
-|  | 10:30 | [Museum](/about#Museum) | [History Walk: Castles to Cottages](https://museumlondon.ca/programs-events/event/11640/) |
-|  | 11:00 | [CGM](/about#CGM) | [Kids Craft Corner](https://coventmarket.com/event/kids-craft-corner-5/) |
-|  | 11:00 | [CGM](/about#CGM) | [Soca Dance Fitness Class](https://coventmarket.com/event/soca-dance-fitness-class-6-5/) |
-|  | 11:00 | [Aeol](/about#Aeol) | [AJAMAF 2024 Workshop: Understanding The Music Industry (D&S Lounge)				](https://aeolianhall.ca/events/ajamaf-2024-workshop-understanding-the-music-industry-ds-lounge/) |
-|  | 11:00 | [CMus](/about#CMus) | [OUTREACH: London Children's Festival](https://www.londonchildrensmuseum.ca/event/outreach-london-childrens-festival) |
-|  | 11:00 | [CMus](/about#CMus) | [STEAM: Take Flight!](https://www.londonchildrensmuseum.ca/event/steam-take-flight) |
-|  | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
-|  | 13:00 | [CMus](/about#CMus) | [OUTREACH: Ward 12 Community Day](https://www.londonchildrensmuseum.ca/event/outreach-ward-12-community-day) |
-|  | 14:00 | [CGM](/about#CGM) | [22nd Annual FCLMA Music Week: Super Saturday](https://coventmarket.com/event/22nd-annual-fclma-music-week-super-saturday/) |
-|  | 14:00 | [CGM](/about#CGM) | [El Sistema South London Year End Concert](https://coventmarket.com/event/el-sistema-south-london-year-end-concert/) |
-|  | 14:30 | [CMus](/about#CMus) | [STEAM: Take Flight!](https://www.londonchildrensmuseum.ca/event/steam-take-flight) |
-|  | 20:00 | [Aeol](/about#Aeol) | [AJAMAF 2024: Holly Cole – Dark Moon Tour				](https://aeolianhall.ca/events/ajamaf-2024-holly-cole-dark-moon-tour/) |
-| Tomorrow (Sun) | 11:00 | [Aeol](/about#Aeol) | [AJAMAF 2024 Workshop: Gamelan Session (Rebelheart Lounge)				](https://aeolianhall.ca/events/ajamaf-2024-workshop-gamelan-session-rebelheart-lounge/) |
+| Today (Sun) | 11:00 | [Aeol](/about#Aeol) | [AJAMAF 2024 Workshop: Gamelan Session (Rebelheart Lounge)				](https://aeolianhall.ca/events/ajamaf-2024-workshop-gamelan-session-rebelheart-lounge/) |
 |  | 11:00 | [CMus](/about#CMus) | [STEAM: Take Flight!](https://www.londonchildrensmuseum.ca/event/steam-take-flight) |
 |  | 11:00 | [CMus](/about#CMus) | [OUTREACH: London Children's Festival](https://www.londonchildrensmuseum.ca/event/outreach-london-childrens-festival) |
 |  | 13:00 | [Museum](/about#Museum) | [Imagination Station : Character Collage](https://museumlondon.ca/programs-events/event/11618/) |
@@ -141,7 +128,7 @@ View only a category:
 | Mon Jul 15 | 09:00 | [Museum](/about#Museum) | [*SOLD OUT* ML Kids Summer Camp: Enchanted Realms and Mythical Creatures](https://museumlondon.ca/programs-events/event/11419/) |
 | Wed Jul 17 | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/50456/Friendship_Circle?date=2024-07-17) |
 | Thu Jul 18 | 18:00 | [Museum](/about#Museum) | [Culture Walk: Hidden Secrets of Downtown](https://museumlondon.ca/programs-events/event/11662/) |
-| Fri Jul 19 | 16:00 | [CGM](/about#CGM) | [Colombian Gastronomy Festival](https://coventmarket.com/event/colombian-gastronomy-festival/) |
+| Fri Jul 19 | 16:00 | [CGM](/about#CGM) | [Colombian Gastronomy Festival](https://coventmarket.com/event/colombian-gastronomy-festival-saturday/) |
 |  | 21:00 | [LMH](/about#LMH) | [Roy Wood$](http://londonmusichall.com/events/roy-wood/) |
 | Sat Jul 20 | 08:00 | [CGM](/about#CGM) | [Outdoor Farmers Market](https://coventmarket.com/event/outdoor-farmers-market-3-5-2/) |
 |  | 10:30 | [Museum](/about#Museum) | [History Walk: Castles to Cottages](https://museumlondon.ca/programs-events/event/11642/) |
