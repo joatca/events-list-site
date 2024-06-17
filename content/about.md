@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2024-06-16T00:00:00-04:00
+date: 2024-06-17T00:00:00-04:00
 draft: false
 ---
 
@@ -9,7 +9,7 @@ This page knows about events on these sites.
 |   |       | |
 |:--------------|:------|:--|
 | **100K** | [100 Kellogg Lane]() | *Not supported: no events page*
-| **Aeol** | [Aeolian Hall](https://aeolianhall.ca/events/) | *19 events found*
+| **Aeol** | [Aeolian Hall](https://aeolianhall.ca/events/) | *17 events found*
 | **BudG** | [Budweiser Gardens](https://www.budweisergardens.com/events) | *6 events found*
 | **CCFL** | [Carrefour communautaire francophone de london]() | *Not supported: website not sufficiently structured to process*
 | **CGM** | [Covent Garden Market](https://coventmarket.com/events/) | *20 events found*
@@ -22,11 +22,11 @@ This page knows about events on these sites.
 | **Info** | [Information London](https://www.informationlondon.ca/Event/List) | *13 events found*
 | **LMH** | [London Music Hall](http://londonmusichall.com/upcoming-events/) | *37 events found*
 | **Maker** | [Hello Maker](https://www.hellomaker.ca/events) | *22 events found*
-| **Museum** | [Museum London](https://museumlondon.ca/programs-events) | *40 events found*
+| **Museum** | [Museum London](https://museumlondon.ca/programs-events) | *39 events found*
 | **PSFT** | [Post Stanley Festival Theatre - Summer Season](https://psft.ca/schedule/summer-season/) | *5 events found*
 | **PSFTOff** | [Post Stanley Festival Theatre - Off Season](https://psft.ca/schedule/off-season-events/) | *Error: unable to fetch any events*
 | **RBCP** | [RBP Place](https://www.rbcplacelondon.com/events) | *4 events found*
 | **TVDSB** | [Thames Valley District School Board](https://calendar.tvdsb.ca/) | *Error: unable to fetch any events*
-| **Tour** | [Tourism London](https://www.londontourism.ca/events/all-events) | *51 events found*
+| **Tour** | [Tourism London](https://www.londontourism.ca/events/all-events) | *46 events found*
 
-_Last updated 2024-06-16 00:00:00 -0400_
+_Last updated 2024-06-17 00:00:00 -0400_

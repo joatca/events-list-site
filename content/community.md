@@ -1,6 +1,6 @@
 ---
 title: "Events - community"
-date: 2024-06-16T00:00:00-04:00
+date: 2024-06-17T00:00:00-04:00
 draft: false
 ---
 
@@ -9,8 +9,8 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Tomorrow (Mon) | 13:00 | [City](/about#City) | [Corporate Services Committee - June 17, 2024](https://london.ca/government/calendar/corporate-services-committee-june-17-2024) |
-| Tue Jun 18 |  | [RBCP](/about#RBCP) | [ORCA Spring Roadshow](https://www.rbcplacelondon.com/events/orca-spring-roadshow-june-18) |
+| Today (Mon) | 13:00 | [City](/about#City) | [Corporate Services Committee - June 17, 2024](https://london.ca/government/calendar/corporate-services-committee-june-17-2024) |
+| Tomorrow (Tue) |  | [RBCP](/about#RBCP) | [ORCA Spring Roadshow](https://www.rbcplacelondon.com/events/orca-spring-roadshow-june-18) |
 |  | 09:30 | [City](/about#City) | [Dearness Home Committee of Management - June 18, 2024](https://london.ca/government/calendar/dearness-home-committee-management-june-18-2024) |
 |  | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - June 18, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-june-18-2024) |
 |  | 15:00 | [Maker](/about#Maker) | [Open Studio ](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-xkyks-ccptd-jfws7) |

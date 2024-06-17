@@ -1,6 +1,6 @@
 ---
 title: "Events - entertainment"
-date: 2024-06-16T00:00:00-04:00
+date: 2024-06-17T00:00:00-04:00
 draft: false
 ---
 
@@ -9,9 +9,6 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Sun) | 11:00 | [Aeol](/about#Aeol) | [AJAMAF 2024 Workshop: Gamelan Session (Rebelheart Lounge)				](https://aeolianhall.ca/events/ajamaf-2024-workshop-gamelan-session-rebelheart-lounge/) |
-|  | 13:00 | [Museum](/about#Museum) | [Imagination Station : Character Collage](https://museumlondon.ca/programs-events/event/11618/) |
-|  | 20:00 | [Aeol](/about#Aeol) | [AJAMAF 2024: Heather Bambrick				](https://aeolianhall.ca/events/ajamaf-2024-heather-bambrick/) |
 | Thu Jun 20 | 19:00 | [Museum](/about#Museum) | [Season Launch Party: Summer Solstice Edition](https://museumlondon.ca/programs-events/event/11594/) |
 | Fri Jun 21 | 21:00 | [LMH](/about#LMH) | [EMO NIGHT: LONDON LIVE ft. STRIKE TYSON](http://londonmusichall.com/events/emo-night-london-live-ft-strike-tyson/) |
 | Sat Jun 22 |  | [BudG](/about#BudG) | [Brooks & Dunn - Reboot 2024 Tour](https://www.budweisergardens.com/events/detail/brooks-dunn) |

@@ -1,6 +1,6 @@
 ---
 title: "Events - kids"
-date: 2024-06-16T00:00:00-04:00
+date: 2024-06-17T00:00:00-04:00
 draft: false
 ---
 
@@ -9,10 +9,7 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Sun) | 11:00 | [CMus](/about#CMus) | [STEAM: Take Flight!](https://www.londonchildrensmuseum.ca/event/steam-take-flight) |
-|  | 11:00 | [CMus](/about#CMus) | [OUTREACH: London Children's Festival](https://www.londonchildrensmuseum.ca/event/outreach-london-childrens-festival) |
-|  | 14:30 | [CMus](/about#CMus) | [STEAM: Take Flight!](https://www.londonchildrensmuseum.ca/event/steam-take-flight) |
-| Tue Jun 18 | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
+| Tomorrow (Tue) | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
 | Thu Jun 20 | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
 |  | 18:00 | [CMus](/about#CMus) | [STEAM: Shrink Art](https://www.londonchildrensmuseum.ca/event/steam-shrink-art) |
 | Fri Jun 21 | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |

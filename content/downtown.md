@@ -1,6 +1,6 @@
 ---
 title: "Events - downtown"
-date: 2024-06-16T00:00:00-04:00
+date: 2024-06-17T00:00:00-04:00
 draft: false
 ---
 
@@ -9,13 +9,7 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Sun) | 11:00 | [Aeol](/about#Aeol) | [AJAMAF 2024 Workshop: Gamelan Session (Rebelheart Lounge)				](https://aeolianhall.ca/events/ajamaf-2024-workshop-gamelan-session-rebelheart-lounge/) |
-|  | 11:00 | [CMus](/about#CMus) | [STEAM: Take Flight!](https://www.londonchildrensmuseum.ca/event/steam-take-flight) |
-|  | 11:00 | [CMus](/about#CMus) | [OUTREACH: London Children's Festival](https://www.londonchildrensmuseum.ca/event/outreach-london-childrens-festival) |
-|  | 13:00 | [Museum](/about#Museum) | [Imagination Station : Character Collage](https://museumlondon.ca/programs-events/event/11618/) |
-|  | 14:30 | [CMus](/about#CMus) | [STEAM: Take Flight!](https://www.londonchildrensmuseum.ca/event/steam-take-flight) |
-|  | 20:00 | [Aeol](/about#Aeol) | [AJAMAF 2024: Heather Bambrick				](https://aeolianhall.ca/events/ajamaf-2024-heather-bambrick/) |
-| Tue Jun 18 | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
+| Tomorrow (Tue) | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
 | Wed Jun 19 | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/50456/Friendship_Circle?date=2024-06-19) |
 | Thu Jun 20 | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
 |  | 18:00 | [CMus](/about#CMus) | [STEAM: Shrink Art](https://www.londonchildrensmuseum.ca/event/steam-shrink-art) |
