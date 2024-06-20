@@ -1,6 +1,6 @@
 ---
 title: "Events - entertainment"
-date: 2024-06-19T00:00:01-04:00
+date: 2024-06-20T00:00:01-04:00
 draft: false
 ---
 
@@ -9,8 +9,8 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Tomorrow (Thu) | 19:00 | [Museum](/about#Museum) | [Season Launch Party: Summer Solstice Edition](https://museumlondon.ca/programs-events/event/11594/) |
-| Fri Jun 21 | 21:00 | [LMH](/about#LMH) | [EMO NIGHT: LONDON LIVE ft. STRIKE TYSON](http://londonmusichall.com/events/emo-night-london-live-ft-strike-tyson/) |
+| Today (Thu) | 19:00 | [Museum](/about#Museum) | [Season Launch Party: Summer Solstice Edition](https://museumlondon.ca/programs-events/event/11594/) |
+| Tomorrow (Fri) | 21:00 | [LMH](/about#LMH) | [EMO NIGHT: LONDON LIVE ft. STRIKE TYSON](http://londonmusichall.com/events/emo-night-london-live-ft-strike-tyson/) |
 | Sat Jun 22 |  | [BudG](/about#BudG) | [Brooks & Dunn - Reboot 2024 Tour](https://www.budweisergardens.com/events/detail/brooks-dunn) |
 |  | 10:30 | [Museum](/about#Museum) | [History Walk: Hidden in Plain Sight](https://museumlondon.ca/programs-events/event/11648/) |
 |  | 19:00 | [LMH](/about#LMH) | [TWO CROWN KING](http://londonmusichall.com/events/two-crown-king/) |
@@ -37,6 +37,7 @@ View only a category:
 |  | 11:30 | [FMus](/about#FMus) | [Doctoral Public Lecture \| Allahyar Vazirov](http://www.events.westernu.ca/events/grad-postdoc-studies/2024-07/doctoral-public-lecture-allahyar-vazirov.html) |
 | Wed Jul 10 | 18:00 | [LMH](/about#LMH) | [UPON A BURNING BODY – Low Riders & Stage Divers Tour](http://londonmusichall.com/events/upon-a-burning-body-low-riders-stage-divers-tour/) |
 | Thu Jul 11 | 18:00 | [Museum](/about#Museum) | [Culture Walk: Murals of Downtown](https://museumlondon.ca/programs-events/event/11677/) |
+| Fri Jul 12 | 20:00 | [Aeol](/about#Aeol) | [Dixon’s Violin				](https://aeolianhall.ca/events/dixons-violin/) |
 | Sat Jul 13 | 10:30 | [Museum](/about#Museum) | [History Walk: Digging Dundas](https://museumlondon.ca/programs-events/event/11633/) |
 | Mon Jul 15 | 09:00 | [Museum](/about#Museum) | [*SOLD OUT* ML Kids Summer Camp: Enchanted Realms and Mythical Creatures](https://museumlondon.ca/programs-events/event/11419/) |
 | Thu Jul 18 | 18:00 | [Museum](/about#Museum) | [Culture Walk: Hidden Secrets of Downtown](https://museumlondon.ca/programs-events/event/11662/) |
@@ -45,7 +46,8 @@ View only a category:
 | Sun Jul 21 |  | [BudG](/about#BudG) | [RAIN - A Tribute to The BEATLES](https://www.budweisergardens.com/events/detail/rain-a-tribute-to-the-beatles) |
 | Mon Jul 22 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Bug Out!](https://museumlondon.ca/programs-events/event/11420/) |
 | Thu Jul 25 | 18:00 | [Museum](/about#Museum) | [Culture Walk: Murals of Downtown](https://museumlondon.ca/programs-events/event/11679/) |
-| Fri Jul 26 | 19:00 | [LMH](/about#LMH) | [Talbotville Gore](http://londonmusichall.com/events/talbotville-gore/) |
+| Fri Jul 26 |  | [Grand](/about#Grand) | [Drag Me Through Time](https://www.grandtheatre.com/event/drag-me-through-time) |
+|  | 19:00 | [LMH](/about#LMH) | [Talbotville Gore](http://londonmusichall.com/events/talbotville-gore/) |
 | Sat Jul 27 | 10:30 | [Museum](/about#Museum) | [Culture Walk: Hidden In Plain Sight](https://museumlondon.ca/programs-events/event/11664/) |
 |  | 18:30 | [LMH](/about#LMH) | [Thunder from Down Under – Untamed 2024 Tour](http://londonmusichall.com/events/thunder-from-down-under/) |
 |  | 21:00 | [LMH](/about#LMH) | [*Sold Out* Thunder from Down Under – Untamed 2024 Tour](http://londonmusichall.com/events/thunder-from-down-under-untamed-2024-tour/) |
@@ -59,6 +61,7 @@ View only a category:
 |  | 10:30 | [Museum](/about#Museum) | [History Walk: Bats, Beans, and Bridges](https://museumlondon.ca/programs-events/event/11655/) |
 | Tue Aug 06 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Collective Creators](https://museumlondon.ca/programs-events/event/11422/) |
 | Thu Aug 08 | 18:00 | [Museum](/about#Museum) | [Culture Walk: Murals of Downtown](https://museumlondon.ca/programs-events/event/11681/) |
+| Fri Aug 09 |  | [Grand](/about#Grand) | [Broadway Baddies: A Theatrical Extravanganza](https://www.grandtheatre.com/event/broadway-baddies-theatrical-extravanganza) |
 | Sat Aug 10 |  | [BudG](/about#BudG) | [Cody Johnson](https://www.budweisergardens.com/events/detail/cody-johnson) |
 |  | 10:30 | [Museum](/about#Museum) | [History Walk: Heaven and Hell](https://museumlondon.ca/programs-events/event/11628/) |
 |  | 19:00 | [LMH](/about#LMH) | [Sabin Rai & the Pharaohs](http://londonmusichall.com/events/sabin-rai-the-pharaohs/) |
@@ -71,6 +74,7 @@ View only a category:
 |  | 19:00 | [LMH](/about#LMH) | [The Michael Jackson History Show](http://londonmusichall.com/events/the-michael-jackson-history-show/) |
 | Mon Aug 19 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Weaving Wonders and Fiber Fun](https://museumlondon.ca/programs-events/event/11424/) |
 | Thu Aug 22 | 18:00 | [Museum](/about#Museum) | [Culture Walk: Murals of Downtown](https://museumlondon.ca/programs-events/event/11683/) |
+| Fri Aug 23 |  | [Grand](/about#Grand) | [Lillith Nox's Cabaret of Curiosities](https://www.grandtheatre.com/event/lillith-noxs-cabaret-curiosities) |
 | Sat Aug 24 | 10:30 | [Museum](/about#Museum) | [History Walk: Castles to Cottages](https://museumlondon.ca/programs-events/event/11644/) |
 | Mon Aug 26 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Heroes and Villains](https://museumlondon.ca/programs-events/event/11425/) |
 | Thu Aug 29 | 18:00 | [Museum](/about#Museum) | [Culture Walk: Hidden Secrets of Downtown](https://museumlondon.ca/programs-events/event/11670/) |

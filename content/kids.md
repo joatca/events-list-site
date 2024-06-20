@@ -1,6 +1,6 @@
 ---
 title: "Events - kids"
-date: 2024-06-19T00:00:01-04:00
+date: 2024-06-20T00:00:01-04:00
 draft: false
 ---
 
@@ -9,11 +9,10 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Wed) | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
-| Tomorrow (Thu) | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
+| Today (Thu) | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
 |  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
 |  | 18:00 | [CMus](/about#CMus) | [STEAM: Shrink Art](https://www.londonchildrensmuseum.ca/event/steam-shrink-art) |
-| Fri Jun 21 | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
+| Tomorrow (Fri) | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
 | Sat Jun 22 | 11:00 | [CMus](/about#CMus) | [STEAM: Shrink Art](https://www.londonchildrensmuseum.ca/event/steam-shrink-art) |
 |  | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Shrink Art](https://www.londonchildrensmuseum.ca/event/steam-shrink-art) |
@@ -34,8 +33,8 @@ View only a category:
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: DIY Ice Cream](https://www.londonchildrensmuseum.ca/event/steam-diy-ice-cream) |
 | Sun Jun 30 | 11:00 | [CMus](/about#CMus) | [Energy Stick](https://www.londonchildrensmuseum.ca/event/energy-stick) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: DIY Ice Cream](https://www.londonchildrensmuseum.ca/event/steam-diy-ice-cream) |
-| Mon Jul 01 | 09:30 | [CMus](/about#CMus) | [OPEN](https://www.londonchildrensmuseum.ca/event/open) |
-|  | 09:30 | [CMus](/about#CMus) | [L'heure du conte en français \| French Storytime](https://www.londonchildrensmuseum.ca/event/lheure-du-conte-en-francais-french-storytime) |
+| Mon Jul 01 | 09:30 | [CMus](/about#CMus) | [L'heure du conte en français \| French Storytime](https://www.londonchildrensmuseum.ca/event/lheure-du-conte-en-francais-french-storytime) |
+|  | 09:30 | [CMus](/about#CMus) | [OPEN](https://www.londonchildrensmuseum.ca/event/open) |
 |  | 10:00 | [CMus](/about#CMus) | [OUTREACH: Goderich Children's Festival](https://www.londonchildrensmuseum.ca/event/outreach-goderich-childrens-festival) |
 |  | 11:00 | [CMus](/about#CMus) | [Energy Stick](https://www.londonchildrensmuseum.ca/event/energy-stick) |
 |  | 12:00 | [CMus](/about#CMus) | [OUTREACH: Canada Day London](https://www.londonchildrensmuseum.ca/event/outreach-canada-day-london) |
@@ -51,9 +50,7 @@ View only a category:
 |  | 11:00 | [CMus](/about#CMus) | [Energy Stick](https://www.londonchildrensmuseum.ca/event/energy-stick) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Flying Creatures](https://www.londonchildrensmuseum.ca/event/steam-flying-creatures) |
 |  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
-|  | 17:30 | [CMus](/about#CMus) | [Learning Garden](https://www.londonchildrensmuseum.ca/event/learning-garden) |
-| Fri Jul 05 | 09:30 | [CMus](/about#CMus) | [Sirens, Horns and Wheels](https://www.londonchildrensmuseum.ca/event/sirens-horns-and-wheels) |
-|  | 11:00 | [CMus](/about#CMus) | [Energy Stick](https://www.londonchildrensmuseum.ca/event/energy-stick) |
+| Fri Jul 05 | 11:00 | [CMus](/about#CMus) | [Energy Stick](https://www.londonchildrensmuseum.ca/event/energy-stick) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Flying Creatures](https://www.londonchildrensmuseum.ca/event/steam-flying-creatures) |
 | Sat Jul 06 | 11:00 | [CMus](/about#CMus) | [Energy Stick](https://www.londonchildrensmuseum.ca/event/energy-stick) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Flying Creatures](https://www.londonchildrensmuseum.ca/event/steam-flying-creatures) |
@@ -68,8 +65,3 @@ View only a category:
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Seed Dissection](https://www.londonchildrensmuseum.ca/event/steam-seed-dissection) |
 | Wed Jul 10 | 09:30 | [CMus](/about#CMus) | [Creatures & Critters](https://www.londonchildrensmuseum.ca/event/creatures-critters) |
 |  | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
-|  | 11:00 | [CMus](/about#CMus) | [Special Guest: Cambridge Butterfly Conservatory](https://www.londonchildrensmuseum.ca/event/special-guest-cambridge-butterfly-conservatory) |
-|  | 11:00 | [CMus](/about#CMus) | [Electric Butterfly](https://www.londonchildrensmuseum.ca/event/electric-butterfly) |
-|  | 14:30 | [CMus](/about#CMus) | [STEAM: Seed Dissection](https://www.londonchildrensmuseum.ca/event/steam-seed-dissection) |
-| Thu Jul 11 | 09:30 | [CMus](/about#CMus) | [Learning Garden](https://www.londonchildrensmuseum.ca/event/learning-garden) |
-|  | 09:30 | [CMus](/about#CMus) | [Creatures & Critters](https://www.londonchildrensmuseum.ca/event/creatures-critters) |
