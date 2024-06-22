@@ -1,6 +1,6 @@
 ---
 title: "Events - entertainment"
-date: 2024-06-21T00:00:00-04:00
+date: 2024-06-22T00:00:01-04:00
 draft: false
 ---
 
@@ -9,11 +9,11 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Tomorrow (Sat) |  | [BudG](/about#BudG) | [Brooks & Dunn - Reboot 2024 Tour](https://www.budweisergardens.com/events/detail/brooks-dunn) |
+| Today (Sat) |  | [BudG](/about#BudG) | [Brooks & Dunn - Reboot 2024 Tour](https://www.budweisergardens.com/events/detail/brooks-dunn) |
 |  | 10:30 | [Museum](/about#Museum) | [History Walk: Hidden in Plain Sight](https://museumlondon.ca/programs-events/event/11648/) |
 |  | 19:00 | [LMH](/about#LMH) | [TWO CROWN KING](http://londonmusichall.com/events/two-crown-king/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [A Night In Vegas (Featuring Micah Barnes & Billy Newton-Davis)				](https://aeolianhall.ca/events/a-night-in-vegas-featuring-micah-barnes-billy-newton-davis/) |
-| Sun Jun 23 | 13:00 | [Museum](/about#Museum) | [Imagination Station : Character Collage](https://museumlondon.ca/programs-events/event/11620/) |
+| Tomorrow (Sun) | 13:00 | [Museum](/about#Museum) | [Imagination Station : Character Collage](https://museumlondon.ca/programs-events/event/11620/) |
 | Mon Jun 24 | 19:00 | [FMus](/about#FMus) | [Sounds of Swing Jazz Band](http://www.events.westernu.ca/events/music/2024-06/sounds-of-swing-jazz-band.html) |
 | Tue Jun 25 | 11:30 | [FMus](/about#FMus) | [Doctoral Public Lecture \| Donna Janowski](http://www.events.westernu.ca/events/grad-postdoc-studies/2024-06/doctoral-public-lecture-donna-janowski.html) |
 | Wed Jun 26 | 18:30 | [Aeol](/about#Aeol) | [Aeolian Pride Social Series – Jordan Baldwin				](https://aeolianhall.ca/events/aeolian-pride-social-series-jordan-baldwin/) |
