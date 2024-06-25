@@ -1,6 +1,6 @@
 ---
 title: "Events - community"
-date: 2024-06-24T00:00:01-04:00
+date: 2024-06-25T00:00:00-04:00
 draft: false
 ---
 
@@ -9,12 +9,11 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Mon) |  | [PSFT](/about#PSFT) | [They’re Found In Trees](https://psft.ca/event/theyre-found-in-trees/) |
-|  | 10:00 | [City](/about#City) | [Governance Working Group - June 24, 2024](https://london.ca/government/calendar/governance-working-group-june-24-2024) |
-| Tomorrow (Tue) | 13:00 | [City](/about#City) | [Council - June 25, 2024](https://london.ca/government/calendar/council-june-25-2024) |
+| Today (Tue) |  | [PSFT](/about#PSFT) | [They’re Found In Trees](https://psft.ca/event/theyre-found-in-trees/) |
+|  | 13:00 | [City](/about#City) | [Council - June 25, 2024](https://london.ca/government/calendar/council-june-25-2024) |
 |  | 15:00 | [Maker](/about#Maker) | [Open Studio](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-xkyks-ccptd-jfws7-jg866) |
 |  | 19:30 | [Maker](/about#Maker) | [Embroidery 101: Custom Portrait](https://www.hellomaker.ca/events/irqu905qi77vqjbol00gy0uc19ja68-gns73-fhhpr-najh8-yc3gg-6bcww-pjpfr-nfd4a-xy52p-b6wsn-8a9ra-c7hyd-8afek) |
-| Wed Jun 26 | 14:00 | [City](/about#City) | [Strategic Opportunities Review Working Group - June 26, 2024](https://london.ca/government/calendar/strategic-opportunities-review-working-group-june-26-2024) |
+| Tomorrow (Wed) | 14:00 | [City](/about#City) | [Strategic Opportunities Review Working Group - June 26, 2024](https://london.ca/government/calendar/strategic-opportunities-review-working-group-june-26-2024) |
 |  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/50456/Friendship_Circle?date=2024-06-26) |
 | Thu Jun 27 | 13:30 | [City](/about#City) | [Committee of Adjustment - June 27, 2024](https://london.ca/government/calendar/committee-adjustment-june-27-2024) |
 |  | 14:00 | [City](/about#City) | [Unveiling of Indigenous mural projects at East Lions Community Centre - June 27, 2024](https://london.ca/government/calendar/unveiling-indigenous-mural-projects-east-lions-community-centre-june-27-2024) |
@@ -43,7 +42,7 @@ View only a category:
 |  | 13:00 | [City](/about#City) | [Corporate Services Committee - July 17, 2024](https://london.ca/government/calendar/corporate-services-committee-july-17-2024) |
 |  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/50456/Friendship_Circle?date=2024-07-17) |
 | Thu Jul 18 | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - July 18, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-july-18-2024) |
-| Fri Jul 19 |  | [RBCP](/about#RBCP) | [TennoCon 2024](https://www.rbcplacelondon.com/events/tennocon-2024-july-19-20) |
+| Fri Jul 19 |  | [RBCP](/about#RBCP) | [TennoCon2024](https://www.rbcplacelondon.com/events/tennocon2024-july-19-20) |
 | Tue Jul 23 | 13:00 | [City](/about#City) | [Council - July 23, 2024](https://london.ca/government/calendar/council-july-23-2024) |
 |  | 15:00 | [Maker](/about#Maker) | [Open Studio ](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-xkyks-ccptd-jfws7-9r8mg-ce85p-4tgpe-nzr9h) |
 | Wed Jul 24 | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/50456/Friendship_Circle?date=2024-07-24) |
@@ -78,15 +77,25 @@ View only a category:
 | Wed Sep 18 | 12:00 | [City](/about#City) | [Audit Committee - September 18, 2024](https://london.ca/government/calendar/audit-committee-september-18-2024) |
 | Mon Sep 23 | 10:00 | [City](/about#City) | [Governance Working Group - September 23, 2024](https://london.ca/government/calendar/governance-working-group-september-23-2024) |
 | Tue Sep 24 | 13:00 | [City](/about#City) | [Council - September 24, 2024](https://london.ca/government/calendar/council-september-24-2024) |
+| Wed Sep 25 |  | [RBCP](/about#RBCP) | [2024 Business Achievement Awards](https://www.rbcplacelondon.com/events/2024-business-achievement-awards-september-25) |
+| Fri Sep 27 |  | [RBCP](/about#RBCP) | [Western Mustangs Sports Hall of Fame Dinner](https://www.rbcplacelondon.com/events/western-mustangs-sports-hall-fame-dinner-september-27) |
+| Sat Sep 28 |  | [RBCP](/about#RBCP) | [Schulich School of Medicine & Dentistry Dean's Alumni Cocktail Reception](https://www.rbcplacelondon.com/events/schulich-school-medicine-dentistry-deans-alumni-cocktail-reception-september-28) |
+| Sun Sep 29 |  | [RBCP](/about#RBCP) | [Ontario Building Officials Association 68th Annual Meeting and Training Sessions](https://www.rbcplacelondon.com/events/ontario-building-officials-association-68th-annual-meeting-and-training-sessions-september) |
 | Tue Oct 01 | 13:00 | [City](/about#City) | [Community and Protective Services Committee - October 01, 2024](https://london.ca/government/calendar/community-protective-services-committee-october-01-2024) |
 | Wed Oct 02 | 09:30 | [City](/about#City) | [Civic Works Committee - October 02, 2024](https://london.ca/government/calendar/civic-works-committee-october-02-2024) |
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - October 02, 2024](https://london.ca/government/calendar/planning-environment-committee-october-02-2024) |
+| Thu Oct 03 |  | [RBCP](/about#RBCP) | [2024 Manufacturing Matters Conference](https://www.rbcplacelondon.com/events/2024-manufacturing-matters-conference-october-3) |
 | Mon Oct 07 | 13:00 | [City](/about#City) | [Corporate Services Committee - October 07, 2024](https://london.ca/government/calendar/corporate-services-committee-october-07-2024) |
 | Tue Oct 08 | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - October 08, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-october-08-2024) |
+| Wed Oct 09 |  | [RBCP](/about#RBCP) | [St. Joseph's Tribute Dinner](https://www.rbcplacelondon.com/events/st-josephs-tribute-dinner-october-9) |
 | Tue Oct 15 | 13:00 | [City](/about#City) | [Council - October 15, 2024](https://london.ca/government/calendar/council-october-15-2024) |
+| Thu Oct 17 |  | [RBCP](/about#RBCP) | [Wounds Canada 2024 Fall Conference](https://www.rbcplacelondon.com/events/wounds-canada-2024-fall-conference-october-17-19) |
 | Mon Oct 21 | 13:00 | [City](/about#City) | [Community and Protective Services Committee - October 21, 2024](https://london.ca/government/calendar/community-protective-services-committee-october-21-2024) |
-| Tue Oct 22 | 09:30 | [City](/about#City) | [Civic Works Committee - October 22, 2024](https://london.ca/government/calendar/civic-works-committee-october-22-2024) |
+| Tue Oct 22 |  | [RBCP](/about#RBCP) | [Best Defence Conference](https://www.rbcplacelondon.com/events/best-defence-conference-october-22-23) |
+|  | 09:30 | [City](/about#City) | [Civic Works Committee - October 22, 2024](https://london.ca/government/calendar/civic-works-committee-october-22-2024) |
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - October 22, 2024](https://london.ca/government/calendar/planning-environment-committee-october-22-2024) |
+| Thu Oct 24 |  | [RBCP](/about#RBCP) | [JA South Western Ontario Hall of Fame Gala](https://www.rbcplacelondon.com/events/ja-south-western-ontario-hall-fame-gala-october-24) |
+| Sat Oct 26 |  | [RBCP](/about#RBCP) | [Showdown in the Downtown](https://www.rbcplacelondon.com/events/showdown-downtown-october-26) |
 | Mon Oct 28 | 13:00 | [City](/about#City) | [Corporate Services Committee - October 28, 2024](https://london.ca/government/calendar/corporate-services-committee-october-28-2024) |
 | Tue Oct 29 | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - October 29, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-october-29-2024) |
 | Mon Nov 04 | 13:00 | [City](/about#City) | [Planning and Environment Committee - November 04, 2024](https://london.ca/government/calendar/planning-environment-committee-november-04-2024) |

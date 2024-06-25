@@ -1,6 +1,6 @@
 ---
 title: "Events - entertainment"
-date: 2024-06-24T00:00:01-04:00
+date: 2024-06-25T00:00:00-04:00
 draft: false
 ---
 
@@ -9,9 +9,8 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Mon) | 19:00 | [FMus](/about#FMus) | [Sounds of Swing Jazz Band](http://www.events.westernu.ca/events/music/2024-06/sounds-of-swing-jazz-band.html) |
-| Tomorrow (Tue) | 11:30 | [FMus](/about#FMus) | [Doctoral Public Lecture \| Donna Janowski](http://www.events.westernu.ca/events/grad-postdoc-studies/2024-06/doctoral-public-lecture-donna-janowski.html) |
-| Wed Jun 26 | 18:30 | [Aeol](/about#Aeol) | [Aeolian Pride Social Series – Jordan Baldwin				](https://aeolianhall.ca/events/aeolian-pride-social-series-jordan-baldwin/) |
+| Today (Tue) | 11:30 | [FMus](/about#FMus) | [Doctoral Public Lecture \| Donna Janowski](http://www.events.westernu.ca/events/grad-postdoc-studies/2024-06/doctoral-public-lecture-donna-janowski.html) |
+| Tomorrow (Wed) | 18:30 | [Aeol](/about#Aeol) | [Aeolian Pride Social Series – Jordan Baldwin				](https://aeolianhall.ca/events/aeolian-pride-social-series-jordan-baldwin/) |
 | Thu Jun 27 |  | [BudG](/about#BudG) | [Steve Miller Band](https://www.budweisergardens.com/events/detail/steve-miller-band) |
 |  |  | [Grand](/about#Grand) | [Once Upon a Mattress](https://www.grandtheatre.com/event/once-upon-mattress) |
 | Fri Jun 28 | 19:00 | [LMH](/about#LMH) | [DJ Sekhar & Fejo](http://londonmusichall.com/events/dj-sekhar-fejo/) |
@@ -47,14 +46,14 @@ View only a category:
 |  | 18:30 | [LMH](/about#LMH) | [Thunder from Down Under – Untamed 2024 Tour](http://londonmusichall.com/events/thunder-from-down-under/) |
 |  | 21:00 | [LMH](/about#LMH) | [*Sold Out* Thunder from Down Under – Untamed 2024 Tour](http://londonmusichall.com/events/thunder-from-down-under-untamed-2024-tour/) |
 | Sun Jul 28 | 18:30 | [LMH](/about#LMH) | [Frozen Soul](http://londonmusichall.com/events/frozen-soul/) |
-| Mon Jul 29 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Press Play](https://museumlondon.ca/programs-events/event/11421/) |
+| Mon Jul 29 | 09:00 | [Museum](/about#Museum) | [* SOLD OUT* ML Kids Summer Camp: Press Play](https://museumlondon.ca/programs-events/event/11421/) |
 | Tue Jul 30 | 19:00 | [LMH](/about#LMH) | [Jack Botts](http://londonmusichall.com/events/jack-botts/) |
 | Wed Jul 31 |  | [BudG](/about#BudG) | [Lamb Of God & Mastodon: ASHES OF LEVIATHAN TOUR](https://www.budweisergardens.com/events/detail/lamb-of-god-mastodon) |
 | Thu Aug 01 |  | [Grand](/about#Grand) | [Tango in the Dark](https://www.grandtheatre.com/event/tango-in-the-dark) |
 |  | 18:00 | [Museum](/about#Museum) | [Culture Walk: Hidden Secrets of Downtown](https://museumlondon.ca/programs-events/event/11666/) |
 | Sat Aug 03 |  | [BudG](/about#BudG) | [Canada Kabaddi Cup 2024](https://www.budweisergardens.com/events/detail/canada-kabaddi-cup-2024) |
 |  | 10:30 | [Museum](/about#Museum) | [History Walk: Bats, Beans, and Bridges](https://museumlondon.ca/programs-events/event/11655/) |
-| Tue Aug 06 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Collective Creators](https://museumlondon.ca/programs-events/event/11422/) |
+| Tue Aug 06 | 09:00 | [Museum](/about#Museum) | [*SOLD OUT* ML Kids Summer Camp: Collective Creators](https://museumlondon.ca/programs-events/event/11422/) |
 | Thu Aug 08 | 18:00 | [Museum](/about#Museum) | [Culture Walk: Murals of Downtown](https://museumlondon.ca/programs-events/event/11681/) |
 | Fri Aug 09 |  | [Grand](/about#Grand) | [Broadway Baddies: A Theatrical Extravanganza](https://www.grandtheatre.com/event/broadway-baddies-theatrical-extravanganza) |
 | Sat Aug 10 |  | [BudG](/about#BudG) | [Cody Johnson](https://www.budweisergardens.com/events/detail/cody-johnson) |

@@ -1,6 +1,6 @@
 ---
 title: "Events"
-date: 2024-06-24T00:00:01-04:00
+date: 2024-06-25T00:00:00-04:00
 draft: false
 ---
 
@@ -9,25 +9,23 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Mon) |  | [Tour](/about#Tour) | [Aitken \| Ladd \| Peacock - Improvisations](https://www.londontourism.ca/events/aitken-ladd-peacock-improvisations) |
-|  |  | [Tour](/about#Tour) | [Toboggan Jazz: Whitehead, De Souza, Ernewein](https://www.londontourism.ca/events/toboggan-jazz-whitehead-de-souza-ernewein) |
-|  |  | [Tour](/about#Tour) | [Recent Things](https://www.londontourism.ca/events/recent-things) |
-|  |  | [Tour](/about#Tour) | [Springbank Garden Concert Series](https://www.londontourism.ca/events/springbank-garden-concert-series) |
+| Today (Tue) |  | [Tour](/about#Tour) | [Springbank Garden Concert Series](https://www.londontourism.ca/events/springbank-garden-concert-series) |
+|  |  | [Tour](/about#Tour) | [Grand Wood Park - Weekly Night Market](https://www.londontourism.ca/events/grand-wood-park-weekly-night-market) |
+|  |  | [Tour](/about#Tour) | [Michael Pszczonak](https://www.londontourism.ca/events/michael-pszczonak) |
 |  |  | [PSFT](/about#PSFT) | [They’re Found In Trees](https://psft.ca/event/theyre-found-in-trees/) |
-|  | 10:00 | [City](/about#City) | [Governance Working Group - June 24, 2024](https://london.ca/government/calendar/governance-working-group-june-24-2024) |
-|  | 19:00 | [FMus](/about#FMus) | [Sounds of Swing Jazz Band](http://www.events.westernu.ca/events/music/2024-06/sounds-of-swing-jazz-band.html) |
-| Tomorrow (Tue) | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
+|  | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
 |  | 11:30 | [FMus](/about#FMus) | [Doctoral Public Lecture \| Donna Janowski](http://www.events.westernu.ca/events/grad-postdoc-studies/2024-06/doctoral-public-lecture-donna-janowski.html) |
 |  | 13:00 | [City](/about#City) | [Council - June 25, 2024](https://london.ca/government/calendar/council-june-25-2024) |
 |  | 15:00 | [Maker](/about#Maker) | [Open Studio](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-xkyks-ccptd-jfws7-jg866) |
 |  | 19:30 | [Maker](/about#Maker) | [Embroidery 101: Custom Portrait](https://www.hellomaker.ca/events/irqu905qi77vqjbol00gy0uc19ja68-gns73-fhhpr-najh8-yc3gg-6bcww-pjpfr-nfd4a-xy52p-b6wsn-8a9ra-c7hyd-8afek) |
-| Wed Jun 26 | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
+| Tomorrow (Wed) | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
 |  | 14:00 | [City](/about#City) | [Strategic Opportunities Review Working Group - June 26, 2024](https://london.ca/government/calendar/strategic-opportunities-review-working-group-june-26-2024) |
 |  | 18:00 | [CGM](/about#CGM) | [Tarot Flows](https://coventmarket.com/event/tarot-flows-with-lily-5/) |
 |  | 18:30 | [Aeol](/about#Aeol) | [Aeolian Pride Social Series – Jordan Baldwin				](https://aeolianhall.ca/events/aeolian-pride-social-series-jordan-baldwin/) |
 |  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/50456/Friendship_Circle?date=2024-06-26) |
 | Thu Jun 27 |  | [BudG](/about#BudG) | [Steve Miller Band](https://www.budweisergardens.com/events/detail/steve-miller-band) |
 |  |  | [Grand](/about#Grand) | [Once Upon a Mattress](https://www.grandtheatre.com/event/once-upon-mattress) |
+|  |  | [Tour](/about#Tour) | [Antler River Poetry 20th Anniversary Showcase](https://www.londontourism.ca/events/antler-river-poetry-20th-anniversary-showcase) |
 |  |  | [Tour](/about#Tour) | [Steve Miller Band](https://www.londontourism.ca/events/steve-miller-band) |
 |  |  | [Tour](/about#Tour) | [PRFM x City of Music Concerts](https://www.londontourism.ca/events/prfm-x-city-of-music-concerts) |
 |  | 09:30 | [CMus](/about#CMus) | [Littles Lab](https://www.londonchildrensmuseum.ca/event/littles-lab) |
@@ -41,9 +39,9 @@ View only a category:
 | Fri Jun 28 |  | [Tour](/about#Tour) | [The Rocky Horror Picture Show](https://www.londontourism.ca/events/the-rocky-horror-picture-show) |
 |  |  | [Tour](/about#Tour) | [Anthony Gomes - High Voltage Bluesman](https://www.londontourism.ca/events/anthony-gomes-high-voltage-bluesman) |
 |  |  | [Tour](/about#Tour) | [London Majors vs Guelph - June 28](https://www.londontourism.ca/events/london-majors-vs-guelph-june-28) |
-|  |  | [Tour](/about#Tour) | [DNB Delirium](https://www.londontourism.ca/events/dnb-delirium) |
 |  |  | [Tour](/about#Tour) | [Outdoor Movies - Black Adam](https://www.londontourism.ca/events/outdoor-movies-black-adam) |
 |  |  | [Tour](/about#Tour) | [Outdoor Movies - Goonies](https://www.londontourism.ca/events/outdoor-movies-goonies) |
+|  |  | [Tour](/about#Tour) | [DNB Delirium](https://www.londontourism.ca/events/dnb-delirium) |
 |  | 09:00 | [CMus](/about#CMus) | [PA Day Camp](https://www.londonchildrensmuseum.ca/event/pa-day-camp) |
 |  | 10:00 | [CMus](/about#CMus) | [Pop-up Play!](https://www.londonchildrensmuseum.ca/event/pop-play) |
 |  | 11:00 | [CMus](/about#CMus) | [Energy Stick](https://www.londonchildrensmuseum.ca/event/energy-stick) |
@@ -52,6 +50,7 @@ View only a category:
 |  | 19:00 | [LMH](/about#LMH) | [DJ Sekhar & Fejo](http://londonmusichall.com/events/dj-sekhar-fejo/) |
 |  | 21:00 | [LMH](/about#LMH) | [*NEW DATE* EMO NIGHT: LONDON LIVE ft. STRIKE TYSON](http://londonmusichall.com/events/emo-night-london-live-ft-strike-tyson/) |
 | Sat Jun 29 |  | [Grand](/about#Grand) | [Decades of Bond - The Ultimate Tribute to the Music of James Bond](https://www.grandtheatre.com/event/decades-of-bond) |
+|  |  | [Tour](/about#Tour) | [Canada Day Weekend Patio Party](https://www.londontourism.ca/events/canada-day-weekend-patio-party) |
 |  |  | [Tour](/about#Tour) | [Decades of Bond ~ Live at the Grand Theatre, London](https://www.londontourism.ca/events/decades-of-bond-live-at-the-grand-theatre-london) |
 |  |  | [Eldon](/about#Eldon) | [Strawberry Tea at the Museum](https://eldonhouse.ca/product/strawberry-tea-at-the-museum/) |
 |  | 08:00 | [CGM](/about#CGM) | [Outdoor Farmers Market](https://coventmarket.com/event/outdoor-farmers-market-3-3/) |
@@ -61,20 +60,21 @@ View only a category:
 |  | 13:00 | [CMus](/about#CMus) | [Collection Spotlight](https://www.londonchildrensmuseum.ca/event/collection-spotlight) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: DIY Ice Cream](https://www.londonchildrensmuseum.ca/event/steam-diy-ice-cream) |
 |  | 15:00 | [CGM](/about#CGM) | [SOKONI Market](https://coventmarket.com/event/sokoni-market-9-3/) |
-| Sun Jun 30 |  | [Tour](/about#Tour) | [2024 London Dance Festival Preview at the Night Market](https://www.londontourism.ca/events/2024-london-dance-festival-preview-at-the-night-market) |
-|  |  | [Tour](/about#Tour) | [Drag Brunch ft. The X Wife!](https://www.londontourism.ca/events/drag-brunch-ft-the-x-wife) |
-|  |  | [Tour](/about#Tour) | [Whiskey Run London](https://www.londontourism.ca/events/whiskey-run-london) |
-|  |  | [Tour](/about#Tour) | [Sunday Jazz in Market Lane: 401 Smooth Jazz](https://www.londontourism.ca/events/sunday-jazz-in-market-lane-401-smooth-jazz) |
+| Sun Jun 30 |  | [Tour](/about#Tour) | [Sunday Jazz in Market Lane: 401 Smooth Jazz](https://www.londontourism.ca/events/sunday-jazz-in-market-lane-401-smooth-jazz) |
 |  |  | [Tour](/about#Tour) | [Night Market London](https://www.londontourism.ca/events/night-market-london) |
 |  |  | [Tour](/about#Tour) | [Summerside Canada Day 2024- London, Ontario](https://www.londontourism.ca/events/summerside-canada-day-2024-london-ontario) |
+|  |  | [Tour](/about#Tour) | [Whiskey Run London](https://www.londontourism.ca/events/whiskey-run-london) |
+|  |  | [Tour](/about#Tour) | [2024 London Dance Festival Preview at the Night Market](https://www.londontourism.ca/events/2024-london-dance-festival-preview-at-the-night-market) |
+|  |  | [Tour](/about#Tour) | [Drag Brunch ft. The X Wife!](https://www.londontourism.ca/events/drag-brunch-ft-the-x-wife) |
 |  | 08:00 | [CGM](/about#CGM) | [Canada Day London](https://coventmarket.com/event/canada-day-london/) |
 |  | 11:00 | [CMus](/about#CMus) | [Energy Stick](https://www.londonchildrensmuseum.ca/event/energy-stick) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: DIY Ice Cream](https://www.londonchildrensmuseum.ca/event/steam-diy-ice-cream) |
-| Mon Jul 01 |  | [Tour](/about#Tour) | [Canada Day London](https://www.londontourism.ca/events/canada-day-london) |
-|  |  | [Tour](/about#Tour) | [East London Canada Day](https://www.londontourism.ca/events/east-london-canada-day) |
+| Mon Jul 01 |  | [Tour](/about#Tour) | [Canada Day Picnic](https://www.londontourism.ca/events/canada-day-picnic) |
+|  |  | [Tour](/about#Tour) | [Canada Day 2024 at Fanshawe Pioneer Village](https://www.londontourism.ca/events/canada-day-2024-at-fanshawe-pioneer-village) |
+|  |  | [Tour](/about#Tour) | [London Majors vs Barrie - July 1](https://www.londontourism.ca/events/london-majors-vs-barrie-july-1) |
 |  |  | [Eldon](/about#Eldon) | [Canada Day: Celebrating the Communities of Canada](https://eldonhouse.ca/product/canada-day-celebrating-the-communities-of-canada-2024/) |
-|  | 09:30 | [CMus](/about#CMus) | [L'heure du conte en français \| French Storytime](https://www.londonchildrensmuseum.ca/event/lheure-du-conte-en-francais-french-storytime) |
 |  | 09:30 | [CMus](/about#CMus) | [OPEN](https://www.londonchildrensmuseum.ca/event/open) |
+|  | 09:30 | [CMus](/about#CMus) | [L'heure du conte en français \| French Storytime](https://www.londonchildrensmuseum.ca/event/lheure-du-conte-en-francais-french-storytime) |
 |  | 10:00 | [CMus](/about#CMus) | [OUTREACH: Goderich Children's Festival](https://www.londonchildrensmuseum.ca/event/outreach-goderich-childrens-festival) |
 |  | 11:00 | [CMus](/about#CMus) | [Energy Stick](https://www.londonchildrensmuseum.ca/event/energy-stick) |
 |  | 12:00 | [Museum](/about#Museum) | [Canada Day at Museum London](https://museumlondon.ca/programs-events/event/11779/) |
@@ -89,17 +89,13 @@ View only a category:
 |  | 11:00 | [CMus](/about#CMus) | [Energy Stick](https://www.londonchildrensmuseum.ca/event/energy-stick) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Flying Creatures](https://www.londonchildrensmuseum.ca/event/steam-flying-creatures) |
 |  | 15:00 | [Maker](/about#Maker) | [Open Studio ](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-xkyks-ccptd-jfws7-9r8mg) |
-| Wed Jul 03 |  | [Tour](/about#Tour) | [Outdoor Movies - Mean Girls](https://www.londontourism.ca/events/outdoor-movies-mean-girls) |
-|  | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
+| Wed Jul 03 | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
 |  | 11:00 | [CMus](/about#CMus) | [Energy Stick](https://www.londonchildrensmuseum.ca/event/energy-stick) |
-|  | 14:30 | [CMus](/about#CMus) | [STEAM: Flying Creatures](https://www.londonchildrensmuseum.ca/event/steam-flying-creatures) |
 |  | 18:00 | [CGM](/about#CGM) | [Root Yoga](https://coventmarket.com/event/root-yoga/) |
 |  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/50456/Friendship_Circle?date=2024-07-03) |
 | Thu Jul 04 |  | [Tour](/about#Tour) | [Global Pet Foods - Super Dogs Show](https://www.londontourism.ca/events/global-pet-foods-super-dogs-show) |
 |  |  | [Tour](/about#Tour) | [Sunfest '24 Presented by TD Ready Commitment](https://www.londontourism.ca/events/sunfest-24-presented-by-td-ready-commitment) |
 |  |  | [Tour](/about#Tour) | [Jack Cocker 'Holiday From Real'](https://www.londontourism.ca/events/jack-cocker-holiday-from-real) |
-|  | 09:30 | [CMus](/about#CMus) | [Learning Garden](https://www.londonchildrensmuseum.ca/event/learning-garden) |
-|  | 11:00 | [CMus](/about#CMus) | [Energy Stick](https://www.londonchildrensmuseum.ca/event/energy-stick) |
 |  | 13:30 | [City](/about#City) | [Committee of Adjustment - July 04, 2024](https://london.ca/government/calendar/committee-adjustment-july-04-2024) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Flying Creatures](https://www.londonchildrensmuseum.ca/event/steam-flying-creatures) |
 |  | 15:00 | [Maker](/about#Maker) | [Hand Lettering & Calligraphy (4 weeks) ](https://www.hellomaker.ca/events/q8s1yenla3a6dmjix0wtwkpd2fm3fz-p7g3b-286t3-kk7hk-tdf37-52z5t-h2lwg-z6fm8-zeljm-45ylg-sebd4) |
@@ -109,18 +105,19 @@ View only a category:
 |  | 18:00 | [Museum](/about#Museum) | [Culture Walk: Hidden Secrets of Downtown](https://museumlondon.ca/programs-events/event/11660/) |
 |  | 18:00 | [LMH](/about#LMH) | [NORTHLANE – Mirror’s Edge Tour](http://londonmusichall.com/events/northlane-mirrors-edge-tour/) |
 |  | 19:30 | [Maker](/about#Maker) | [Punch Needle Workshop](https://www.hellomaker.ca/events/zfvpxsej5j9u9z39dn0cn9q7v6q0nk-22x5e-fjxkf-d3gmb-5w3kx-9mnfb-wpp2w-rz2z2-343nh-zs6pt-ewwxe-ksahp-menef-dm93d-ypxsp-rcc5e-zmxbp-zwhtx-trff9-7sbzh-5e67z-tte7w-39x2s-bkc5m-j5few) |
-| Fri Jul 05 |  | [Tour](/about#Tour) | ["X", Pearl and MAXXXINE Triple Feature!](https://www.londontourism.ca/events/x-pearl-and-maxxxine-triple-feature) |
-|  |  | [Tour](/about#Tour) | [Community Art Crawl](https://www.londontourism.ca/events/community-art-crawl) |
-|  |  | [Tour](/about#Tour) | [Outdoor Movies - Rookie of the Year](https://www.londontourism.ca/events/outdoor-movies-rookie-of-the-year) |
+| Fri Jul 05 |  | [Tour](/about#Tour) | [Outdoor Movies - Rookie of the Year](https://www.londontourism.ca/events/outdoor-movies-rookie-of-the-year) |
 |  |  | [Tour](/about#Tour) | [Outdoor Movies - Wish](https://www.londontourism.ca/events/outdoor-movies-wish) |
-|  | 09:30 | [CMus](/about#CMus) | [Sirens, Horns and Wheels](https://www.londonchildrensmuseum.ca/event/sirens-horns-and-wheels) |
+|  |  | [Tour](/about#Tour) | [Shake Day with the London Majors](https://www.londontourism.ca/events/shake-day-with-the-london-majors) |
+|  |  | [Tour](/about#Tour) | [Community Art Crawl](https://www.londontourism.ca/events/community-art-crawl) |
+|  |  | [Tour](/about#Tour) | ["X", Pearl and MAXXXINE Triple Feature!](https://www.londontourism.ca/events/x-pearl-and-maxxxine-triple-feature) |
+|  | 09:30 | [CMus](/about#CMus) | [Sirens, Horns, and Wheels](https://www.londonchildrensmuseum.ca/event/sirens-horns-and-wheels) |
 |  | 11:00 | [CMus](/about#CMus) | [Energy Stick](https://www.londonchildrensmuseum.ca/event/energy-stick) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Flying Creatures](https://www.londonchildrensmuseum.ca/event/steam-flying-creatures) |
 |  | 19:00 | [LMH](/about#LMH) | [Hartlet](http://londonmusichall.com/events/hartlet-3/) |
 |  | 21:00 | [LMH](/about#LMH) | [GIMME GIMME DISCO](http://londonmusichall.com/events/gimme-gimme-disco-2/) |
-| Sat Jul 06 |  | [Tour](/about#Tour) | [White Washed Comedy Tour](https://www.londontourism.ca/events/white-washed-comedy-tour) |
-|  |  | [Tour](/about#Tour) | [Kiki's Delivery Service](https://www.londontourism.ca/events/kikis-delivery-service) |
+| Sat Jul 06 |  | [Tour](/about#Tour) | [Kiki's Delivery Service](https://www.londontourism.ca/events/kikis-delivery-service) |
 |  |  | [Tour](/about#Tour) | [Outdoor Movies - The Little Prince](https://www.londontourism.ca/events/outdoor-movies-the-little-prince) |
+|  |  | [Tour](/about#Tour) | [White Washed Comedy Tour](https://www.londontourism.ca/events/white-washed-comedy-tour) |
 |  |  | [Tour](/about#Tour) | [Outdoor Movies - The Little Mermaid](https://www.londontourism.ca/events/outdoor-movies-the-little-mermaid) |
 |  | 08:00 | [CGM](/about#CGM) | [Outdoor Farmers Market](https://coventmarket.com/event/outdoor-farmers-market-3-4/) |
 |  | 10:30 | [Museum](/about#Museum) | [History Walk: Heaven and Hell](https://museumlondon.ca/programs-events/event/11626/) |
@@ -145,13 +142,16 @@ View only a category:
 |  | 15:00 | [Maker](/about#Maker) | [Open Studio](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-xkyks-ccptd-jfws7-9r8mg-ce85p) |
 | Wed Jul 10 |  | [Tour](/about#Tour) | [Screening Under the Stars - Scott Pilgrim vs. the World](https://www.londontourism.ca/events/screening-under-the-stars-scott-pilgrim-vs-the-world) |
 |  |  | [Tour](/about#Tour) | [RBC Rock the Park Musical Festival 2024](https://www.londontourism.ca/events/rbc-rock-the-park-musical-festival-2024) |
-|  | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
 |  | 09:30 | [CMus](/about#CMus) | [Creatures & Critters](https://www.londonchildrensmuseum.ca/event/creatures-critters) |
+|  | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
 |  | 11:00 | [CMus](/about#CMus) | [Special Guest: Cambridge Butterfly Conservatory](https://www.londonchildrensmuseum.ca/event/special-guest-cambridge-butterfly-conservatory) |
+|  | 11:00 | [CMus](/about#CMus) | [Electric Butterfly](https://www.londonchildrensmuseum.ca/event/electric-butterfly) |
+|  | 14:30 | [CMus](/about#CMus) | [STEAM: Seed Dissection](https://www.londonchildrensmuseum.ca/event/steam-seed-dissection) |
 |  | 18:00 | [CGM](/about#CGM) | [Root Yoga](https://coventmarket.com/event/root-yoga-2/) |
 |  | 18:00 | [LMH](/about#LMH) | [UPON A BURNING BODY – Low Riders & Stage Divers Tour](http://londonmusichall.com/events/upon-a-burning-body-low-riders-stage-divers-tour/) |
 |  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/50456/Friendship_Circle?date=2024-07-10) |
 | Thu Jul 11 | 09:30 | [CMus](/about#CMus) | [Creatures & Critters](https://www.londonchildrensmuseum.ca/event/creatures-critters) |
+|  | 09:30 | [CMus](/about#CMus) | [Learning Garden](https://www.londonchildrensmuseum.ca/event/learning-garden) |
 |  | 11:00 | [CMus](/about#CMus) | [Electric Butterfly](https://www.londonchildrensmuseum.ca/event/electric-butterfly) |
 |  | 12:00 | [CMus](/about#CMus) | [Tool Time With Nathan](https://www.londonchildrensmuseum.ca/event/tool-time-nathan) |
 |  | 13:00 | [CMus](/about#CMus) | [Special Guest: Lola Bees](https://www.londonchildrensmuseum.ca/event/special-guest-lola-bees) |
@@ -160,7 +160,9 @@ View only a category:
 |  | 17:00 | [CMus](/about#CMus) | [Free Family Fun Night](https://www.londonchildrensmuseum.ca/event/free-family-fun-night) |
 |  | 17:30 | [CMus](/about#CMus) | [Learning Garden](https://www.londonchildrensmuseum.ca/event/learning-garden) |
 |  | 18:00 | [Museum](/about#Museum) | [Culture Walk: Murals of Downtown](https://museumlondon.ca/programs-events/event/11677/) |
-| Fri Jul 12 |  | [Tour](/about#Tour) | [Pride London Festival 2024](https://www.londontourism.ca/events/pride-london-festival-2024) |
+| Fri Jul 12 |  | [Tour](/about#Tour) | [Outdoor Movies - Super Mario Bros: July 12](https://www.londontourism.ca/events/outdoor-movies-super-mario-bros-july-12) |
+|  |  | [Tour](/about#Tour) | [Live Magician Performances!](https://www.londontourism.ca/events/live-magician-performances) |
+|  |  | [Tour](/about#Tour) | [Pride London Festival 2024](https://www.londontourism.ca/events/pride-london-festival-2024) |
 |  | 09:30 | [CMus](/about#CMus) | [Creatures & Critters](https://www.londonchildrensmuseum.ca/event/creatures-critters) |
 |  | 09:30 | [CMus](/about#CMus) | [THEMUSEUM Reciprocal Event](https://www.londonchildrensmuseum.ca/event/themuseum-reciprocal-event) |
 |  | 11:00 | [CMus](/about#CMus) | [Electric Butterfly](https://www.londonchildrensmuseum.ca/event/electric-butterfly) |
@@ -182,43 +184,33 @@ View only a category:
 |  | 11:00 | [CMus](/about#CMus) | [Electric Butterfly](https://www.londonchildrensmuseum.ca/event/electric-butterfly) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Seed Dissection](https://www.londonchildrensmuseum.ca/event/steam-seed-dissection) |
 | Mon Jul 15 | 09:00 | [Museum](/about#Museum) | [*SOLD OUT* ML Kids Summer Camp: Enchanted Realms and Mythical Creatures](https://museumlondon.ca/programs-events/event/11419/) |
-|  | 09:00 | [CMus](/about#CMus) | [Tween Summer Day Camp](https://www.londonchildrensmuseum.ca/event/tween-summer-day-camp) |
 |  | 09:00 | [CMus](/about#CMus) | [Summer Day Camp](https://www.londonchildrensmuseum.ca/event/summer-day-camp) |
+|  | 09:00 | [CMus](/about#CMus) | [Tween Summer Day Camp](https://www.londonchildrensmuseum.ca/event/tween-summer-day-camp) |
 |  | 09:30 | [CMus](/about#CMus) | [L'heure du conte en français \| French Storytime](https://www.londonchildrensmuseum.ca/event/lheure-du-conte-en-francais-french-storytime) |
 |  | 11:00 | [CMus](/about#CMus) | [Elephant Toothpaste](https://www.londonchildrensmuseum.ca/event/elephant-toothpaste) |
 |  | 12:00 | [Maker](/about#Maker) | [Mini Tapestry Weaving Workshop](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-xkyks-ccptd-jfws7-lewm4-mtlhg-9a5pw) |
 |  | 13:00 | [City](/about#City) | [Community and Protective Services Committee - July 15, 2024](https://london.ca/government/calendar/community-protective-services-committee-july-15-2024) |
 |  | 14:30 | [CMus](/about#CMus) | [STEAM: Giant Catapult](https://www.londonchildrensmuseum.ca/event/steam-giant-catapult) |
-| Tue Jul 16 | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
-|  | 09:30 | [CMus](/about#CMus) | [Special Guest: LiUNA Local 1059](https://www.londonchildrensmuseum.ca/event/special-guest-liuna-local-1059) |
-|  | 09:30 | [CMus](/about#CMus) | [Tinker and Test](https://www.londonchildrensmuseum.ca/event/tinker-and-test) |
+| Tue Jul 16 | 09:30 | [CMus](/about#CMus) | [Tinker and Test](https://www.londonchildrensmuseum.ca/event/tinker-and-test) |
+|  | 09:30 | [CMus](/about#CMus) | [Early Years Play Dates](https://www.londonchildrensmuseum.ca/event/early-years-play-dates) |
 |  | 09:30 | [City](/about#City) | [Civic Works Committee - July 16, 2024](https://london.ca/government/calendar/civic-works-committee-july-16-2024) |
-|  | 11:00 | [CMus](/about#CMus) | [Elephant Toothpaste](https://www.londonchildrensmuseum.ca/event/elephant-toothpaste) |
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - July 16, 2024](https://london.ca/government/calendar/planning-environment-committee-july-16-2024) |
-|  | 14:30 | [CMus](/about#CMus) | [STEAM: Giant Catapult](https://www.londonchildrensmuseum.ca/event/steam-giant-catapult) |
 |  | 15:00 | [Maker](/about#Maker) | [Open Studio ](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-xkyks-ccptd-jfws7-9r8mg-ce85p-4tgpe) |
-|  | 17:00 | [CMus](/about#CMus) | [Sensory Friendly Evening](https://www.londonchildrensmuseum.ca/event/sensory-friendly-evening) |
-| Wed Jul 17 |  | [Tour](/about#Tour) | [AlvegoRoot Theatre: County Fair](https://www.londontourism.ca/events/alvegoroot-theatre-county-fair) |
-|  |  | [Tour](/about#Tour) | [Variations in Landscape - Art Exhibition](https://www.londontourism.ca/events/variations-in-landscape-art-exhibition) |
-|  |  | [PSFT](/about#PSFT) | [Hurry Hard](https://psft.ca/event/hurry-hard/) |
-|  | 09:30 | [CMus](/about#CMus) | [Tinker and Test](https://www.londonchildrensmuseum.ca/event/tinker-and-test) |
-|  | 09:30 | [CMus](/about#CMus) | [Science of Play](https://www.londonchildrensmuseum.ca/event/science-play) |
-|  | 09:30 | [CMus](/about#CMus) | [Special Guest: LiUNA Local 1059](https://www.londonchildrensmuseum.ca/event/special-guest-liuna-local-1059) |
+| Wed Jul 17 |  | [PSFT](/about#PSFT) | [Hurry Hard](https://psft.ca/event/hurry-hard/) |
 |  | 13:00 | [City](/about#City) | [Corporate Services Committee - July 17, 2024](https://london.ca/government/calendar/corporate-services-committee-july-17-2024) |
 |  | 18:00 | [CGM](/about#CGM) | [Root Yoga](https://coventmarket.com/event/root-yoga-2-2/) |
 |  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/50456/Friendship_Circle?date=2024-07-17) |
 | Thu Jul 18 | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - July 18, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-july-18-2024) |
 |  | 18:00 | [Museum](/about#Museum) | [Culture Walk: Hidden Secrets of Downtown](https://museumlondon.ca/programs-events/event/11662/) |
-| Fri Jul 19 |  | [Tour](/about#Tour) | [Outdoor Movies - Lion King: July 19](https://www.londontourism.ca/events/outdoor-movies-lion-king-july-19) |
+| Fri Jul 19 |  | [Tour](/about#Tour) | [Star Wars: Episode I - The Phantom   Menace](https://www.londontourism.ca/events/star-wars-episode-i-the-phantom-menace) |
+|  |  | [Tour](/about#Tour) | [Outdoor Movies - Lion King: July 19](https://www.londontourism.ca/events/outdoor-movies-lion-king-july-19) |
 |  |  | [Tour](/about#Tour) | [The Great Outdoors Comedy Festival](https://www.londontourism.ca/events/the-great-outdoors-comedy-festival) |
-|  |  | [RBCP](/about#RBCP) | [TennoCon 2024](https://www.rbcplacelondon.com/events/tennocon-2024-july-19-20) |
+|  |  | [RBCP](/about#RBCP) | [TennoCon2024](https://www.rbcplacelondon.com/events/tennocon2024-july-19-20) |
 |  | 16:00 | [CGM](/about#CGM) | [Colombian Gastronomy Festival](https://coventmarket.com/event/colombian-gastronomy-festival-saturday/) |
 |  | 21:00 | [LMH](/about#LMH) | [Roy Wood$](http://londonmusichall.com/events/roy-wood/) |
-| Sat Jul 20 |  | [Tour](/about#Tour) | [Pawsitively Elgin Dog Festival](https://www.londontourism.ca/events/pawsitively-elgin-dog-festival) |
-|  |  | [Tour](/about#Tour) | [Adult Waterpark Party! - July 20](https://www.londontourism.ca/events/adult-waterpark-party-july-20) |
-|  |  | [Tour](/about#Tour) | [Odyssey Records & Cinema presents: Shogun Assassin](https://www.londontourism.ca/events/odyssey-records-and-cinema-presents-shogun-assassin) |
-|  |  | [Tour](/about#Tour) | [Outdoor Movies - Indiana Jones and the Dial of Destiny](https://www.londontourism.ca/events/outdoor-movies-indiana-jones-and-the-dial-of-destiny) |
+| Sat Jul 20 |  | [Tour](/about#Tour) | [Outdoor Movies - Indiana Jones and the Dial of Destiny](https://www.londontourism.ca/events/outdoor-movies-indiana-jones-and-the-dial-of-destiny) |
 |  |  | [Tour](/about#Tour) | [Outdoor Movies - Elemental: July 20](https://www.londontourism.ca/events/outdoor-movies-elemental-july-20) |
+|  |  | [Tour](/about#Tour) | [Pawsitively Elgin Dog Festival](https://www.londontourism.ca/events/pawsitively-elgin-dog-festival) |
 |  | 08:00 | [CGM](/about#CGM) | [Outdoor Farmers Market](https://coventmarket.com/event/outdoor-farmers-market-3-5-2/) |
 |  | 10:30 | [Museum](/about#Museum) | [History Walk: Castles to Cottages](https://museumlondon.ca/programs-events/event/11642/) |
 |  | 11:00 | [CGM](/about#CGM) | [Soca Dance Fitness Class](https://coventmarket.com/event/soca-dance-fitness-class-6-8/) |
@@ -226,18 +218,22 @@ View only a category:
 | Mon Jul 22 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Bug Out!](https://museumlondon.ca/programs-events/event/11420/) |
 | Tue Jul 23 | 13:00 | [City](/about#City) | [Council - July 23, 2024](https://london.ca/government/calendar/council-july-23-2024) |
 |  | 15:00 | [Maker](/about#Maker) | [Open Studio ](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-xkyks-ccptd-jfws7-9r8mg-ce85p-4tgpe-nzr9h) |
-| Wed Jul 24 | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/50456/Friendship_Circle?date=2024-07-24) |
+| Wed Jul 24 |  | [Tour](/about#Tour) | [Outdoor Movies - Guardians of the Galaxy Vol 3](https://www.londontourism.ca/events/outdoor-movies-guardians-of-the-galaxy-vol-3) |
+|  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/50456/Friendship_Circle?date=2024-07-24) |
 | Thu Jul 25 | 18:00 | [Museum](/about#Museum) | [Culture Walk: Murals of Downtown](https://museumlondon.ca/programs-events/event/11679/) |
 | Fri Jul 26 |  | [Grand](/about#Grand) | [Drag Me Through Time](https://www.grandtheatre.com/event/drag-me-through-time) |
 |  |  | [Tour](/about#Tour) | [Odyssey Records & Cinema pres: East End Connection Film Series- Parasite in B&W](https://www.londontourism.ca/events/odyssey-records-and-cinema-pres-east-end-connection-film-series-parasite-in-b-and-w) |
 |  |  | [Tour](/about#Tour) | [London Majors vs Toronto - July 26](https://www.londontourism.ca/events/london-majors-vs-toronto-july-26) |
 |  |  | [Tour](/about#Tour) | [Carnival London 2024](https://www.londontourism.ca/events/carnival-london-2024) |
 |  | 19:00 | [LMH](/about#LMH) | [Talbotville Gore](http://londonmusichall.com/events/talbotville-gore/) |
-| Sat Jul 27 | 10:30 | [Museum](/about#Museum) | [Culture Walk: Hidden In Plain Sight](https://museumlondon.ca/programs-events/event/11664/) |
+| Sat Jul 27 |  | [Tour](/about#Tour) | [Dumball Rally](https://www.londontourism.ca/events/dumball-rally) |
+|  |  | [Tour](/about#Tour) | [The 5k Foam Fest](https://www.londontourism.ca/events/the-5k-foam-fest) |
+|  |  | [Tour](/about#Tour) | [Driven: London Aftermarket Car Show](https://www.londontourism.ca/events/driven-london-aftermarket-car-show) |
+|  | 10:30 | [Museum](/about#Museum) | [Culture Walk: Hidden In Plain Sight](https://museumlondon.ca/programs-events/event/11664/) |
 |  | 18:30 | [LMH](/about#LMH) | [Thunder from Down Under – Untamed 2024 Tour](http://londonmusichall.com/events/thunder-from-down-under/) |
 |  | 21:00 | [LMH](/about#LMH) | [*Sold Out* Thunder from Down Under – Untamed 2024 Tour](http://londonmusichall.com/events/thunder-from-down-under-untamed-2024-tour/) |
 | Sun Jul 28 | 18:30 | [LMH](/about#LMH) | [Frozen Soul](http://londonmusichall.com/events/frozen-soul/) |
-| Mon Jul 29 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Press Play](https://museumlondon.ca/programs-events/event/11421/) |
+| Mon Jul 29 | 09:00 | [Museum](/about#Museum) | [* SOLD OUT* ML Kids Summer Camp: Press Play](https://museumlondon.ca/programs-events/event/11421/) |
 | Tue Jul 30 | 15:00 | [Maker](/about#Maker) | [Open Studio](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-xkyks-ccptd-jfws7-9r8mg-ce85p-4tgpe-nzr9h-4wywf) |
 |  | 19:00 | [LMH](/about#LMH) | [Jack Botts](http://londonmusichall.com/events/jack-botts/) |
 | Wed Jul 31 |  | [BudG](/about#BudG) | [Lamb Of God & Mastodon: ASHES OF LEVIATHAN TOUR](https://www.budweisergardens.com/events/detail/lamb-of-god-mastodon) |
@@ -246,7 +242,7 @@ View only a category:
 |  | 18:00 | [Museum](/about#Museum) | [Culture Walk: Hidden Secrets of Downtown](https://museumlondon.ca/programs-events/event/11666/) |
 | Sat Aug 03 |  | [BudG](/about#BudG) | [Canada Kabaddi Cup 2024](https://www.budweisergardens.com/events/detail/canada-kabaddi-cup-2024) |
 |  | 10:30 | [Museum](/about#Museum) | [History Walk: Bats, Beans, and Bridges](https://museumlondon.ca/programs-events/event/11655/) |
-| Tue Aug 06 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Collective Creators](https://museumlondon.ca/programs-events/event/11422/) |
+| Tue Aug 06 | 09:00 | [Museum](/about#Museum) | [*SOLD OUT* ML Kids Summer Camp: Collective Creators](https://museumlondon.ca/programs-events/event/11422/) |
 |  | 15:00 | [Maker](/about#Maker) | [Open Studio ](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-xkyks-ccptd-jfws7-9r8mg-ce85p-4tgpe-nzr9h-4wywf-gllxh) |
 | Wed Aug 07 |  | [PSFT](/about#PSFT) | [Bigfoot!](https://psft.ca/event/bigfoot/) |
 |  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/50456/Friendship_Circle?date=2024-08-07) |
@@ -312,31 +308,41 @@ View only a category:
 | Sun Sep 22 |  | [Grand](/about#Grand) | [The Jeffery Concerts](https://www.grandtheatre.com/event/jeffery-concerts) |
 | Mon Sep 23 | 10:00 | [City](/about#City) | [Governance Working Group - September 23, 2024](https://london.ca/government/calendar/governance-working-group-september-23-2024) |
 | Tue Sep 24 | 13:00 | [City](/about#City) | [Council - September 24, 2024](https://london.ca/government/calendar/council-september-24-2024) |
-| Wed Sep 25 | 19:00 | [LMH](/about#LMH) | [Joey Valence and Brae – The No Hands Tour](http://londonmusichall.com/events/joey-valence-and-brae-the-no-hands-tour/) |
+| Wed Sep 25 |  | [RBCP](/about#RBCP) | [2024 Business Achievement Awards](https://www.rbcplacelondon.com/events/2024-business-achievement-awards-september-25) |
+|  | 19:00 | [LMH](/about#LMH) | [Joey Valence and Brae – The No Hands Tour](http://londonmusichall.com/events/joey-valence-and-brae-the-no-hands-tour/) |
 | Thu Sep 26 | 18:00 | [Museum](/about#Museum) | [Culture Walk: Hidden Secrets of Downtown](https://museumlondon.ca/programs-events/event/11674/) |
 |  | 19:00 | [LMH](/about#LMH) | [BENIGHTED & COGNITIVE](http://londonmusichall.com/events/benighted-cognitive/) |
-| Sat Sep 28 | 10:30 | [Museum](/about#Museum) | [History Walk: Bats, Beans, and Bridges](https://museumlondon.ca/programs-events/event/11657/) |
-| Sun Sep 29 | 20:00 | [Aeol](/about#Aeol) | [Ruzz Guitar’s Blues Revue				](https://aeolianhall.ca/events/ruzz-guitars-blues-revue-2/) |
+| Fri Sep 27 |  | [RBCP](/about#RBCP) | [Western Mustangs Sports Hall of Fame Dinner](https://www.rbcplacelondon.com/events/western-mustangs-sports-hall-fame-dinner-september-27) |
+| Sat Sep 28 |  | [RBCP](/about#RBCP) | [Schulich School of Medicine & Dentistry Dean's Alumni Cocktail Reception](https://www.rbcplacelondon.com/events/schulich-school-medicine-dentistry-deans-alumni-cocktail-reception-september-28) |
+|  | 10:30 | [Museum](/about#Museum) | [History Walk: Bats, Beans, and Bridges](https://museumlondon.ca/programs-events/event/11657/) |
+| Sun Sep 29 |  | [RBCP](/about#RBCP) | [Ontario Building Officials Association 68th Annual Meeting and Training Sessions](https://www.rbcplacelondon.com/events/ontario-building-officials-association-68th-annual-meeting-and-training-sessions-september) |
+|  | 20:00 | [Aeol](/about#Aeol) | [Ruzz Guitar’s Blues Revue				](https://aeolianhall.ca/events/ruzz-guitars-blues-revue-2/) |
 | Tue Oct 01 | 13:00 | [City](/about#City) | [Community and Protective Services Committee - October 01, 2024](https://london.ca/government/calendar/community-protective-services-committee-october-01-2024) |
 | Wed Oct 02 | 09:30 | [City](/about#City) | [Civic Works Committee - October 02, 2024](https://london.ca/government/calendar/civic-works-committee-october-02-2024) |
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - October 02, 2024](https://london.ca/government/calendar/planning-environment-committee-october-02-2024) |
-| Thu Oct 03 | 19:30 | [Aeol](/about#Aeol) | [Classic Lightfoot Live				](https://aeolianhall.ca/events/classic-lightfoot-live-2/) |
+| Thu Oct 03 |  | [RBCP](/about#RBCP) | [2024 Manufacturing Matters Conference](https://www.rbcplacelondon.com/events/2024-manufacturing-matters-conference-october-3) |
+|  | 19:30 | [Aeol](/about#Aeol) | [Classic Lightfoot Live				](https://aeolianhall.ca/events/classic-lightfoot-live-2/) |
 | Sat Oct 05 | 19:00 | [LMH](/about#LMH) | [Death From Above 1979](http://londonmusichall.com/events/death-from-above-1979/) |
 | Sun Oct 06 | 19:00 | [LMH](/about#LMH) | [Andy Shauf – Fall 2024 Solo Tour](http://londonmusichall.com/events/andy-shauf-fall-2024-solo-tour/) |
 | Mon Oct 07 | 13:00 | [City](/about#City) | [Corporate Services Committee - October 07, 2024](https://london.ca/government/calendar/corporate-services-committee-october-07-2024) |
 | Tue Oct 08 | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - October 08, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-october-08-2024) |
-| Wed Oct 09 | 20:00 | [Aeol](/about#Aeol) | [Comedy Here Often? & SXM Comedy Club present: Jon Dore & Dave Merheje				](https://aeolianhall.ca/events/comedy-here-often-siriusxm-comedy-club-present-jon-dore-dave-merheje/) |
+| Wed Oct 09 |  | [RBCP](/about#RBCP) | [St. Joseph's Tribute Dinner](https://www.rbcplacelondon.com/events/st-josephs-tribute-dinner-october-9) |
+|  | 20:00 | [Aeol](/about#Aeol) | [Comedy Here Often? & SXM Comedy Club present: Jon Dore & Dave Merheje				](https://aeolianhall.ca/events/comedy-here-often-siriusxm-comedy-club-present-jon-dore-dave-merheje/) |
 | Fri Oct 11 | 19:00 | [LMH](/about#LMH) | [NERVOSA: The Great American Jailbreak Tour](http://londonmusichall.com/events/nervosa-the-great-american-jailbreak-tour/) |
 | Tue Oct 15 |  | [Grand](/about#Grand) | [As You Like It](https://www.grandtheatre.com/event/as-you-like-it) |
 |  | 13:00 | [City](/about#City) | [Council - October 15, 2024](https://london.ca/government/calendar/council-october-15-2024) |
-| Thu Oct 17 | 19:00 | [LMH](/about#LMH) | [Jessi Cruickshank – Now That’s What I Call Live Tour](http://londonmusichall.com/events/jessi-cruickshank-now-thats-what-i-call-live-tour/) |
+| Thu Oct 17 |  | [RBCP](/about#RBCP) | [Wounds Canada 2024 Fall Conference](https://www.rbcplacelondon.com/events/wounds-canada-2024-fall-conference-october-17-19) |
+|  | 19:00 | [LMH](/about#LMH) | [Jessi Cruickshank – Now That’s What I Call Live Tour](http://londonmusichall.com/events/jessi-cruickshank-now-thats-what-i-call-live-tour/) |
 | Fri Oct 18 | 19:30 | [Aeol](/about#Aeol) | [Ashley MacIsaac – Ontario Festival of Small Halls				](https://aeolianhall.ca/events/ashley-macisaac-ontario-festival-of-small-halls/) |
 | Sun Oct 20 | 19:30 | [Aeol](/about#Aeol) | [Shantero Productions Presents: The Comic Strippers (19+)				](https://aeolianhall.ca/events/the-comic-strippers-19/) |
 | Mon Oct 21 | 13:00 | [City](/about#City) | [Community and Protective Services Committee - October 21, 2024](https://london.ca/government/calendar/community-protective-services-committee-october-21-2024) |
-| Tue Oct 22 | 09:30 | [City](/about#City) | [Civic Works Committee - October 22, 2024](https://london.ca/government/calendar/civic-works-committee-october-22-2024) |
+| Tue Oct 22 |  | [RBCP](/about#RBCP) | [Best Defence Conference](https://www.rbcplacelondon.com/events/best-defence-conference-october-22-23) |
+|  | 09:30 | [City](/about#City) | [Civic Works Committee - October 22, 2024](https://london.ca/government/calendar/civic-works-committee-october-22-2024) |
 |  | 13:00 | [City](/about#City) | [Planning and Environment Committee - October 22, 2024](https://london.ca/government/calendar/planning-environment-committee-october-22-2024) |
+| Thu Oct 24 |  | [RBCP](/about#RBCP) | [JA South Western Ontario Hall of Fame Gala](https://www.rbcplacelondon.com/events/ja-south-western-ontario-hall-fame-gala-october-24) |
 | Fri Oct 25 | 19:00 | [LMH](/about#LMH) | [Protest the Hero](http://londonmusichall.com/events/protest-the-hero-3/) |
 |  | 20:00 | [Aeol](/about#Aeol) | [Ben Caplan Presents Hold On!				](https://aeolianhall.ca/events/ben-caplan-presents-hold-on/) |
+| Sat Oct 26 |  | [RBCP](/about#RBCP) | [Showdown in the Downtown](https://www.rbcplacelondon.com/events/showdown-downtown-october-26) |
 | Mon Oct 28 | 13:00 | [City](/about#City) | [Corporate Services Committee - October 28, 2024](https://london.ca/government/calendar/corporate-services-committee-october-28-2024) |
 | Tue Oct 29 | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - October 29, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-october-29-2024) |
 | Wed Oct 30 | 19:00 | [LMH](/about#LMH) | [Tenille Townes](http://londonmusichall.com/events/tenille-townes-2/) |
