@@ -1,6 +1,6 @@
 ---
 title: "Events - entertainment"
-date: 2024-06-25T00:00:00-04:00
+date: 2024-06-26T00:00:00-04:00
 draft: false
 ---
 
@@ -9,12 +9,11 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Tue) | 11:30 | [FMus](/about#FMus) | [Doctoral Public Lecture \| Donna Janowski](http://www.events.westernu.ca/events/grad-postdoc-studies/2024-06/doctoral-public-lecture-donna-janowski.html) |
-| Tomorrow (Wed) | 18:30 | [Aeol](/about#Aeol) | [Aeolian Pride Social Series – Jordan Baldwin				](https://aeolianhall.ca/events/aeolian-pride-social-series-jordan-baldwin/) |
-| Thu Jun 27 |  | [BudG](/about#BudG) | [Steve Miller Band](https://www.budweisergardens.com/events/detail/steve-miller-band) |
+| Today (Wed) | 18:30 | [Aeol](/about#Aeol) | [Aeolian Pride Social Series – Jordan Baldwin				](https://aeolianhall.ca/events/aeolian-pride-social-series-jordan-baldwin/) |
+| Tomorrow (Thu) |  | [BudG](/about#BudG) | [Steve Miller Band](https://www.budweisergardens.com/events/detail/steve-miller-band) |
 |  |  | [Grand](/about#Grand) | [Once Upon a Mattress](https://www.grandtheatre.com/event/once-upon-mattress) |
-| Fri Jun 28 | 19:00 | [LMH](/about#LMH) | [DJ Sekhar & Fejo](http://londonmusichall.com/events/dj-sekhar-fejo/) |
-|  | 21:00 | [LMH](/about#LMH) | [*NEW DATE* EMO NIGHT: LONDON LIVE ft. STRIKE TYSON](http://londonmusichall.com/events/emo-night-london-live-ft-strike-tyson/) |
+| Fri Jun 28 | 21:00 | [LMH](/about#LMH) | [*NEW DATE* EMO NIGHT: LONDON LIVE ft. STRIKE TYSON](http://londonmusichall.com/events/emo-night-london-live-ft-strike-tyson/) |
+|  | 21:00 | [LMH](/about#LMH) | [DJ Sekhar & Fejo](http://londonmusichall.com/events/dj-sekhar-fejo/) |
 | Sat Jun 29 |  | [Grand](/about#Grand) | [Decades of Bond - The Ultimate Tribute to the Music of James Bond](https://www.grandtheatre.com/event/decades-of-bond) |
 |  | 10:30 | [Museum](/about#Museum) | [History Walk: Bats, Beans, and Bridges](https://museumlondon.ca/programs-events/event/11653/) |
 | Mon Jul 01 | 12:00 | [Museum](/about#Museum) | [Canada Day at Museum London](https://museumlondon.ca/programs-events/event/11779/) |
@@ -35,6 +34,7 @@ View only a category:
 | Sat Jul 13 | 10:30 | [Museum](/about#Museum) | [History Walk: Digging Dundas](https://museumlondon.ca/programs-events/event/11633/) |
 | Mon Jul 15 | 09:00 | [Museum](/about#Museum) | [*SOLD OUT* ML Kids Summer Camp: Enchanted Realms and Mythical Creatures](https://museumlondon.ca/programs-events/event/11419/) |
 | Thu Jul 18 | 18:00 | [Museum](/about#Museum) | [Culture Walk: Hidden Secrets of Downtown](https://museumlondon.ca/programs-events/event/11662/) |
+|  | 19:30 | [Aeol](/about#Aeol) | [APC: It Takes A Village				](https://aeolianhall.ca/events/apc-it-takes-a-village/) |
 | Fri Jul 19 | 21:00 | [LMH](/about#LMH) | [Roy Wood$](http://londonmusichall.com/events/roy-wood/) |
 | Sat Jul 20 | 10:30 | [Museum](/about#Museum) | [History Walk: Castles to Cottages](https://museumlondon.ca/programs-events/event/11642/) |
 | Sun Jul 21 |  | [BudG](/about#BudG) | [RAIN - A Tribute to The BEATLES](https://www.budweisergardens.com/events/detail/rain-a-tribute-to-the-beatles) |
@@ -110,6 +110,7 @@ View only a category:
 | Sat Nov 02 | 19:00 | [LMH](/about#LMH) | [Valley – WATER THE FLOWERS, PRAY FOR A GARDEN TOUR](http://londonmusichall.com/events/valley-water-the-flowers-pray-for-a-garden-tour/) |
 | Tue Nov 05 | 20:00 | [Aeol](/about#Aeol) | [George Canyon – Solo/Acoustic				](https://aeolianhall.ca/events/george-canyon-solo-acoustic/) |
 | Wed Nov 06 | 19:00 | [LMH](/about#LMH) | [Godspeed You! Black Emperor](http://londonmusichall.com/events/godspeed-you-black-emperor/) |
+| Fri Nov 08 | 19:30 | [Aeol](/about#Aeol) | [Grace 2 – The Music of the Tragically Hip				](https://aeolianhall.ca/events/grace-2-the-music-of-the-tragically-hip-2/) |
 | Sun Nov 10 | 20:00 | [Aeol](/about#Aeol) | [Danny Michel & Steve Poltz				](https://aeolianhall.ca/events/danny-michel-steve-poltz-2/) |
 | Wed Nov 13 | 19:00 | [LMH](/about#LMH) | [QUEEN PRIYANKA – The Devastatia Tour](http://londonmusichall.com/events/queen-priyanka/) |
 | Thu Nov 14 | 19:30 | [Aeol](/about#Aeol) | [Shantero Productions Presents: Ron James – Not Nearly Done Yet!				](https://aeolianhall.ca/events/shantero-productions-presents-ron-james-not-nearly-done-yet/) |

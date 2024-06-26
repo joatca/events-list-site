@@ -1,6 +1,6 @@
 ---
 title: "Events - community"
-date: 2024-06-25T00:00:00-04:00
+date: 2024-06-26T00:00:00-04:00
 draft: false
 ---
 
@@ -9,18 +9,16 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Tue) |  | [PSFT](/about#PSFT) | [They’re Found In Trees](https://psft.ca/event/theyre-found-in-trees/) |
-|  | 13:00 | [City](/about#City) | [Council - June 25, 2024](https://london.ca/government/calendar/council-june-25-2024) |
-|  | 15:00 | [Maker](/about#Maker) | [Open Studio](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-xkyks-ccptd-jfws7-jg866) |
-|  | 19:30 | [Maker](/about#Maker) | [Embroidery 101: Custom Portrait](https://www.hellomaker.ca/events/irqu905qi77vqjbol00gy0uc19ja68-gns73-fhhpr-najh8-yc3gg-6bcww-pjpfr-nfd4a-xy52p-b6wsn-8a9ra-c7hyd-8afek) |
-| Tomorrow (Wed) | 14:00 | [City](/about#City) | [Strategic Opportunities Review Working Group - June 26, 2024](https://london.ca/government/calendar/strategic-opportunities-review-working-group-june-26-2024) |
+| Today (Wed) |  | [PSFT](/about#PSFT) | [They’re Found In Trees](https://psft.ca/event/theyre-found-in-trees/) |
+|  |  | [Maker](/about#Maker) | [Open Studio](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-xkyks-ccptd-jfws7-jg866) |
+|  |  | [Maker](/about#Maker) | [Embroidery 101: Custom Portrait](https://www.hellomaker.ca/events/irqu905qi77vqjbol00gy0uc19ja68-gns73-fhhpr-najh8-yc3gg-6bcww-pjpfr-nfd4a-xy52p-b6wsn-8a9ra-c7hyd-8afek) |
+|  | 14:00 | [City](/about#City) | [Strategic Opportunities Review Working Group - June 26, 2024](https://london.ca/government/calendar/strategic-opportunities-review-working-group-june-26-2024) |
 |  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/50456/Friendship_Circle?date=2024-06-26) |
-| Thu Jun 27 | 13:30 | [City](/about#City) | [Committee of Adjustment - June 27, 2024](https://london.ca/government/calendar/committee-adjustment-june-27-2024) |
+| Tomorrow (Thu) | 13:30 | [City](/about#City) | [Committee of Adjustment - June 27, 2024](https://london.ca/government/calendar/committee-adjustment-june-27-2024) |
 |  | 14:00 | [City](/about#City) | [Unveiling of Indigenous mural projects at East Lions Community Centre - June 27, 2024](https://london.ca/government/calendar/unveiling-indigenous-mural-projects-east-lions-community-centre-june-27-2024) |
 |  | 18:00 | [Maker](/about#Maker) | [Floral Resin Jewlery](https://www.hellomaker.ca/events/waxmeltworkshop-d3wr2-rt83p-tghwl-y5h35-nx3xn-w3l69-cdca5-r47lj) |
 |  | 20:00 | [Maker](/about#Maker) | [Candle Making Workshop](https://www.hellomaker.ca/events/candleworkshop-8rmrf-shhxj-fzjzc) |
 | Fri Jun 28 | 16:30 | [Info](/about#Info) | [Diabetes Fit ](https://www.informationlondon.ca/Event/Detail/50154/Diabetes_Fit_?date=2024-06-28) |
-| Sat Jun 29 |  | [Eldon](/about#Eldon) | [Strawberry Tea at the Museum](https://eldonhouse.ca/product/strawberry-tea-at-the-museum/) |
 | Mon Jul 01 |  | [Eldon](/about#Eldon) | [Canada Day: Celebrating the Communities of Canada](https://eldonhouse.ca/product/canada-day-celebrating-the-communities-of-canada-2024/) |
 |  | 12:00 | [City](/about#City) | [Free Canada Day recreation activities - July 01, 2024](https://london.ca/canadadayrec) |
 |  | 19:00 | [City](/about#City) | [Canada Day Celebrations at Harris Park - July 01, 2024](https://london.ca/government/calendar/canada-day-celebrations-harris-park-july-01-2024) |
@@ -42,6 +40,7 @@ View only a category:
 |  | 13:00 | [City](/about#City) | [Corporate Services Committee - July 17, 2024](https://london.ca/government/calendar/corporate-services-committee-july-17-2024) |
 |  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/50456/Friendship_Circle?date=2024-07-17) |
 | Thu Jul 18 | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - July 18, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-july-18-2024) |
+|  | 13:30 | [City](/about#City) | [Committee of Adjustment - July 18, 2024](https://london.ca/government/calendar/committee-adjustment-july-18-2024) |
 | Fri Jul 19 |  | [RBCP](/about#RBCP) | [TennoCon2024](https://www.rbcplacelondon.com/events/tennocon2024-july-19-20) |
 | Tue Jul 23 | 13:00 | [City](/about#City) | [Council - July 23, 2024](https://london.ca/government/calendar/council-july-23-2024) |
 |  | 15:00 | [Maker](/about#Maker) | [Open Studio ](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-xkyks-ccptd-jfws7-9r8mg-ce85p-4tgpe-nzr9h) |
@@ -57,7 +56,8 @@ View only a category:
 |  | 15:00 | [Maker](/about#Maker) | [Open Studio](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-xkyks-ccptd-jfws7-9r8mg-ce85p-4tgpe-nzr9h-4wywf-gllxh-59jbh) |
 | Wed Aug 14 | 13:00 | [City](/about#City) | [Corporate Services Committee - August 14, 2024](https://london.ca/government/calendar/corporate-services-committee-august-14-2024) |
 |  | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/50456/Friendship_Circle?date=2024-08-14) |
-| Thu Aug 15 | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - August 15, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-august-15-2024) |
+| Thu Aug 15 | 09:30 | [City](/about#City) | [Special Governance Working Group - August 15, 2024](https://london.ca/government/calendar/special-governance-working-group-august-15-2024) |
+|  | 13:00 | [City](/about#City) | [Strategic Priorities and Policy Committee - August 15, 2024](https://london.ca/government/calendar/strategic-priorities-policy-committee-august-15-2024) |
 | Tue Aug 20 | 15:00 | [Maker](/about#Maker) | [Open Studio ](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-xkyks-ccptd-jfws7-9r8mg-ce85p-4tgpe-nzr9h-4wywf-gllxh-59jbh-l8t9g) |
 | Wed Aug 21 | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/50456/Friendship_Circle?date=2024-08-21) |
 | Mon Aug 26 | 13:00 | [City](/about#City) | [Planning and Environment Committee - August 26, 2024](https://london.ca/government/calendar/planning-environment-committee-august-26-2024) |

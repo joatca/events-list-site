@@ -1,6 +1,6 @@
 ---
 title: "Events - culture"
-date: 2024-06-25T00:00:00-04:00
+date: 2024-06-26T00:00:00-04:00
 draft: false
 ---
 
@@ -9,7 +9,7 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Tue) |  | [PSFT](/about#PSFT) | [They’re Found In Trees](https://psft.ca/event/theyre-found-in-trees/) |
+| Today (Wed) |  | [PSFT](/about#PSFT) | [They’re Found In Trees](https://psft.ca/event/theyre-found-in-trees/) |
 | Sat Jun 29 | 10:30 | [Museum](/about#Museum) | [History Walk: Bats, Beans, and Bridges](https://museumlondon.ca/programs-events/event/11653/) |
 | Mon Jul 01 | 12:00 | [Museum](/about#Museum) | [Canada Day at Museum London](https://museumlondon.ca/programs-events/event/11779/) |
 | Tue Jul 02 | 09:00 | [Museum](/about#Museum) | [ML Kids Summer Camp: Paint and Splash Bash](https://museumlondon.ca/programs-events/event/11415/) |
