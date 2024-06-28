@@ -1,6 +1,6 @@
 ---
 title: "Events - community"
-date: 2024-06-27T00:00:00-04:00
+date: 2024-06-28T00:00:01-04:00
 draft: false
 ---
 
@@ -9,18 +9,17 @@ View only a category:
 
 | When  |  | Source | Event |
 |------:|-:|:-------|:------|
-| Today (Thu) |  | [PSFT](/about#PSFT) | [They’re Found In Trees](https://psft.ca/event/theyre-found-in-trees/) |
-|  | 13:30 | [City](/about#City) | [Committee of Adjustment - June 27, 2024](https://london.ca/government/calendar/committee-adjustment-june-27-2024) |
-|  | 14:00 | [City](/about#City) | [Unveiling of Indigenous mural projects at East Lions Community Centre - June 27, 2024](https://london.ca/government/calendar/unveiling-indigenous-mural-projects-east-lions-community-centre-june-27-2024) |
-|  | 18:00 | [Maker](/about#Maker) | [Floral Resin Jewlery](https://www.hellomaker.ca/events/waxmeltworkshop-d3wr2-rt83p-tghwl-y5h35-nx3xn-w3l69-cdca5-r47lj) |
-|  | 20:00 | [Maker](/about#Maker) | [Candle Making Workshop](https://www.hellomaker.ca/events/candleworkshop-8rmrf-shhxj-fzjzc) |
-| Tomorrow (Fri) | 16:30 | [Info](/about#Info) | [Diabetes Fit ](https://www.informationlondon.ca/Event/Detail/50154/Diabetes_Fit_?date=2024-06-28) |
+| Today (Fri) |  | [PSFT](/about#PSFT) | [They’re Found In Trees](https://psft.ca/event/theyre-found-in-trees/) |
+|  |  | [Maker](/about#Maker) | [Floral Resin Jewlery](https://www.hellomaker.ca/events/waxmeltworkshop-d3wr2-rt83p-tghwl-y5h35-nx3xn-w3l69-cdca5-r47lj) |
+|  |  | [Maker](/about#Maker) | [Candle Making Workshop](https://www.hellomaker.ca/events/candleworkshop-8rmrf-shhxj-fzjzc) |
+|  | 16:30 | [Info](/about#Info) | [Diabetes Fit ](https://www.informationlondon.ca/Event/Detail/50154/Diabetes_Fit_?date=2024-06-28) |
 | Mon Jul 01 |  | [Eldon](/about#Eldon) | [Canada Day: Celebrating the Communities of Canada](https://eldonhouse.ca/product/canada-day-celebrating-the-communities-of-canada-2024/) |
 |  | 12:00 | [City](/about#City) | [Free Canada Day recreation activities - July 01, 2024](https://london.ca/canadadayrec) |
 |  | 19:00 | [City](/about#City) | [Canada Day Celebrations at Harris Park - July 01, 2024](https://london.ca/government/calendar/canada-day-celebrations-harris-park-july-01-2024) |
 | Tue Jul 02 | 15:00 | [Maker](/about#Maker) | [Open Studio ](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-xkyks-ccptd-jfws7-9r8mg) |
 | Wed Jul 03 | 18:30 | [Info](/about#Info) | [Friendship Circle](https://www.informationlondon.ca/Event/Detail/50456/Friendship_Circle?date=2024-07-03) |
-| Thu Jul 04 | 13:30 | [City](/about#City) | [Committee of Adjustment - July 04, 2024](https://london.ca/government/calendar/committee-adjustment-july-04-2024) |
+| Thu Jul 04 | 11:30 | [City](/about#City) | [Victoria Bridge Opening Celebration - July 04, 2024](https://london.ca/government/calendar/victoria-bridge-opening-celebration-july-04-2024) |
+|  | 13:30 | [City](/about#City) | [Committee of Adjustment - July 04, 2024](https://london.ca/government/calendar/committee-adjustment-july-04-2024) |
 |  | 15:00 | [Maker](/about#Maker) | [Hand Lettering & Calligraphy (4 weeks) ](https://www.hellomaker.ca/events/q8s1yenla3a6dmjix0wtwkpd2fm3fz-p7g3b-286t3-kk7hk-tdf37-52z5t-h2lwg-z6fm8-zeljm-45ylg-sebd4) |
 |  | 17:00 | [Maker](/about#Maker) | [Mini Tapestry Weaving Workshop](https://www.hellomaker.ca/events/nrdhl7ew45yrdft-p6gza-2d4pd-5ynpt-2457k-cc4tk-z3dh9-2pmjt-b83dr-ma44d-d8ten-4s69a-xkyks-ccptd-jfws7-lewm4-mtlhg-wtelg) |
 |  | 19:30 | [Maker](/about#Maker) | [Punch Needle Workshop](https://www.hellomaker.ca/events/zfvpxsej5j9u9z39dn0cn9q7v6q0nk-22x5e-fjxkf-d3gmb-5w3kx-9mnfb-wpp2w-rz2z2-343nh-zs6pt-ewwxe-ksahp-menef-dm93d-ypxsp-rcc5e-zmxbp-zwhtx-trff9-7sbzh-5e67z-tte7w-39x2s-bkc5m-j5few) |
